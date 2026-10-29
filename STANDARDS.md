@@ -33,6 +33,7 @@ Each property keeps its own photos, house tiles and wording. The layout, style a
 - **Check Out + Departure**: no photos.
 - **Rules > Jacuzzi**: no photo (the Hot Tub tile keeps its photo).
 - **Early Check In / Late Check Out**: titled "Early Check In (Half Day Stay Option)" and "Late Check Out (Half Day Stay Option)". Half Day Stay = arrive from 8:00 AM / leave by 8:00 PM, rest of the day reserved at a discount if available; otherwise usually not possible.
+- **Cancellation Policy**: same text in every guide, matching the Hospitable rental agreement (Oct 2026): exceptions only when a Governor-issued State of Emergency for the county AND a mandatory evacuation or travel restriction for the address are in effect during the stay; host may cancel with full refund if the home becomes unavailable. If the agreement changes, update all guides.
 - **Trash**: collected after each guest checks out. Never say "every Monday".
 - **Outdoor games tile**: named after the actual game (Cherry Log: "Cornhole / Bags"). Friendly-competition blurb plus the bring-inside and storage note.
 - **Indoor Games**: list the arcade games or other specifics if the property has them. Generic stock photos are fine for Cards/Games (Unsplash free license only, never Unsplash+).
