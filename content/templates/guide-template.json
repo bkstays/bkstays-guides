@@ -1,0 +1,125 @@
+{
+ "_note": "Copy to content/guides/<slug>.json. Keep the Your Stay order and the sort flags. Fill house sections from the property's TouchStay guide. See STANDARDS.md.",
+ "slug": "property-slug",
+ "name": "Property Name",
+ "shortName": "Property Name",
+ "welcome": "Welcome!",
+ "hostedBy": "Hosted By Brandon & Katharina",
+ "address": "",
+ "location": [
+  0,
+  0
+ ],
+ "cover": "PROPERTY-view.jpg",
+ "coverDesktop": "PROPERTY-view.jpg",
+ "background": "PROPERTY-view.jpg",
+ "contact": {
+  "phone": "404-358-1552",
+  "sms": "404-358-1552",
+  "email": ""
+ },
+ "gate": true,
+ "library": "north-georgia",
+ "oldLinks": [],
+ "layout": [
+  {
+   "heading": "Your Stay",
+   "sections": [
+    "add-to-phone",
+    "welcome",
+    "check-in-arrival",
+    "check-out-departure",
+    "rules",
+    "cancellation-policy",
+    "bk:about-us",
+    "contact-us"
+   ]
+  },
+  {
+   "heading": "The Home",
+   "sort": "az",
+   "sections": [
+    "wifi",
+    "trash",
+    "..."
+   ]
+  },
+  {
+   "heading": "Explore the Area",
+   "sort": "az",
+   "sortInside": true,
+   "sections": [
+    "lib:dining",
+    "lib:beer-wine",
+    "..."
+   ]
+  }
+ ],
+ "sections": {
+  "add-to-phone": {
+   "id": "add-to-phone",
+   "title": "Add This Guide To Your Phone",
+   "icon": "smartphone",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Add This Guide To Your Phone",
+       "html": "<p>When you first access this guidebook on your phone, you'll notice a prompt to add it to your home screen. <strong>This is highly recommended</strong> because it makes the guide faster and easier to access. And it remains accessible offline. </p><p>Following the prompt will add an app icon to your phone. It's just like any other app, but without you needing to download anything or sign in! </p><p>Doing this means that every time you want to access the guide, you just need to tap the app instead of searching for the link in your inbox - much easier! </p><h2><strong>Adding the app if you’re an Apple user</strong></h2><p>If you have an Apple device, the \"Add to Home Screen\" option won’t appear for you unless you’re using Safari browser. Don’t worry, this is really simple to solve - just copy the guidebook link and paste it into Safari. From there, you can follow the prompts to add the guidebook to your home screen.</p><h2><strong>Always get the latest version of the guidebook </strong></h2><p>Our guidebook is regularly updated with information designed to help you get the most out of your stay. To avoid missing out on any of these updates, the app automatically updates every 24 hours. If you want to get the updates sooner, just refresh the screen every time you open the guidebook from your home screen - this way you’ll always get the latest version. To refresh the app, swipe the app closed, and tap the app icon again to fully reload. </p><h2><strong>Share your guide with your group</strong></h2><p>You can send the link to this guidebook to everyone who’s travelling with you. That way, everyone has access to all the information they’ll need (which means less hassle for the trip organizer!). </p>",
+       "photoHidden": "eb62c72e322ed4e278d8a01199f7aad2.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  "contact-us": {
+   "id": "contact-us",
+   "title": "Contact Us / Book Again",
+   "icon": "phone",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Thank You For Staying With Us",
+       "html": "<p><strong>Thank you for staying with us, and we hope you enjoyed your stay.</strong> If you are unable to leave us 5 stars, please don't hesitate to contact us first to let us know why - you are key to helping our next guests to have a wonderful time. </p><p><strong>We love online reviews!</strong></p><p>Vrbo and Airbnb automatically sends you a review request. All you need to do is click the \"leave a review\" button, give us a star rating, and write a sentence or two about what you liked the best during your stay. Was it the comfy beds; the local information and recommendations; or perhaps the location and all the fun activities to do at the home?</p><p><br><strong>Thank you!</strong></p><p>Brandon and Katharina </p>",
+       "photoHidden": "4d239b49ed0744691981d3decf88b377.jpg"
+      },
+      {
+       "title": "Returning Guests",
+       "html": "<p>We would love to have you stay again! In fact, please take advantage of booking directly with us at <a href=\"https://www.bkstays.com/about-us\">bkstays.com </a>- please reach out to us on Instagram, Facebook, or directly to Brandon at 404 - 358 - 1552. </p>",
+       "photoHidden": "5e53f078d45d701f01a19dcba10f0cc7.jpg"
+      },
+      {
+       "title": "Follow Us On Social Media",
+       "html": "<p>Let's Be Social! Follow Us On Social Media Below</p><p>Facebook: BK Stays</p><p>Instagram: @bk_stays</p>",
+       "photoHidden": "067e96592ab64bb41d8e0f51c9754500.jpg"
+      },
+      {
+       "title": "How To Contact Us",
+       "html": "<p><strong>Contacting Us</strong><br>We pride ourselves on swiftly meeting guest needs.  We can be reached at the contact info below:</p><ul><li>Message: through Airbnb / VRBO (simple assistance)</li><li>Phone: 1-404-358-1552 (emergencies)</li><li>Instagram or Facebook @ bk_stays</li></ul>",
+       "photoHidden": "4f717eaaf0303b1fec1a0ee821f299a1.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  "cancellation-policy": {
+   "id": "cancellation-policy",
+   "title": "Cancellation Policy",
+   "icon": "circle-x",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Cancellation Policy",
+       "html": "<p>Our cancellation policy varies depending on the time and platform you booked on (VRBO, Airbnb, Direct etc). Your home has a designated cancellation policy, which would have been clearly stated at the time of booking and may fall under one of the following categories: strict, firm, moderate, or flexible. </p><p>We strongly recommend that you secure travel insurance to protect your investment. If you have purchased travel insurance, please consult your provider for assistance with cancellations or disruptions.</p><p>If travel insurance was not purchased, cancellations will be handled under the cancellation terms outlined in your reservation. However, exceptions may be made under the following circumstances:</p><ul><li>A governor-issued state of emergency directly impacting the area or</li><li>A mandatory evacuation order issued for the specific county where the property is located.</li></ul><p>These exceptions typically apply in cases of severe weather, such as hurricanes, significant snowstorms, or other government-declared emergencies.</p>"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
