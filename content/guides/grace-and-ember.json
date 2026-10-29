@@ -47,7 +47,8 @@
     "kitchen",
     "laundry",
     "tv-streaming",
-    "thermostat"
+    "thermostat",
+    "fireplace"
    ]
   },
   {
@@ -408,6 +409,52 @@
        "title": "Heating / Cooling",
        "html": "<p>There is a smart thermostat on the wall that allows you to control the temperature of the home. When you arrive, the thermostat should be set to keep the temperature between 70-74*F - but you can adjust if you need. If you're running the air conditioning or heating - PLEASE keep all windows and outside doors closed to ensure it operates at maximum efficiency. We recommend a setting of about 72*F which we find keeps the place at a comfortable temperature.</p>",
        "photo": "6dcf0c01138989074a4f45f1ba6e2775.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  "fireplace": {
+   "id": "fireplace",
+   "title": "Fireplace",
+   "icon": "flame-kindling",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Fireplace Season",
+       "html": "<p>The fireplace is available <strong>September 1st through May 1st</strong>.</p><p>It's a <strong>propane, vent-free</strong> gas fireplace. No wood, no matches needed. Everything is done with the remote, or with the controls behind the small black panel under the screen.</p>"
+      },
+      {
+       "title": "Turn It On With The Remote (Easiest)",
+       "html": "<ol><li>Find the fireplace remote. It's usually on the <strong>mantel</strong> or the <strong>coffee table</strong>.</li><li>Press <strong>ON</strong>. The flames come on within a few seconds.</li><li>Press <strong>OFF</strong> when you're done.</li></ol><p>The small pilot flame stays lit after you turn it off. That's normal.</p><p>Please put the remote back on the mantel or coffee table when you're done.</p><p>Nothing happening? See <a href=\"#/info/fireplace/it-wont-turn-on\">It Won't Turn On</a>.</p>"
+      },
+      {
+       "title": "Turn It On Without The Remote",
+       "photo": "grace-ember-fireplace-controls.jpg",
+       "html": "<p>Open the small black panel below the fireplace screen. You'll see three controls: <strong>1 Ignitor</strong> (left), <strong>2 Knob</strong> (middle) and <strong>3 Slide Switch</strong> (right).</p><ol><li>Make sure the <strong>Knob</strong> points to <strong>ON</strong> and the small pilot flame is lit.</li><li>Move the <strong>Slide Switch</strong> to <strong>ON</strong> (left). The fireplace lights.</li><li>To turn it off, move the Slide Switch to <strong>OFF</strong> (right).</li><li>When you're done, put the Slide Switch back in the <strong>middle (REMOTE)</strong> so the remote works for the next guest.</li></ol>"
+      },
+      {
+       "title": "It Won't Turn On",
+       "html": "<p>Check these, in order:</p><ol><li><strong>Slide Switch</strong> is in the <strong>middle (REMOTE)</strong>. The remote won't work if it's on OFF.</li><li><strong>Knob</strong> points to <strong>ON</strong> (not PILOT or OFF).</li><li><strong>Pilot is lit.</strong> Look for a small flame near the burner under the logs. No flame? Follow <a href=\"#/info/fireplace/relighting-the-pilot\">Relighting The Pilot</a>.</li><li><strong>Remote batteries.</strong> The remote takes 2 AAA batteries.</li></ol><p>Still not working? Call or text us and we'll walk you through it.</p>"
+      },
+      {
+       "title": "Relighting The Pilot",
+       "photo": "grace-ember-fireplace-card.jpg",
+       "html": "<p>Only needed if the small pilot flame is out. Use the <strong>Knob</strong> and <strong>Ignitor</strong> behind the black panel (see the photo in <a href=\"#/info/fireplace/turn-it-on-without-the-remote\">Turn It On Without The Remote</a>).</p><ol><li>Push the Knob in slightly and turn it <strong>clockwise to OFF</strong>. Wait <strong>5 minutes</strong>.</li><li>Smell around the fireplace and near the floor. <strong>If you smell gas, STOP</strong> and see <a href=\"#/info/fireplace/if-you-smell-gas\">If You Smell Gas</a>.</li><li>Push the Knob in and turn it <strong>counterclockwise to PILOT</strong>. <strong>Keep it pressed in.</strong></li><li>While still holding the Knob in, press the <strong>Ignitor</strong> button again and again until the small pilot flame lights.</li><li><strong>Keep holding the Knob in for 30 more seconds</strong>, then let go. The pilot should stay lit. If it goes out, wait 5 minutes and start again from step 1.</li><li>Turn the Knob <strong>counterclockwise to ON</strong>.</li><li>Put the Slide Switch in the <strong>middle (REMOTE)</strong> and use the remote.</li></ol><p>If the Ignitor clicks but won't light the pilot, or the pilot won't stay lit after two tries, please call or text us. Please don't use matches or a lighter.</p><p>The full instruction card from the manufacturer is attached to the fireplace (photo above).</p>"
+      },
+      {
+       "title": "If It Turns Off By Itself",
+       "html": "<p>This is a vent-free fireplace with a built-in safety sensor. It can shut itself off if the room needs fresh air.</p><ol><li>Open a window or door for a few minutes.</li><li>Wait 5 minutes, then try the remote again.</li><li>If the pilot is out, follow <a href=\"#/info/fireplace/relighting-the-pilot\">Relighting The Pilot</a>.</li></ol><p>If it keeps shutting off, turn it off and let us know.</p>"
+      },
+      {
+       "title": "If You Smell Gas",
+       "html": "<p><strong>Your safety comes first.</strong></p><ol><li>Don't turn anything on or off, including light switches. Don't use a lighter or matches.</li><li>Get everyone out of the house.</li><li>Once you're outside, call <strong>911</strong>.</li><li>Then call or text us right away.</li></ol>"
+      },
+      {
+       "title": "Fireplace Safety",
+       "html": "<ul><li>Keep the screen closed whenever the fireplace is on.</li><li>The screen, glass and metal get <strong>very hot</strong>. Keep kids and pets away.</li><li>Keep blankets, clothing and furniture well away from the front.</li><li>Turn it off before bed and whenever you leave the house.</li><li>Please don't move or touch the logs.</li><li>Nothing should ever go inside the fireplace (no wood, paper or trash).</li></ul>"
       }
      ]
     }
