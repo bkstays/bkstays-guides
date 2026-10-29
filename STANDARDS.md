@@ -32,6 +32,7 @@ Each property keeps its own photos, house tiles and wording. The layout, style a
 - **Add This Guide To Your Phone**: no photo.
 - **Check Out + Departure**: no photos.
 - **Rules > Jacuzzi**: no photo (the Hot Tub tile keeps its photo).
+- **Early Check In / Late Check Out**: titled "Early Check In (Half Day Stay Option)" and "Late Check Out (Half Day Stay Option)". Half Day Stay = arrive from 8:00 AM / leave by 8:00 PM, rest of the day reserved at a discount if available; otherwise usually not possible.
 - **Trash**: collected after each guest checks out. Never say "every Monday".
 - **Outdoor games tile**: named after the actual game (Cherry Log: "Cornhole / Bags"). Friendly-competition blurb plus the bring-inside and storage note.
 - **Indoor Games**: list the arcade games or other specifics if the property has them. Generic stock photos are fine for Cards/Games (Unsplash free license only, never Unsplash+).
