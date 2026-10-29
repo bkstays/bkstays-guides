@@ -13,7 +13,7 @@ Each property keeps its own photos, house tiles and wording. The layout, style a
 - Item photos are capped in height on desktop. A collage can use `"photoFit": "full"` so it isn't cropped.
 - Videos (Loom, etc.) show below the item text.
 - Contact button (bottom right) opens Text us / Call us. Number comes from `contact` in the guide file. It will change to the new Quo number when Brandon has it.
-- Name and email sign-in gate, asked once per device (`"gate": true`). Sign-ins go to the Netlify form `guest-signin`, then to the Google Sheet with a tab per property.
+- Name and email sign-in gate, asked once per device (`"gate": true`). Sign-ins go straight to the Google Sheet (Apps Script web app, URL in `content/settings.json`), one tab per property, created automatically.
 
 ## Info grid order
 **Your Stay**: this exact order (rows of two, left then right):
@@ -50,8 +50,8 @@ Each property keeps its own photos, house tiles and wording. The layout, style a
 - One file per property: `content/guides/<slug>.json`. Start new ones from `content/templates/guide-template.json`.
 - Shared area recommendations: `content/library/<area>.json` (north-georgia so far; ski areas will get their own).
 - Shared BK Stays sections: `content/shared/bkstays.json`.
-- App: `app/app.js`, `app/app.css`. Build: `python3 tools/build.py`. Deploy `site/` to the Netlify site `bkstays-guides`.
-- Live: https://bkstays-guides.netlify.app/<slug>/ (later guide.bkstays.com/<slug>/; old TouchStay links redirect via `oldLinks`).
+- App: `app/app.js`, `app/app.css`. Build: `python3 tools/build.py`. Publish: copy `site/` into `docs/`, commit and push to GitHub (Bkstays/bkstays-guides). GitHub Pages serves `docs/`. Never deploy to Netlify.
+- Live: https://bkstays.github.io/bkstays-guides/<slug>/ (later guide.bkstays.com/<slug>/; old TouchStay links redirect via `oldLinks`).
 
 ## Importing more TouchStay guides
 Pull each guide's house content in the browser (fetch `/v2api/wb/guide/<id>/` on guide.bkstays.com), save it to `src/ts/<id>.txt`, add the id and slug to `SLUGS` in `tools/import_touchstay.py`, then run it. It applies every rule above and writes `src/import_report.md` with what needs proofreading. Recommendations come from the shared library. A place that belongs to one home only goes in that guide's `libExtra`.

@@ -1,8 +1,8 @@
 # BK Stays digital guidebooks
 
-Replacement for TouchStay. Live preview: https://bkstays-guides.netlify.app/cherry-log-summit/
+Replacement for TouchStay. Live: https://bkstays.github.io/bkstays-guides/cherry-log-summit/ (GitHub Pages, serves `docs/` on main)
 
-- Netlify site: `bkstays-guides` (siteId b12d9bec-9d43-4cc5-85a7-ed9198edf960), team BK Stays
+- Old Netlify site `bkstays-guides` is retired. Do not deploy there.
 - Guest sign-ins: Google Apps Script web app (tools/google-sheet-signin.gs, URL in content/settings.json) writes straight to the Sheet below.
 - Google Sheet for sign-ins: 1EBcElK82dHYkjC6uNNm_1siark4zUhy7EjJZ-rW9Hps (one tab per property)
 
@@ -14,10 +14,10 @@ Replacement for TouchStay. Live preview: https://bkstays-guides.netlify.app/cher
 
 ## Edit + publish
 1. Edit the JSON (or app), run `python3 tools/build.py`.
-2. Copy `site/` into `deploy/site/` (deploy/netlify.toml publishes `site`) and deploy via the Netlify connector's deploy-site command.
+2. Copy `site/` into `docs/`, then commit and push to main. Live in about a minute.
 
 ## Switch-over (later)
-Point `guide.bkstays.com` (Squarespace DNS, CNAME `guide`) to `bkstays-guides.netlify.app` and add the domain in Netlify. Old TouchStay links (/guest/bZBh4TDr7xUIu/...) already redirect.
+Point `guide.bkstays.com` (Squarespace DNS, CNAME `guide`) to `bkstays.github.io`, add `docs/CNAME` containing `guide.bkstays.com`, set the custom domain in GitHub Pages settings and turn on HTTPS. Old TouchStay links (/guest/bZBh4TDr7xUIu/...) already redirect.
 
 ## Restoring in a new session
 1. Get the latest "BK Stays Guidebooks - project backup" zip from the chat and unzip into `/home/claude/guide`.
