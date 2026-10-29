@@ -132,12 +132,12 @@
       },
       {
        "title": "4:00 PM Check-in",
-       "html": "<p>If you would like to request an EARLY CHECK-IN - Please visit our <a href=\"#/info/check-in-arrival/early-check-in\">Early Check In</a> Section</p><p>Otherwise - 4:00 PM is a strict check-in time. If you are arriving early, take a look at the Local Recommendation section. We've listed a few things to do around the area while we prepare the home!</p>",
+       "html": "<p>If you would like an early check-in, please see our <a href=\"#/info/check-in-arrival/early-check-in-half-day-stay-option\">Early Check In (Half Day Stay Option)</a> section</p><p>Otherwise - 4:00 PM is a strict check-in time. If you are arriving early, take a look at the Local Recommendation section. We've listed a few things to do around the area while we prepare the home!</p>",
        "photo": "11e339c716ed8af07a28c05e286c2caa.jpg"
       },
       {
-       "title": "Early Check In",
-       "html": "<p>The only way to GUARANTEE an Early Check-In - is if we reserve the entire rest of your arrival day (if it's available).</p><p>This means you could arrive as early as 8:00 AM on your arrival date.</p><p>We would be happy to reserve that entire day for you at a substantial discount. </p><p>If that is something you're interested shoot us a message and we can chat details!</p><p>Otherwise, we rarely can offer an early check-in due to a tight window in our cleaning and maintenance schedule.</p>",
+       "title": "Early Check In (Half Day Stay Option)",
+       "html": "<p>Want to get here early? Add a <strong>Half Day Stay</strong> and you can arrive as early as <strong>8:00 AM</strong> on your arrival day.</p><p>We reserve the rest of that day just for you at a discounted rate, as long as the home is available. Send us a message and we'll check the calendar and send you the price.</p><p>Without a Half Day Stay, we usually can't offer early check-in because of our tight cleaning and maintenance schedule.</p>",
        "photo": "6db9b8952aaf5792e4af093537545794.jpg"
       }
      ]
@@ -154,12 +154,12 @@
      "items": [
       {
        "title": "10:00 AM Check-out",
-       "html": "<p>If you would like to request a Late Check Out - Please visit our <a href=\"#/info/check-out-departure/late-check-out\">Late Check Out</a> section</p><p>Otherwise - 10:00 AM is a strict check-out time. </p>",
+       "html": "<p>If you would like a late check-out, please see our <a href=\"#/info/check-out-departure/late-check-out-half-day-stay-option\">Late Check Out (Half Day Stay Option)</a> section</p><p>Otherwise - 10:00 AM is a strict check-out time. </p>",
        "photoHidden": "ea9c00f35f36edb8d89dcc92e7f562cc.jpg"
       },
       {
-       "title": "Late Check Out",
-       "html": "<p>The only way to GUARANTEE a Late Check Out - is if we reserve the entire rest of your departure day (if it's available).</p><p>This means you would not have to check out until 10:00 PM on your departure date.</p><p>We would be happy to reserve that entire day for you at a substantial discount. </p><p>If that is something you're interested shoot us a message and we can chat details!</p><p>Otherwise, we rarely can offer a late check-out due to a tight window in our cleaning and maintenance schedule.</p>",
+       "title": "Late Check Out (Half Day Stay Option)",
+       "html": "<p>Not ready to leave? Add a <strong>Half Day Stay</strong> and you won't need to check out until <strong>8:00 PM</strong> on your departure day.</p><p>We reserve the rest of that day just for you at a discounted rate, as long as the home is available. Send us a message and we'll check the calendar and send you the price.</p><p>Without a Half Day Stay, we usually can't offer late check-out because of our tight cleaning and maintenance schedule.</p>",
        "photoHidden": "6db9b8952aaf5792e4af093537545794.jpg"
       },
       {
