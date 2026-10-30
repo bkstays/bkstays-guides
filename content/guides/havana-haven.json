@@ -1,0 +1,477 @@
+{
+ "slug": "havana-haven",
+ "name": "Havana Haven",
+ "shortName": "Havana Haven",
+ "welcome": "Welcome!",
+ "hostedBy": "Hosted By Brandon & Katharina",
+ "address": "3627 Northeast 19th Avenue, Fort Lauderdale, FL 33308",
+ "location": [
+  26.172776,
+  -80.121529
+ ],
+ "cover": "havana-haven-view.jpg",
+ "coverDesktop": "havana-haven-view.jpg",
+ "background": "havana-haven-view.jpg",
+ "contact": {
+  "phone": "404-358-1552",
+  "sms": "404-358-1552",
+  "email": ""
+ },
+ "gate": true,
+ "library": "south-florida",
+ "oldLinks": [
+  "/guest/b0J1X8XcmzfuW/"
+ ],
+ "layout": [
+  {
+   "heading": "Your Stay",
+   "sections": [
+    "add-to-phone",
+    "welcome",
+    "check-in-arrival",
+    "check-out-departure",
+    "rules",
+    "cancellation-policy",
+    "bk:about-us",
+    "contact-us"
+   ]
+  },
+  {
+   "heading": "The Home",
+   "sort": "az",
+   "sections": [
+    "wifi",
+    "bbq-grill",
+    "indoor-games-fun",
+    "kitchen",
+    "laundry",
+    "outdoor-games-fun",
+    "pool",
+    "trash",
+    "tv-streaming",
+    "thermostat"
+   ]
+  },
+  {
+   "heading": "Explore the Area",
+   "sort": "az",
+   "sortInside": true,
+   "sections": [
+    "lib:beer-wine",
+    "lib:dining",
+    "lib:emergency",
+    "lib:golf",
+    "lib:grocery",
+    "lib:water-activities",
+    "lib:weather"
+   ]
+  }
+ ],
+ "sections": {
+  "add-to-phone": {
+   "id": "add-to-phone",
+   "title": "Add This Guide To Your Phone",
+   "icon": "smartphone",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Add This Guide To Your Phone",
+       "html": "<p>When you first access this guidebook on your phone, you'll notice a prompt to add it to your home screen. <strong>This is highly recommended</strong> because it makes the guide faster and easier to access. And it remains accessible offline. </p><p>Following the prompt will add an app icon to your phone. It's just like any other app, but without you needing to download anything or sign in! </p><p>Doing this means that every time you want to access the guide, you just need to tap the app instead of searching for the link in your inbox - much easier! </p><h2><strong>Adding the app if you’re an Apple user</strong></h2><p>If you have an Apple device, the \"Add to Home Screen\" option won’t appear for you unless you’re using Safari browser. Don’t worry, this is really simple to solve - just copy the guidebook link and paste it into Safari. From there, you can follow the prompts to add the guidebook to your home screen.</p><h2><strong>Always get the latest version of the guidebook </strong></h2><p>Our guidebook is regularly updated with information designed to help you get the most out of your stay. To avoid missing out on any of these updates, the app automatically updates every 24 hours. If you want to get the updates sooner, just refresh the screen every time you open the guidebook from your home screen - this way you’ll always get the latest version. To refresh the app, swipe the app closed, and tap the app icon again to fully reload. </p><h2><strong>Share your guide with your group</strong></h2><p>You can send the link to this guidebook to everyone who’s travelling with you. That way, everyone has access to all the information they’ll need (which means less hassle for the trip organizer!). </p>",
+       "photoHidden": "eb62c72e322ed4e278d8a01199f7aad2.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  "welcome": {
+   "id": "welcome",
+   "title": "Welcome",
+   "icon": "cloud-sun",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Welcome to Havana Haven!",
+       "html": "<p><strong>Welcome to Havana Haven BnB!</strong><br/>Here at your fingertips is everything you should need for your stay with us in Fort Lauderdale. In this easy-to-navigate link you will find information about the home, ideas and recommendations in the surrounding area, our Wi-Fi login credentials, and so much more.</p> <p>In order to best enjoy your time in our home, we encourage you to add this \"app\" to your phone. All of the content will even be accessible when your phone is offline.</p> <p>* It's not really an \"app\", but more a tool for easy access on your home screen </p> <ul> <li>For iPhone: <ul> <li>Tap the square with arrow pointing up at the bottom of your screen</li> <li>Select \"Add to Home Screen\"</li> </ul> </li> <li>For Android: <ul> <li>Tap \"Add to Home Screen\" where prompted when first accessing the site</li> </ul> </li> </ul> <p><strong>Print or Save a PDF</strong><br/>If you would like to print certain pages ahead of traveling, or if you'd like to save a PDF to your device, just tap the print button above. It won't print right away, but will create a PDF which you can save or print.</p> <p><strong>Contacting Us</strong><br/>We pride ourselves on swiftly meeting guest needs. We can be reached as follows:</p> <ul> <li>Preferred: Airbnb or VRBO message</li> <li>Phone: 404-358-1552 (emergencies)</li> <li>Instagram: @<a href=\"https://www.instagram.com/bk_stays/\">Bk_stays</a></li> <li>Facebook: <a href=\"https://www.facebook.com/profile.php?id=61551815370553\">BK Stays</a></li> </ul> <p><strong>What Next?</strong><br/>Please relax, unwind, have fun, and enjoy your stay!</p>",
+       "photo": "116ced52187ec3878cf1bd83e69e3dcb.jpg"
+      },
+      {
+       "title": "Video Tour - Havana Haven",
+       "html": ""
+      },
+      {
+       "title": "Thank You",
+       "html": ""
+      }
+     ]
+    }
+   ]
+  },
+  "check-in-arrival": {
+   "id": "check-in-arrival",
+   "title": "Check In + Arrival",
+   "icon": "key-round",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Driving Directions",
+       "html": "<p><strong>Use Waze and/or Google Maps. </strong></p> <p><strong>Otherwise - if traveling on I95: </strong></p> <p>Take the exit for East/West Oakland Park Boulevard and go EAST.</p> <p>Turn NORTH onto NE 20th Ave.</p> <p>Merge LEFT onto NE 19th Ave.</p> <p>Drive a few blocks and the home will be on your left!</p>",
+       "photo": "086591e685171217b89de3694e2b3326.jpg"
+      },
+      {
+       "title": "Access Codes / Instructions",
+       "html": "<p>The Access Code for the front door is</p> <p>1552</p> <p>To lock the door, simply press the lock button. Please make sure all external doors are locked whenever you leave.</p> <p>* If for some reason the code doesn't work please call me at <a href=\"tel:404-358-1552\">404-358-1552</a>. I will get you the lockbox code for the spare key!</p>",
+       "photo": "730742e2babb8d2cedbe0a30eac61d46.jpg"
+      },
+      {
+       "title": "4:00 PM Check-in",
+       "html": "<p>If you would like an early check-in, please see our <a href=\"#/info/check-in-arrival/early-check-in-half-day-stay-option\">Early Check In (Half Day Stay Option)</a> section</p><p>Otherwise - 4:00 PM is a strict check-in time. If you are arriving early, take a look at the Local Recommendation section. We've listed a few things to do around the area while we prepare the home!</p>",
+       "photo": "11e339c716ed8af07a28c05e286c2caa.jpg"
+      },
+      {
+       "title": "Early Check In (Half Day Stay Option)",
+       "html": "<p>Want to get here early? Add a <strong>Half Day Stay</strong> and you can arrive as early as <strong>8:00 AM</strong> on your arrival day.</p><p>We reserve the rest of that day just for you at a discounted rate, as long as the home is available. Send us a message and we'll check the calendar and send you the price.</p><p>Without a Half Day Stay, we usually can't offer early check-in because of our tight cleaning and maintenance schedule.</p>",
+       "photo": "6db9b8952aaf5792e4af093537545794.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  "check-out-departure": {
+   "id": "check-out-departure",
+   "title": "Check Out + Departure",
+   "icon": "hand",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "10:00 AM Check-out",
+       "html": "<p>If you would like a late check-out, please see our <a href=\"#/info/check-out-departure/late-check-out-half-day-stay-option\">Late Check Out (Half Day Stay Option)</a> section</p><p>Otherwise - 10:00 AM is a strict check-out time. </p>",
+       "photoHidden": "ea9c00f35f36edb8d89dcc92e7f562cc.jpg"
+      },
+      {
+       "title": "Late Check Out (Half Day Stay Option)",
+       "html": "<p>Not ready to leave? Add a <strong>Half Day Stay</strong> and you won't need to check out until <strong>8:00 PM</strong> on your departure day.</p><p>We reserve the rest of that day just for you at a discounted rate, as long as the home is available. Send us a message and we'll check the calendar and send you the price.</p><p>Without a Half Day Stay, we usually can't offer late check-out because of our tight cleaning and maintenance schedule.</p>",
+       "photoHidden": "6db9b8952aaf5792e4af093537545794.jpg"
+      },
+      {
+       "title": "Extended Stay?",
+       "html": "<p>Would you like to add another night? If we have availability the day before or after your reservation, we would love to offer you that extra night at a great discount. We'll even cover the taxes and fees! Just let us know if your travel plans are flexible and we will make sure to accommodate the changes!</p>",
+       "photoHidden": "585cb6b5ac72b31289b8dae13c068a03.jpg"
+      },
+      {
+       "title": "Check-out Process",
+       "html": "<p>Standard check-out is at 10:00 AM on your departure date (Unless you've paid for a late check-out).&nbsp;</p> <p>When you've finished your stay, technically, you can just leave no questions asked lol :) But, if you really wanted to give our cleaning team some love, we would appreciate it if you would take care of a few simple things:</p> <ul> <li>Dishwasher - Load and start the dishwasher</li> <li>Towels - Place all used towels in the shower.</li> <li>Trash - Place trash in can(s) next to the garage. GREEN is Trash. BLUE is Recycling</li> <li>Lock Up - Lock all doors</li> </ul> <p>Also, for safety outdoors, please deflate the pool toys and \"wind down\" the umbrellas.</p> <p>We hope you guys had an amazing stay! Thank you again and safe travels back home.</p>"
+      },
+      {
+       "title": "Lost and Found",
+       "html": "<p>Please triple-check the home before departing to ensure you have not left anything behind. Common items left behind include phone chargers, computer cords, passports/licenses, clothes, electronics, eyeglasses, toiletries/makeup, documents, and toys.</p><p>Please send a message the moment you realize you've left something behind. <br><br>We completely understand that things can get left behind — and we’re more than happy to help get your items back to you! We’ll gladly ship your lost item using the postal service or carrier of your choice (standard, express, or overnight). <br><br>We kindly ask for the shipping cost, plus a $20 service fee to cover the time and materials for packaging and handling. Be certain to include:</p><ul><li>Item description</li><li>Where you think you may have left the item</li><li>The name on the reservation</li></ul><p>Just let us know how you’d like it sent, and we’ll take care of the rest!</p>",
+       "photoHidden": "8da278ec14e085d81ebe06c22b24af10.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  "cancellation-policy": {
+   "id": "cancellation-policy",
+   "title": "Cancellation Policy",
+   "icon": "circle-x",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Cancellation Policy",
+       "html": "<p>Our cancellation policy varies by platform (Airbnb, VRBO, Direct, etc.) and will have been clearly stated at the time of booking under one of the following categories: strict, firm, moderate, or flexible.</p><p>We strongly recommend purchasing travel insurance to protect your investment. If you purchased travel insurance, please contact your provider for help with cancellations or disruptions.</p><p><strong>State of Emergency / Evacuations</strong></p><p>If travel insurance was not purchased, cancellations are handled per the terms of your reservation. Exceptions may be made only when <strong>both</strong> of the following apply:</p><ul><li>A <strong>Governor-issued State of Emergency</strong> has been declared for <strong>Broward County, Florida</strong> (the county where the home is located), <strong>and</strong></li><li>A <strong>mandatory evacuation order or travel restriction</strong> is actively in effect for the property's address during your reservation dates.</li></ul><p>General weather advisories or conditions affecting other areas do not qualify.</p><p><strong>If the Home Becomes Unavailable</strong></p><p>In the event the property becomes unavailable due to circumstances beyond the host's control, including but not limited to fire, flood, structural damage, utility failure, or a government-declared emergency, the host reserves the right to cancel a confirmed reservation. In such circumstances, guests will receive a full refund of all amounts paid and the host's liability shall be limited solely to that refund.</p>"
+      }
+     ]
+    }
+   ]
+  },
+  "contact-us": {
+   "id": "contact-us",
+   "title": "Contact Us / Book Again",
+   "icon": "phone",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Thank You For Staying With Us",
+       "html": "<p><strong>Thank you for staying with us, and we hope you enjoyed your stay.</strong> If you are unable to leave us 5 stars, please don't hesitate to contact us first to let us know why - you are key to helping our next guests to have a wonderful time. </p><p><strong>We love online reviews!</strong></p><p>Vrbo and Airbnb automatically sends you a review request. All you need to do is click the \"leave a review\" button, give us a star rating, and write a sentence or two about what you liked the best during your stay. Was it the comfy beds; the local information and recommendations; or perhaps the location and all the fun activities to do at the home?</p><p><br><strong>Thank you!</strong></p><p>Brandon and Katharina </p>",
+       "photoHidden": "4d239b49ed0744691981d3decf88b377.jpg"
+      },
+      {
+       "title": "Returning Guests",
+       "html": "<p>We would love to have you stay again! In fact, please take advantage of booking directly with us at <a href=\"https://www.bkstays.com/about-us\">bkstays.com </a>- please reach out to us on Instagram, Facebook, or directly to Brandon at 404 - 358 - 1552. </p>",
+       "photoHidden": "5e53f078d45d701f01a19dcba10f0cc7.jpg"
+      },
+      {
+       "title": "Follow Us On Social Media",
+       "html": "<p>Let's Be Social! Follow Us On Social Media Below</p><p>Facebook: BK Stays</p><p>Instagram: @bk_stays</p>",
+       "photoHidden": "067e96592ab64bb41d8e0f51c9754500.jpg"
+      },
+      {
+       "title": "How To Contact Us",
+       "html": "<p><strong>Contacting Us</strong><br>We pride ourselves on swiftly meeting guest needs.  We can be reached at the contact info below:</p><ul><li>Message: through Airbnb / VRBO (simple assistance)</li><li>Phone: 1-404-358-1552 (emergencies)</li><li>Instagram or Facebook @ bk_stays</li></ul>",
+       "photoHidden": "4f717eaaf0303b1fec1a0ee821f299a1.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  "wifi": {
+   "id": "wifi",
+   "title": "WiFi / Internet Details",
+   "icon": "wifi",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "WIFI / Internet Details",
+       "html": "<p>There is free Wi-Fi for your use. The details are: <br><br>WIFI Name: bk stays</p> <p>Do not use \"Havana Haven BnB\" - this network is only for the Smart TV's<br><br>The service is provided for your enjoyment but you are responsible for safe and appropriate use and complying with all laws. If there is any loss of service please contact us.</p>",
+       "photo": "5ed7c444a9811d008c50a348f27c69d5.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  "bbq-grill": {
+   "id": "bbq-grill",
+   "title": "BBQ Grill + Propane",
+   "icon": "flame",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Propane Grill",
+       "html": "<p>There is a propane grill for your personal use on the back patio. Please follow the grill instructions carefully when using propane. Do not forget to close the valve when you're done!</p> <p>We always try to keep a full tank on site - but sometimes they run out before we can get a replacement there. If you run out and need a replacement, we can try and get you a replacement delivered - but - depending on timing - it may be faster for you to run and exchange the empty.</p> <p>Of course we will reimburse you for the tank and your time!</p>",
+       "photo": "15794bbf5b4c899f9e83c2c481ad9ca0.jpg"
+      },
+      {
+       "title": "Propane Tank(s)",
+       "html": "<p>We TRY to keep a full propane tank (and an extra one) at the home. Most of the time we can get them swapped out before check in. Unfortunately, that's not always possible. We apologize if you did not find a full propane tank upon arrival!</p><p>We can try and coordinate another person to deliver you a new tank, but their availability might not be immediate. If you need something quick, we recommend running to the store and exchanging the empty one(s) or a new one - and yes of course we would be happy to reimburse you for the tank and your trouble! Just let us know. Thank You.</p>",
+       "photo": "05f49508259ad5443ec6e6d70501e8b4.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  "indoor-games-fun": {
+   "id": "indoor-games-fun",
+   "title": "Indoor Games + Fun",
+   "icon": "gamepad-2",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Game Room Fun!",
+       "html": "<p>In the game room, you&rsquo;ll find a small selection of board games, card games, foosball, darts, and arcades for endless fun. If anything is missing or broken, please let us know immediately so we can order a replacement right away!</p>",
+       "photo": "f2ac18787902d445ef5d72fe124ab1bb.jpg"
+      },
+      {
+       "title": "Cards, Games + More",
+       "html": "<p>We try to keep a great selection of puzzles, books, board games, and card games for the whole family.</p><p>If something is missing or broken, PLEASE LET US KNOW immediately so we can order a replacement. </p><p>Feel Free to Help Yourself, But...</p><p>Please keep everything neat and tidy for the next guests as well :)</p><p>Missing puzzle pieces or having only half the chess pieces isn't fun for anyone!</p>",
+       "photo": "generic-chess-board.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  "kitchen": {
+   "id": "kitchen",
+   "title": "Kitchen, Supplies + Appliances",
+   "icon": "cooking-pot",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Kitchen + Supplies + Appliances",
+       "html": "<p>We have a fully stocked kitchen with a stainless steel appliance package. We try to provide everything you may need, but we're not perfect. If you have ANY suggestions for small appliances, dishware, flatware, glassware, or even dry goods that would be beneficial - let us know! We would be happy to see if it's possible to place an Amazon/Walmart/Grocery delivery order for you during your stay :)</p>"
+      }
+     ]
+    }
+   ]
+  },
+  "laundry": {
+   "id": "laundry",
+   "title": "Laundry",
+   "icon": "washing-machine",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Laundry",
+       "html": "<p>We do have a private washer and dryer located in the home. There should be a supply of detergent for your use. To operate the machines, simply select the program you want, place the detergent in, close the door, and hit start. </p>",
+       "photo": "794607d57a2c8fc964701bb9c7a73b7a.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  "outdoor-games-fun": {
+   "id": "outdoor-games-fun",
+   "title": "Cornhole / Bags",
+   "icon": "target",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Cornhole / Bags",
+       "html": "<p>Nothing beats a little friendly competition in the fresh mountain air! Grab the cornhole boards and bags, set them up outside, and enjoy the views while you play. Whether it's a quick game before dinner or a full-on family tournament, it's a great way to spend time outdoors together.</p><p>There should be a set of all-weather white cornhole boards in the back yard. If you notice anything is broken or missing PLEASE LET US KNOW RIGHT AWAY - so we can order replacements.</p> <p>It would be very helpful if you would return them to the storage bin after each use so they don't wander off :)</p>",
+       "photo": "a8515246a80eaf7c5c41c19f799e6b4f.jpg"
+      },
+      {
+       "title": "Cornhole / Bags",
+       "html": "<p>Nothing beats a little friendly competition in the fresh mountain air! Grab the cornhole boards and bags, set them up outside, and enjoy the views while you play. Whether it's a quick game before dinner or a full-on family tournament, it's a great way to spend time outdoors together.</p><p>There should be a set of all-weather cornhole boards somewhere on the patio. If you notice anything is broken or missing, please let us know right away so we can order replacements. It would be very helpful if you would return them to a covered area after each day so they don't wander off or get ruined in the weather :)</p>",
+       "photo": "9df12f8c833b036dda9b1e92c15acd40.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  "pool": {
+   "id": "pool",
+   "title": "Pool",
+   "icon": "waves",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Pool / Rules",
+       "html": "<p>The pool can be heated for an additional $50/day fee for the duration of your stay. Please let us know ahead of time if you would like to heat the pool to a comfortable 85*F for your stay! We will have it warm upon your arrival as long as your balance is up to date. The pool takes about a full day to go from cold to the \"desired temp' so please don't wait until you arrive to decide :)</p> <p><strong>Pool Rules</strong></p> <p><strong>Do Not Touch the Pool Equipment!</strong></p> <p>If you would like directions on how to turn on the waterfall please just ask.<strong> </strong>Never adjust the heater or pump equipment without consulting your hosts first. We do not want to cause any damage that requires a pool technician to come to the home for a service fee at the guest's expense.</p> <p>Additional Rules:</p> <ul> <li>No Lifeguard On Duty. Use at Your Own Risk.</li> <li>The Owner/Host Does Not Assume Responsibility For Any Accidents Or Injuries.</li> <li>No Glass Containers Allowed In The Back Yard</li> <li>No Animals Allowed</li> <li>No Diving Allowed</li> <li>No Running, Pushing, or&nbsp; Dangerous Horseplay</li> <li>Please Be Considerate of Neighbors and Posted Noise Ordinance(s)</li> </ul> <p>The owner/host reserves the right to deny use of the pool to anyone at any time. Please be considerate of others and help us maintain a safe and enjoyable environment.&nbsp;</p>",
+       "photo": "feeed3944d93444f332d37e2def745c0.jpg"
+      },
+      {
+       "title": "Pool Waiver",
+       "html": "<p>By reserving this home you have agreed to the following rules below.</p> <p><strong>Assumption of Risk:</strong></p> <p>We intend to utilize the swimming pool(s). We are aware and understand there are inherent risks associated with the use of these facilities and we recognize and fully understand the risks. We are aware and understand that our use of the swimming pool(s) is a potentially dangerous activity and involves the risk of personal injury, pain, suffering, temporary or permanent disability, death, property damage, and/or financial loss. We are aware and understand that at no time there will be a lifeguard on duty while we use such facilities. We are aware of and understand that the use of the pool facilities involve certain risks, including but not limited to:</p> <ul> <li>the risk of injury resulting from possible malfunction of pool equipment</li> <li>the risk of injuries resulting from tripping/falling over obstacles in the pool area.</li> <li>the risk of injuries resulting from unsupervised divers and swimmers colliding</li> <li>the risk of other injuries resulting from participating in any action in the pool</li> </ul> <p>We recognize and fully understand that the above list is not a complete or exhaustive list of all possible risks; the list only provides examples of types of risks we are assuming. <strong>NOTWITHSTANDING THESE RISKS, WE ACKNOWLEDGE THAT WE ARE VOLUNTARILY ACCESSING THE SWIMMING FACILITIES AND PARTICIPATING IN THE ACTIVITY WITH KNOWLEDGE OF THE DANGERS INVOLVED. WE HEREBY AGREE TO ACCEPT AND ASSUME ALL RISKS OF ILLNESS, PERSONAL OR PSYCHOLOGICAL INJURY, PAIN, SUFFERING, TEMPORARY OR PERMANENT DISABILITY, DEATH, PROPERTY DAMAGE, AND/OR FINANCIAL LOSS ARISING THEREFROM, WHETHER CAUSED BY THE ORDINARY NEGLIGENCE OF THE COMPANY/OWNER/HOST OR OTHERWISE.&nbsp;</strong></p> <p>We further agree that in exchange for being allowed to use the pool, I fully intent to and choose to give up legal rights and we agree TO WAIVE AND RELEASE ANY ANY AND ALL CLAIMS that we have or may have in the future against the resort/owner/host and representatives from any and all liability for any loss, damage, injury, expense, or other cost that we may suffer or that our next of kin may suffer in connection with our use of the Releasees pool or pool area to any cause whatsoever, INCLUDING NEGLIGENCE ON THE PART OF THE RELEASEES. We further agree TO HOLD HARMLESS AND INDEMNIFY THE RELEASEES from any and all claims, whether now known or hereafter known, and release all liability to the property, or personal injury to, any third party, resulting from the use of the pool or pool area. We further agree that this Waiver, Release, and Agreement is fully effective and shall be effective and binding upon us, and our heirs, next of kin, executors, administrators, and assigns or anyone else authorized to act on our behalf or on behalf of our estate.<strong> WE ACKNOWLEDGE THAT WE HAVE READ AND UNDERSTOOD ALL OF THE TERMS OF THIS RELEASE AND THAT WE ARE VOLUNTARILY GIVING UP SUBSTANTIAL LEGAL RIGHTS, INCLUDING THE RIGHT TO SUE THE RESORT/OWNER/HOST.</strong></p> <p>We further agree to abide by the posted rules listed below.&nbsp;</p>"
+      }
+     ]
+    }
+   ]
+  },
+  "rules": {
+   "id": "rules",
+   "title": "Rules and Regulations",
+   "icon": "book-open",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Age Requirement",
+       "html": "<p>The minimum age requirement to book is 25 years of age. The home is child friendly, but not childproof, and may not be suitable for infants or children without adult supervision.</p>"
+      },
+      {
+       "title": "Confetti / Glitter",
+       "html": "<p><strong>No Confetti or Glitter</strong><br>We understand that special occasions call for celebration - and sometimes decorations! However, confetti and glitter are extremely difficult to clean and can cause damage to furniture and floors. Any evidence of confetti or glitter left behind will incur additional cleaning fees. Please celebrate responsibly and help us keep the home in great condition - no confetti or glitter, please.</p>"
+      },
+      {
+       "title": "Damages",
+       "html": "<p>Guests are financially responsible for any damage, theft, missing items, or violations of house rules during their stay. You could be charged for: Property damage or theft; Unauthorized pets; Excessive cleaning or evidence of smoking; Exceeding occupancy or parking limits; Any other violations outlined in this agreement. You will be notified in writing if any damage is found. Major damage that delays the next check-in may result in additional charges for guest relocation or compensation. Please report any existing damage at check-in, and notify us right away if anything breaks or is damaged during your stay, even if it’s small. We understand accidents happen and can often replace or repair items quickly if we're informed. Guests are responsible for damage caused by misuse or negligence.</p>"
+      },
+      {
+       "title": "Fire Safety and Prevention",
+       "html": "<p>Guest agrees to comply with all local, county, and state fire restrictions, including any active burn bans or official fire safety regulations. Guest is responsible for helping maintain a fire-safe environment throughout their stay. This includes, but is not limited to; Ensuring that all outdoor fires (e.g., bonfires or fire pits) are fully extinguished after use, before going to bed, and before vacating the property; Never leaving open flames or burning embers unattended; Using only designated fire areas and keeping all fires small, controlled, and manageable; Ensuring fire extinguishers located in the home are accessible at all times and used in case of fire emergencies.</p><p>Additionally, Guest(s) acknowledges that outdoor grills must be cleaned and properly maintained after each use to prevent fire hazards. Guest agrees to: Clean the grill thoroughly after each use; Remove all grease and dispose of it safely in the trash (never on the ground or around the property); Ensure the grill is turned off, left in safe, clean, and operable condition, and covered if applicable; Keep a fire extinguisher nearby when using the grill.</p><p>Failure to follow fire safety guidelines may result in fines, eviction, or financial liability for any resulting damages.</p>"
+      },
+      {
+       "title": "Noise Monitoring",
+       "html": "<p>We ask that you please be respectful of our neighbors. The City and HOA have certain noise regulations for residential areas.</p> <p>This property is equipped with devices that monitor noise levels (but do not record sound) and alert the host if it gets too loud.</p> <p>If there are multiple noise issues you could be charged or even removed from the home.</p>"
+      },
+      {
+       "title": "Occupancy - Max 10 Persons (Age 2+)",
+       "html": "<p>We try not to overcrowd our home. The maximum guest limit is 10 (persons age 2+) unless otherwise approved. Please reach out prior to arrival if you have any additional capacity requests. Any unapproved guests over capacity will be charged 100$/night per person. </p>"
+      },
+      {
+       "title": "Pet Policy - No Pets",
+       "html": "<p>We love animals but we chose to make this home pet-free due to many people being allergic. We have a strict No Pet Policy. Only registered service animals are allowed, and you must notify us beforehand so we can take proper cleaning measures. If you bring an undisclosed pet you are subject to a $500 fine.&nbsp;</p>"
+      },
+      {
+       "title": "Reservation Adjustments",
+       "html": "<p>If you need to make any change in your stay, for example, regarding the number of guests, bringing a service animal or anything at all, please let us know ahead of time so we can accommodate you. However, if you do not disclose any changes, like an animal or extra guests (above max occupancy) you could be subject to a reservtion cancellation without refund. </p>"
+      },
+      {
+       "title": "Security Camera",
+       "html": "<p>Guests acknowledge and accept there are cameras located on the exterior of the property. Guests hereby acknowledge that the cameras location records video directly in front of the front entrance door and leading to the parking area, and this constitutes a public area. Guests understand that video may be captured, and no conversations located within this area may be deemed confidential. The intent of this camera is not to infringe on the privacy of Guests, but to serve as a safety and security measure.</p>"
+      },
+      {
+       "title": "Septic and Plumbing",
+       "html": "<p>Please ONLY PUT TOILET PAPER in the toilet and throw the remaining in the trash!</p><p>Tampons, baby wipes, paper towels, or anything other than toilet paper in the toilet will clog the drain/tank. This can result in clogged toilets, and septic damage and will result in damage fees.</p>"
+      },
+      {
+       "title": "Smoking",
+       "html": "<p>We have a strict No Smoking Policy. Smoking is not allowed on the property in any form. This includes, but is not limited to marijuana, pipes, cigars, cigarettes, vaping, e-cigs, etc. If our cleaners or cameras report evidence of smoking you will be charged a 500$ smoke remediation fine. </p>"
+      },
+      {
+       "title": "Trash",
+       "html": "<p>Trash bins are located outside on the side of the garage. Green is trash, and blue is recycling. Trash pick-up is on Monday and Thursday mornings. Someone has been hired to come to the home and bring the cans to the street on the nights prior (just so you're not surprised).</p> <p>Thank You!</p>"
+      }
+     ]
+    }
+   ]
+  },
+  "trash": {
+   "id": "trash",
+   "title": "Trash",
+   "icon": "trash-2",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Trash",
+       "html": "<p>Trash bins are located outside on the side of the garage. Green is trash, and blue is recycling. Trash pick-up is on Monday and Thursday mornings. Someone has been hired to come to the home and bring the cans to the street on the nights prior (just so you're not surprised).</p> <p>Thank You!</p>"
+      }
+     ]
+    }
+   ]
+  },
+  "tv-streaming": {
+   "id": "tv-streaming",
+   "title": "TV's + Streaming",
+   "icon": "tv",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "TV's + Streaming",
+       "html": "<p>We have Hi-Speed WIFI for all of your streaming needs!</p><p>There are Smart TV's throughout the entire home.</p><p>Go to the TV Home Screen</p><p>Search For (or Download) The Channel App You Want To Watch &amp; Login to your TV Provider.</p><p>Please don't hesitate to reach out if you need provider login assistance!</p>",
+       "photo": "729ecb38918b0e99bc0a0ec5fa74c6d2.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  "thermostat": {
+   "id": "thermostat",
+   "title": "Thermostat",
+   "icon": "thermometer",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Heating / Cooling",
+       "html": "<p>Please Do Not Lower The Thermostat Below 72*. Florida gets hot in the summer. But lowering the temp too much will damage the HVAC units and freeze the components. We learned that lesson the hard way :(</p> <p>When you arrive, the thermostat should be set somewhere between 72-74*F - but you can adjust somewhat if you need. If you're running the air conditioning or heating - PLEASE keep all windows and outside doors closed to ensure it operates at maximum efficiency.&nbsp;</p>",
+       "photo": "c34864ef1cb2e390faa1de0a2397ad3b.jpg"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

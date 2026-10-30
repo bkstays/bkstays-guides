@@ -132,6 +132,7 @@ details.item[open] > summary .thumb { display: none; }
 .item-body .photo.full { aspect-ratio: auto; height: auto; object-fit: contain; background: #fff; }
 .item-body .rich { overflow-wrap: anywhere; }
 .rich p { margin: 0 0 .8em; }
+.rich img { display: block; max-width: 100%; height: auto; border-radius: 12px; margin: .4em 0; }
 .rich h2, .rich h3 { font-size: 17px; margin: 1.2em 0 .4em; }
 .rich ul { padding-left: 1.2em; margin: 0 0 .8em; }
 .rich li { margin: .2em 0; }

@@ -1,0 +1,382 @@
+{
+ "id": "south-florida",
+ "name": "South Florida (Fort Lauderdale)",
+ "sections": {
+  "beer-wine": {
+   "id": "beer-wine",
+   "title": "Beer and Wine",
+   "icon": "wine",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Funky Buddha Brewery",
+       "html": "<p>Offering tours on weekends, this large craft brewery features a no-frills taproom with games.</p> <p><a href=\"https://funkybuddhabrewery.com/\">https://funkybuddhabrewery.com/</a> </p>",
+       "photo": "ae1532465d39125534562482530aa9c1.jpg",
+       "loc": [
+        26.174319,
+        -80.131253
+       ],
+       "pin": "brewery_pub"
+      },
+      {
+       "title": "Holy Mackerel Beers",
+       "html": "<p>Not Just a Brewery. Craft Beer. Craft Cocktails. Full Bar. Restaurant.</p> <p><a href=\"https://www.holymackerelbeers.com/\">https://www.holymackerelbeers.com/</a></p>",
+       "photo": "9c240cc56ad6a4c13fdfe7c9cab43a81.jpg",
+       "loc": [
+        26.15913,
+        -80.129616
+       ],
+       "pin": "brewery_pub"
+      }
+     ]
+    }
+   ]
+  },
+  "dining": {
+   "id": "dining",
+   "title": "Dining Out",
+   "icon": "utensils",
+   "groups": [
+    {
+     "title": "Breakfast, Brunch, + Coffee Recommendations",
+     "items": [
+      {
+       "title": "Angelo Elia - The Bakery Bar",
+       "html": "<p>A true Italian feel - Angelo Elia's Bakery Bar is a wonderful and quaint pastry shop that is walkable from the home. Take a stroll through the neighborhood (only a couple blocks south) and come back with a delicious cappuccino and chocolate croissant.</p> <p>Phone: 954-566-6100</p> <p>Address: 2104 E Oakland Park Blvd, Fort Lauderdale, FL 33306</p> <p>Website: <a href=\"http://www.angeloeliabakery.com/\">http://www.angeloeliabakery.com/</a> </p>",
+       "photo": "f843a8cb182cb2bbfb4dd505675fd1cf.jpg",
+       "loc": [
+        26.166805,
+        -80.118903
+       ],
+       "pin": "restaurants"
+      },
+      {
+       "title": "Cafe Brie",
+       "html": "<p>An exquisite breakfast menu including phenomenal crepes, omelets, French toast, and more. The owners/servers are hands down the most hospitable folks we've encountered in South Florida. Cafe Brie is a simple, welcoming family environment and the perfect place to stop before you head to Pompano Beach Pier.&nbsp;</p> <p><strong>Phone: </strong>954-532-7800</p> <p><strong>Address</strong>: 2765 E Atlantic Blvd, Pompano Beach, FL 33062</p>",
+       "photo": "5fe40fd55a9848470b56eabdb652d57f.jpg",
+       "loc": [
+        26.232271,
+        -80.095519
+       ],
+       "pin": "restaurants"
+      },
+      {
+       "title": "Rendez-Vous Bakery and Bistro",
+       "html": "<p>From France to South Florida...literally; it's right around the corner. This amazing French Bakery has wonderful outdoor seating and a delicious menu from top to bottom. </p> <div> <p>Phone: 954-563-2228</p> <p>Address: 1576 E. Oakland Park BLVD, Oakland Park FL 33334</p> <p>Website: <a href=\"https://www.rdvbakery.com/\">https://www.rdvbakery.com</a></p> </div>",
+       "photo": "eaa92ff519546af177bb5d627d023339.jpg",
+       "loc": [
+        26.166712,
+        -80.126655
+       ],
+       "pin": "restaurants"
+      },
+      {
+       "title": "Tinta",
+       "html": "<p>This wonderful place is oceanside, covered, outdoors, and one of our absolute favorites! Tinta is a Mexican breakfast down on Fort Lauderdale central beach. It's a bit of a drive from our home, but the breakfast quesadilla or machaca skillet is totally worth it! </p> <p>Phone: 954-245-3063</p> <p>Address: 321 N Fort Lauderdale Beach Blvd, Fort Lauderdale, FL 33304</p> <p>Website: <a href=\"https://www.lonarestaurant.com/waterfront-restaurants-fort-lauderdale/tinta-breakfast\">https://www.lonarestaurant.com/waterfront-restaurants-fort-lauderdale/tinta-breakfast</a> </p>",
+       "photo": "67d709370d652ba720e33c3ac10841f5.jpg",
+       "loc": [
+        26.127122,
+        -80.10414
+       ],
+       "pin": "restaurants"
+      }
+     ]
+    },
+    {
+     "title": "Dinner + Drinks Recommendations",
+     "items": [
+      {
+       "title": "Angelo Elia Pizza & Tapas Bar",
+       "html": "<p>Chef Angelo’s Angelo Elia Pizza, Bar &amp; Tapas is a concept that elevates casual fine dining to new heights. It is an elegant, hip South Florida dining destination where crowds line up every night to enjoy fine traditional Italian-style pizzas, tapas, Paninis, and a notable wine list.</p> <p><strong>Phone</strong>: 954-561-7300</p> <p><a href=\"https://www.angeloeliapizza.com/\">https://www.angeloeliapizza.com/</a> </p>",
+       "photo": "a2239c619ae46f35b4c8fd357036295d.jpg",
+       "loc": [
+        26.179914,
+        -80.120067
+       ],
+       "pin": "restaurants"
+      },
+      {
+       "title": "Casablanca Cafe",
+       "html": "<p>Designed in Mediterranean Revival architecture, the house is an eclectic blend of architectural elements of Spanish and Middle Eastern origins. Casablanca Cafe offers chef-inspired Mediterranean cuisine set to a charming and welcoming feel, created in part by the restaurant building itself - a nostalgic residential home built in the 1920s. Casablanca Cafe has been serving the community with unrivaled service and an unmatched dinner experience.</p> <p><a href=\"https://casablancacafeonline.com/\">https://casablancacafeonline.com/</a> </p>",
+       "photo": "1dceb97491e87e577792b82231f8566f.jpg",
+       "loc": [
+        26.125187,
+        -80.104056
+       ],
+       "pin": "restaurants"
+      },
+      {
+       "title": "Only Thai",
+       "html": "<p>Location, authenticity, service, and quality. Only Thai is just down the street and an absolute must-get. Whether you're looking to dine in or grab something to go - this place leaves us satisfied every single time. </p> <p>Phone: 954-908-5578</p> <p>Address: 2100 E Oakland Park Blvd, Fort Lauderdale, FL 33306</p> <p>Website: <a href=\"https://otthai.com/\">https://otthai.com/</a> </p>",
+       "photo": "66286fb10ce668f50c5db5bb539846e4.jpg",
+       "loc": [
+        26.1668,
+        -80.119052
+       ],
+       "pin": "restaurants"
+      },
+      {
+       "title": "Tacocraft Taqueria & Tequila Bar",
+       "html": "<p>Modern Mexican restaurant with lots of energy and good vibes. The chips and salsa are a classic delicious starter with tons of amazing taco choices. It can get a little pricey since it is located in Lauderdale By The Sea so we recommend going during Happy Hour!</p> <p><a href=\"http://www.tacocraft.com/\">http://www.tacocraft.com/</a></p>",
+       "photo": "e3aece39911337b9e20fd4dad6605b13.jpg",
+       "loc": [
+        26.190143,
+        -80.096453
+       ],
+       "pin": "restaurants"
+      }
+     ]
+    },
+    {
+     "title": "Food Tours",
+     "items": [
+      {
+       "title": "Craft Food Tours - Fort Lauderdale",
+       "html": "<p>Escape the South Florida tourist traps as your local guides take you through Fort Lauderdale, Florida for an afternoon of Food and Drinks. Adults will receive 8+ tastings &amp; 3 alcoholic beverages, with vendor demonstrations and much more!</p>",
+       "photo": "f24e5ba3e39204f5d05549ea0ae90eb6.jpg",
+       "loc": [
+        26.119492,
+        -80.133132
+       ],
+       "pin": "restaurants"
+      }
+     ]
+    }
+   ]
+  },
+  "emergency": {
+   "id": "emergency",
+   "title": "Emergency and Urgent Care",
+   "icon": "siren",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "After Hours Pediatrics Urgent Care",
+       "html": "<p>If there is an Emergency, please dial 911!</p> <p>(954)-267-1621</p> <p><a href=\"https://www.afterhourspediatrics.com/locations/oaklandpark/\">https://www.afterhourspediatrics.com/locations/oaklandpark/</a></p>",
+       "loc": [
+        26.190803,
+        -80.133438
+       ],
+       "pin": "medical_facilities"
+      },
+      {
+       "title": "Broward County Sheriff Department",
+       "html": "<p>If there is an Emergency, please dial 911!</p> <p>954-202-3131</p> <p><a href=\"https://www.sheriff.org/Pages/Home.aspx\">https://www.sheriff.org/Pages/Home.aspx</a></p>",
+       "loc": [
+        26.194461,
+        -80.133048
+       ],
+       "pin": "police"
+      },
+      {
+       "title": "Oakland Park Fire Station #9",
+       "html": "<p>If there is an Emergency, please dial 911!</p> <p>954-630-4550</p> <p><a href=\"https://www.oaklandparkfl.gov/\">https://www.oaklandparkfl.gov/</a></p>",
+       "loc": [
+        26.175799,
+        -80.141877
+       ],
+       "pin": "police"
+      },
+      {
+       "title": "Holy Cross Health",
+       "html": "<p>If there is an Emergency, please dial 911!</p> <p>954-771-8000</p> <p><a href=\"https://www.holy-cross.com/\">https://www.holy-cross.com/</a> </p>",
+       "loc": [
+        26.186691,
+        -80.119585
+       ],
+       "pin": "medical_facilities"
+      },
+      {
+       "title": "Pronto Urgent Care",
+       "html": "<p>If there is an Emergency, please dial 911!</p> <p>(954)-909-5708</p> <p><a href=\"https://prontouc.com/\">https://prontouc.com/</a> </p>",
+       "loc": [
+        26.189323,
+        -80.111146
+       ],
+       "pin": "medical_facilities"
+      }
+     ]
+    }
+   ]
+  },
+  "golf": {
+   "id": "golf",
+   "title": "Golf",
+   "icon": "flag",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Plantation Preserve",
+       "html": "<p>https://parks.plantation.org/wbwsc/webtrac.wsc/search.html?module=GR&amp;display=detail</p> <p>South Florida&rsquo;s finest public golf facility, which opened in February 2006, is unlike any other in the South Florida area. You will find a very challenging 18-hole championship golf course, a beautiful clubhouse with stunning panoramic views, and state of the art practice facilities,</p>",
+       "loc": [
+        26.118777,
+        -80.242453
+       ],
+       "pin": "golfing"
+      },
+      {
+       "title": "Pompano Beach Golf Club",
+       "html": "<p><a href=\"https://parks.pompanobeachfl.gov/golf\">https://parks.pompanobeachfl.gov/golf</a></p> <p>The recently renovated and redesigned Pines Championship Golf Course is an 18-hole course featuring over 7,100 yards and a par of 72. The adjacent Palms Course is a traditional Florida course challenging golfers of all skill levels. It is 18 holes, par 71, and over 6,280 yards. The Palms golf course caters to a loyal following of golfers who have enjoyed the layout for over a half a century.</p>",
+       "loc": [
+        26.245079,
+        -80.103054
+       ],
+       "pin": "golfing"
+      },
+      {
+       "title": "Palm Aire",
+       "html": "<p><a href=\"https://palmaire.clublink.com/\">https://palmaire.clublink.com/</a></p> <p>Palm Aire Country Club in Pompano Beach, Florida, has a rich history dating back to its opening in 1959. Originally a country club featuring golf, it quickly transformed into a master-planned community with five golf courses. Notably, in 1961, legendary golfer Sam Snead set a course record of 65.</p> <div> </div>",
+       "loc": [
+        26.224928,
+        -80.157875
+       ],
+       "pin": "golfing"
+      }
+     ]
+    }
+   ]
+  },
+  "grocery": {
+   "id": "grocery",
+   "title": "Grocery and Pharmacy",
+   "icon": "shopping-cart",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Groceries",
+       "html": "<p>Publix Supermarket at Coral Ridge Shopping Center</p>",
+       "photo": "138b01e6e876252ecc969965619ec7df.jpg",
+       "loc": [
+        26.169631,
+        -80.117646
+       ],
+       "pin": "grocery_shopping"
+      },
+      {
+       "title": "CVS Pharmacy",
+       "html": "<p>(954)-390-7056</p>",
+       "photo": "bd637c3e96aa3b09d786560df40e48bb.jpg",
+       "loc": [
+        26.168436,
+        -80.116185
+       ],
+       "pin": "pharmacy"
+      }
+     ]
+    }
+   ]
+  },
+  "water-activities": {
+   "id": "water-activities",
+   "title": "Water Activities",
+   "icon": "sailboat",
+   "groups": [
+    {
+     "title": "Beaches",
+     "items": [
+      {
+       "title": "Las Olas Beach",
+       "html": "",
+       "photo": "0e692057040f057406c7be282c5b47a9.jpg",
+       "loc": [
+        26.1192,
+        -80.104211
+       ],
+       "pin": "beaches"
+      },
+      {
+       "title": "Lauderdale By The Sea Beach",
+       "html": "",
+       "photo": "dc47a8e2920a490991ffbad35647c004.jpg",
+       "loc": [
+        26.189458,
+        -80.094973
+       ],
+       "pin": "beaches"
+      },
+      {
+       "title": "Pompano Beach",
+       "html": "",
+       "photo": "61b939f42af931cef53ae279f76156bd.jpg",
+       "loc": [
+        26.242046,
+        -80.087119
+       ],
+       "pin": "beaches"
+      },
+      {
+       "title": "South Beach (Miami)",
+       "html": "",
+       "photo": "fe3cdfb5a57ddbf74b18aefefd223472.jpg",
+       "loc": [
+        25.783347,
+        -80.127897
+       ],
+       "pin": "beaches"
+      }
+     ]
+    },
+    {
+     "title": "Boat Tours",
+     "items": [
+      {
+       "title": "BlueFoot Pirate Adventures",
+       "html": "<p>An interactive pirate cruise that offers a family-friendly sail on Fort Lauderdale’s Intracoastal Waterway. The crew shares tips on how to talk and dress like a pirate, find hidden treasure, and fend off rival pirate attacks. Face painting, temporary tattoos, and onboard water cannons add to the fun, and kids receive a bag of loot and a pirate certificate to take home.</p>",
+       "photo": "00dd5e7eb8d75cf1f9f734bb8bce61fd.jpg",
+       "loc": [
+        26.114407,
+        -80.105814
+       ],
+       "pin": "entertainment_and_activities"
+      },
+      {
+       "title": "Carrie B - Venice of America Fort Lauderdale Sightseeing Tours",
+       "html": "<p>See celebrity homes, the Fort Lauderdale skyline, and other top sights</p>",
+       "photo": "597986355b525b4df413e398162bd607.jpg",
+       "loc": [
+        26.116989,
+        -80.138511
+       ],
+       "pin": "sightseeing"
+      },
+      {
+       "title": "Florida Everglades Airboat Adventure and Wildlife Encounter",
+       "html": "<p>Escape to the Florida Everglades for this airboat adventure and wildlife encounter at Sawgrass Recreation Park. This exciting airboat ride is a great way to experience the unique subtropical ecosystem of the Everglades. Skim across the grassy water at speeds up to 40 miles per hour </p>",
+       "photo": "1cac97df0c2f46838d8a7e432b9fe792.jpg",
+       "loc": [
+        26.176484,
+        -80.447976
+       ],
+       "pin": "sightseeing"
+      }
+     ]
+    }
+   ]
+  },
+  "weather": {
+   "id": "weather",
+   "title": "Weather",
+   "icon": "cloud-sun-rain",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Fort Lauderdale",
+       "html": "<p>For the most up-to-date weather forecast check <a href=\"https://weather.com/weather/today/l/9274c6db29c1679fdfb0b2c4832183aa8145587ad4f980dfa9de74e442bdacbd\">here!</a></p> <p>Remember, the weather person is the only one who can be wrong and still keep their job. We like to say \"there is no such thing as bad weather, just inappropriate clothing\".</p>",
+       "photo": "c23f2b1538c687cfdd797741fd258b63.jpg"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
