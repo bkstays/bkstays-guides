@@ -57,3 +57,6 @@ Each property keeps its own photos, house tiles and wording. The layout, style a
 
 ## Importing more TouchStay guides
 Pull each guide's house content in the browser (fetch `/v2api/wb/guide/<id>/` on guide.bkstays.com), save it to `src/ts/<id>.txt`, add the id and slug to `SLUGS` in `tools/import_touchstay.py`, then run it. It applies every rule above and writes `src/import_report.md` with what needs proofreading. Recommendations come from the shared library. A place that belongs to one home only goes in that guide's `libExtra`.
+
+### Guides outside North Georgia
+Export in the browser (house content with `same` flags + the area's recommendations, deduped) into `src/ts2/`, add the home to `HOMES` in `tools/import_touchstay_area.py` (slug, area library, county, view photo), then run it. It builds `content/library/<area>.json` and only the listed guides, and writes `src/import_report_area.md`. Areas so far: northern-michigan (Bellaire, Das Himmel Haus), iron-range (Iron Range Retreat), south-florida (Havana Haven). Pictures inside TouchStay text: open hub.touchstay.com/v3api/photo/<id>/thumbnail/?size=1200 in the browser to get the downloadable media/cache path.
