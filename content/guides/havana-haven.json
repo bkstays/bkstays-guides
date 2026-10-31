@@ -100,11 +100,13 @@
       },
       {
        "title": "Video Tour - Havana Haven",
-       "html": ""
+       "html": "",
+       "video": "https://www.youtube.com/embed/76v-qmIWxpc?wmode=opaque&rel=0"
       },
       {
        "title": "Thank You",
-       "html": ""
+       "html": "",
+       "video": "https://www.loom.com/embed/2d45f482bb7b4110aa985a45f92d48a5"
       }
      ]
     }

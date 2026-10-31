@@ -113,7 +113,8 @@
       },
       {
        "title": "Thank You",
-       "html": ""
+       "html": "",
+       "video": "https://www.loom.com/embed/6e28b513a12d4fa58ae2634d716df0c4"
       }
      ]
     }
@@ -387,16 +388,20 @@
   },
   "outdoor-games-fun": {
    "id": "outdoor-games-fun",
-   "title": "Cornhole / Bags",
+   "title": "Outdoor Games",
    "icon": "target",
    "groups": [
     {
      "title": "",
      "items": [
       {
-       "title": "Outdoor Games",
-       "html": "<p>We recently installed a full-size putting green out in the yard and a small tee box up near the house (about a 50 yard par 3 hole). There is also outdoor cornhole, frisbee golf, and a full size children's playground!</p>",
-       "photo": "746b9f26c3fd806efad2a79e3e952259.jpg"
+       "title": "Private Par 3 Course",
+       "html": "<p>Feel free to enjoy our outdoor putting green! You can chip or hit from the \"tee box\" up near the playground. It's about a 50-yard par 3 hole.</p><p>Please be careful and always look out for everyone's safety, especially little ones near the playground.</p><p>We provide a small selection of balls and clubs. If anything is broken or missing, please let us know. When you're done, please return everything to its spot up near the house.</p>"
+      },
+      {
+       "title": "Frisbee Golf",
+       "photo": "746b9f26c3fd806efad2a79e3e952259.jpg",
+       "html": "<p>Grab a disc and see who can make it into the basket in the fewest throws! We have a disc golf set on hand, and we provide a few discs.</p><p>If anything is broken or missing, please let us know. When you're done, please return the discs to their spot up near the house.</p>"
       },
       {
        "title": "Cornhole / Bags",

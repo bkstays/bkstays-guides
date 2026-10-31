@@ -150,6 +150,13 @@ def main():
             os.remove(tmp)  # keep src/ts for the North Georgia importer only
         photos |= {p for p in ph if p}
         secs = g['sections']
+        # VIDEOS: TouchStay keeps some Loom videos in a separate field
+        vids = {x['t']: imp.loom_embed(x['v']) or x['v'] for c in house['cats'] for s in c['s'] for x in s['x'] if x.get('v')}
+        for sec in secs.values():
+            for grp in sec['groups']:
+                for it in grp['items']:
+                    if it['title'] in vids and not it.get('video'):
+                        it['video'] = vids[it['title']]
         g['name'] = g['shortName'] = NAME.get(slug, g['name'])
         g['address'] = ADDR[slug]
         g['cover'] = g['coverDesktop'] = g['background'] = view
