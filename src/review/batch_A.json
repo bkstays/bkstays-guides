@@ -1,0 +1,331 @@
+[
+ {
+  "key": "dining|0|0",
+  "tile": "Dining Out",
+  "group": "Breakfast, Brunch, + Coffee Recommendations",
+  "title": "M88 Morning Grind Coffee",
+  "html": "<p><a href=\"https://www.facebook.com/m88awesomecoffee/\">https://www.facebook.com/m88awesomecoffee/</a></p> <p>(231) 350-7011</p> <p>A cozy café known for its excellent coffee and breakfast options. Guests appreciate the friendly atmosphere and quality offerings.</p>",
+  "photo": "/home/claude/guide/site/img/33dff1523ab80d3f3a3d90996ad5faba.jpg",
+  "loc": [
+   44.975095,
+   -85.198754
+  ],
+  "pin": "coffee_shop"
+ },
+ {
+  "key": "dining|0|1",
+  "tile": "Dining Out",
+  "group": "Breakfast, Brunch, + Coffee Recommendations",
+  "title": "RuthAnn's Gourmet Bakery and Coffeehouse",
+  "html": "<p>https://www.ruthannsgourmetbakery.com/</p> <p><a href=\"https://www.google.com/search?sca_esv=5ed3572dacaed608&amp;rlz=1C1YTUH_enUS1025US1027&amp;sxsrf=AE3TifNfg2BALMQUa3ZURDF-7gRG1nX-Fw:1749046197707&amp;q=ruthann%27s+gourmet+bakery&amp;source=lnms&amp;fbs=AIIjpHxU7SXXniUZfeShr2fp4giZtkvKcq2WwR8cISugIcvZLh7z8ePpkNctGJ_05bt_kDYkkCW7qhfSBT6v8l8OKmkbndM1wOgl4dylOBxmaxb4Vq1QbrneLVQ3WdLz61J6CJktMGoTE68_rsOKBpqAUNyRvK4lBps5Mg2fsAICd4IKzl4y-eL1gRWgx5MJMwqJi34oAK9byt2sgdLXHOZvr-iigtZk0gyMI44B6_3GcBRqJQxivmY&amp;sa=X&amp;ved=2ahUKEwiorb3q-NeNAxUHRTABHctCAqgQ0pQJegQIFRAB&amp;biw=1664&amp;bih=941&amp;dpr=1.5#\">(231) 350-7010</a></p> <p>A delightful bakery and coffeehouse offering made-from-scratch baked goods, including cupcakes, muffins, and pastries. Their specialty coffee drinks, such as the frozen latte or mocha, are local favorites</p>",
+  "photo": "/home/claude/guide/site/img/44da75e54112b105430ea486f73b384f.jpg",
+  "loc": [
+   44.975781,
+   -85.210343
+  ],
+  "pin": "coffee_shop"
+ },
+ {
+  "key": "dining|0|2",
+  "tile": "Dining Out",
+  "group": "Breakfast, Brunch, + Coffee Recommendations",
+  "title": "Shanty Creek CoffeeBAR",
+  "html": "<p>Website: <a href=\"https://www.shantycreek.com/stay/dining/#coffeebar\">https://www.shantycreek.com/stay/dining/#coffeebar</a></p> <p>Phone: 231‑533‑3000</p> <div> <div> <div> <div> <div> <div> <div> <div> <p>Enjoy Starbucks drinks in a cozy resort lobby, plus house-made breakfast burritos, bagels, parfaits, and pastries. Open daily from 7 AM to 2 PM, it’s the perfect grab-and-go spot before hitting the slopes, trails, or golf course. Don’t miss Thursday’s buy‑one‑get‑one coffee special from noon to 5 PM!</p> </div> </div> </div> </div> </div> </div> </div> </div>",
+  "photo": "/home/claude/guide/site/img/5d629d00f82517ba5e286c27dbdbe8b5.jpg",
+  "loc": [
+   44.948477,
+   -85.185208
+  ],
+  "pin": "coffee_shop"
+ },
+ {
+  "key": "dining|1|0",
+  "tile": "Dining Out",
+  "group": "Lunch + Snack Recommendations",
+  "title": "B.C. Pizza (Bellaire)",
+  "html": "<p>Website: <a href=\"https://bc.pizza/locations/bellaire/\">https://bc.pizza/locations/bellaire/</a> </p> <p>231-350-7500</p> <p>Think of B.C. Pizza as your go-to local slice spot — handmade, hometown-style pies fresh from Bellaire, plus signature subs, pastas, and a lunchtime buffet to satisfy every craving. Friendly, down-to-earth, and perfect for grabbing a relaxed bite after a morning exploring the lakes or trails.</p>",
+  "photo": "/home/claude/guide/site/img/149186469021418bd9dd4c4cd6813dc3.jpg",
+  "loc": [
+   44.97517,
+   -85.199522
+  ],
+  "pin": "restaurants"
+ },
+ {
+  "key": "dining|1|1",
+  "tile": "Dining Out",
+  "group": "Lunch + Snack Recommendations",
+  "title": "Dockside Torch Lake",
+  "html": "<p>Website: <a href=\"https://docksidetorchlake.com/\">docksidetorchlake.com</a></p> <p>(231) 377-7777</p> <p>Dockside Torch Lake offers a laid-back, lakeside dining experience where you can enjoy fresh salads, zesty Mexican dishes, and classic American fare like burgers and deli sandwiches—all while soaking in the stunning views of Torch Lake from their spacious outdoor deck. Whether arriving by boat or car, it's the perfect spot to relax and savor a meal with a view.</p>",
+  "photo": "/home/claude/guide/site/img/399d41d675ceffce8d0878412f4b8180.jpg",
+  "loc": [
+   44.942694,
+   -85.283719
+  ],
+  "pin": "restaurants"
+ },
+ {
+  "key": "dining|1|2",
+  "tile": "Dining Out",
+  "group": "Lunch + Snack Recommendations",
+  "title": "Lunch Box",
+  "html": "<p><a href=\"https://www.lunchboxbellaire.com/\">lunchboxbellaire.com</a></p> <p>Phone: (231) 533‑6678</p> <p>A cozy, family-owned café serving home‑cooked breakfast and lunch with hearty portions and homemade bread, pies, muffins, and classic diner-style eats. Open daily from around 8 AM to 2 PM, it's a beloved Bellaire staple since 1992.</p>",
+  "photo": "/home/claude/guide/site/img/ed364331e33dd3eb259e35fc85c90da9.jpg",
+  "loc": [
+   44.97531,
+   -85.209553
+  ],
+  "pin": "coffee_shop"
+ },
+ {
+  "key": "dining|1|3",
+  "tile": "Dining Out",
+  "group": "Lunch + Snack Recommendations",
+  "title": "Papa K’s Pizza",
+  "html": "<p>Website: <a href=\"https://papaksofbellaire.net/\">https://papaksofbellaire.net/</a> </p> <p>Phone: (231) 533‑6844</p> <p>A cozy, local pizza joint where the crust is seasoned just right and the cheese never skimped—perfect for nights when you want hot, fresh pizza without fuss. Casual, family-friendly vibes and delivery available within 8 miles (so go ahead—fire up Netflix and let Papa K’s bring dinner to you!).</p>",
+  "photo": "/home/claude/guide/site/img/b8720cdbce4caaa60ad763bee0a8a0fe.jpg",
+  "loc": [
+   44.971061,
+   -85.19894
+  ],
+  "pin": "restaurants"
+ },
+ {
+  "key": "dining|1|4",
+  "tile": "Dining Out",
+  "group": "Lunch + Snack Recommendations",
+  "title": "Toonie's Fish & Steak House",
+  "html": "<p>Website: <a href=\"https://tooniesfishandsteakhouse.com/\">tooniesfishandsteakhouse.com</a></p> <p>Phone: (231) 533‑8513</p> <p>Toonie’s is the go-to spot for hearty, comforting meals with a local twist. Whether you’re craving fresh seafood or a juicy steak, their famous “Holy Cow” breakfast and “Smothered Bull” burger will keep you fueled for your adventures. Perfect for a satisfying lunch or relaxed dinner after exploring the town!</p>",
+  "photo": "/home/claude/guide/site/img/7b5b5758f9599597050e4fff817a1b34.jpg",
+  "loc": [
+   44.977492,
+   -85.209777
+  ],
+  "pin": "restaurants"
+ },
+ {
+  "key": "dining|2|0",
+  "tile": "Dining Out",
+  "group": "Dinner + Drinks Recommendations",
+  "title": "Chloe’s Chop House",
+  "html": "<p>Website: <a href=\"https://www.chloeschophouse.com/\">chloeschophouse.com</a></p> <p>Phone: 231-350-8986</p> <p>Located right downtown, Chloe’s feels upscale but never stuffy—ideal for splurge-worthy steaks and smooth cocktails in a cozy, laid-back atmosphere. Whether you're celebrating a special night or just craving a premium meal, it’s the spot for relaxed fine-dining with local flair.</p>",
+  "photo": "/home/claude/guide/site/img/20401bf4d2adfb6bc2cd204ef14d8d8f.jpg",
+  "loc": [
+   44.977265,
+   -85.21019
+  ],
+  "pin": "restaurants"
+ },
+ {
+  "key": "dining|2|1",
+  "tile": "Dining Out",
+  "group": "Dinner + Drinks Recommendations",
+  "title": "Corner Bistro",
+  "html": "<p>Website: <a href=\"https://www.cornerbistrobellaire.com/\">cornerbistrobellaire.com</a></p> <p>Phone: +1 231-409-7088</p> <p>Tucked into downtown Bellaire, Corner Bistro is your go-to for cozy evenings—think shareable plates, a laid‑back bar vibe, and porch seating perfect for people‑watching. Friendly and intimate, it’s the kind of spot that feels like a local secret, whether you’re winding down or celebrating something special.</p>",
+  "photo": "/home/claude/guide/site/img/5574ca855a691a16f711f7e3831cfbb0.jpg",
+  "loc": [
+   44.975554,
+   -85.209707
+  ],
+  "pin": "restaurants"
+ },
+ {
+  "key": "dining|2|2",
+  "tile": "Dining Out",
+  "group": "Dinner + Drinks Recommendations",
+  "title": "Fireside Lounge",
+  "html": "<p>Website: <a href=\"https://www.hellovinobellaire.com/\">https://www.hellovinobellaire.com/</a></p> <p>Phone: +1 231-350-7138</p> <p>Looking for a laid-back drink with a local twist? Fireside Lounge brings cozy lodge vibes with a patio, live music, bocce ball, and a curated selection of boutique cocktails, wines, and small bites — perfect for a mellow evening with new friends.</p>",
+  "photo": "/home/claude/guide/site/img/714e942c55b22e6ed7604cb6916159a8.jpg",
+  "loc": [
+   44.97667,
+   -85.208626
+  ],
+  "pin": "bars_and_nightlife"
+ },
+ {
+  "key": "dining|2|3",
+  "tile": "Dining Out",
+  "group": "Dinner + Drinks Recommendations",
+  "title": "Lakeview Restaurant & Grill",
+  "html": "<p>Website: <a href=\"http://www.shantycreek.com/dining\">shantycreek.com/dining</a></p> <p>Phone: +1 231-533-8621</p> <p>Perched overlooking Lake Bellaire, The Lakeview offers relaxed, grill-style dinners and a hearty breakfast buffet in a resort-chic setting. With daily happy hour and stunning sunset views, it’s a great spot to unwind after a day on the water or trails.</p>",
+  "photo": "/home/claude/guide/site/img/1e34ff03dddd6c0587b8af1fb3a9ed68.jpg",
+  "loc": [
+   44.948556,
+   -85.185222
+  ],
+  "pin": "restaurants"
+ },
+ {
+  "key": "dining|2|4",
+  "tile": "Dining Out",
+  "group": "Dinner + Drinks Recommendations",
+  "title": "Short’s Brewing Company Bellaire Pub",
+  "html": "<p>Website<strong>:</strong> <a href=\"https://www.shortsbrewing.com/locations/bellaire-pub\">shortsbrewing.com/locations/bellaire-pub</a></p> <p>Phone: +1 231-498-2300</p> <p>Kick off your evening at Short’s, where local life meets craft beer—20 house-brews and ciders await alongside pub favorites like the iconic White Pepper sandwich or fresh gourmet pizzas. With live music on weekends and a laid-back beer garden out back, it's the perfect spot to relax after a day on the lake.</p>",
+  "photo": "/home/claude/guide/site/img/f00b872a0eb30c1d3fe89eedcac219f6.jpg",
+  "loc": [
+   44.976269,
+   -85.210357
+  ],
+  "pin": "brewery_pub"
+ },
+ {
+  "key": "dining|2|5",
+  "tile": "Dining Out",
+  "group": "Dinner + Drinks Recommendations",
+  "title": "The Nest at The Chief",
+  "html": "<p>Website: <a href=\"https://thepelicansnest.com/\">thepelicansnest.com</a></p> <p>Phone: +1 231-533-9000</p> <p>Kick back in resort-style comfort at The Nest—a laid-back bar &amp; grill right on the golf course. From juicy BYO burgers and brick-oven pizzas to loaded wings and craft cocktails, it's the perfect casual spot to unwind after a day on the lake or trails.</p>",
+  "photo": "/home/claude/guide/site/img/3e7835481d9a06153e48dae479a80577.jpg",
+  "loc": [
+   44.958548,
+   -85.188831
+  ],
+  "pin": "bars_and_nightlife"
+ },
+ {
+  "key": "dining|2|6",
+  "tile": "Dining Out",
+  "group": "Dinner + Drinks Recommendations",
+  "title": "The Shanty Bar & Grill",
+  "html": "<p>Facebook: <a href=\"https://www.facebook.com/shantytownmi/\">https://www.facebook.com/shantytownmi/</a></p> <p>Phone: +231 5 337 025</p> <p>This cozy, lodge-style bar tucked into Shanty Creek Resort is your go-to for cold beers, wood-fired pizza, and rustic comfort food in a relaxed, fireside setting. With friendly service and a local vibe, it's the perfect spot to unwind after a day of hiking, skiing, or playing on the lake.</p>",
+  "photo": "/home/claude/guide/site/img/7fe152596016230aca7a99a1316d3c37.jpg",
+  "loc": [
+   44.948595,
+   -85.183889
+  ],
+  "pin": "bars_and_nightlife"
+ },
+ {
+  "key": "beer-wine|0|0",
+  "tile": "Beer and Wine",
+  "group": "Beer and Breweries",
+  "title": "Bee Well Mead & Cider",
+  "html": "<p>Website: <a href=\"https://www.beewellmeadery.com/\">https://www.beewellmeadery.com/</a></p> <p>Phone: +1 231-350-7116</p> <p>Check out Bee Well for a taste of Northern Michigan in a glass—this family-run spot serves house-made meads and hard ciders using local honey and fruit in a cozy, come-as-you-are tasting room. With 20 rotating taps, kids-friendly options like cold brew and soda, and a laid-back local vibe, it’s the perfect place to chill out after exploring Bellaire.</p>",
+  "photo": "/home/claude/guide/site/img/ec3eddb548596a874f230eeb397f80cd.jpg",
+  "loc": [
+   44.976046,
+   -85.209802
+  ],
+  "pin": "bars_and_nightlife"
+ },
+ {
+  "key": "beer-wine|0|1",
+  "tile": "Beer and Wine",
+  "group": "Beer and Breweries",
+  "title": "Short’s Brewing Company – Bellaire Pub",
+  "html": "<p>Website: <a href=\"https://www.shortsbrewing.com/locations/bellaire-pub\">https://www.shortsbrewing.com/locations/bellaire-pub</a></p> <p>Phone: +1 231-498-2300</p> <p>Kick back in the heart of downtown at Short’s, where local life meets craft beer—20 house-brewed beers on tap, wood‑fired pizzas, hearty mac ‘n’ cheese, and their can't-miss White Pepper sandwich. With live music in the beer garden on weekends and that laid-back Northern Michigan vibe, it's the perfect spot to unwind after a day on the lake or trails.</p>",
+  "photo": "/home/claude/guide/site/img/3ea307192488bbe56261401f62de453b.jpg",
+  "loc": [
+   44.976269,
+   -85.210357
+  ],
+  "pin": "bars_and_nightlife"
+ },
+ {
+  "key": "beer-wine|0|2",
+  "tile": "Beer and Wine",
+  "group": "Beer and Breweries",
+  "title": "Torch Lake Cellars",
+  "html": "<p>Website: <a href=\"https://torchlakecellars.com/\">https://torchlakecellars.com/</a></p> <p>Phone: +1 231-377-9109</p> <p>Sip and relax at this cozy, family-run winery perched above Bellaire, where you can toast with fruit-forward wines or crisp hard ciders while soaking in vineyard and Torch Lake views. Casual tasting flights and friendly service make this a great stop for a laid-back afternoon treat.</p>",
+  "photo": "/home/claude/guide/site/img/6401ce8667136d42f5a4606f1b0bb838.jpg",
+  "loc": [
+   44.957504,
+   -85.247866
+  ],
+  "pin": "sightseeing"
+ },
+ {
+  "key": "beer-wine|1|0",
+  "tile": "Beer and Wine",
+  "group": "Wine and Wineries",
+  "title": "U-Pick Orchards",
+  "html": "<p>1. Kalchik Farms<br/>Website: <a href=\"https://upickfarmsusa.com/mi/antrim-county/kalchik-farms\">https://upickfarmsusa.com/mi/antrim-county/kalchik-farms</a> <br/>Phone: (231) 377-7519 <br/>Location: 8659 Bellaire Highway, Bellaire, MI 49615<br/>Family-run and beloved for u-pick strawberries in June. A sweet summer staple just minutes away. </p> <p>2. King Orchards<br/>Website: <a href=\"https://kingorchards.com/\">https://kingorchards.com/</a> <br/>Phone: (231) 544-6479 <br/>Location: 4620 N M-88, Central Lake (approx. 10 minutes away)<br/>Offers a wide seasonal roster—u-pick strawberries, cherries, raspberries, peaches, and apples, plus a farm market with baked goods, flowers, and picnic areas. Open mid-June through mid-October. </p> <p>3. Shooks Farms / Cellar 1914<br/>Websites: <a href=\"https://shooksfarms.weebly.com/\">https://shooksfarms.weebly.com/</a> <br/><a href=\"https://www.michigan.org/property/shooks-farms\">https://www.michigan.org/property/shooks-farms</a> <br/>Phone: (231) 544-6418 <br/>Location: 5833 Shooks Road, Central Lake, MI 49622<br/>A multi-generation family farm known for U-Pick cherries in July (sweet, tart, and pie varieties). On the same property is Cellar 1914, their winery and tasting room, where you can enjoy wines and hard ciders crafted from the farm’s own fruit. It’s a perfect “pick-and-sip” stop that combines orchard fun with local flavors.</p> <p>4. Rocky Top Farms<br/>Website: <a href=\"https://rockytopfarms.com/\">https://rockytopfarms.com/</a> <br/>Phone: (231) 599-2251 <br/>Location: 11486 Essex Rd, Ellsworth, MI (about 15–20 minutes away)<br/>Famous for cherries, fruit preserves, buttery delights, and products like gourmet preserves, gift baskets, and cedar kitchen items. A charming stop for picking and shopping local culinary treats. </p> <p>5. Clam Lake Orchards<br/>Website: <a href=\"https://upickfarmsusa.com/mi/antrim-county\">https://upickfarmsusa.com/mi/antrim-county</a> <br/>Phone: (231) 533-6497 <br/>Location: 6662 Clam Lake Road, Bellaire, MI 49615<br/>Offers about 30 apple varieties—including Fuji, Gala, Honeycrisp, and McIntosh—on accessible dwarf trees. A charming spot for sinking your teeth into fresh apples.</p>",
+  "photo": "/home/claude/guide/site/img/0903196452b72270ae7593ad8d907991.jpg",
+  "loc": null,
+  "pin": null
+ },
+ {
+  "key": "beer-wine|1|1",
+  "tile": "Beer and Wine",
+  "group": "Wine and Wineries",
+  "title": "Tasting Rooms Tour",
+  "html": "<p><strong>🍺 Short’s Brewing Company – The Pub</strong><br/>Website: <a href=\"https://www.shortsbrewing.com/locations/bellaire-pub/\">https://www.shortsbrewing.com/locations/bellaire-pub/</a> <br/>Phone: (231) 498-2300<br/>Location: 121 N Bridge St, Bellaire, MI 49615</p> <p>A true Bellaire staple, Short’s offers more than 20 craft beers on tap, creative pub food, and live music in a welcoming downtown atmosphere. Perfect for a casual night out with friends or to sample Michigan’s most iconic brewery.</p> <p><strong>🍷 Torch Lake Cellars</strong><br/>Website: <a href=\"https://torchlakecellars.com/\">https://torchlakecellars.com/</a> <br/>Phone: (231) 377-9109<br/>Location: 5245 Clam Lake Rd, Bellaire, MI 49615</p> <p>Nestled near Torch Lake, this boutique winery pairs stunning views with handcrafted wines. Guests can relax on the patio with a glass in hand while soaking up one of Michigan’s most beautiful lakeside settings.</p> <p><strong>🥃 Mammoth Distilling – Bellaire Tasting Room</strong><br/>Website: <a href=\"https://mammothdistilling.com/\">https://mammothdistilling.com/</a> <br/>Phone: (231) 350-7102<br/>Location: 109 N Bridge St, Bellaire, MI 49615</p> <p>Located right downtown, Mammoth offers small-batch spirits crafted with Northern Michigan ingredients. Sip artisan cocktails in a rustic-chic lounge just steps away from your stay.</p> <p><strong>🍇 Vista Ridge Vineyard</strong><br/>Website: <a href=\"https://vistaridgevineyards.com/\">https://vistaridgevineyards.com/</a> <br/>Phone: (231) 331-5511<br/>Location: 9104 Helena Rd, Alden, MI 49612</p> <p>A cozy, family-run vineyard offering tastings of red, white, and fruit wines paired with charcuterie. Known for warm hospitality and scenic vineyard views just minutes from Torch Lake.</p> <p><strong>🌿 WaterFire Vineyards</strong><br/>Website: <a href=\"https://www.waterfirewine.com/\">https://www.waterfirewine.com/</a> <br/>Phone: (231) 498-2753<br/>Location: 12180 S Elk Run, Kewadin, MI 49648</p> <p>Michigan’s first SIP-certified sustainable vineyard, WaterFire is perfect for eco-minded wine lovers. Enjoy crisp whites and unique blends in a peaceful vineyard setting.</p> <p><strong>🥂 Ethanology Distillation</strong><br/>Website: <a href=\"https://www.ethanologydistillation.com/\">https://www.ethanologydistillation.com/</a> <br/>Phone: (231) 498-2800<br/>Location: 127 Ames St, Elk Rapids, MI 49629</p> <p>A grain-to-glass distillery offering premium spirits and seasonal cocktails. The modern tasting room and intimate tours make it a unique stop on your Northern Michigan beverage trail.</p> <p><strong>🍏 Royal Farms Winery &amp; Market</strong><br/>Website: <a href=\"https://www.royalfarmsinc.com/\">https://www.royalfarmsinc.com/</a> <br/>Phone: (231) 599-3222<br/>Location: 10445 N US Highway 31, Ellsworth, MI 49729</p> <p>A family-friendly winery and farm market offering wines, hard ciders, and homemade baked goods. Seasonal U-Pick fruit makes this a fun stop for both kids and adults.</p> <p><strong>🍎 Townline Ciderworks</strong><br/>Website: <a href=\"https://www.townlineciderworks.com/\">https://www.townlineciderworks.com/</a> <br/>Phone: (231) 498-2275<br/>Location: 11595 US-31, Elk Rapids, MI 49629</p> <p>Specializing in small-batch hard cider, Townline uses apples grown on its own family farm. The relaxed tasting room offers scenic countryside views and refreshing ciders perfect for summer.</p> <p><strong>🍷 Hello Vino</strong><br/>Website: <a href=\"https://www.hellovinobellaire.com/\">https://www.hellovinobellaire.com/</a> <br/>Phone: (231) 350-7136<br/>Location: 225 N Bridge St, Bellaire, MI 49615</p> <p>A boutique wine shop and tasting bar right in downtown Bellaire. Guests can sample curated wines, shop local bottles, or enjoy a glass in a cozy setting just steps from Short’s Brewery.</p> <p><strong>🍻 Torch Lake Beer Company</strong><br/>Website: <a href=\"https://torchlakebeerco.com/\">https://torchlakebeerco.com/</a> <br/>Phone: (231) 544-1186<br/>Location: 4990 N West Torch Lake Dr, Central Lake, MI 49622</p> <p>A lively lakeside brewery with a rotating tap list, hearty food, and regular live music. Known for its fun atmosphere and great Torch Lake views, it’s a favorite hangout for locals and visitors alike.</p>",
+  "photo": "/home/claude/guide/site/img/2096826a6c51e372d1bdcb0f8e18c072.jpg",
+  "loc": null,
+  "pin": null
+ },
+ {
+  "key": "beer-wine|1|2",
+  "tile": "Beer and Wine",
+  "group": "Wine and Wineries",
+  "title": "Torch Lake Tour — Road Runner Tours",
+  "html": "<p>Website: <a href=\"https://www.roadrunnermi.com\">https://www.roadrunnermi.com</a> </p> <p>Phone: (231) 392-3114 MapQuestYelp</p> <p>Location: 5245 Clam Lake Rd, Bellaire, MI 49615 (same as Torch Lake Cellars) <a href=\"https://www.mapquest.com/us/michigan/road-runner-tours-llc-719786922\">MapQuest+1</a></p> <p><strong>Host: Road Runner Tours – Bellaire, MI</strong></p> <p>Enjoy a stress-free, curated day visiting the finest local tasting rooms with a scenic ride aboard Road Runner’s passenger bus. The Torch Lake Tour typically includes stops at Torch Lake Cellars, Cellar 1914, and Mammoth Distilling—each offering craft wine, cider, and spirits in beautiful settings. </p> <p>Let someone else drive while you indulge in a curated tasting experience. With a comfortable 14-passenger shuttle, scenic surroundings, and hassle-free pickup and drop-off, this tour is perfect for sipping your way through Bellaire’s beverage scene.</p> <p><strong>How to Book: Visit <a href=\"https://www.roadrunnermi.com\">https://www.roadrunnermi.com</a>, or call (231) 392-3114</strong></p>",
+  "photo": "/home/claude/guide/site/img/b7008613d20fbc28aeb85983c381aaa2.jpg",
+  "loc": null,
+  "pin": null
+ },
+ {
+  "key": "beer-wine|1|3",
+  "tile": "Beer and Wine",
+  "group": "Wine and Wineries",
+  "title": "Petoskey Brewing Company",
+  "html": "<p>Website: <a href=\"https://www.petoskeybrewing.com/\">https://www.petoskeybrewing.com/</a></p> <p>Phone: +1 231-753-2057</p> <p>Step into history — this renovated 1898 “Old Brewery” serves up hand-crafted ales and hearty pub fare in a rustic taproom. Whether you're sipping a tart Raspberry Waffle Cone Cream Ale or diving into their smash burger, it’s the perfect destination for a chilled-out afternoon halfway between Bellaire and Petoskey.</p>",
+  "photo": "/home/claude/guide/site/img/9407cdeaeb1dcbc27eaec0dae89d2a86.jpg",
+  "loc": [
+   45.396886,
+   -84.903046
+  ],
+  "pin": "bars_and_nightlife"
+ },
+ {
+  "key": "beer-wine|1|4",
+  "tile": "Beer and Wine",
+  "group": "Wine and Wineries",
+  "title": "BOS Wine Garden",
+  "html": "<p>Website: <a href=\"https://www.boswine.com\">boswine.com</a></p> <p>Phone: 231) 498-2073</p> <p>Discover a hidden gem at BOS Wine Garden, where biodynamic farming meets exceptional winemaking. Nestled in a charming restored farmhouse, this boutique winery offers curated tasting experiences featuring wines from Michigan and California, complemented by artisanal pairings. Whether you're enjoying a glass in the intimate tasting room or relaxing in the serene garden, BOS Wine Garden provides a welcoming atmosphere to savor every sip.</p>",
+  "photo": "/home/claude/guide/site/img/f0c76073698ca4ea46d136b1febce8bf.jpg",
+  "loc": [
+   44.899945,
+   -85.40283
+  ],
+  "pin": "brewery_pub"
+ },
+ {
+  "key": "beer-wine|1|5",
+  "tile": "Beer and Wine",
+  "group": "Wine and Wineries",
+  "title": "Cellar 1914",
+  "html": "<p>Website: <a href=\"https://www.cellar1914.com/\">https://www.cellar1914.com/</a></p> <p>Phone: +1 231-676-8743</p> <p>Step back in time and savor the flavor at Cellar 1914. This historic spot pairs charming ambiance with a variety of delicious wines, perfect for slowing down and soaking up Bellaire’s laid-back spirit.</p>",
+  "photo": "/home/claude/guide/site/img/3463b847bc2f21c4fbf1f1c9ee2a04db.jpg",
+  "loc": [
+   45.119003,
+   -85.305611
+  ],
+  "pin": "brewery_pub"
+ },
+ {
+  "key": "beer-wine|1|6",
+  "tile": "Beer and Wine",
+  "group": "Wine and Wineries",
+  "title": "Royal Farms, Inc.",
+  "html": "<p>Website: <a href=\"https://www.royalfarmsinc.com\">royalfarmsinc.com</a></p> <div> <div> <div>Phone: +1 231-599-3222</div> <div> </div> </div> </div> <p>Just a short drive from Bellaire, Royal Farms offers a delightful mix of farm-fresh produce, homemade baked goods, and a cozy winery. Whether you're picking your own cherries in season, enjoying a glass of wine in their tasting room, or exploring their charming gift shop, it's a perfect stop for a taste of local Northern Michigan charm.</p>",
+  "photo": "/home/claude/guide/site/img/c62ae743c8cd711e4aa8cdd8fd79c1cc.jpg",
+  "loc": [
+   45.185162,
+   -85.345752
+  ],
+  "pin": "grocery_shopping"
+ },
+ {
+  "key": "beer-wine|1|7",
+  "tile": "Beer and Wine",
+  "group": "Wine and Wineries",
+  "title": "Vista Ridge Vineyards",
+  "html": "<p>Website: <a href=\"https://vistaridgevineyards.com\">vistaridgevineyards.com</a></p> <p>Phone: +1 231-331-5511</p> <p>Just a short stroll from Torch Lake, Vista Ridge Vineyards offers a cozy tasting room and sunny deck where you can sip handcrafted wines and enjoy charcuterie boards with friends. Whether you arrive by boat or car, it’s a perfect spot to unwind and savor local flavors in a laid-back, lakeside setting.</p>",
+  "photo": "/home/claude/guide/site/img/8e0a28b0d1e8df9e7ceaa6b386648a67.jpg",
+  "loc": [
+   44.881428,
+   -85.275192
+  ],
+  "pin": "grocery_shopping"
+ }
+]

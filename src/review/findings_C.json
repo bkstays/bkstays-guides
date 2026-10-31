@@ -1,0 +1,441 @@
+[
+ {
+  "key": "shanty-creek|0|0",
+  "title": "Swimming Pools at Shanty Creek",
+  "verdict": "updated",
+  "new_html": "<p>Whether you're cooling off in summer or relaxing after a day on the slopes, Shanty Creek has pools across its villages.</p><ul><li><strong>The Lakeview Hotel (Summit Village)</strong> – <strong>indoor pool</strong> (open daily 9am–11pm) and a seasonal <strong>outdoor pool</strong> (summer only).</li><li><strong>The Lodge at Cedar River</strong> – heated outdoor pool and hot tubs, reserved for Cedar River lodging guests and property owners.</li></ul><p><strong>Your pool pass covers the Lakeview Hotel indoor and outdoor pools only.</strong> The other village pools are not included with your stay.</p><p>Pool towels are provided only to Shanty Creek lodging guests, so please bring your own towels.</p><p><strong>More info:</strong> <a href=\"https://www.shantycreek.com/stay/fitness-center/\">https://www.shantycreek.com/stay/fitness-center/</a></p>",
+  "photo_ok": true,
+  "photo_note": "Lakeview Hotel outdoor pool - matches.",
+  "changes": [
+   "Kept the pool-pass sentence word for word.",
+   "Resort's Fitness Center + Pools page (updated Oct 2026) no longer lists a Schuss Village pool; removed Schuss Village indoor pool line.",
+   "Cedar River pool is now described as a year-round heated outdoor pool for Cedar River lodging guests/owners (was 'seasonal'); listed as not included.",
+   "Added Lakeview indoor pool hours (daily 9am–11pm); outdoor pool is closed for the season as of fall 2026.",
+   "Added: pass holders must bring their own towels (per resort pool-pass terms).",
+   "Link changed to the Fitness Center + Pools page, which carries pool hours and pass rules."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/stay/fitness-center/",
+   "https://www.shantycreek.com/stay/lodging/four-villages/",
+   "https://www.shantycreek.com/stay/more-fun-in-the-sun/"
+  ]
+ },
+ {
+  "key": "shanty-creek|0|1",
+  "title": "Children’s Play Area – Summit Village",
+  "verdict": "ok",
+  "photo_ok": true,
+  "photo_note": "Playground in front of Lakeview Hotel sign - matches.",
+  "changes": [
+   "Playground confirmed by resort photo caption 'Kids playing at The Lakeview Hotel's playground'. No link, phone or hours to check."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/stay/more-fun-in-the-sun/"
+  ]
+ },
+ {
+  "key": "shanty-creek|0|2",
+  "title": "Tennis at Summit Village",
+  "verdict": "ok",
+  "photo_ok": true,
+  "photo_note": "Generic tennis racquet/ball on court - fine.",
+  "changes": [
+   "Matches resort page: courts in Summit Village overlooking the golf course; racquets and balls from Summit Fitness Center. Link loads."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/stay/more-fun-in-the-sun/"
+  ]
+ },
+ {
+  "key": "shanty-creek|0|3",
+  "title": "Disc Golf at Summit Mountain",
+  "verdict": "updated",
+  "new_title": "Disc Golf at Summit Golf Club",
+  "new_html": "<p>Get outside and enjoy a fun, casual round on Shanty Creek’s <strong>9-hole Disc Golf &amp; Foot Golf course</strong> at <strong>Summit Golf Club</strong> in Summit Village.</p><p>Perfect for families, beginners, or seasoned disc golfers looking for a relaxed round with a view. It’s a great way to enjoy the outdoors while getting in some light activity.</p><p>Discs, scorecards, and course maps are available at the <strong>Summit/Legend Pro Shop</strong>. $12 includes a disc. To make a tee time, call <a href=\"tel:2315332020\">231-533-2020</a>.</p><p><strong>More info:</strong> <a href=\"https://www.shantycreek.com/golf/golf-2-0/#footgolf\">https://www.shantycreek.com/golf/golf-2-0/#footgolf</a></p>",
+  "photo_ok": true,
+  "photo_note": "People throwing a disc with lake view - fits.",
+  "changes": [
+   "Course is now listed at Summit Golf Club (was 'Summit Mountain, behind The Lakeview Hotel').",
+   "Discs/scorecards now come from the Summit/Legend Pro Shop, not the Summit Fitness Center.",
+   "Added $12 price and tee-time phone 231-533-2020 (same as the verified Foot & Disc Golf item).",
+   "Title still says 'Summit Mountain'; suggest 'Disc Golf at Summit Golf Club', or merge with the 'Foot & Disc Golf' item since it is the same course."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/stay/more-fun-in-the-sun/",
+   "https://www.shantycreek.com/golf/golf-2-0/",
+   "https://www.shantycreek.com/wp-content/uploads/2026/07/2026-Scorecard-Footgolf-Discgolf.pdf"
+  ]
+ },
+ {
+  "key": "shanty-creek|0|4",
+  "title": "Go Outside and Play",
+  "verdict": "ok",
+  "photo_ok": true,
+  "photo_note": "Generic basketball hoop - fine.",
+  "changes": [
+   "Matches resort list of games (sand volleyball, badminton, shuffleboard, bocce, tetherball, wiffle ball, tennis). Basketball/H-O-R-S-E is not on the current resort list, but a court is near the Lakeview; left as is. Link loads."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/stay/more-fun-in-the-sun/"
+  ]
+ },
+ {
+  "key": "shanty-creek|0|5",
+  "title": "Lawn Games",
+  "verdict": "ok",
+  "photo_ok": true,
+  "photo_note": "Horseshoes on a hillside lawn - fits.",
+  "changes": [
+   "Game list and 'stop by the Fitness Center in Summit Village' match the resort page word for word. Link loads."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/stay/more-fun-in-the-sun/"
+  ]
+ },
+ {
+  "key": "shanty-creek|0|6",
+  "title": "Boating",
+  "verdict": "ok",
+  "photo_ok": true,
+  "photo_note": "Pontoon/boat on a lake at sunset - fits.",
+  "changes": [
+   "Matches resort page. Link loads."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/stay/more-fun-in-the-sun/"
+  ]
+ },
+ {
+  "key": "shanty-creek|0|7",
+  "title": "Biking",
+  "verdict": "updated",
+  "new_html": "<p>Antrim County is a cyclist’s dream, whether you prefer the road or rugged trails.</p><ul><li><strong>Road Biking</strong>: Ride the quiet, rolling hills and scenic byways with minimal traffic and stunning views.</li><li><strong>Mountain Biking</strong>: Explore Glacial Hills, one of Michigan’s premier trail systems with loops for all skill levels.</li><li><strong>E-Bike Rentals</strong> (summer season): New to biking or want help with the hills? Rent a <strong>motor-assisted e-bike</strong> from the Summit Fitness Center: 6 hours $65, 12 hours $132. Pick-up 9am–5pm; call <a href=\"tel:2315337060\">231-533-7060</a>.</li><li><strong>Traditional Bikes</strong> are also available for cruising around the resort.</li></ul><p><strong>More info:</strong> <a href=\"https://www.shantycreek.com/stay/fitness-center/\">https://www.shantycreek.com/stay/fitness-center/</a></p>",
+  "photo_ok": true,
+  "photo_note": "Mountain bikers on a fall forest trail - fits.",
+  "changes": [
+   "Removed empty nested <div> wrappers.",
+   "Added e-bike prices, pick-up hours and phone from the Fitness Center page; noted that e-bikes are summer-season only (per Four Villages page).",
+   "Link changed to the Fitness Center page, which has the rental details."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/stay/fitness-center/",
+   "https://www.shantycreek.com/stay/more-fun-in-the-sun/",
+   "https://www.shantycreek.com/stay/lodging/four-villages/"
+  ]
+ },
+ {
+  "key": "shanty-creek|0|8",
+  "title": "Hiking",
+  "verdict": "updated",
+  "new_html": "<p>Looking for a scenic workout? Shanty Creek offers hiking experiences for every pace and preference:</p><ul><li><strong>Schuss Mountain Trails</strong> – Tackle a summertime climb for a rewarding hike with panoramic views of northern Michigan.</li><li><strong>Grass River Natural Area</strong> – Just a short drive away, this network of trails winds through forests, wetlands, and along the water’s edge. It's perfect for peaceful nature walks and wildlife spotting.</li></ul><p>Whether you're in it for fitness or fresh air, these trails highlight the natural beauty of the region.</p><p><strong>More info:</strong> <a href=\"https://www.shantycreek.com/stay/more-fun-in-the-sun/\">https://www.shantycreek.com/stay/more-fun-in-the-sun/</a></p>",
+  "photo_ok": true,
+  "photo_note": "Grassy hiking path through pines - fits.",
+  "changes": [
+   "Content is accurate; only removed empty nested <div> wrappers and converted bullets to a list."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/stay/more-fun-in-the-sun/"
+  ]
+ },
+ {
+  "key": "shanty-creek|0|9",
+  "title": "After Dark | Outdoor Movies + Stargazing",
+  "verdict": "unsure",
+  "new_html": "<p>When the sun goes down, the fun doesn’t stop at Shanty Creek.</p><p><strong>Outdoor Movies on the Mountain</strong><br>On select summer <strong>Saturday nights</strong>, the resort has hosted <strong>family-friendly outdoor movies</strong> atop Summit Mountain. Check the <a href=\"https://www.shantycreek.com/events/\">events calendar</a> or ask the front desk for upcoming dates.</p><p><strong>Stargazing in Northern Michigan</strong><br>Clear skies bring out a whole new show: <strong>the stars</strong>. Far from city lights, Shanty Creek is a great place to spot constellations, shooting stars, and if you're lucky, the <strong>Northern Lights</strong>.</p><p><strong>Tip:</strong> Dress warm and bring a thermos. Even summer nights can get cool at the top.</p><p><strong>More info:</strong> <a href=\"https://www.shantycreek.com/stay/more-fun-in-the-sun/\">https://www.shantycreek.com/stay/more-fun-in-the-sun/</a></p>",
+  "photo_ok": true,
+  "photo_note": "Milky Way over pines - fits stargazing.",
+  "changes": [
+   "The resort page still mentions outdoor movies on select Saturdays, but no movie nights appear in the resort events calendar for summer 2025 or 2026. Softened the wording and pointed guests to the events calendar.",
+   "Link loads."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/stay/more-fun-in-the-sun/",
+   "https://www.shantycreek.com/events/",
+   "https://www.shantycreek.com/wp-json/tribe/events/v1/events?start_date=2026-05-01&end_date=2026-09-30"
+  ]
+ },
+ {
+  "key": "shanty-creek|1|0",
+  "title": "Schuss Mountain Trail Map",
+  "verdict": "updated",
+  "new_html": "<p><em>Welcome to Schuss Mountain at Shanty Creek Resort, where terrain, trails, and fun come together.</em></p><p>Schuss Mountain has about <strong>42 trails</strong> for all skill levels, with groomed runs, glades, two terrain parks, and great views across the mountain.</p><p><strong>Trail difficulty</strong></p><ul><li><strong>● Green circle</strong> – Easiest: wide, gentle slopes for beginners</li><li><strong>■ Blue square</strong> – More difficult: for developing skiers</li><li><strong>◆ Black diamond</strong> – Most difficult: steeper, faster terrain and glades</li></ul><p><strong>Lifts</strong></p><ul><li><strong>Five chairlifts</strong> – Pink, Blue, Yellow, Purple, and Red</li><li><strong>Purple Lift</strong> – Rises from Cedar River Village for ski-in/ski-out access</li><li><strong>Red Lift</strong> – Serves the back side of the mountain</li><li><strong>Surface lifts</strong> – Magic carpet and handle tow for beginners and the small terrain park</li></ul><p><strong>Terrain parks</strong></p><ul><li><strong>Mellow Yellow</strong> – The main park: big boxes, rails, and jumps</li><li><strong>Low Rider</strong> – A smaller, handle-tow park near the Yellow Lift for building confidence</li></ul><p><strong>Key areas</strong></p><ul><li><strong>Schuss Village</strong> – Base area with day lodge, tickets, rentals, ski school, and Ivan’s</li><li><strong>Cedar River Village</strong> – Ski-in/ski-out lodging next to the Purple Lift</li></ul><p><strong>Tips for Visitors</strong></p><ul><li>Start your day early for fresh corduroy runs</li><li>Green trails near the base are best for families and beginners</li><li>Use lift maps and signage to plan your route across the mountain</li><li>Helmets are recommended for all riders</li></ul><p><strong>Trail map:</strong> <a href=\"https://www.shantycreek.com/wp-content/uploads/2026/01/Shanty-Creek-Resort-Map-scaled.png\">Schuss Mountain Trail Map</a></p>",
+  "photo_ok": true,
+  "photo_note": "Older (2021) Schuss Mountain trail map; layout still matches the 2026 map. Could swap for the 2026 map image.",
+  "changes": [
+   "Fixed lift info using the current 2026 trail map: five chairlifts (Pink, Blue, Yellow, Purple, Red) plus surface lifts. Removed the made-up 'Pink Lift Corner' and the wrong lift roles.",
+   "Terrain parks corrected: Mellow Yellow is the main park; Low Rider is the small beginner park (the guide had Low Rider as the main park).",
+   "Removed the 'double black diamond' tier, which isn't on the map, and the vague 'Ski Patrol' bullet.",
+   "Trail map link changed to the 2026 map image the resort uses on its On The Slopes page. The 2021 PDF still loads but is older."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/ski/on-the-snow/",
+   "https://www.shantycreek.com/wp-content/uploads/2026/01/Shanty-Creek-Resort-Map-scaled.png",
+   "https://www.shantycreek.com/wp-content/uploads/2021/12/Schuss-Mountain-and-Nordic-Trails-Online.pdf"
+  ]
+ },
+ {
+  "key": "shanty-creek|1|1",
+  "title": "Nordic Trail Map",
+  "verdict": "updated",
+  "new_html": "<p>Explore the snow-covered beauty of Shanty Creek Resort on its scenic <strong>Nordic ski and snowshoe trails</strong>. Whether you're a beginner or an experienced skier, these trails offer a peaceful and invigorating way to enjoy winter.</p><p><strong>Trail overview (2026 map)</strong></p><ul><li><strong>Pine Cone</strong> – 4.5 km, Schuss Village</li><li><strong>Winter Brook</strong> – 1.5 km, Schuss Village</li><li><strong>Arnie’s Way</strong> – 1 km, Summit Village</li><li><strong>Summit Loop</strong> – 1 km, Summit Village</li><li><strong>Multi-purpose trail</strong> – 3 km groomed trail at Schuss Village for snowshoeing and fat tire biking</li></ul><p>Trails are marked by difficulty (easiest, moderate, difficult) with trailhead signs. Landmarks along the way include <strong>Red Lift Corner</strong>, <strong>Riverview</strong>, and <strong>#3 Tee</strong>.</p><p><strong>Nordic Center hours (2026–27 season, projected Dec 26 – Mar 13):</strong></p><ul><li><strong>Thu &amp; Mon:</strong> 9am – 4pm</li><li><strong>Fri:</strong> 10am – 4pm</li><li><strong>Sat, Sun &amp; holidays:</strong> 9am – 5pm</li><li><strong>Closed:</strong> Tue &amp; Wed</li></ul><p><strong>View the trail map:</strong> <a href=\"https://www.shantycreek.com/wp-content/uploads/2026/01/NORDIC-TRAILS-Cross-Country-2026-11x17-1-scaled.jpg\">2026 Nordic Trail Map</a></p><p><strong>More info:</strong> <a href=\"https://www.shantycreek.com/ski/nordic-trails/\">https://www.shantycreek.com/ski/nordic-trails/</a></p>",
+  "photo_ok": false,
+  "photo_note": "Shows the old 2025 Nordic map (Mountain Creek, Poets Loop, King of the Hill trails), which no longer matches the 2026 map. Replace with the 2026 Nordic map image.",
+  "changes": [
+   "Trail table replaced with the 2026 map trails. Mountain Creek, Poets Loop, King of the Hill and the Schuss Mountain trail are not on the current map; Arnie's Way and Summit Loop are new.",
+   "Nordic Center hours updated to the official 2026–27 schedule: Friday now opens at 10am. Added projected season dates.",
+   "Map link changed from the 2024/12 2025 map to the current 2026 map.",
+   "Note: the 2026 map shows a 'Nordic Ski Center' at Summit Village, but resort text still says the Nordic Center is in the Schuss Village Pro Shop. Location not stated here."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/ski/nordic-trails/",
+   "https://www.shantycreek.com/ski/hours-of-operation/",
+   "https://www.shantycreek.com/wp-content/uploads/2026/01/NORDIC-TRAILS-Cross-Country-2026-11x17-1-scaled.jpg"
+  ]
+ },
+ {
+  "key": "shanty-creek|1|2",
+  "title": "Skiing & Snowboarding",
+  "verdict": "updated",
+  "new_html": "<p>Shanty Creek Resort is one of Michigan’s most beloved ski destinations. <strong>Schuss Mountain</strong> has about <strong>42 downhill trails</strong>, five chairlifts, and two terrain parks, making it ideal for skiers and snowboarders of all skill levels. Alpine tubing is next door at <strong>Summit Mountain</strong>.</p><p>Whether you’re a beginner looking for gentle runs or a seasoned skier chasing fresh powder and steeps, the variety of terrain, well-maintained conditions, and laid-back vibe deliver exactly what you need.</p><p><strong>2026–27 season (projected):</strong> opens Dec 5, 2026; daily skiing from Dec 12; night skiing from Dec 26; closes Mar 22, 2027.</p><p><strong>Hours:</strong> Sun 9am–4:30pm; Mon–Tue 10am–4:30pm; Wed–Sat and holidays 9am–9pm (once night skiing begins).</p><p><strong>More info:</strong> <a href=\"https://www.shantycreek.com/ski/\">https://www.shantycreek.com/ski/</a> | <a href=\"https://www.shantycreek.com/ski/hours-of-operation/\">Hours of operation</a></p>",
+  "photo_ok": true,
+  "photo_note": "Skier under chairlift - fits.",
+  "changes": [
+   "'Over 50 downhill slopes across Schuss Mountain and Summit Mountain' corrected. The resort's conditions widget shows 42 trails, 7 lifts and 2 terrain parks, all at Schuss Mountain; Summit Mountain is used for alpine tubing.",
+   "Added official 2026–27 projected season dates and hours from the Hours of Operation page (updated Oct 29, 2026)."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/ski/",
+   "https://www.shantycreek.com/ski/hours-of-operation/",
+   "https://www.shantycreek.com/wp-content/uploads/2026/01/Shanty-Creek-Resort-Map-scaled.png"
+  ]
+ },
+ {
+  "key": "shanty-creek|1|3",
+  "title": "Nordic Skiing",
+  "verdict": "updated",
+  "new_html": "<p>Few activities capture the quiet beauty of northern Michigan in winter quite like Nordic skiing. At <strong>Shanty Creek Resort</strong>, you’ll find <strong>9.5 km of groomed, track-set cross-country trails</strong> that wind between the resort’s villages for a scenic, heart-healthy <em>village-to-village</em> skiing experience.</p><p><strong>Multi-purpose trail:</strong> If Nordic skiing isn’t your thing, a <strong>3 km groomed trail</strong> in <strong>Schuss Village</strong> is set aside for <strong>fat tire biking</strong> and <strong>snowshoeing</strong>.</p><p><strong>Nordic Center:</strong> Classic and skate ski rentals and snowshoe rentals. Day trail pass $22 adult / $14 child; ski packages $34 adult; snowshoes $28.</p><p><strong>Hours (2026–27, projected Dec 26 – Mar 13):</strong> Thu &amp; Mon 9am–4pm; Fri 10am–4pm; Sat, Sun &amp; holidays 9am–5pm; closed Tue &amp; Wed.</p><p><strong>Lessons:</strong> Book 48 hours ahead. Cancellations need 48 hours’ notice for a refund. Requests for a specific instructor need at least 3 days’ notice.</p><p><strong>More info:</strong> <a href=\"https://www.shantycreek.com/ski/nordic-trails/\">https://www.shantycreek.com/ski/nordic-trails/</a></p>",
+  "photo_ok": true,
+  "photo_note": "Cross-country ski racers - fits (likely White Pine Stampede).",
+  "changes": [
+   "Trail length corrected to 9.5 km. The guide said both 18 km and 20 km; the resort now says 9.5 km.",
+   "Hours updated to the official 2026–27 Nordic Center schedule (Friday opens 10am) with projected season dates.",
+   "Added trail pass and rental prices from the official page.",
+   "Removed 'located adjacent to the Pine Cone trailhead' and the duplicate trail-length line. The 2026 map shows a Nordic Ski Center in Summit Village while resort text says Schuss Village, so the location is left out.",
+   "Removed emoji bullets."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/ski/nordic-trails/",
+   "https://www.shantycreek.com/ski/hours-of-operation/",
+   "https://www.shantycreek.com/wp-content/uploads/2026/01/NORDIC-TRAILS-Cross-Country-2026-11x17-1-scaled.jpg"
+  ]
+ },
+ {
+  "key": "shanty-creek|1|4",
+  "title": "Alpine Tubing",
+  "verdict": "updated",
+  "new_html": "<p>If skiing and snowboarding aren’t your thing, there’s still a fast and fun way to enjoy the snow. <strong>Alpine Tubing</strong> at <strong>Summit Mountain</strong> is a must-try winter activity, with all the thrills of sledding and none of the uphill climb.</p><p>You’ll hear laughter echoing across the slopes as guests of all ages race down the tubing lanes and ride the surface lift back to the top. No skills required. Just hold on and enjoy the ride!</p><p><strong>What to know:</strong></p><ul><li>Sessions start at the top of every hour</li><li><strong>$30 per hour</strong></li><li><strong>Online booking only</strong></li><li>Participants must be <strong>36″ tall</strong></li></ul><p><strong>Hours (2026–27, projected Dec 19 – Mar 14):</strong> Fri 4pm–10pm; Sat &amp; holidays 10am–10pm; Sun &amp; holiday Mondays 10am–4pm.</p><p><strong>Parents note:</strong> The <strong>last two hours</strong> on <strong>Friday and Saturday nights</strong> are recommended for <strong>adults only</strong>.</p><p><strong>More info &amp; booking:</strong> <a href=\"https://www.shantycreek.com/ski/more-on-the-snow/#tubing\">https://www.shantycreek.com/ski/more-on-the-snow/#tubing</a></p>",
+  "photo_ok": true,
+  "photo_note": "Kids with snow tubes - fits.",
+  "changes": [
+   "Price updated from $25/$23 to $30 per hour.",
+   "Added official 2026–27 tubing hours and projected season dates.",
+   "Removed emoji headings."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/ski/more-on-the-snow/",
+   "https://www.shantycreek.com/ski/hours-of-operation/"
+  ]
+ },
+ {
+  "key": "shanty-creek|1|5",
+  "title": "Fat Tire Biking",
+  "verdict": "updated",
+  "new_html": "<p><strong>Ride on, even in the snow</strong></p><p>Try <strong>fat tire biking</strong> on the groomed <strong>3 km multi-purpose trail</strong> at Schuss Village. Whether you're an experienced rider or just looking to try something new, this packed trail offers a smooth, scenic ride through snow-covered landscapes. It’s shared with snowshoers.</p><p>Don’t have your own bike? <strong>Fat tire bike rentals</strong> are available from <a href=\"https://webreserv.com/paddlesandpedalsmi\">Paddles &amp; Pedals</a>, 206 N. Bridge St. in downtown Bellaire. Call <a href=\"tel:2315334449\">231-533-4449</a> to reserve and confirm winter availability.</p><p><strong>More info:</strong> <a href=\"https://www.shantycreek.com/ski/nordic-trails/\">https://www.shantycreek.com/ski/nordic-trails/</a></p>",
+  "photo_ok": true,
+  "photo_note": "Fat tire bike in snow - fits.",
+  "changes": [
+   "Fixed the empty Paddles & Pedals link (it had no href) and added the shop address. Phone 231-533-4449 confirmed.",
+   "Removed 'leashed pups are welcome' because the current resort pages don't say this.",
+   "Link changed to the Nordic Trails page, which describes the 3 km fat-bike/snowshoe trail. The More On The Snow page no longer covers fat biking."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/ski/nordic-trails/",
+   "https://webreserv.com/paddlesandpedalsmi"
+  ]
+ },
+ {
+  "key": "shanty-creek|1|6",
+  "title": "Snow Glide Tours",
+  "verdict": "updated",
+  "new_html": "<p>Experience winter like never before with Shanty Creek’s <strong>Snow Glide Tours</strong>, a scenic, cozy, and memorable ride for all ages.</p><p>Tours depart from The Lakeview Hotel's front circle. Each 45-minute guided ride winds through the snow-blanketed landscapes of <strong>Summit Village</strong>, with sweeping views and no effort required.</p><p>Each tour seats up to <strong>9 passengers</strong> and is pulled behind “<strong>Big Blue</strong>,” a double-track snowmobile. The Snow Glide has seatbelts, and passengers must be able to sit independently while buckled.</p><p><strong>Schedule (last season):</strong> on the hour, <strong>10am–3pm</strong>, on Saturdays, Sundays, and select holiday dates. The 2026–27 schedule had not been posted as of Oct 2026.</p><p><strong>Price:</strong> $29 per seat<br><em>Seating is limited, so book early.</em> Questions: <a href=\"tel:2315333000\">231-533-3000</a>.</p><p><strong>More info &amp; booking:</strong> <a href=\"https://www.shantycreek.com/snow-glide-tours/\">https://www.shantycreek.com/snow-glide-tours/</a></p>",
+  "photo_ok": true,
+  "photo_note": "Passengers in a covered snow-glide sled - fits.",
+  "changes": [
+   "Price updated from $25 to $29 per seat.",
+   "Schedule corrected: last season ran 10am–3pm on Saturdays, Sundays and holidays, not Fridays or 9am. The page was last updated Oct 2025, so this is labeled as last season's schedule.",
+   "Added phone 231-533-3000 and the seatbelt requirement."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/snow-glide-tours/",
+   "https://www.shantycreek.com/ski/more-on-the-snow/"
+  ]
+ },
+ {
+  "key": "shanty-creek|1|7",
+  "title": "Snowshoeing",
+  "verdict": "ok",
+  "photo_ok": true,
+  "photo_note": "Person in snowshoes - fits.",
+  "changes": [
+   "Matches the More On The Snow page (3 km multi-purpose trail at Schuss Village; rentals from the Nordic Center at Schuss Village). Link loads."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/ski/more-on-the-snow/"
+  ]
+ },
+ {
+  "key": "shanty-creek|2|0",
+  "title": "Cedar River",
+  "verdict": "updated",
+  "new_html": "<p>“...a pleasure to play and a beauty to experience.” Cedar River’s glacial-carved canvas was perfect for famed course architect Tom Weiskopf to design this masterpiece.</p> <p>Among \"America’s Top 100 Resort Courses\" in <em>Golf Week</em> and the “Top 1,000 Courses in the World” by Rolex. Along with The Legend, Cedar River is listed among Michigan’s Top 20 Public Courses according to <em>Golf Magazine</em>.</p> <p><a href=\"https://www.shantycreek.com/wp-content/uploads/2026/06/2026-Scorecard-Cedar-River.pdf\">Cedar River Scorecard</a></p><p><a href=\"https://www.shantycreek.com/golf/tee-times/\">Cedar River Tee Times</a> or call <a href=\"tel:2315332020\">231-533-2020</a></p> <p><strong>Closed Mondays and Tuesdays</strong></p>",
+  "photo_ok": true,
+  "photo_note": "Golf course landscape - plausible for Cedar River.",
+  "changes": [
+   "Scorecard link was dead (2024 PDF returns 404); replaced with the current 2026 scorecard https://www.shantycreek.com/wp-content/uploads/2026/06/2026-Scorecard-Cedar-River.pdf.",
+   "Closed days (Mondays and Tuesdays) confirmed on the resort's Golf Courses page and Google.",
+   "Added tee-time phone 231-533-2020."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/golf/courses-rates/#cedarriver_gc",
+   "https://www.shantycreek.com/golf/tee-times/",
+   "https://www.shantycreek.com/wp-content/uploads/2026/06/2026-Scorecard-Cedar-River.pdf"
+  ]
+ },
+ {
+  "key": "shanty-creek|2|1",
+  "title": "Foot & Disc Golf",
+  "verdict": "ok",
+  "photo_ok": true,
+  "photo_note": "Foot golf ball at a flag/hole with players - matches Foot & Disc Golf.",
+  "changes": [
+   "Per instructions, only the photo was checked. Note: the 'Disc Golf at Summit Mountain' item describes the same course and could be merged with this one."
+  ],
+  "sources": []
+ },
+ {
+  "key": "shanty-creek|2|2",
+  "title": "Hawk's Eye",
+  "verdict": "updated",
+  "new_html": "<p>“...the perfect complement to Cedar River and The Legend.”</p> <p>Adding to Shanty Creek's golf reputation, this John Robinson design features incredible vistas, water hazards on 9 of 18 holes, and putting greens to challenge golfers of all levels. Named among \"Michigan's Top Courses\" from <em>Golf Advisor</em> and the “Top 25 Course Layouts in the US.\"</p> <p><a href=\"https://www.shantycreek.com/wp-content/uploads/2026/06/2026-Scorecard-Hawks-Eye.pdf\">Hawk's Eye Scorecard</a></p><p><a href=\"https://www.shantycreek.com/golf/tee-times/\">Hawk's Eye Tee Times</a> or call <a href=\"tel:2315332020\">231-533-2020</a></p> <p><strong>Closed Mondays and Tuesdays</strong></p>",
+  "photo_ok": true,
+  "photo_note": "Golf course landscape - plausible for Hawk's Eye.",
+  "changes": [
+   "Scorecard link was dead (2024 PDF returns 404); replaced with the current 2026 scorecard https://www.shantycreek.com/wp-content/uploads/2026/06/2026-Scorecard-Hawks-Eye.pdf.",
+   "Closed days (Mondays and Tuesdays) confirmed on the resort's Golf Courses page and Google.",
+   "Added tee-time phone 231-533-2020."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/golf/courses-rates/#hawkseye_gc",
+   "https://www.shantycreek.com/golf/tee-times/",
+   "https://www.shantycreek.com/wp-content/uploads/2026/06/2026-Scorecard-Hawks-Eye.pdf"
+  ]
+ },
+ {
+  "key": "shanty-creek|2|3",
+  "title": "Schuss Mountain",
+  "verdict": "updated",
+  "new_html": "<p>Schuss Mtn delivers a challenge for even the most accomplished golfers. Par eludes many throughout 7,013 yards of pine-dotted forests, wetlands, and rolling hills.</p> <p>Playing like two distinct 9-hole courses, the front doglegs through pine forests on a flat pitch. Then on the back, play jumps up and down the rolling hills of Antrim County delivering an overall exciting golf experience made only better by our crew's tremendous care to its course conditions.</p> <p><a href=\"https://www.shantycreek.com/wp-content/uploads/2026/06/2026-Scorecard-Schuss.pdf\">Schuss Mountain Scorecard</a></p><p><a href=\"https://www.shantycreek.com/golf/tee-times/\">Schuss Mountain Tee Times</a> or call <a href=\"tel:2315332020\">231-533-2020</a></p> <p><strong>Closed Mondays and Tuesdays</strong></p>",
+  "photo_ok": true,
+  "photo_note": "Golf course landscape - plausible for Schuss Mountain.",
+  "changes": [
+   "Scorecard link was dead (2024 PDF returns 404); replaced with the current 2026 scorecard https://www.shantycreek.com/wp-content/uploads/2026/06/2026-Scorecard-Schuss.pdf.",
+   "Closed days (Mondays and Tuesdays) confirmed on the resort's Golf Courses page and Google.",
+   "Added tee-time phone 231-533-2020."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/golf/courses-rates/#schussmtn_gc",
+   "https://www.shantycreek.com/golf/tee-times/",
+   "https://www.shantycreek.com/wp-content/uploads/2026/06/2026-Scorecard-Schuss.pdf"
+  ]
+ },
+ {
+  "key": "shanty-creek|2|4",
+  "title": "Summit",
+  "verdict": "updated",
+  "new_html": "<p>“...an under-appreciated gem.” While length is not a factor, Summit forces accomplished golfers to test their short game. Precise landings and fast, challenging greens will make you earn your score.</p> <p>A Par Three tee box on every hole gives junior golfers a fun (and less intimidating!) way to develop their game.</p> <p><a href=\"https://www.shantycreek.com/wp-content/uploads/2026/06/2026-Scorecard-Summit.pdf\">Summit Scorecard</a></p><p><a href=\"https://www.shantycreek.com/golf/tee-times/\">Summit Tee Times</a> or call <a href=\"tel:2315332020\">231-533-2020</a></p> <p><strong>Closed Wednesdays and Thursdays</strong></p>",
+  "photo_ok": true,
+  "photo_note": "Golf course landscape - plausible for Summit.",
+  "changes": [
+   "Scorecard link was dead (2024 PDF returns 404); replaced with the current 2026 scorecard https://www.shantycreek.com/wp-content/uploads/2026/06/2026-Scorecard-Summit.pdf.",
+   "Closed days (Wednesdays and Thursdays) confirmed on the resort's Golf Courses page and Google.",
+   "Added tee-time phone 231-533-2020.",
+   "Added the missing opening quote mark.",
+   "Map pin is the same as the other Summit Village course (Lakeview Hotel area). Both are within about 400 m, so not wrong. If separate pins are wanted, use Google: Summit [44.95006, -85.18381], Legend [44.95253, -85.18552]."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/golf/courses-rates/#summit_gc",
+   "https://www.shantycreek.com/golf/tee-times/",
+   "https://www.shantycreek.com/wp-content/uploads/2026/06/2026-Scorecard-Summit.pdf"
+  ]
+ },
+ {
+  "key": "shanty-creek|2|5",
+  "title": "The Legend",
+  "verdict": "updated",
+  "new_html": "<p><em>by Arnold Palmer</em></p> <p>The Legend's reputation has been built on multiple elevation changes, doglegs, water hazards, and well-placed traps. Its setting includes views of Lake Bellaire and the actual Shanty Creek trickles through your round.</p> <p>Arnold Palmer helped introduce northern Michigan golf to the world when <em>Golf Magazine</em> named it among the “Top Resort Courses” in the US. 4½ stars from <em>Golf Digest</em>.</p> <p><a href=\"https://www.shantycreek.com/wp-content/uploads/2026/06/2026-Scorecard-The-Legend.pdf\">The Legend Scorecard</a></p><p><a href=\"https://www.shantycreek.com/golf/tee-times/\">The Legend Tee Times</a> or call <a href=\"tel:2315332020\">231-533-2020</a></p> <p><strong>Closed Wednesdays and Thursdays</strong></p>",
+  "photo_ok": true,
+  "photo_note": "Golf course landscape - plausible for The Legend.",
+  "changes": [
+   "Scorecard link was dead (2024 PDF returns 404); replaced with the current 2026 scorecard https://www.shantycreek.com/wp-content/uploads/2026/06/2026-Scorecard-The-Legend.pdf.",
+   "Closed days (Wednesdays and Thursdays) confirmed on the resort's Golf Courses page and Google.",
+   "Added tee-time phone 231-533-2020.",
+   "Wrapped the bare 'by Arnold Palmer' text in a paragraph.",
+   "Map pin is the same as the other Summit Village course (Lakeview Hotel area). Both are within about 400 m, so not wrong. If separate pins are wanted, use Google: Summit [44.95006, -85.18381], Legend [44.95253, -85.18552]."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/golf/courses-rates/#legend_gc",
+   "https://www.shantycreek.com/golf/tee-times/",
+   "https://www.shantycreek.com/wp-content/uploads/2026/06/2026-Scorecard-The-Legend.pdf"
+  ]
+ },
+ {
+  "key": "shanty-creek|3|0",
+  "title": "Beach Club – Lake Bellaire (Private Access)",
+  "verdict": "unsure",
+  "photo_ok": "unsure",
+  "photo_note": "Generic sandy beach with lounge chairs on a lake. Can't confirm it is this beach club; may be a stock or AI-style image.",
+  "changes": [
+   "Could not verify. shantycreek.com no longer mentions a Beach Club anywhere, including lodging, Four Villages, the Fitness Center + Pools page and the site map. The only link goes to the homepage.",
+   "Some private Shanty Creek rental listings advertise 'Private Beach Club' privileges, which suggests an owners'/association amenity rather than a resort amenity. Access for these homes is unconfirmed.",
+   "The text says 'only available to registered Shanty Creek lodging guests', which by its own terms would exclude guests of privately owned homes.",
+   "Details like '200 feet of shoreline', 'kayak and paddleboard rentals nearby', 'grill areas' and 'Short's ~3 minutes away' can't be verified and read like generated filler.",
+   "Recommendation: the owner should confirm whether their guests have beach access, plus the location, hours and how to get in. Otherwise remove this tile."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/stay/lodging/four-villages/",
+   "https://www.shantycreek.com/stay/fitness-center/",
+   "https://www.expedia.com/Bellaire-Hotels-Shanty-Creek-Private-Beach-Club-With-Golf-Course-Views.h105882651.Hotel-Information"
+  ]
+ },
+ {
+  "key": "shanty-creek|4|0",
+  "title": "The Lakeview Hotel",
+  "verdict": "updated",
+  "new_html": "<p>Enjoy the heart of <strong>Summit Village</strong> at the <strong>Lakeview Hotel</strong>, perched above Lake Bellaire with views for miles. Even if you're not staying at the hotel, it's the resort's hub for dining, pools, and events.</p><p><strong>Dining</strong></p><ul><li><strong>The Lakeview</strong> – bar and grill fare with sunset views over Lake Bellaire. Breakfast daily 7–11am; lunch daily 11:30am–4pm; dinner Sun–Thu 5–9pm, Fri–Sat 5–10pm; bar opens daily at 11:30am; happy hour daily 5–6:30pm.</li><li><strong>CoffeeBAR</strong> (proudly serving Starbucks) – in the Great Room lobby. Sun–Thu 7am–2pm, Fri–Sat 7am–6pm.</li></ul><p><strong>Pools</strong></p><ul><li>Your pool pass covers the Lakeview <strong>indoor pool</strong> (open daily 9am–11pm) and the seasonal <strong>outdoor pool</strong>. Bring your own towels.</li></ul><p><strong>Nearby in Summit Village</strong></p><ul><li>Tennis courts, the children's playground, and The Legend and Summit golf courses</li><li>Alpine tubing and Snow Glide Tours in winter</li></ul><p><strong>Address:</strong> 5780 Shanty Creek Road, Bellaire, MI 49615<br><strong>Phone:</strong> <a href=\"tel:2315333000\">231-533-3000</a></p><p><strong>More info:</strong> <a href=\"https://www.shantycreek.com/stay/dining/\">https://www.shantycreek.com/stay/dining/</a></p>",
+  "photo_ok": true,
+  "photo_note": "Lakeview Hotel entrance at dusk with signage - matches.",
+  "changes": [
+   "Removed hotel-guest perks that don't apply to guests of these homes and could mislead them: fitness center access, shuttles, daily housekeeping, 24/7 front desk, hotel check-in 5pm/check-out 12pm. The resort limits fitness center and shuttle access to its own lodging guests.",
+   "Removed unverified details: 180 rooms, room amenities, outdoor pool 10am–10pm, ski-in/ski-out claims and distances.",
+   "Added current official hours for The Lakeview restaurant and CoffeeBAR (dining page updated Oct 23, 2026).",
+   "Pool line matches the pass rule (Lakeview indoor and outdoor only).",
+   "Link changed: /venue/lakeview-hotel is just an events-venue listing. The dining page is more useful."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/stay/dining/",
+   "https://www.shantycreek.com/stay/fitness-center/",
+   "https://www.shantycreek.com/stay/lodging-policies-faqs/",
+   "https://www.shantycreek.com/venue/lakeview-hotel/"
+  ]
+ }
+]
