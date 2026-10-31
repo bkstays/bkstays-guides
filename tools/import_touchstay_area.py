@@ -74,6 +74,7 @@ INLINE = {
     ('iron-range-retreat', 'voyageurs-retreat', 'Wynne Lake Map'): ['ee/37/ee37673bf93576f8e23c475de2c41806.jpg'],
 }
 LIB_INLINE = {'Giants Ridge Ridge Mountain Bike Trail Map': 'ac/08/ac08d03f0d37ab546f2a8e4e303f859d.jpg'}
+PET_HTML = "<p>This home is pet-friendly, so you can bring your furry friend from home! <strong>MAX 2 DOGS ALLOWED</strong> per stay, with approval. Hypoallergenic breeds are preferred.</p><p>All pets must be on your reservation. Please let us know beforehand so we can take the proper cleaning measures. A <strong>$150 pet fee</strong> will be added to your reservation for any approved pet before arrival.</p><p>If you bring a pet without notifying your hosts, you will be charged <strong>double</strong> for any unapproved pet.</p>"  # Brandon, Oct 31 2026: all four homes
 LINKS = {'369271': 'bbq-grill', '428024': 'trash'}  # TouchStay category id -> our section
 
 JUNK = [
@@ -174,7 +175,9 @@ def main():
                         it['photo'] = 'generic-chess-board.jpg'
                     elif it['title'] == 'Cancellation Policy':
                         it['html'] = it['html'].replace('Gilmer County, Georgia', county)
-                    elif it['title'].startswith('Pet Policy') and 'nonshedding' in it['title']:
+                    elif it['title'].startswith('Pet Policy'):
+                        it['title'], it['html'] = 'Pet Policy - Max 2 Dogs (with approval)', PET_HTML
+                    elif False:
                         notes.append(f'**{it["title"]}**: still the old TouchStay wording (non-shedding only, TouchStay fee). Tell me the fee and whether to use the standard "Max 2 Dogs (with approval)" wording.')
                     elif it['title'].startswith('Pet Policy') and '$115' in it['html']:
                         notes.append(f'**{it["title"]}** uses the standard wording with a **$115** pet fee. Confirm the fee for this home.')
