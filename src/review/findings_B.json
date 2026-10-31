@@ -1,0 +1,428 @@
+[
+ {
+  "key": "shorts-brewing|0|0",
+  "title": "The Bellaire Pub & Beer Garden",
+  "verdict": "updated",
+  "new_html": "<p>Short’s Brewing Company’s Bellaire Pub is a vibrant brewpub located in the heart of downtown Bellaire, Michigan, at 121 N Bridge St. Housed in a historic building, the pub offers a warm and inviting atmosphere where guests can enjoy a wide selection of craft beers brewed on-site, including classics like Local’s Light and Huma Lupa Licious. The menu features a variety of house-made dishes, from pretzels to pizzas, complemented by a curated list of ciders and seltzers.</p> <p><strong>Just across the street, you’ll find the lively Beer Garden</strong> (118 N Bridge St., Bellaire, MI 49615), perfect for soaking up Bellaire’s charming vibe. It’s a seasonal outdoor venue that hosts live music during the summer months.</p> <p>Phone: (231) 498-2300</p> <p><strong>Pub Hours:</strong><br/>Sunday–Tuesday: 11:00 AM – 10:00 PM<br/>Wednesday: 11:00 AM – 8:00 PM<br/>Thursday: 11:00 AM – 10:00 PM<br/>Friday–Saturday: 11:00 AM – 11:00 PM</p> <p><strong>Kitchen Hours:</strong><br/>Sunday–Tuesday: 11:00 AM – 9:00 PM<br/>Wednesday: 11:00 AM – 8:00 PM<br/>Thursday: 11:00 AM – 9:00 PM<br/>Friday–Saturday: 11:00 AM – 10:00 PM</p> <p><em>Hours change seasonally and on holidays, so check the website before you go.</em></p> <p>For more information, visit the official Bellaire Pub page: <a href=\"https://www.shortsbrewing.com/locations/bellaire-pub/\">https://www.shortsbrewing.com/locations/bellaire-pub/</a></p>",
+  "photo_ok": true,
+  "photo_note": "Short's Brewing Company hanging sign on the Bellaire pub building.",
+  "changes": [
+   "Hours updated to the official page: the pub is now open Sunday–Tuesday (the guide left out Monday) and closes early on Wednesday",
+   "Added the address 121 N Bridge St and phone (231) 498-2300",
+   "Beer garden described as seasonal: the official page says the 2025 beer garden season has wrapped. Dropped the unverified 'Friday and Saturday' music schedule"
+  ],
+  "sources": [
+   "https://www.shortsbrewing.com/locations/bellaire-pub/",
+   "https://business.elkrapidschamber.org/events/details/short-s-fest-2026-53396"
+  ]
+ },
+ {
+  "key": "shorts-brewing|0|1",
+  "title": "The Elk Rapids Pull Barn",
+  "verdict": "updated",
+  "new_html": "<p>Elk Rapids was thirsty, so in 2017 we set up draft lines on a pole building at our production campus—thus, the summer beer garden was born. By 2021, The Pull Barn transformed into an indoor, year-round destination. <em>(Psst: Dogs are welcome outside only. Please don’t bring your furry friends inside—not even Kevin!)</em></p> <p>Address: 211 Industrial Park Dr., Elk Rapids, MI 49629</p> <p><em>Visit Here: <a href=\"https://www.shortsbrewing.com/locations/elk-rapids/\">https://www.shortsbrewing.com/locations/elk-rapids/</a></em></p> <p><strong>Pull Barn Hours</strong><br/>Mon–Thurs: 2:00 PM – 8:00 PM<br/>Fri–Sun: 11:00 AM – 9:00 PM</p>",
+  "photo_ok": true,
+  "photo_note": "Front of the Short's Pull Barn building with the patio.",
+  "changes": [
+   "Updated Friday–Sunday hours to 11 AM – 9 PM per the official page (the guide had Fri–Sat 12–9 and Sun 12–8)",
+   "Added the address"
+  ],
+  "sources": [
+   "https://www.shortsbrewing.com/locations/elk-rapids/",
+   "https://business.elkrapidschamber.org/events/details/short-s-fest-2026-53396"
+  ]
+ },
+ {
+  "key": "shorts-brewing|0|2",
+  "title": "Short’s Mart",
+  "verdict": "updated",
+  "new_html": "<p><em>Your one-stop shop for all things Short’s — beer, gear, and goodies galore.</em></p> <p>Whether you’re looking to rep Short’s in style, stock up on fun gifts, or gear up for summer adventures, Short’s Mart has you covered. Shop hats, tees, sweatshirts and button-ups, glassware, mugs, water bottles, home goods, and gift cards—made for Good Humans and perfect for any occasion, whether you’re at the pub, the Pull Barn, or around the campfire.</p> <p>Orders over $100 ship free.</p> <p>Explore every product here: <a href=\"https://store.shortsbrewing.com/\">https://store.shortsbrewing.com/</a></p>",
+  "photo_ok": "unsure",
+  "photo_note": "Shows the Short's Mart storefront sign in downtown Bellaire. The current site presents Short's Mart as an online store, and I couldn't confirm the physical shop is still open.",
+  "changes": [
+   "Removed the out-of-date featured-items table and the old '25% off' sale claims",
+   "Described the store's current categories (For the Head, Body, Drink, Home) and the free-shipping threshold",
+   "Could not confirm whether a walk-in Short's Mart store still operates in Bellaire"
+  ],
+  "sources": [
+   "https://store.shortsbrewing.com/"
+  ]
+ },
+ {
+  "key": "shorts-brewing|1|0",
+  "title": "Live Music Every Weekend At Bellaire Beer Garden",
+  "verdict": "updated",
+  "new_title": "Summer Live Music at the Bellaire Beer Garden",
+  "new_html": "<p>In summer, Short’s Brewing Company’s Beer Garden (118 N Bridge St., across from the Bellaire Pub) turns into a lively music venue, with live performances in the open air. Shows are typically free, family-friendly, and open to guests of all ages—grab a cold brew and let the good times roll!</p> <p>Website: <a href=\"https://www.shortsbrewing.com/locations/bellaire-pub/\">https://www.shortsbrewing.com/locations/bellaire-pub/</a></p> <p>Whether you’re in the mood to chill with friends or dance the night away, there’s always a great show happening here.</p> <p><strong>Season:</strong> The Beer Garden is open seasonally, roughly late spring through early fall. Days and times vary, so check the events calendar for the current lineup: <a href=\"https://www.shortsbrewing.com/events/list/?tribe_eventcategory%5B0%5D=1178\">Short’s Pub Events</a></p> <p>Check their schedule for local bands, special guests, and fun events that keep Bellaire buzzing all summer long.</p>",
+  "photo_ok": true,
+  "photo_note": "Band on the Short's Brewing beer garden stage.",
+  "changes": [
+   "Removed the specific 'Summer Hours' list and the 'every Friday and Saturday' claim, which aren't on the official site. The site says the 2025 beer garden season has wrapped and gives no current schedule",
+   "Added a link to the Pub events calendar",
+   "Retitled to drop 'Every Weekend'"
+  ],
+  "sources": [
+   "https://www.shortsbrewing.com/locations/bellaire-pub/",
+   "https://www.shortsbrewing.com/events/list/?tribe_eventcategory%5B0%5D=1178",
+   "https://www.shortsbrewing.com/events/"
+  ]
+ },
+ {
+  "key": "shorts-brewing|1|1",
+  "title": "Summer Music Series At The Elk Rapids Pull Barn",
+  "verdict": "updated",
+  "new_html": "<p><strong>Live Music &amp; Great Brews by the Bay</strong><br/>Just 20 minutes from the Bellaire Pub, The Pull Barn in Elk Rapids is where laid-back vibes meet great live music and fresh beer on tap. With its indoor taproom and big outdoor patio, it feels like your favorite backyard party—only with better drinks and a killer stage lineup.</p> <p>Expect <strong>live performances all summer long</strong>, a rotating draft list of Short’s brews, local food trucks, and that classic Northern Michigan sunset. Whether you’re dancing in the grass or sipping a tasting flight under the stars, The Pull Barn is a must-stop.</p> <p>Calendar of Events: <a href=\"https://www.shortsbrewing.com/events/?type=prod\">Pull Barn events</a></p>",
+  "photo_ok": true,
+  "photo_note": "Aerial view of the Pull Barn patio with the bay behind it.",
+  "changes": [
+   "Replaced the calendar link (tribe_eventcategory=1181), which failed to load, with the events view that lists Pull Barn shows (?type=prod)",
+   "Updated 'open-air venue': the Pull Barn has been an indoor, year-round taproom since 2021, with outdoor seating"
+  ],
+  "sources": [
+   "https://www.shortsbrewing.com/events/?type=prod",
+   "https://www.shortsbrewing.com/locations/elk-rapids/"
+  ]
+ },
+ {
+  "key": "shorts-brewing|2|0",
+  "title": "The Bellaire Pub - Guided Brewery Tour",
+  "verdict": "updated",
+  "new_html": "<p>Ever wondered what goes into crafting your favorite Short’s brew? Now’s your chance to find out! Short’s Brewing Company offers behind-the-scenes tours of the innovation brewery at their Bellaire Pub, giving you an insider’s look at the brewing process from start to finish.</p> <p>Website: <a href=\"https://www.shortsbrewing.com/tours/\">https://www.shortsbrewing.com/tours/</a></p> <p>YouTube: <a href=\"https://www.youtube.com/watch?v=hB_pr3V0KfA\">https://www.youtube.com/watch?v=hB_pr3V0KfA</a></p> <p>Tour Highlights:</p> <ul> <li>When: Fridays and Saturdays, from 12:00 PM to 4:00 PM. No reservations or call-aheads—simply check in at the host stand when you arrive.</li> <li>What to Expect: A guided walk through the innovation brewery where you’ll learn about the brewing process, the history of Short’s, and the artistry behind their unique beers.</li> <li>Note: Tours are only offered at the Bellaire Pub. The Elk Rapids production campus no longer runs tours.</li> </ul> <p>Pro Tips:</p> <ul> <li>Arrive Early: Tours are popular, so arriving a bit early ensures you don’t miss out.</li> <li>Stay for a Pint: After the tour, enjoy a freshly poured pint of your favorite Short’s brew in the cozy pub or, in summer, the lively beer garden.</li> <li>Ask Questions: The staff are passionate about their craft and love sharing their knowledge. Don’t hesitate to ask about the brewing process, ingredients, or the inspiration behind their beers.</li> </ul> <p>Contact Information:</p> <ul> <li>Phone: (231) 498-2300</li> </ul>",
+  "photo_ok": false,
+  "photo_note": "Shows a worker on the large canning/bottling line at the Elk Rapids production facility, which no longer offers tours. It isn't the Bellaire Pub innovation brewery where tours happen. Consider a Bellaire Pub brewhouse photo.",
+  "changes": [
+   "Confirmed the Fri–Sat 12–4 PM walk-in tours at the Bellaire Pub",
+   "Removed the unverified 'complimentary' cost and '30–45 minute' duration, which the official tours page doesn't list",
+   "Removed the stray inline 'shortsbrewing.com' citation link",
+   "Added a note that Elk Rapids no longer offers tours",
+   "YouTube video verified (Short's 'Best Brewery Tour: Bellaire Pub')"
+  ],
+  "sources": [
+   "https://www.shortsbrewing.com/tours/",
+   "https://www.shortsbrewing.com/locations/bellaire-pub/",
+   "https://www.youtube.com/watch?v=hB_pr3V0KfA"
+  ]
+ },
+ {
+  "key": "shorts-brewing|2|1",
+  "title": "Online Order - Bellaire Pub Food Menu",
+  "verdict": "updated",
+  "new_html": "<p><strong>Order Bellaire Pub Favorites Online</strong><br/>Craving your Short’s Brewing Bellaire Pub favorites? Order ahead online: just browse the menu, customize your order, and have it ready to pick up. Easy, fast, and delicious.</p> <p>Short’s Brewing Bellaire Pub Online Ordering:</p> <p><a href=\"https://www.toasttab.com/local/order/shortsbrewing\">https://www.toasttab.com/local/order/shortsbrewing</a></p>",
+  "photo_ok": true,
+  "photo_note": "Collage of pub pizza, a sandwich, and a salad with beer.",
+  "changes": [
+   "Kept one working Toast ordering link (toasttab.com/local/order/shortsbrewing, which shows 121 N Bridge St)",
+   "Removed the old order.toasttab.com link and the restaurant-ID link, both of which failed to load",
+   "Removed the delivery claim: the Toast page shows no delivery option"
+  ],
+  "sources": [
+   "https://www.toasttab.com/local/order/shortsbrewing"
+  ]
+ },
+ {
+  "key": "shorts-brewing|2|2",
+  "title": "Food Truck Takeout",
+  "verdict": "updated",
+  "new_html": "<p>The food trucks are back at the Elk Rapids Pull Barn, and we couldn’t be more excited. Stop in for packaged beer, join us for game night, and get ready for an awesome summer of food trucks and sunsets.</p> <p><strong>Osorio Tacos y Salsas:</strong> Miguel and team are serving up delicious eats during Pull Barn hours.</p> <p><strong>Flannigan’s Goat:</strong> Garth and family smoke meats on site during the summer season (typically Thursday–Monday). The season usually ends in mid-September, so check the Pull Barn page for current days and hours.</p> <p>Takeout, crockpots, and picnics are all welcome—so bring your appetite and enjoy!</p> <p>Explore more options: <a href=\"https://business.elkrapidschamber.org/list/ql/restaurants-food-beverages-21\">https://business.elkrapidschamber.org/list/ql/restaurants-food-beverages-21</a></p>",
+  "photo_ok": true,
+  "photo_note": "Pull Barn building with its patio. It shows the venue, not the food trucks, but it fits the item.",
+  "changes": [
+   "Updated the Flannigan’s Goat schedule: the official page now lists Thursday–Monday, 11 AM–9 PM, with a mid-September end of season (the guide had a Wed–Sun schedule). Made the wording seasonal rather than listing exact times",
+   "Clarified that the trucks are at the Elk Rapids Pull Barn",
+   "Both trucks were confirmed again for 2026 at Short's Fest",
+   "Chamber directory link works"
+  ],
+  "sources": [
+   "https://www.shortsbrewing.com/locations/elk-rapids/",
+   "https://business.elkrapidschamber.org/events/details/short-s-fest-2026-53396",
+   "https://business.elkrapidschamber.org/list/ql/restaurants-food-beverages-21"
+  ]
+ },
+ {
+  "key": "shorts-brewing|2|3",
+  "title": "Bellaire Pub Menu",
+  "verdict": "updated",
+  "new_html": "<p>Welcome to the Mothership — the original Short’s Brewing spot where great food, great beer, and Good Humans come together. What started as a hardware store in 2004 has transformed into a local favorite filled with love, good vibes, and delicious eats.</p> <p><strong>Popular Appetizers</strong></p> <ul> <li>Buffalo Chicken Dip with blue cheese crumbles</li> <li>Nachos piled high with black bean corn salsa and cheese</li> <li>House-made Mac n’ Cheese topped with toasted panko</li> <li>Soft Pretzels served with mustard, jam, and cheese spread</li> </ul> <p><strong>Fresh Salads</strong></p> <ul> <li>Caesar with shaved Parmigiano and croutons</li> <li>Chipotle BBQ Chicken with avocado and black bean salsa</li> <li>Mixed greens with feta, falafel, and Greek dressing</li> </ul> <p><strong>Sammies &amp; Sandwiches</strong></p> <ul> <li>Pulled Pork Sammie with Carolina BBQ and coleslaw</li> <li>Adult Grilled Cheese with multiple cheeses and avocado</li> <li>Classic grinders and corned beef on rye</li> </ul> <p><strong>Build Your Own Pizza &amp; Specialty Pies</strong><br/>Handcrafted dough made with Local’s Light Lager — customize toppings or try favorites like house-made sausage, pulled pork, or mushroom festival.</p> <p><em>Menu items change seasonally.</em> Explore the full menu here: <a href=\"https://www.shortsbrewing.com/locations/bellaire-pub/pub-dining-menu/\">Bellaire Pub Food Menu</a></p>",
+  "photo_ok": true,
+  "photo_note": "Same pizza, sandwich, and salad collage as the online-order item. It's relevant, but duplicated.",
+  "changes": [
+   "Replaced the dated 2025 'Greatest Hits' PDF link, which failed to load, with the official Pub Dining Menu page",
+   "Added a note that the menu changes seasonally",
+   "Spot-checked items against the current menu: buffalo chicken dip, soft pretzels, Caesar, corned beef on rye, and house sausage pizza are all listed"
+  ],
+  "sources": [
+   "https://www.shortsbrewing.com/locations/bellaire-pub/pub-dining-menu",
+   "https://www.shortsbrewing.com/locations/bellaire-pub/"
+  ]
+ },
+ {
+  "key": "shorts-brewing|2|4",
+  "title": "Bellaire Pub Beers",
+  "verdict": "updated",
+  "new_html": "<p><em>Subject to change (y’all are thirsty!)</em></p> <p>The Bellaire Pub pours a rotating lineup of Short’s staples alongside small-batch experimental beers you’ll only find at the Mothership. Expect favorites like Local’s Light, Bellaire Brown, Huma Lupa Licious, Soft Parade, and Pure Michigan Porter, plus seasonal releases and ciders like Octorock and Pulsar. Grab packaged beer to go, too—including Local’s Light, Soft Parade, Only Tourists, and Thirst Mutilator.</p> <p>Find the current list at Bellaire Pub Beer List: <a href=\"https://www.shortsbrewing.com/locations/bellaire-pub/beer-list/\">https://www.shortsbrewing.com/locations/bellaire-pub/beer-list/</a></p>",
+  "photo_ok": true,
+  "photo_note": "Interior of the pub's event room with a wall of beer label art. It's acceptable, though a tap-list photo would fit better.",
+  "changes": [
+   "Replaced the long, outdated tap and packaged tables (copied from an old list, with broken table HTML) with a short summary of long-standing staples, and pointed guests to the live beer list",
+   "The beer-list link works"
+  ],
+  "sources": [
+   "https://www.shortsbrewing.com/locations/bellaire-pub/beer-list/"
+  ]
+ },
+ {
+  "key": "shorts-brewing|2|5",
+  "title": "Elk Rapids Pull Barn Beers",
+  "verdict": "updated",
+  "new_html": "<p><strong>Subject to change — because y’all are thirsty!</strong></p> <p>At the Elk Rapids Pull Barn, you’ll find a rotating selection of Short’s Brewing favorites both on tap and in packaged form. Whether you’re craving a crisp, refreshing pint or want to take home your favorite brew, the lineup offers something for every palate.</p> <p>Expect staples like Local’s Light, Local’s Amber, Bellaire Brown, Huma Lupa Licious, Soft Parade, and LITRO Stout on tap, plus seasonal pours that change throughout the year. Packaged favorites to go include Local’s Light, Huma Lupa Licious, Bellaire Brown, Soft Parade, and Thirst Mutilator.</p> <p>Come by and enjoy the freshest brews that Short’s has to offer — from classic staples to exciting new creations!<br/><br/>Check the current list here: <a href=\"https://www.shortsbrewing.com/locations/elk-rapids/beer-list/\">https://www.shortsbrewing.com/locations/elk-rapids/beer-list/</a></p>",
+  "photo_ok": true,
+  "photo_note": "Short's sign on the Pull Barn building.",
+  "changes": [
+   "Replaced the outdated full tap and packaged lists with long-standing staples that appear on the current list, and pointed guests to the live beer list",
+   "The beer-list link works"
+  ],
+  "sources": [
+   "https://www.shortsbrewing.com/locations/elk-rapids/beer-list/"
+  ]
+ },
+ {
+  "key": "shorts-brewing|2|6",
+  "title": "Beverages",
+  "verdict": "updated",
+  "new_html": "<p><em>Explore Short’s core brews, from year-round favorites to unique Pub exclusives.</em></p> <p><strong>Always Available</strong><br/>These beloved beers and ciders are brewed year-round and widely available (lineup subject to change):</p> <ul> <li>Local’s Light</li> <li>Local’s Amber</li> <li>Bellaire Brown</li> <li>Huma Lupa Licious</li> <li>Soft Parade</li> <li>Psychedelic Cat Grass</li> <li>Thirst Mutilator (Grape and Lemon Lime)</li> <li>Pulsar and Octorock ciders</li> </ul> <p>Find these and more on Short’s flagship beers page: <a href=\"https://www.shortsbrewing.com/beer-category/flagship/\">https://www.shortsbrewing.com/beer-category/flagship/</a></p>",
+  "photo_ok": true,
+  "photo_note": "Overhead shot of a flight of beer samples on a tray.",
+  "changes": [
+   "Fixed the broken pipe-delimited list (with stray '| |' characters) by turning it into a clean bullet list",
+   "Added 'subject to change'. The flagship page works, but its product grid loads by script, so I couldn't confirm the exact current lineup. Every item listed still appears on current Short's pub or Pull Barn lists, except Psychedelic Cat Grass and Local's Amber, which only partly appear"
+  ],
+  "sources": [
+   "https://www.shortsbrewing.com/beer-category/flagship/",
+   "https://www.shortsbrewing.com/locations/bellaire-pub/beer-list/",
+   "https://www.shortsbrewing.com/locations/elk-rapids/beer-list/"
+  ]
+ },
+ {
+  "key": "shorts-brewing|2|7",
+  "title": "Seasonal Beers",
+  "verdict": "updated",
+  "new_html": "<p>At Short’s Brewing, every season brings a fresh lineup of exciting beers crafted to celebrate the flavors and moods of the time of year. Whether it’s a crisp winter pilsner, a bright spring hazy IPA, or a refreshing summer shandy, these limited seasonal brews are only available for a short time — so stock up while you can!</p> <p>Here’s a taste of what you might find rotating through the taps and cans:</p> <ul> <li>The Pure Michigan series (Winter Pils plus Spring, Summer, and Fall IPAs)</li> <li>Pure Michigan Porter</li> <li>Only Tourists</li> <li>Local’s Shandy</li> <li>Rhuby</li> </ul> <p>Discover current seasonal offerings here: <a href=\"https://www.shortsbrewing.com/beer-category/seasonal/\">https://www.shortsbrewing.com/beer-category/seasonal/</a></p> <p>Available in cans and kegs, these seasonals showcase Short’s creativity and dedication to bold, flavorful beer all year round. Stay tuned and sip with the seasons!</p>",
+  "photo_ok": true,
+  "photo_note": "Chalkboard tap list at the Short's pub. The same photo is used for Limited Releases.",
+  "changes": [
+   "Replaced the broken div/table markup with a short bullet list of seasonals that appear on current Short's lists",
+   "The seasonal page link works, but its product grid is script-loaded, so the exact current seasonals are unconfirmed"
+  ],
+  "sources": [
+   "https://www.shortsbrewing.com/beer-category/seasonal/",
+   "https://www.shortsbrewing.com/locations/bellaire-pub/beer-list/",
+   "https://www.shortsbrewing.com/locations/elk-rapids/beer-list/"
+  ]
+ },
+ {
+  "key": "shorts-brewing|2|8",
+  "title": "Limited Releases",
+  "verdict": "updated",
+  "new_html": "<p><strong>Limited Releases</strong></p> <p>Welcome to the treasure trove of Short’s Brewing — the Willy Wonka vault of rare and one-time-only brews. When you spot these limited releases, grab them fast! Chances are, they won’t be around for long, making each sip a special experience.</p> <p>Look for small-batch experimental beers, holiday and anniversary releases, ciders, and variety packs—many of them first poured at the Bellaire Pub.</p> <p>See what’s out now: <a href=\"https://www.shortsbrewing.com/beer-category/speciality/\">https://www.shortsbrewing.com/beer-category/speciality/</a></p> <p>Available in cans, kegs, and variety packs, these limited editions showcase the creative spirit and adventurous flavors that keep Short’s fans coming back for more. Don’t miss your chance — these rare finds won’t last!</p>",
+  "photo_ok": true,
+  "photo_note": "Chalkboard tap list at the pub. It duplicates the Seasonal Beers photo.",
+  "changes": [
+   "Removed the outdated named list of past one-off releases, which was in broken div/table markup and is unverifiable now, and replaced it with a general description",
+   "The Limited Releases page link works (heading 'Limited Releases')"
+  ],
+  "sources": [
+   "https://www.shortsbrewing.com/beer-category/speciality/"
+  ]
+ },
+ {
+  "key": "shorts-brewing|3|0",
+  "title": "Short’s Brewing Fest & Events Schedule",
+  "verdict": "ok",
+  "photo_ok": true,
+  "photo_note": "Crowd at the Bellaire Beer Garden stage.",
+  "changes": [
+   "The link loads the 'Pub Events' calendar for the Bellaire Pub (e.g., weekly Thursday trivia). No changes needed"
+  ],
+  "sources": [
+   "https://www.shortsbrewing.com/events/list/?tribe_eventcategory%5B0%5D=1178"
+  ]
+ },
+ {
+  "key": "shorts-brewing|3|1",
+  "title": "Elk Rapids Pull Barn Events Schedule",
+  "verdict": "updated",
+  "new_html": "<p>Looking for something to do near Bellaire? The Elk Rapids Pull Barn hosts a fun mix of community events—from live music and Mug Club Mondays to paint nights, cornhole tournaments, and the annual Short’s Fest summer kickoff. Check the calendar below so you never miss a beat.</p> <p>Check out all upcoming events and explore the full schedule here:</p> <p><a href=\"https://www.shortsbrewing.com/events/?type=prod\">Pull Barn events calendar</a></p> <p>Cheers to good times and great beer — enjoy your stay and the local flavor!</p>",
+  "photo_ok": false,
+  "photo_note": "Shows a violinist on a large festival stage at night (looks like a major music festival, not the Pull Barn). Swap it for a Pull Barn photo.",
+  "changes": [
+   "Replaced the calendar link (tribe_eventcategory=1181), which failed to load, with the events view that lists Pull Barn events",
+   "Updated the event examples to match current listings (live music, Mug Club Mondays, Pints and Paints, cornhole, Short's Fest), replacing 'trivia nights', which I couldn't confirm at the Pull Barn"
+  ],
+  "sources": [
+   "https://www.shortsbrewing.com/events/?type=prod",
+   "https://www.shortsbrewing.com/events/",
+   "https://business.elkrapidschamber.org/events/details/short-s-fest-2026-53396"
+  ]
+ },
+ {
+  "key": "shorts-brewing|3|2",
+  "title": "Community Partnerships",
+  "verdict": "ok",
+  "photo_ok": "unsure",
+  "photo_note": "Aerial photo of a Torch Lake sandbar with kayakers. It's a scenic local shot loosely tied to 'protecting natural resources', with nothing Short's-specific.",
+  "changes": [
+   "The Community Partnerships page exists and matches the description (resource protection, outdoor recreation, equity and inclusion). No changes needed"
+  ],
+  "sources": [
+   "https://www.shortsbrewing.com/community-partnerships/"
+  ]
+ },
+ {
+  "key": "shorts-brewing|3|3",
+  "title": "Host Your Private Event at Short’s Pub",
+  "verdict": "ok",
+  "photo_ok": true,
+  "photo_note": "Pub event room with beer label art on the wall, likely The South End private room.",
+  "changes": [
+   "The book-an-event page works and confirms private dining in 'The South End' room (40 seated, 50 standing) and the Airbnb upstairs. No changes needed"
+  ],
+  "sources": [
+   "https://www.shortsbrewing.com/book-an-event/"
+  ]
+ },
+ {
+  "key": "spas-salons|0|0",
+  "title": "AfterEffect – Restorative Body Therapy",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://www.tryaftereffect.com/\">https://www.tryaftereffect.com/</a></p> <p>Phone: (231) 709-3489<br/>Address: 109 W Cayuga St, Bellaire, MI 49615</p> <p>Hours: Monday–Friday, 10 AM – 7 PM (book online through the website)</p> <p>A top-rated therapeutic massage service offering a wide variety of modalities—including Deep Tissue, Swedish, Cranial Sacral Therapy, Trigger Point, HydroTherapy, Reflexology, Shiatsu, and Manual Lymphatic Drainage—designed for pain relief and deep relaxation. Ideal for guests seeking serious stress relief or targeted work on aches—especially helpful after outdoor adventures or long drives. Ryan comes highly recommended for both professionalism and healing expertise.</p>",
+  "photo_ok": true,
+  "photo_note": "AfterEffect Restorative Body Therapy logo.",
+  "changes": [
+   "Added the address (109 W Cayuga St, Bellaire) and office hours (Mon–Fri 10 AM–7 PM) from the official contact page",
+   "Phone confirmed",
+   "Caveat: other pages on the website also say 'located in Central Lake, 6 miles from Bellaire' and still carry old 'Mount Dora, Florida' text, so confirm the location when booking"
+  ],
+  "sources": [
+   "https://www.tryaftereffect.com/",
+   "https://www.tryaftereffect.com/contact-us.html"
+  ]
+ },
+ {
+  "key": "spas-salons|0|1",
+  "title": "Revive Salon & Spa",
+  "verdict": "updated",
+  "new_html": "<p>Facebook: <a href=\"https://www.facebook.com/p/Revive-Salon-and-Spa-100063958816813/\">https://www.facebook.com/p/Revive-Salon-and-Spa-100063958816813/</a></p> <p>Phone: (231) 533-8212 (call to book)<br/>Address: 706 E Broad St, Bellaire, MI 49615</p> <p>Opening Hours: Monday–Friday: 9 AM–5 PM; Saturday &amp; Sunday: Closed</p> <p>A full-service salon offering hair styling, coloring, treatments, extensions, keratin straightening, highlights, blowouts, and more. Perfect for guests wanting a quick refresh, stylish haircut, or a beauty touch-up before an evening event or lakeside outing.</p>",
+  "photo_ok": true,
+  "photo_note": "Revive Salon & Spa logo.",
+  "changes": [
+   "Replaced the placeholder phone text with (231) 533-8212 (from the Fresha listing's structured data)",
+   "Added the address 706 E Broad St",
+   "Removed the stray inline 'Fresha' citation links",
+   "Hours come from the Fresha listing, which is not an official page. The Facebook page sits behind a login wall and couldn't be checked; Birdeye still lists the salon as open with a 9 AM Monday opening"
+  ],
+  "sources": [
+   "https://www.fresha.com/lvp/revive-salon-spa-east-broad-street-bellaire-k9wezb",
+   "https://reviews.birdeye.com/d/beauty/bellaire-mi"
+  ]
+ },
+ {
+  "key": "hiking-biking|0|0",
+  "title": "Fat Tire Biking",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://www.shantycreek.com/ski/nordic/\">https://www.shantycreek.com/ski/nordic/</a><br/><a href=\"https://www.shantycreek.com/important-information/#contactus\">Contact Here</a></p> <p>Looking for a fun winter adventure? Try <strong>fat tire biking on snow</strong> at Shanty Creek Resorts! The <strong>3km groomed multi-purpose trail at Schuss Village</strong> is designated for fat tire biking and snowshoeing, or simply a peaceful winter walk. Fat bikes are available for rent just minutes away at <strong>Paddles &amp; Pedals in downtown Bellaire</strong> (206 N Bridge St, (231) 533-4449), making it easy for guests to hit the trails and enjoy Michigan’s snowy outdoors.</p>",
+  "photo_ok": true,
+  "photo_note": "Fat bike riding on a groomed snow trail with birch trees.",
+  "changes": [
+   "Fixed the website link: the 'more-on-the-snow' page no longer has a #fattirebiking section. The Nordic page describes the 3km fat bike and snowshoe trail at Schuss Village",
+   "Confirmed that Paddles & Pedals rents fat bikes, and added its address and phone",
+   "Dropped the 'with your dog' claim, which the resort pages don't support"
+  ],
+  "sources": [
+   "https://shantycreek.com/ski/nordic",
+   "https://www.shantycreek.com/ski/more-on-the-snow/",
+   "https://www.shantycreek.com/important-information/",
+   "https://webreserv.com/paddlesandpedalsmi"
+  ]
+ },
+ {
+  "key": "hiking-biking|0|1",
+  "title": "Glacial Hills Pathway and Natural Area",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://glacialhillstrails.org/\">https://glacialhillstrails.org/</a><br/>Email: glacialhillspathway@gmail.com (Friends of Glacial Hills)<br/>Trailheads: Orchard Hill Rd, Vandermark Rd, and Eckhardt Rd, Bellaire, MI 49615</p> <p>Just minutes from downtown Bellaire, this roughly 800-acre trail system offers 31+ miles of multi-use trails for hiking, biking, and winter fat-tire riding. Trails wind through hardwood forests, wildflowers, and rolling terrain—perfect for both casual nature walks and advanced mountain biking.</p>",
+  "new_loc": [
+   44.99583,
+   -85.24501
+  ],
+  "photo_ok": true,
+  "photo_note": "Glacial Hills trail logo.",
+  "changes": [
+   "Removed the phone (231) 533-6023, which I couldn't tie to Glacial Hills; the official site lists only an email",
+   "Added the third trailhead (Eckhardt Rd), per Antrim County",
+   "Fixed the malformed empty <a> tag that wrapped the phone and location lines",
+   "Added a map location from the GPS coordinates on the Antrim County page (the guide had none)"
+  ],
+  "sources": [
+   "https://glacialhillstrails.org/",
+   "https://www.antrimcountymi.gov/business_detail_T11_R5.php",
+   "https://www.trailforks.com/directory/8512"
+  ]
+ },
+ {
+  "key": "hiking-biking|0|2",
+  "title": "Grass River Natural Area",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://www.grassriver.org/\">https://www.grassriver.org/</a><br/>Phone: (231) 533-8314<br/>Address: 6500 Alden Hwy, Bellaire, MI 49615</p> <p>Hours: Trails open daily, dawn to dusk. Grass River Center open 10 AM – 4 PM daily May–October, and weekends only November–April.</p> <p>Only 10 minutes from Bellaire, this 1,500-acre preserve features 7 miles of trails, including 1.5 miles of accessible trails and boardwalk through wetlands, meadows, and forests. Guests love the peaceful setting, birdwatching opportunities, and guided nature programs. A great family-friendly stop for an easy stroll in nature.</p>",
+  "photo_ok": true,
+  "photo_note": "Grass River Natural Area entrance sign.",
+  "changes": [
+   "Corrected the acreage (the site now says 1,502 acres) and the claim of '7 miles of boardwalk': it's 7 miles of trails, of which 1.5 miles are accessible trail and boardwalk",
+   "Added official hours for the trails and the Grass River Center",
+   "Phone and address confirmed"
+  ],
+  "sources": [
+   "https://www.grassriver.org/",
+   "https://www.grassriver.org/hours--directions.html"
+  ]
+ },
+ {
+  "key": "hiking-biking|0|3",
+  "title": "Schuss Mountain & Shanty Creek Resorts Trails",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://www.shantycreek.com/more-fun-in-the-sun/\">https://www.shantycreek.com/more-fun-in-the-sun/</a><br/>Phone: (866) 695-5010<br/>Address: 5780 Shanty Creek Rd, Bellaire, MI 49615</p> <p>Located just outside Bellaire, Shanty Creek offers year-round ways to get outside. In summer, a climb up Schuss Mountain makes a great hike, and bikes and e-bikes are available from the Summit Fitness Center for exploring the area, with the Glacial Hills mountain bike trails just down the road. In winter, 9.5 km of groomed, track-set cross-country ski trails crisscross the resort’s villages, with ski and snowshoe rentals at the Nordic Center at Schuss Village.</p>",
+  "photo_ok": true,
+  "photo_note": "Mountain bikers on a wooded singletrack in spring. Plausible for the area, but it can't be confirmed as Shanty Creek property rather than Glacial Hills.",
+  "changes": [
+   "Replaced the website link: #glacialhills pointed to the Glacial Hills section of the resort's Antrim County page, not to Shanty Creek trails",
+   "Rewrote the claim of 'mountain biking trails across Schuss and Summit Mountains'. Current resort pages promote Schuss Mountain hikes, bike and e-bike rentals at Summit Fitness Center, and 9.5 km of groomed Nordic trails, and they send mountain bikers to Glacial Hills",
+   "Phone (reservations line) and Summit Village address confirmed"
+  ],
+  "sources": [
+   "https://www.shantycreek.com/more-fun-in-the-sun/",
+   "https://shantycreek.com/ski/nordic",
+   "https://www.shantycreek.com/stay/antrim-county/",
+   "https://www.shantycreek.com/important-information/"
+  ]
+ },
+ {
+  "key": "hiking-biking|0|4",
+  "title": "Jordan River Pathway (East Jordan)",
+  "verdict": "updated",
+  "new_title": "Jordan River Pathway",
+  "new_html": "<p>Website: <a href=\"https://www.michigan.org/property/jordan-valley-pathway\">https://www.michigan.org/property/jordan-valley-pathway</a><br/>Trailhead: Deadman’s Hill Scenic Overlook, Deadman’s Hill Rd, Elmira, MI 49730 (about 2 miles west of US-131, roughly 40 minutes from Bellaire)</p> <p>A popular 18-mile loop trail through the Jordan River Valley in the Mackinaw State Forest, with a 3-mile loop and other shorter day-hike options available. Guests rave about the stunning river views, wildlife, and forest landscapes. Perfect for experienced hikers looking for a half-day hike or an overnight backpacking trip (camp at Pinney Bridge State Forest Campground near the halfway point). Hiking only—no bikes on the pathway.</p>",
+  "photo_ok": true,
+  "photo_note": "Shows a clear stream with marsh marigolds in a cedar forest, consistent with the Jordan River valley.",
+  "changes": [
+   "Corrected the drive time: Deadman's Hill is about 40 minutes from Bellaire via Mancelona and US-131, not 20",
+   "Removed the phone (231) 582-9191, which I couldn't verify. Sources conflict (michigan.org lists 231-582-7523; the Gaylord CVB lists 989-732-3541)",
+   "Replaced the AllTrails link, which blocks automated checks, with the Pure Michigan listing, and removed the 'More Info' link to a fly-fishing advocacy blog post about ORV rules",
+   "Added that bikes aren't allowed, the 3-mile short loop, and the Pinney Bridge campground",
+   "Dropped '(East Jordan)' from the title: the trailhead is near Elmira in Antrim County"
+  ],
+  "sources": [
+   "https://www.michigan.org/property/jordan-valley-pathway",
+   "https://www.gaylordmichigan.net/member/jordan-valley-pathway/",
+   "https://en.wikipedia.org/wiki/Jordan_River_Pathway",
+   "https://truenorthtrout.com/2024/08/the-jordan-river-a-natural-treasure-in-northern-michigan/"
+  ]
+ }
+]

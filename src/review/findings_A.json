@@ -1,0 +1,475 @@
+[
+ {
+  "key": "dining|0|0",
+  "title": "M88 Morning Grind Coffee",
+  "verdict": "unsure",
+  "new_html": "<p><a href=\"https://www.facebook.com/m88awesomecoffee/\">Facebook page</a></p> <p>(231) 350-7011</p> <p>614 E Cayuga St (M-88), Bellaire</p> <p>A cozy café known for its excellent coffee and breakfast options. Guests appreciate the friendly atmosphere and quality offerings.</p>",
+  "photo_ok": true,
+  "photo_note": "M88 Morning Grind logo",
+  "changes": [
+   "Still appears open (614 E Cayuga St; recent Google reviews within the last year)",
+   "Phone conflict: guide has (231) 350-7011, Wanderlog/Google data shows (231) 350-7033; could not confirm which is right, left as is",
+   "Its own domain m88morninggrind.com has expired (redirects to expireddomains.com), so Facebook link kept",
+   "Added address; hours not added (only third-party sources: Tue-Fri 6:30-3, Sat 7-3, Sun 8-12, Mon closed per Birdeye)"
+  ],
+  "sources": [
+   "https://wanderlog.com/place/details/2790267",
+   "https://reviews.birdeye.com/m88-morning-grind-175674411556869",
+   "https://www.restaurantji.com/mi/Bellaire/coffee-shops/"
+  ]
+ },
+ {
+  "key": "dining|0|1",
+  "title": "RuthAnn's Gourmet Bakery and Coffeehouse",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://www.ruthannsgourmetbakery.com/\">ruthannsgourmetbakery.com</a></p> <p>Phone: (231) 350-7010</p> <p>105 N Bridge St, Suite B, Bellaire</p> <p>Hours: Mon-Sat 7:30 AM-2 PM, Sun 8 AM-2 PM</p> <p>A delightful bakery and coffeehouse offering made-from-scratch baked goods, including cupcakes, muffins, and pastries. Their specialty coffee drinks, such as the frozen latte or mocha, are local favorites.</p>",
+  "photo_ok": true,
+  "photo_note": "Ruthann's logo",
+  "changes": [
+   "Website was plain text, made it a link",
+   "Phone was wrapped in a junk Google search URL; replaced with plain phone",
+   "Added address and hours from Bellaire Chamber listing"
+  ],
+  "sources": [
+   "https://www.ruthannsgourmetbakery.com/",
+   "https://www.bellairechamber.org/connections/36943-ruthanns-gourmet-bakery/"
+  ]
+ },
+ {
+  "key": "dining|0|2",
+  "title": "Shanty Creek CoffeeBAR",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://www.shantycreek.com/stay/dining/#coffeebar\">shantycreek.com/stay/dining</a></p> <p>Phone (resort): 866-486-7790</p> <p>Enjoy Starbucks drinks in the Great Room of the Lakeview Hotel lobby (Summit Village), plus house-made breakfast sandwiches, pastries, and lunch items. It's the perfect grab-and-go spot before hitting the slopes, trails, or golf course.</p> <p>Hours: Sun-Thu 7 AM-2 PM, Fri-Sat 7 AM-6 PM</p>",
+  "photo_ok": true,
+  "photo_note": "Modern coffee bar/lounge interior; plausibly the CoffeeBAR in the Lakeview Great Room",
+  "changes": [
+   "Hours updated per official site (was 'daily 7-2'; now Sun-Thu 7-2, Fri-Sat 7-6)",
+   "Removed Thursday BOGO special (not found on official site)",
+   "Phone 231-533-3000 could not be verified anywhere; replaced with the resort number shown on shantycreek.com",
+   "Removed nested empty div wrappers"
+  ],
+  "sources": [
+   "https://www.shantycreek.com/stay/dining/",
+   "https://www.shantycreek.com/plan-your-trip/"
+  ]
+ },
+ {
+  "key": "dining|1|0",
+  "title": "B.C. Pizza (Bellaire)",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://bc.pizza/locations/bellaire/\">bc.pizza/locations/bellaire</a></p> <p>Phone: 231-350-7500</p> <p>610 E Cayuga St (M-88), Bellaire</p> <p>Hours: Daily 11 AM-10 PM</p> <p>Think of B.C. Pizza as your go-to local slice spot: handmade, hometown-style pies, plus signature subs and pastas. Carry-out, drive-thru, and delivery available. Friendly, down-to-earth, and perfect for grabbing a relaxed bite after a morning exploring the lakes or trails.</p>",
+  "photo_ok": true,
+  "photo_note": "B.C. Pizza logo over a pizza",
+  "changes": [
+   "Website and phone confirmed",
+   "Added address and hours from official location page",
+   "Removed 'lunchtime buffet' (not listed for the Bellaire location); added carry-out/drive-thru/delivery per Bellaire Chamber"
+  ],
+  "sources": [
+   "https://bc.pizza/locations/bellaire/",
+   "https://www.bellairechamber.org/food-drinks/"
+  ]
+ },
+ {
+  "key": "dining|1|1",
+  "title": "Dockside Torch Lake",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://docksidetorchlake.com/\">docksidetorchlake.com</a></p> <p>(231) 377-7777</p> <p>6340 Old Torch Lake Dr, Bellaire</p> <p>Hours (seasonal, opens 11 AM): April Thu-Sun; May-August daily; September Wed-Sun; October Thu-Sun; closed November through March.</p> <p>Dockside Torch Lake offers a laid-back, lakeside dining experience where you can enjoy fresh salads, zesty Mexican dishes, and classic American fare like burgers and deli sandwiches, all while soaking in the stunning views of Torch Lake from their spacious outdoor deck. Whether arriving by boat or car, it's the perfect spot to relax and savor a meal with a view.</p>",
+  "photo_ok": true,
+  "photo_note": "Dockside Torch Lake logo",
+  "changes": [
+   "Website, phone, address confirmed",
+   "Added seasonal hours from official site (closed Nov-Mar)"
+  ],
+  "sources": [
+   "https://docksidetorchlake.com/",
+   "https://www.bellairechamber.org/food-drinks/"
+  ]
+ },
+ {
+  "key": "dining|1|2",
+  "title": "Lunch Box",
+  "verdict": "unsure",
+  "new_html": "<p><a href=\"https://www.lunchboxbellaire.com/\">lunchboxbellaire.com</a></p> <p>Phone: (231) 533-6678</p> <p>106 E Cayuga St (M-88), Bellaire</p> <p>A cozy, family-owned café serving home-cooked breakfast and lunch with hearty portions and homemade bread, pies, muffins, and classic diner-style eats. Open every day starting November 1, 8 AM to 2 PM, with weekday delivery 10 AM-2 PM. A Bellaire staple since 1992.</p>",
+  "photo_ok": true,
+  "photo_note": "Photo of the Lunch Box storefront",
+  "changes": [
+   "Official website still live and says 'Open every day, starting November 1st: 8am-2pm' and delivery Mon-Fri 10-2; hours updated to that",
+   "MapQuest marks the listing 'permanently closed' and Restaurantji shows Mon closed; conflicting signals, so verify by phone before keeping",
+   "Added address"
+  ],
+  "sources": [
+   "https://www.lunchboxbellaire.com/",
+   "https://www.mapquest.com/us/michigan/lunch-box-405672575",
+   "https://frankiapp.com/business/lunch-box-422097.md",
+   "https://www.mynorth.com/place/lunch-box/"
+  ]
+ },
+ {
+  "key": "dining|1|3",
+  "title": "Papa K’s Pizza",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://papaksofbellaire.net/\">papaksofbellaire.net</a></p> <p>Phone: (231) 533-6844</p> <p>318 S Division St, Bellaire</p> <p>Hours: Mon 4-9 PM; Tue-Thu 11 AM-9 PM; Fri 11 AM-10 PM; Sat noon-10 PM; Sun 4-8 PM</p> <p>A cozy, local pizza joint where the crust is seasoned just right and the cheese is never skimped, perfect for nights when you want hot, fresh pizza without fuss. Casual, family-friendly vibes and delivery available within 8 miles, including Shanty Creek (so go ahead, fire up Netflix and let Papa K's bring dinner to you!).</p>",
+  "photo_ok": true,
+  "photo_note": "Papa K's logo",
+  "changes": [
+   "Website, phone confirmed",
+   "Added address and hours from official site",
+   "Noted delivery reaches Shanty Creek (per official site)"
+  ],
+  "sources": [
+   "https://papaksofbellaire.net/"
+  ]
+ },
+ {
+  "key": "dining|1|4",
+  "title": "Toonie's Fish & Steak House",
+  "verdict": "ok",
+  "photo_ok": true,
+  "photo_note": "Toonies sign (Breakfast/Lunch/Dinner)",
+  "changes": [
+   "Website loads (Toonies, Heart of Bellaire); phone (231) 533-8513 matches listings; 216 N Bridge St; open year-round per Bellaire Chamber",
+   "Menu item names ('Holy Cow', 'Smothered Bull') not verified on current menu"
+  ],
+  "sources": [
+   "https://tooniesfishandsteakhouse.com/",
+   "https://toonies-fish-steak-house.locable.com",
+   "https://www.bellairechamber.org/food-drinks/"
+  ]
+ },
+ {
+  "key": "dining|2|0",
+  "title": "Chloe’s Chop House",
+  "verdict": "updated",
+  "new_title": "Chloe's Tavern (formerly Chloe's Chop House)",
+  "new_html": "<p>Website: <a href=\"https://www.chloeschophouse.com/\">chloeschophouse.com</a></p> <p>Phone: (231) 350-8986</p> <p>213 N Bridge St, Bellaire</p> <p>Hours: Daily 3:30 PM-midnight</p> <p>Formerly Chloe's Chop House, now a warm, relaxed neighborhood tavern right downtown. Expect smash burgers, sandwiches, walleye fish and chips, a 12 oz ribeye, and cold drinks, plus a pool table. Walk-ins always welcome; call or text for reservation requests.</p>",
+  "photo_ok": false,
+  "photo_note": "Shows the old 'Chloe's Chop House' logo; outdated after rename to Chloe's Tavern",
+  "changes": [
+   "Renamed: official site now 'Chloe's Tavern, formerly Chloe's Chop House' (comfort-food tavern, no longer fine-dining steakhouse)",
+   "Description rewritten to match the new concept",
+   "Added address and hours from official site",
+   "Photo shows old name"
+  ],
+  "sources": [
+   "https://www.chloeschophouse.com/"
+  ]
+ },
+ {
+  "key": "dining|2|1",
+  "title": "Corner Bistro",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://www.cornerbistrobellaire.com/\">cornerbistrobellaire.com</a></p> <p>Reservations (text): 231-409-7088</p> <p>102 N Bridge St, Bellaire</p> <p>Hours: Mon, Wed, Thu, Sun 11 AM-9 PM; Fri-Sat 11 AM-10 PM; closed Tuesday</p> <p>Tucked into downtown Bellaire, Corner Bistro is your go-to for cozy evenings: shareable plates, a laid-back bar vibe, and porch seating perfect for people-watching. Friendly and intimate, it's the kind of spot that feels like a local secret, whether you're winding down or celebrating something special.</p>",
+  "photo_ok": true,
+  "photo_note": "Corner Bistro Bellaire logo",
+  "changes": [
+   "Website confirmed; site says the 231-409-7088 number is for texting reservations",
+   "Added address and hours from official site (closed Tuesdays)"
+  ],
+  "sources": [
+   "https://www.cornerbistrobellaire.com/"
+  ]
+ },
+ {
+  "key": "dining|2|2",
+  "title": "Fireside Lounge",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://www.hellovinobellaire.com/\">hellovinobellaire.com</a></p> <p>Phone: (231) 350-7138</p> <p>201 E Broad St, Bellaire</p> <p>Hours: Mon 4-8 PM; Tue-Thu 4-9 PM; Fri-Sat 4-10 PM; closed Sunday</p> <p>Looking for a laid-back drink with a local twist? Fireside Lounge (formerly Hello Vino) brings cozy, speakeasy-ish lodge vibes with a wooded riverside patio, live music, bocce ball, and a curated selection of cocktails, wines, and small bites. Happy hour weekdays 4-6 PM and sushi on Thursdays. 21+ only.</p>",
+  "photo_ok": true,
+  "photo_note": "Fireside Lounge logo",
+  "changes": [
+   "Confirmed open; the hellovinobellaire.com domain now serves the Fireside Lounge site (Hello Vino renamed)",
+   "Phone confirmed via Bellaire Chamber",
+   "Added address, hours (Chamber listing; MapQuest matches), happy hour, sushi Thursdays",
+   "Added that it is 21+ only"
+  ],
+  "sources": [
+   "https://www.hellovinobellaire.com/",
+   "https://www.bellairechamber.org/connections/36894-fireside-lounge/reviews/24560/",
+   "https://www.bellairechamber.org/food-drinks/",
+   "https://www.mapquest.com/us/michigan/fireside-lounge-431170494"
+  ]
+ },
+ {
+  "key": "dining|2|3",
+  "title": "Lakeview Restaurant & Grill",
+  "verdict": "updated",
+  "new_title": "The Lakeview (Shanty Creek)",
+  "new_html": "<p>Website: <a href=\"https://www.shantycreek.com/stay/dining/\">shantycreek.com/stay/dining</a></p> <p>Phone: (231) 533-3070</p> <p>Lakeview Hotel, Summit Village, 5780 Shanty Creek Rd</p> <p>Hours: Breakfast daily 7-11 AM; lunch daily 11:30 AM-4 PM; dinner Sun-Thu 5-9 PM, Fri-Sat 5-10 PM; happy hour daily 5-6:30 PM. Reservations via OpenTable.</p> <p>Perched overlooking Lake Bellaire, The Lakeview offers relaxed bar-and-grill dinners and hearty breakfasts in a resort-chic setting. With daily happy hour and stunning sunset views, it's a great spot to unwind after a day on the water or trails.</p>",
+  "photo_ok": "unsure",
+  "photo_note": "Lit bar with tall windows; plausibly the Lakeview bar but not confirmed",
+  "changes": [
+   "Phone 231-533-8621 not found for the restaurant; OpenTable lists (231) 533-3070",
+   "Link updated to current dining page (old /dining redirects there)",
+   "Added hours from official site",
+   "Official name is 'The Lakeview'"
+  ],
+  "sources": [
+   "https://www.shantycreek.com/stay/dining/",
+   "https://opentable.ca/lakeview-restaurant"
+  ]
+ },
+ {
+  "key": "dining|2|4",
+  "title": "Short’s Brewing Company Bellaire Pub",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://www.shortsbrewing.com/locations/bellaire-pub\">shortsbrewing.com/locations/bellaire-pub</a></p> <p>Phone: (231) 498-2300</p> <p>121 N Bridge St, Bellaire</p> <p>Pub hours: Sun-Tue 11 AM-10 PM; Wed 11 AM-8 PM; Thu 11 AM-10 PM; Fri-Sat 11 AM-11 PM (kitchen closes about an hour earlier)</p> <p>Kick off your evening at Short's, where local life meets craft beer: 20 house brews and ciders on tap alongside pub favorites like the iconic White Pepper sandwich or fresh pizzas. With live music and a laid-back beer garden across the street in summer, it's the perfect spot to relax after a day on the lake.</p>",
+  "photo_ok": true,
+  "photo_note": "Short's Brewing Company hanging sign",
+  "changes": [
+   "Open; website and phone confirmed (498-2300 is listed for the pub on Visit Charlevoix)",
+   "Added address and current hours from official page",
+   "Beer garden is seasonal (official page says 2025 season ended)"
+  ],
+  "sources": [
+   "https://www.shortsbrewing.com/locations/bellaire-pub",
+   "https://visitcharlevoix.com/shortsbrewingcompany",
+   "https://www.bellairechamber.org/food-drinks/"
+  ]
+ },
+ {
+  "key": "dining|2|5",
+  "title": "The Nest at The Chief",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://thepelicansnest.com/\">thepelicansnest.com</a></p> <p>Phone: (231) 533-9000</p> <p>The Chief Golf Course, 5085 Shanty Creek Rd, Bellaire</p> <p>Kick back at The Nest (The Pelican's Nest), a casual sports bar and grill right on The Chief golf course. From build-your-own burgers and seafood to wings and cocktails, with indoor and outdoor seating, live music and nightly specials, it's the perfect casual spot to unwind after a day on the lake or trails.</p>",
+  "photo_ok": true,
+  "photo_note": "The Nest Sports Bar and Grill logo",
+  "changes": [
+   "Open year-round per Bellaire Chamber; website and phone confirmed",
+   "Added address",
+   "Swapped 'brick-oven pizzas' (not on site) for seafood/nightly specials",
+   "Website lists hours but the page footer is from 2021, so hours not added"
+  ],
+  "sources": [
+   "https://thepelicansnest.com/",
+   "https://www.bellairechamber.org/food-drinks/"
+  ]
+ },
+ {
+  "key": "dining|2|6",
+  "title": "The Shanty Bar & Grill",
+  "verdict": "updated",
+  "new_html": "<p>Facebook: <a href=\"https://www.facebook.com/shantytownmi/\">facebook.com/shantytownmi</a></p> <p>Phone: (231) 533-7025</p> <p>5820 Shanty Creek Rd, Bellaire</p> <p>This cozy, lodge-style bar near Shanty Creek Resort is your go-to for cold beers, pizza, and rustic comfort food in a relaxed setting, open late with live music on summer weekends. With friendly service and a local vibe, it's the perfect spot to unwind after a day of hiking, skiing, or playing on the lake.</p>",
+  "photo_ok": true,
+  "photo_note": "'The Shanty' rusted letters sign",
+  "changes": [
+   "Phone was malformed (+231 5 337 025); corrected to (231) 533-7025 (Roadtrippers listing)",
+   "Added address 5820 Shanty Creek Rd",
+   "Not a Shanty Creek Resort venue (not on the resort dining page); wording changed to 'near'",
+   "Facebook page could not be checked (login wall); another listing points to facebook.com/profile.php?id=61556132521079",
+   "Hours only from third parties (Mon-Tue 4-10, Wed-Thu 4-11, Fri-Sat noon-2 AM, Sun closed), not added"
+  ],
+  "sources": [
+   "https://maps.roadtrippers.com/us/bellaire-mi/food-drink/the-shanty-bar",
+   "https://visitmylo.com/business/the-shanty-bar-and-grill-bellaire-michigan-us-restaurant",
+   "https://startpage.mapquest.com/us/michigan/the-shanty-bar-304438309"
+  ]
+ },
+ {
+  "key": "beer-wine|0|0",
+  "title": "Bee Well Mead & Cider",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://www.beewellmeadery.com/\">beewellmeadery.com</a></p> <p>Phone: (231) 350-7116</p> <p>116 N Bridge St, Bellaire</p> <p>Check out Bee Well for a taste of Northern Michigan in a glass. This family-run spot serves house-made meads and hard ciders using local honey and fruit in a cozy, come-as-you-are tasting room. With rotating taps, kid-friendly options like cold brew and soda, and a laid-back local vibe, it's the perfect place to chill out after exploring Bellaire.</p>",
+  "photo_ok": true,
+  "photo_note": "Bee Well Mead & Cider logo",
+  "changes": [
+   "Open (downtown tasting room, 116 N Bridge St); website loads (age gate only); phone matches Google data via Wanderlog",
+   "Added address",
+   "Changed '20 rotating taps' to 'rotating taps' (tap count not verifiable)",
+   "Hours not added: only third-party data, and sources disagree"
+  ],
+  "sources": [
+   "https://www.beewellmeadery.com/",
+   "https://wanderlog.com/place/details/541820",
+   "https://www.northernexpress.com/news/food/bee-well-mead-ciders-north-cider"
+  ]
+ },
+ {
+  "key": "beer-wine|0|1",
+  "title": "Short’s Brewing Company – Bellaire Pub",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://www.shortsbrewing.com/locations/bellaire-pub\">shortsbrewing.com/locations/bellaire-pub</a></p> <p>Phone: (231) 498-2300</p> <p>121 N Bridge St, Bellaire</p> <p>Pub hours: Sun-Tue 11 AM-10 PM; Wed 11 AM-8 PM; Thu 11 AM-10 PM; Fri-Sat 11 AM-11 PM</p> <p>Kick back in the heart of downtown at Short's, where local life meets craft beer: 20 house-brewed beers and ciders on tap, pizzas, hearty mac 'n' cheese, and their can't-miss White Pepper sandwich. Walk-in brewery tours Fri-Sat noon-4 PM, plus live music and a beer garden in summer, all with that laid-back Northern Michigan vibe.</p>",
+  "photo_ok": true,
+  "photo_note": "Short's sign; same photo as the Dining Out Short's entry (duplicate listing)",
+  "changes": [
+   "Duplicate of the Dining Out Short's entry; consider keeping only one",
+   "Added address, hours, walk-in tours from official page; beer garden is seasonal"
+  ],
+  "sources": [
+   "https://www.shortsbrewing.com/locations/bellaire-pub",
+   "https://visitcharlevoix.com/shortsbrewingcompany"
+  ]
+ },
+ {
+  "key": "beer-wine|0|2",
+  "title": "Torch Lake Cellars",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://torchlakecellars.com/\">torchlakecellars.com</a></p> <p>Phone: (231) 377-9109</p> <p>5245 Clam Lake Rd, Bellaire</p> <p>Hours: Seasonal and they vary, so please call ahead.</p> <p>Sip and relax at this cozy, family-run winery just outside Bellaire, where you can toast with fruit-forward wines or crisp hard ciders while soaking in the vineyard views. Casual tasting flights and friendly service make this a great stop for a laid-back afternoon treat.</p>",
+  "photo_ok": true,
+  "photo_note": "Torch Lake Cellars logo",
+  "changes": [
+   "Open; official site (c) 2026 says 'Seasonal hours vary - please call ahead'; phone and address confirmed",
+   "Website has an invalid (self-signed) SSL certificate, so browsers may show a security warning; owner should fix",
+   "Removed 'Torch Lake views' (winery is on Clam Lake Rd, not on Torch Lake)"
+  ],
+  "sources": [
+   "https://torchlakecellars.com/",
+   "https://michiganwinecountry.com/places/bellaire/wineries/torch-lake-cellars/"
+  ]
+ },
+ {
+  "key": "beer-wine|1|0",
+  "title": "U-Pick Orchards",
+  "verdict": "updated",
+  "new_html": "<p><strong>1. Kalchik Farms</strong><br/>Info: <a href=\"https://upickfarmsusa.com/mi/antrim-county/kalchik-farms\">U-Pick Farms USA listing</a><br/>Phone: (231) 377-7519<br/>Location: 8659 Bellaire Highway, Bellaire, MI 49615<br/>Family-run and beloved for u-pick strawberries in June. A sweet summer staple just minutes away.</p> <p><strong>2. King Orchards</strong><br/>Website: <a href=\"https://kingorchards.com/\">kingorchards.com</a><br/>Phone: (231) 544-6479<br/>Location: 4620 N M-88, Central Lake<br/>A wide seasonal roster of u-pick fruit, from June strawberries through cherries, raspberries, peaches and October apples, plus a farm market with baked goods and picnic areas. Check their site for the current u-pick schedule.</p> <p><strong>3. Shooks Farms / Cellar 1914</strong><br/>Websites: <a href=\"https://shooksfarms.weebly.com/\">shooksfarms.weebly.com</a> and <a href=\"https://cellar1914.com/\">cellar1914.com</a><br/>Phone: (231) 544-6418<br/>Location: 5833 Shooks Road, Central Lake, MI 49622<br/>A multi-generation family farm known for u-pick cherries in July (sweet and pie varieties). On the same property is Cellar 1914, their winery and tasting room, where you can enjoy wines and hard ciders crafted from the farm's own fruit. A perfect pick-and-sip stop.</p> <p><strong>4. Rocky Top Farms</strong><br/>Website: <a href=\"https://rockytopfarms.com/\">rockytopfarms.com</a><br/>Phone: (231) 350-0985<br/>Location: 11486 Essex Rd, Ellsworth, MI<br/>A cherry farm famous for farm-kitchen preserves, fruit butters, gift boxes, and cedar kitchen items, with a farm store on site. A charming stop for shopping local culinary treats.</p> <p><strong>5. Clam Lake Orchards</strong><br/>Info: <a href=\"https://www.orangepippin.com/orchards/united-states/michigan/clam-lake-orchards\">Orange Pippin listing</a><br/>Phone: (231) 533-6497<br/>Location: 6662 Clam Lake Road, Bellaire, MI 49615<br/>About 30 apple varieties, including Fuji, Gala, Honeycrisp, and McIntosh, some on easy-to-reach dwarf trees. Call ahead to confirm they are open.</p>",
+  "photo_ok": false,
+  "photo_note": "UPickFarmsUSA website logo, not a local orchard; replace with an orchard/fruit photo",
+  "changes": [
+   "Rocky Top Farms phone corrected to (231) 350-0985 (official site); site no longer mentions u-pick, so wording changed to farm store/preserves",
+   "Clam Lake Orchards link pointed to a generic U-Pick Farms USA apple page that does not list it; replaced with Orange Pippin listing; current status unconfirmed (no website), added 'call ahead'",
+   "Removed michigan.org Shooks link (blocked by bot check) and added Cellar 1914 site; Shooks site notes they have had phone issues",
+   "Kalchik Farms has no own website; link labeled as a directory listing",
+   "King Orchards: site confirms June strawberries through October apples"
+  ],
+  "sources": [
+   "https://upickfarmsusa.com/mi/antrim-county/kalchik-farms",
+   "https://www.localdifference.org/partner/kalchik-farm/",
+   "https://kingorchards.com/",
+   "https://shooksfarms.weebly.com/",
+   "https://rockytopfarms.com/",
+   "https://www.orangepippin.com/orchards/united-states/michigan/clam-lake-orchards"
+  ]
+ },
+ {
+  "key": "beer-wine|1|1",
+  "title": "Tasting Rooms Tour",
+  "verdict": "updated",
+  "new_html": "<p><strong>🍺 Short’s Brewing Company – The Pub</strong><br/>Website: <a href=\"https://www.shortsbrewing.com/locations/bellaire-pub\">shortsbrewing.com</a><br/>Phone: (231) 498-2300<br/>Location: 121 N Bridge St, Bellaire, MI 49615</p> <p>A true Bellaire staple, Short’s offers 20 craft beers and ciders on tap, creative pub food, and live music in a welcoming downtown atmosphere. Perfect for a casual night out with friends or to sample Michigan’s most iconic brewery.</p> <p><strong>🍷 Torch Lake Cellars</strong><br/>Website: <a href=\"https://torchlakecellars.com/\">torchlakecellars.com</a><br/>Phone: (231) 377-9109<br/>Location: 5245 Clam Lake Rd, Bellaire, MI 49615</p> <p>A boutique, family-run winery just outside Bellaire with handcrafted wines and hard ciders. Seasonal hours vary, so call ahead.</p> <p><strong>🥃 Mammoth Distilling – Bellaire Tasting Room</strong><br/>Website: <a href=\"https://mammothdistilling.com/bellaire/\">mammothdistilling.com/bellaire</a><br/>Phone: (231) 350-7102<br/>Location: 109 N Bridge St, Bellaire, MI 49615</p> <p>Located right downtown, Mammoth offers small-batch spirits crafted with Northern Michigan ingredients. Sip artisan cocktails in a rustic-chic lounge just steps away from your stay.</p> <p><strong>🍇 Vista Ridge Vineyard</strong><br/>Info: <a href=\"https://www.michigan.org/property/vista-ridge-vineyard\">Pure Michigan listing</a><br/>Phone: (231) 331-5511<br/>Location: 9104 Helena Rd, Alden, MI 49612</p> <p>A cozy, family-run winery in the village of Alden, reachable by boat or car, offering tastings and charcuterie on the deck. Call ahead to confirm hours.</p> <p><strong>🌿 WaterFire Vineyards</strong><br/>Website: <a href=\"https://www.waterfirewine.com/\">waterfirewine.com</a><br/>Phone: (231) 498-2753<br/>Location: 12180 Sutter Rd, Kewadin, MI 49648</p> <p>A boutique, certified-sustainable winery near Torch Lake making small-batch wines from estate-grown European grapes. Perfect for eco-minded wine lovers.</p> <p><strong>🥂 Ethanology Distillation</strong><br/>Website: <a href=\"https://www.ethanologydistillation.com/\">ethanologydistillation.com</a><br/>Phone: (231) 498-2800<br/>Location: 127 Ames St, Elk Rapids, MI 49629</p> <p>A grain-to-glass distillery offering premium spirits and seasonal cocktails. The modern tasting room and intimate tours make it a unique stop on your Northern Michigan beverage trail.</p> <p><strong>🍏 Royal Farms Winery &amp; Market</strong><br/>Website: <a href=\"https://www.royalfarmsinc.com/\">royalfarmsinc.com</a><br/>Phone: (231) 599-3222<br/>Location: 10445 N US Highway 31, Ellsworth, MI 49729</p> <p>A family-friendly winery and farm market offering wines, hard ciders, and homemade baked goods. Seasonal U-Pick fruit and a fall corn maze make this a fun stop for both kids and adults.</p> <p><strong>🍎 Townline Ciderworks</strong><br/>Website: <a href=\"https://www.townlineciderworks.com/\">townlineciderworks.com</a><br/>Phone: (231) 883-5330<br/>Location: 11595 US-31, Williamsburg, MI 49690 (just south of Elk Rapids)</p> <p>Specializing in small-batch hard cider, Townline uses apples grown on its own family farm. The relaxed tasting room offers scenic countryside views and refreshing ciders perfect for summer.</p> <p><strong>🍷 Fireside Lounge (formerly Hello Vino)</strong><br/>Website: <a href=\"https://www.hellovinobellaire.com/\">hellovinobellaire.com</a><br/>Phone: (231) 350-7138<br/>Location: 201 E Broad St, Bellaire, MI 49615</p> <p>A cozy downtown cocktail and wine lounge with a riverside patio, bocce and live music, just around the corner from Short’s. 21+ only.</p> <p><strong>🍻 Torch Lake Beer Co.</strong><br/>Website: <a href=\"https://torchlakebeercompany.com/\">torchlakebeercompany.com</a><br/>Location: 9149 Helena Rd, Alden, MI 49612</p> <p>A casual up-north pub across from Torch Lake with rotating taps from Michigan craft breweries, hearty food, and breakfast. A favorite hangout for locals and visitors alike.</p>",
+  "photo_ok": true,
+  "photo_note": "Generic tasting flight (ciders) on an outdoor table; fine as a generic image",
+  "changes": [
+   "Hello Vino is now Fireside Lounge: address 225 N Bridge St and phone 350-7136 were wrong; now 201 E Broad St, (231) 350-7138",
+   "Torch Lake Beer Company: torchlakebeerco.com does not exist (NXDOMAIN); correct site torchlakebeercompany.com; it is in Alden (9149 Helena Rd), not Central Lake, and is a pub pouring Michigan craft beer rather than a brewery; unverified phone removed",
+   "Vista Ridge: vistaridgevineyards.com is dead (DNS fails); link swapped to Pure Michigan listing; current status unconfirmed",
+   "WaterFire address corrected to 12180 Sutter Rd (was 12180 S Elk Run)",
+   "Townline Ciderworks phone/address corrected to (231) 883-5330, 11595 US-31, Williamsburg (official site)",
+   "Mammoth link pointed to the Bellaire page; Torch Lake Cellars 'lakeside setting' wording corrected"
+  ],
+  "sources": [
+   "https://www.shortsbrewing.com/locations/bellaire-pub",
+   "https://torchlakecellars.com/",
+   "https://mammothdistilling.com/bellaire/",
+   "https://www.michigan.org/property/vista-ridge-vineyard",
+   "https://www.waterfirewine.com/",
+   "https://www.ethanologydistillation.com/",
+   "https://www.royalfarmsinc.com/",
+   "https://www.townlineciderworks.com/",
+   "https://www.bellairechamber.org/connections/36894-fireside-lounge/reviews/24560/",
+   "https://torchlakebeercompany.com/"
+  ]
+ },
+ {
+  "key": "beer-wine|1|2",
+  "title": "Torch Lake Tour — Road Runner Tours",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://www.roadrunnermi.com/\">roadrunnermi.com</a></p> <p>Phone: (231) 392-3114</p> <p>Based on Clam Lake Rd, Bellaire (pickup at any location)</p> <p><strong>Host: Road Runner Tours – Bellaire, MI</strong></p> <p>Enjoy a stress-free day visiting local tasting rooms with a scenic ride aboard Road Runner's 14-passenger bus. Tours can include stops such as Torch Lake Cellars, Short's, Mammoth Distilling, Cellar 1914 and other wineries, cideries and distilleries around Torch Lake, plus dinner tours and u-pick orchard trips.</p> <p>Let someone else drive while you indulge in a curated tasting experience, with hassle-free pickup and drop-off wherever you are staying.</p> <p><strong>How to book: visit <a href=\"https://www.roadrunnermi.com/\">roadrunnermi.com</a> or call (231) 392-3114. Book ahead; last-minute requests are not guaranteed.</strong></p>",
+  "photo_ok": "unsure",
+  "photo_note": "Stylized roadrunner bird logo; could not confirm it is the company's own logo",
+  "changes": [
+   "Phone confirmed on official site",
+   "Removed stray 'MapQuestYelp' and 'MapQuest+1' citation junk and the MapQuest link",
+   "Address: official site footer lists 6245 Clam Lake Rd (guide had 5245, the Torch Lake Cellars address); replaced with general 'Clam Lake Rd' plus pickup note",
+   "Website has an invalid (self-signed) SSL certificate, so browsers may warn",
+   "Added dinner tours/u-pick and 'book ahead' note from official site"
+  ],
+  "sources": [
+   "https://www.roadrunnermi.com/"
+  ]
+ },
+ {
+  "key": "beer-wine|1|3",
+  "title": "Petoskey Brewing Company",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://www.petoskeybrewing.com/\">petoskeybrewing.com</a></p> <p>Phone: (231) 753-2057</p> <p>1844 M-119 (Harbor-Petoskey Rd), Petoskey</p> <p>Hours: Daily 11:30 AM-9 PM (kitchen until 8:30 PM)</p> <p>Step into history: this renovated 1898 'Old Brewery' serves up hand-crafted ales and hearty pub fare in a rustic taproom. Whether you're sipping a Raspberry Waffle Cone Cream Ale or diving into a burger, it's a fun destination for a day trip to Petoskey, about an hour north of Bellaire.</p>",
+  "photo_ok": true,
+  "photo_note": "Petoskey Brewing logo",
+  "changes": [
+   "Open; phone confirmed",
+   "Fixed location claim: it is in Petoskey (about an hour north), not 'halfway between Bellaire and Petoskey'",
+   "Added address and hours from official site",
+   "Removed 'tart' and 'smash burger' specifics that could not be confirmed"
+  ],
+  "sources": [
+   "https://www.petoskeybrewing.com/"
+  ]
+ },
+ {
+  "key": "beer-wine|1|4",
+  "title": "BOS Wine Garden",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://www.boswine.com\">boswine.com</a></p> <p>Phone: (231) 498-2073</p> <p>135 Ames St, Elk Rapids</p> <p>Hours: Wed-Thu noon-6 PM, Fri-Sat noon-8 PM, closed Sun-Tue (check their Facebook page for seasonal updates)</p> <p>Discover a hidden gem at BOS Wine Garden, where biodynamic farming meets exceptional winemaking. Nestled in a charming restored farmhouse, this boutique winery offers curated tasting experiences featuring wines from Michigan and California, complemented by artisanal pairings. Whether you're enjoying a glass in the intimate tasting room or relaxing in the serene garden, BOS Wine Garden provides a welcoming atmosphere to savor every sip.</p>",
+  "photo_ok": true,
+  "photo_note": "BOS wine logo",
+  "changes": [
+   "Phone typo fixed ('231) 498-2073' missing parenthesis)",
+   "Added address and hours from Elk Rapids Chamber member listing",
+   "Website blocks automated checks (Cloudflare) but domain is correct per Chamber"
+  ],
+  "sources": [
+   "https://business.elkrapidschamber.org/list/member/bos-wine-1896",
+   "https://ruralinnovationexchange.com/boswine/"
+  ]
+ },
+ {
+  "key": "beer-wine|1|5",
+  "title": "Cellar 1914",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://cellar1914.com/\">cellar1914.com</a></p> <p>Phone: (231) 676-8743</p> <p>5833 Shooks Rd, Central Lake</p> <p>Step back in time and savor the flavor at Cellar 1914, the farm winery on the century-old Shooks family cherry farm. Wine and cider flights, wine by the glass, and orchard views make it perfect for slowing down and soaking up the area's laid-back spirit.</p>",
+  "photo_ok": true,
+  "photo_note": "Cellar 1914 logo",
+  "changes": [
+   "Open; website and phone confirmed",
+   "Added address (Central Lake, not Bellaire) and farm-winery context",
+   "No hours on official site; not added"
+  ],
+  "sources": [
+   "https://cellar1914.com/",
+   "https://shooksfarms.weebly.com/"
+  ]
+ },
+ {
+  "key": "beer-wine|1|6",
+  "title": "Royal Farms, Inc.",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://www.royalfarmsinc.com\">royalfarmsinc.com</a></p> <p>Phone: (231) 599-3222</p> <p>10445 N US-31, Ellsworth</p> <p>Fall hours: Market Sun-Thu 9 AM-6 PM, Fri-Sat 9 AM-7 PM; tasting room Sun-Thu 11 AM-6 PM, Fri-Sat 11 AM-7 PM</p> <p>Just a short drive from Bellaire, Royal Farms offers a delightful mix of farm-fresh produce, homemade baked goods, and a cozy winery. Whether you're picking your own fruit in season, wandering the fall corn maze, enjoying a glass of wine in their tasting room, or exploring their charming gift shop, it's a perfect stop for a taste of local Northern Michigan charm.</p>",
+  "photo_ok": true,
+  "photo_note": "Royal Farms Farm Market and Winery logo",
+  "changes": [
+   "Open; website and phone confirmed",
+   "Added address and current (fall) hours from official site",
+   "Removed nested empty div wrappers around the phone",
+   "Mentioned corn maze/hayrides (on official site)"
+  ],
+  "sources": [
+   "https://www.royalfarmsinc.com/"
+  ]
+ },
+ {
+  "key": "beer-wine|1|7",
+  "title": "Vista Ridge Vineyards",
+  "verdict": "unsure",
+  "new_html": "<p>Info: <a href=\"https://www.michigan.org/property/vista-ridge-vineyard\">Pure Michigan listing</a></p> <p>Phone: (231) 331-5511</p> <p>9104 Helena Rd, Alden</p> <p>Just a short stroll from Torch Lake, Vista Ridge Vineyards offers a cozy tasting room and sunny deck where you can sip handcrafted wines and enjoy charcuterie boards with friends. Whether you arrive by boat or car, it's a perfect spot to unwind and savor local flavors in a laid-back, lakeside setting. Call ahead to confirm hours.</p>",
+  "photo_ok": true,
+  "photo_note": "'Vista Ridge Vineyards - Crushin It on Torch Lake' wall sign",
+  "changes": [
+   "vistaridgevineyards.com is dead (DNS lookups fail: lame Cloudflare delegation); replaced with Pure Michigan listing",
+   "Could not confirm the winery is still operating; MapQuest still lists hours and no closure; OpenStreetMap now tags 9104 Helena Rd as 'Torch Lake Surf Company', so verify by phone",
+   "Added address and call-ahead note"
+  ],
+  "sources": [
+   "https://www.michigan.org/property/vista-ridge-vineyard",
+   "https://mapquest.com/us/michigan/vista-ridge-winery-387914043",
+   "https://www.airbnb.se/things-to-do/places/3137116"
+  ]
+ }
+]

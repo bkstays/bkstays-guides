@@ -1,0 +1,510 @@
+[
+ {
+  "key": "water-activities|0|0",
+  "title": "Summit Village Private Beach (HOA) Bellaire Beach Club",
+  "verdict": "ok",
+  "photo_ok": "unsure",
+  "photo_note": "Generic lakeside beach with lounge chairs; looks AI-generated/stock rather than a real photo of the Summit Village beach club. Replace with a real photo if available.",
+  "changes": [
+   "No text changes. Shanty Creek venue page loads (address 5780 Shanty Creek Rd, phone 231-533-8621 confirmed) but says nothing about the beach club; the club is HOA-run, so the host should confirm pass/hours details.",
+   "Current Airbnb listing for a Summit Village condo describes the private beach club on Lake Bellaire (<2 miles), hours 9:30 a.m.-dusk, with a public boat launch next door; not an official source so hours not added.",
+   "Map pin sits on the east shore of Lake Bellaire, plausible for the beach club."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/venue/summit-village/",
+   "https://www.airbnb.com/rooms/750768091270658654",
+   "https://stayshanty.com/"
+  ]
+ },
+ {
+  "key": "water-activities|0|1",
+  "title": "The Beach Club – Public Beach on Lake Bellaire",
+  "verdict": "unsure",
+  "new_title": "Miley's Beach (Cottage Drive Family Park) – Public Beach on Lake Bellaire",
+  "new_html": "<p>Website: <a href=\"https://foresthometwp.com/parks\">Forest Home Township Parks</a><br/>Phone: (231) 533-8003 (Forest Home Township)<br/>Location: Cottage Drive, west shore of Lake Bellaire, Bellaire, MI 49615</p><p>Access: Free public township park</p><p>Miley's Beach at Cottage Drive Family Park is Lake Bellaire's public family beach. Enjoy soft sand, good swimming, and plenty of space to lay down a towel or set up a picnic. It's a peaceful, easygoing alternative to busier lakefronts—ideal for sunbathing, swimming, or simply enjoying the lake.</p><p>FAQs – What Guests Should Know:</p><ul><li>Do I need a pass or pay an entrance fee?<br/>No—it's a public township park.</li><li>Are there picnic areas or restrooms?<br/>Yes. The township lists picnic tables, grills, benches, and restroom facilities.</li><li>Is it suitable for swimming?<br/>Yes, the sandy beach is known for excellent swimming. There are no lifeguards, so supervise kids.</li><li>Any tips for first-timers?<br/>Bring sunscreen, towels, snacks, and beach chairs, and arrive early on summer weekends.</li></ul>",
+  "photo_ok": false,
+  "photo_note": "Shows a private backyard lawn with a dock and boats (a home's lake view, umbrella in frame), not a public beach.",
+  "changes": [
+   "Problem: the MapQuest 'The Beach Club' listing and the map pin are identical to the Summit Village private beach club (previous entry). That club is private (HOA members/guests), so 'open to the public, no fees' is very likely wrong and this entry duplicates the private club.",
+   "MapQuest link could not be loaded to confirm (blocked).",
+   "Suggested replacement: Forest Home Township's official public beach on Lake Bellaire, Cottage Drive Family Park / Miley's Beach (sandy beach, swimming, picnic tables, grills, restrooms). Suggested new_html provided.",
+   "Map pin must be moved to the Cottage Drive park on the west shore if replaced; exact coordinates could not be confirmed, so no new_loc given (Cottage Drive runs approx. 44.92-44.95 N, -85.22 to -85.24 W)."
+  ],
+  "sources": [
+   "https://foresthometwp.com/parks",
+   "https://www.airbnb.com/rooms/750768091270658654",
+   "https://nominatim.openstreetmap.org/search?format=json&street=Cottage%20Drive&county=Antrim&state=Michigan"
+  ]
+ },
+ {
+  "key": "water-activities|0|2",
+  "title": "Torch Lake Sandbar",
+  "verdict": "updated",
+  "new_html": "<p>A Must-Visit Gem Near Bellaire, MI</p> <p>More info: <a href=\"https://torchlake.com\">torchlake.com</a><br/>Location: South end of Torch Lake near the Torch River (Rapid City / Alden area); reached by boat from Bellaire via Lake Bellaire, Clam Lake and Torch Lake</p> <p><em>Access: Best reached by boat, kayak, or jet ski; rentals available nearby</em></p> <p>Torch Lake Sandbar is famous for its stunning, crystal-clear turquoise waters and soft sandy bottom. Perfect for swimming, sunbathing, and boating, it's a must-visit spot for a relaxing day on the water. Bring your snacks and sunscreen, and enjoy this beautiful natural gem!</p> <p>FAQs – What Guests Should Know</p> <ul> <li>How do I get there?<br/>You'll need a boat or watercraft—rent from a nearby marina or charter a cruise with a captain for a no-hassle trip.</li> <li>Can we swim at the sandbar?<br/>Yes! The water is shallow and perfect for swimming and wading.</li> <li>Can we bring drinks and snacks?<br/>Absolutely! Picnic-friendly—just be respectful and take your trash with you.</li> <li>Is it a party spot or family-friendly?<br/>It can be both! Weekends (especially the Fourth of July) bring a lively crowd, while weekdays are more relaxed.</li> <li>When's the best time to go?<br/>Arrive early in the day for calmer waters and easy anchoring—especially on weekends and holidays.</li> </ul>",
+  "new_loc": [
+   44.8517,
+   -85.3242
+  ],
+  "photo_ok": true,
+  "photo_note": "Aerial of the south end of Torch Lake showing the turquoise sandbar shallows and Torch River — correct.",
+  "changes": [
+   "Removed phone (231) 533-8818 — the sandbar is a natural feature with no phone and the number could not be tied to any related business.",
+   "torchlake.com is a private vacation-rental/info site (not official) but it loads and describes the sandbar; kept as 'More info'.",
+   "Map pin was mid-lake at the north (45.075, -85.359); sandbar is at the south end near the Torch River — moved to the Torch Lake Sand Bar public access point.",
+   "Removed unverifiable '20 minutes by boat' claim (route from Bellaire runs through no-wake river sections)."
+  ],
+  "sources": [
+   "https://torchlake.com",
+   "https://nominatim.openstreetmap.org/search?format=json&q=Torch%20Lake%20sand%20bar"
+  ]
+ },
+ {
+  "key": "water-activities|0|3",
+  "title": "Antrim Creek Natural Area & Rex Beach",
+  "verdict": "updated",
+  "new_html": "<p><em>Explore, Relax, and Rejuvenate by the Lake</em></p> <p><strong>Website: </strong><a href=\"https://www.antrimcountymi.gov/departments___services_/parks___recreation/natural_areas/antrim_creek_natural_area/index.php\">Antrim County – Antrim Creek Natural Area</a> <br/><strong>Phone:</strong> (231) 599-2712 — Antrim County Parks<br/><strong>Location:</strong> Old Dixie Hwy at the west end of Rex Beach Rd, Atwood area (Banks Township) (Approx. 30 minutes from Bellaire)<br/><strong>Season:</strong> Open year-round</p> <p>Discover the serene beauty of <strong>Antrim Creek Natural Area &amp; Rex Beach</strong>, a county natural area nestled along the pristine shores of Grand Traverse Bay. This protected area offers nearly a mile of undeveloped coastline, providing a tranquil retreat for nature enthusiasts and beach lovers alike.</p> <p>Embark on scenic hikes through diverse landscapes, including hardwood forests, wetlands, and coastal dunes. The sandy beach at Rex Beach invites you to relax, swim, or enjoy a peaceful picnic with breathtaking lake views.</p> <p>Whether you're seeking a quiet escape or an adventure in nature, Antrim Creek Natural Area &amp; Rex Beach offers a perfect blend of outdoor recreation and natural beauty, just a short drive from Bellaire.</p> <p>Find out more: <a href=\"https://www.visitcharlevoix.com/AntrimCreekNatureArea/\">Visit Charlevoix – Antrim Creek Nature Area</a> <br/></p> <p>FAQs</p> <ul> <li>Free parking is available near trailheads and beach access.</li> <li>Trails are easy to moderate and suitable for most ages.</li> <li>Picnic areas are available; bring your own blanket or chairs.</li> <li>Swimming is allowed at Rex Beach (no lifeguards on duty).</li> <li>Leashed dogs are welcome; please clean up after pets.</li> </ul>",
+  "photo_ok": true,
+  "photo_note": "Sandy Lake Michigan / Grand Traverse Bay shoreline with dunes and trees — fits.",
+  "changes": [
+   "Phone changed from (231) 533-6265 (county general line) to Antrim County Parks (231) 599-2712 per county Parks page.",
+   "Address fixed: county gives 'Old Dixie Highway' (entrance where Rex Beach Rd meets Old Dixie Hwy, Banks Township); old line had Bellaire ZIP 49615 with Ellsworth, which is wrong.",
+   "Added 'Season: Open year-round' from county directions page.",
+   "Removed '156-acre' figure (county pages disagree: 156 vs 165 acres).",
+   "Both links load and are correct."
+  ],
+  "sources": [
+   "https://www.antrimcountymi.gov/departments___services_/parks___recreation/natural_areas/antrim_creek_natural_area/index.php",
+   "https://www.antrimcountymi.gov/departments___services_/parks___recreation/natural_areas/antrim_creek_natural_area/directions.php",
+   "https://www.antrimcountymi.gov/departments___services_/parks___recreation/index.php",
+   "https://www.visitcharlevoix.com/AntrimCreekNatureArea/"
+  ]
+ },
+ {
+  "key": "water-activities|0|4",
+  "title": "Craven Park (Lakeside Leisure in Bellaire)",
+  "verdict": "updated",
+  "new_title": "Richardi Park (Riverside Beach in Bellaire)",
+  "new_html": "<p>Website: <a href=\"https://bellairemichigan.com/richardi/\">https://bellairemichigan.com/richardi/</a> <br/>Phone: (231) 533-8213 (Village of Bellaire)<br/>Location: On the Intermediate River just north of downtown Bellaire; parking off E. Antrim St.</p> <hr/> <p>Right in town, <strong>Richardi Park</strong> offers a relaxed waterside escape with a swimming beach on the Intermediate River. The park also has tennis and basketball courts, a playground, a large rentable pavilion, and plenty of green space, making it an ideal spot for families. Whether you're looking to swim, picnic, or simply relax by the water, Richardi Park is an easy stop.</p> <p>FAQs</p> <ul> <li>Is parking available?<br/>Yes, there's a parking lot off E. Antrim Street.</li> <li>Is there a swimming beach?<br/>Yes, the park has a swimming beach on the river (no lifeguards).</li> <li>Are there facilities for picnics?<br/>Yes—bring a picnic basket; the pavilion and gazebo can be reserved through the Village offices.</li> <li>Is there a playground for children?<br/>Yes, with new playground equipment recently added.</li> </ul>",
+  "new_loc": [
+   44.9792,
+   -85.2096
+  ],
+  "photo_ok": false,
+  "photo_note": "Low-res Village of Bellaire logo, not a photo of a park or beach.",
+  "changes": [
+   "Major error: per the Village of Bellaire, Craven Park is a campground on Craven Pond about a mile east of downtown (3907 S Derenzy Rd), not a sandy beach on Lake Bellaire. The village's swimming beach is Richardi Park on the Intermediate River just north of downtown. Rewrote entry as Richardi Park.",
+   "Phone (231) 264-9274 not linked to the village (264 is an Elk Rapids exchange); replaced with Village offices 231-533-8213.",
+   "Link changed from generic /parks page to the Richardi Park page.",
+   "Map pin moved to Richardi Park (OSM)."
+  ],
+  "sources": [
+   "https://bellairemichigan.com/parks/",
+   "https://bellairemichigan.com/craven/",
+   "https://bellairemichigan.com/richardi/"
+  ]
+ },
+ {
+  "key": "water-activities|1|0",
+  "title": "Torch Lake Sunset Cruises",
+  "verdict": "updated",
+  "new_html": "<div> <p>Website: <a href=\"https://www.northaireresort.com/sunset-cruises\">https://www.northaireresort.com/sunset-cruises</a> <br/>Phone: (231) 377-7764<br/>Location: Departs from the Clam River right by Dockside Restaurant, Old Torch Lake Dr, Bellaire, MI<br/>Tour Duration: 2 hours<br/>Price: $75 per person (2-person minimum)<br/>Captain Provided: Yes – licensed captain included</p> <hr/> <p>Treat yourself to a magical evening on Torch Lake with a <strong>2-hour, captained sunset cruise</strong> run by Northaire Resort. Your captain will take you from the Clam River out to Torch Lake's stunning blue expanse as the sun dips into the horizon. Bring your own beverages and snacks—a cooler full of ice is provided. Departure times vary with sunset and are set when you book.</p> <p>Perfect for couples, families, or small groups, this stress-free experience is all about unwinding and soaking in one of the most beautiful sunsets in the Midwest. No boating experience needed—just show up and enjoy!</p> </div>",
+  "photo_ok": true,
+  "photo_note": "Lake sunset with dock and ducks — generic but fits a sunset cruise.",
+  "changes": [
+   "Northaire page confirms: licensed captain, 2-hour cruise from the Clam River by Dockside restaurant into Torch Lake, cooler of ice provided, times set by sunset at booking, $75/person, min. 2 people. Added price.",
+   "Removed specific street number 6326 (that is Dockside Water Sports' address; Dockside Restaurant is 6340 Old Torch Lake Dr) — kept 'by Dockside Restaurant, Old Torch Lake Dr'.",
+   "Phone confirmed 231-377-7764."
+  ],
+  "sources": [
+   "https://www.northaireresort.com/sunset-cruises",
+   "https://nominatim.openstreetmap.org/search?format=json&q=Dockside%20Torch%20Lake"
+  ]
+ },
+ {
+  "key": "water-activities|1|1",
+  "title": "Northaire Resort & Pontoon Rentals (Captained Options Available)",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://www.northaireresort.com\">https://www.northaireresort.com</a> </p> <p>Phone: (231) 377-7764</p> <p>Resort &amp; Clam Lake Dock: 7067 Crystal Springs Rd, Bellaire, MI (south shore of Clam Lake, ~15 minutes' drive from downtown Bellaire)</p> <p>Other Pick-Up Docks: Northaire also has private docks on Torch Lake and in Bellaire—your dock location is confirmed before your trip</p> <p>Hours: Boat pick-up from 9 a.m., return by 7 p.m. (early pick-up available for a fee)</p> <hr/> <p>Experience northern Michigan's shimmering Chain of Lakes with ease and comfort. Northaire's expansive pontoon fleet features spacious, well-maintained boats. Enjoy Bluetooth stereo, GPS depth finder, ladders, bimini tops, and a tow bar for tubing. Begin your journey on Clam Lake, cruise to the turquoise sandbar on Torch Lake, and explore scenic coves and the Grass River. Ideal for bridal showers, bachelor parties, family escapades, or sunset soirees! Jet skis (Torch Lake location), tubes, lily pads and porta-potties are also available to rent.</p> <hr/> <p>FAQs</p> <ul> <li>Captain Provided? Their 2-hour sunset cruise includes a licensed captain; ask when booking about captained options.</li> <li>Is alcohol allowed? Yes! BYOB welcome (please enjoy responsibly).</li> <li>Are small parties allowed? Absolutely—great for celebrations and group outings.</li> <li>Where do guests board? At one of Northaire's three private docks (resort, Torch Lake, or Bellaire)—not public boat ramps. Double-check your dock before heading out.</li> <li>Boating license needed? Michigan requires anyone born on or after July 1, 1996 to have a boater safety certificate to operate a motorboat; ask Northaire about requirements when booking.</li> </ul> <p>What important tips? </p> <ul> <li>Arrive 15 minutes early for check-in and orientation.</li> <li>Bring sunscreen, snacks, and a favorite playlist.</li> <li>Consider renting an onboard porta-potty for larger groups.</li> <li>Practice no-wake speed in shallow zones like the Grass River.</li> </ul>",
+  "photo_ok": true,
+  "photo_note": "Aerial of a dock full of pontoons at a lakeside resort — consistent with Northaire's fleet.",
+  "changes": [
+   "Clarified docks: Northaire has three permanent private docks (resort on Clam Lake at 7067 Crystal Springs Rd, Torch Lake, and Bellaire), per official site.",
+   "Added hours: pick-up from 9 a.m., return by 7 p.m. (official Pontoon Rentals page).",
+   "Captain-optional pontoon rentals are not mentioned on the current site (only the captained sunset cruise) — softened the claim.",
+   "Boater-certificate FAQ reworded to the Michigan rule rather than an unverified claim.",
+   "Address/loc confirmed (OSM shows Northaire at 7067 Crystal Springs Rd, 44.9319,-85.2623)."
+  ],
+  "sources": [
+   "https://www.northaireresort.com/",
+   "https://www.northaireresort.com/pontoon-rentals",
+   "https://www.northaireresort.com/the-pontoon-rental-experience",
+   "https://docklyne.com/bellaire-mi/boat-rentals/northaire-resort"
+  ]
+ },
+ {
+  "key": "water-activities|1|2",
+  "title": "Charters North – Captain Shaun’s Custom Cruises",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://chartersnorth.com\">https://chartersnorth.com</a> <br/>Phone: (231) 590-1949 (call or text)<br/>Pick-Up: Torch Lake pickups at Butch's Bait &amp; Tackle, Dockside, or Eastport (confirmed at booking)<br/>Distance: Butch's and Dockside are ~15 minutes from Bellaire</p> <p>Take your vacation to the next level with fully captained boat adventures by Captain Shaun — a local pro, born and raised on Torch Lake, with 30+ years fishing its waters. From fishing excursions to relaxing sandbar cruises, you're in for a custom-tailored experience that's fun, safe, and unforgettable.</p> <p><strong>FAQ Highlights:</strong><br/>Captain included | Bring your own snacks &amp; drinks | Custom cruise options | Pickup at Torch Lake docks | No license needed</p> <p><em><strong>Trip Options:</strong></em></p> <ul> <li>Salmon &amp; Trout Troll: Cruise deep waters of Torch and Elk Lake for lake trout, Atlantic salmon, steelhead and brown trout.</li> <li>Night Walleye Troll: Experience the lake under the stars while chasing walleye.</li> <li>Smallmouth Bass Casting: Their most active trip—cast (or troll) for smallmouth, pike and musky with expert guidance.</li> <li>Fall Perch Fishing: Offered October–December when jumbo perch school up.</li> <li>Custom Cruises: A day at the sandbar, sunset cruise, nature tour—Captain Shaun creates your perfect day on the water.</li> <li>Fish &amp; Sandbar Package: A full 8-hour day for up to 6 people—fish in the morning, then unwind at Torch Lake's famous sandbar.</li> </ul> <p><strong><em>More Details:</em></strong></p> <ul> <li>Captain Provided: Yes — all trips are fully captained and guided.</li> <li>Bring Your Own: Snacks and beverages welcome—cooler full of ice and bottled water provided.</li> <li>Groups: Custom Cruises and the Fish &amp; Sandbar package are great for relaxed group trips or sunset gatherings.</li> <li>Boating License: Not required—Captain Shaun handles all operations. Anglers need a Michigan fishing license.</li> <li>What to Bring: Comfortable clothes, rain gear, sun protection, food and drinks. Fish cleaning and packaging are included free on fishing trips.</li> </ul>",
+  "new_loc": [
+   44.9427,
+   -85.2837
+  ],
+  "photo_ok": "unsure",
+  "photo_note": "Charters North logo only — correct business but not a photo of a trip.",
+  "changes": [
+   "Pick-up locations corrected: official FAQ lists Butch's Bait and Tackle, Dockside, and Eastport — not 'Bellaire docks'.",
+   "Removed '7939 Brooks St, Central Lake' (not on official site; unverified) and moved the pin from Central Lake to the Dockside pickup on Torch Lake/Clam River.",
+   "Trip details aligned with site: perch Oct–Dec, Fish & Sandbar is 8 hrs for up to 6; added need for a Michigan fishing license (per FAQ 'what to bring').",
+   "Phone confirmed."
+  ],
+  "sources": [
+   "https://chartersnorth.com/",
+   "https://chartersnorth.com/faq/"
+  ]
+ },
+ {
+  "key": "water-activities|1|3",
+  "title": "Foxy’s Custom Cruises – “Ahoy Matey!”",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://www.foxyscustomcruises.com\">https://www.foxyscustomcruises.com</a> <br/>Phone: (231) 944-6823 (text Capt. Foxy for dates and times)<br/>Dock: Clam River Marina, 6349 Old Torch Lake Dr, Bellaire, MI — dock #22 (follow signs to Dockside Restaurant; don't park in Dockside's lot)</p> <p>Celebrate in style with Foxy's Custom Cruises—fully guided, private Torch Lake cruises led by Coast Guard–certified Captains Foxy and Rob. Choose from packages like the Sandbar Splash Day, Sunday Funday, Torch Lake Tour, Fun in the Sun, or a Bachelorette Party cruise. Enjoy music, drinks, and a lively atmosphere on Torch Lake's crystal-clear waters!</p> <p>FAQs:</p> <ul> <li>Captain provided? Yes, a certified captain pilots every cruise.</li> <li>Alcohol allowed? Coolers and snacks are welcome aboard.</li> <li>Group size? Up to 6 passengers, with up to 4 more added for an extra fee (10 max).</li> <li>Bachelor/bachelorette parties? Yes—there's a dedicated bachelorette package and custom cruises for groups.</li> <li>Kids? Bring your own life jackets for children 3 and under.</li> <li>Boating license needed? No, captain included.</li> </ul>",
+  "photo_ok": true,
+  "photo_note": "Group on a pontoon holding a Foxy's Custom Cruises Torch Lake sign — correct.",
+  "changes": [
+   "Dock location now given on official site: 6349 Old Torch Lake Dr (Clam River Marina, dock #22).",
+   "Captains are Capt. Foxy and Capt. Rob; 'The Refugee' boat name is no longer mentioned on the site — removed.",
+   "Site's party package is a Bachelorette Party (not bachelor) — adjusted; added group-size and kids' life jacket notes.",
+   "Phone confirmed (231-944-6823)."
+  ],
+  "sources": [
+   "https://www.foxyscustomcruises.com/",
+   "https://www.foxyscustomcruises.com/meet-at-the-dock.html",
+   "https://www.foxyscustomcruises.com/meet-the-captains-and-boat-tour.html"
+  ]
+ },
+ {
+  "key": "water-activities|1|4",
+  "title": "Sailo Private Yacht & Party Boat Charters",
+  "verdict": "unsure",
+  "photo_ok": false,
+  "photo_note": "Sea Ray bowrider on a canal lined with palm trees and Florida-style homes — clearly not northern Michigan.",
+  "changes": [
+   "Linked Sailo listing is a single 25' Sea Ray deck boat (10 passengers) with Capt. Neil operating around Traverse City (West Bay, Lake Leelanau, Lake Michigan) — not Bellaire/Torch Lake, not a 13+ party yacht with restrooms/catering as described.",
+   "Phone +1 910-447-2456 could not be verified as Sailo support.",
+   "Recommend removing this entry (Torch Lake already well covered by Northaire, Charters North and Foxy's) or rewriting it as a Traverse City option ~45-60 min away. Also remove the Florida photo.",
+   "No map location given (loc null)."
+  ],
+  "sources": [
+   "https://www.sailo.com/boats/Traverse_City_MI/Motor/rental_boat_8000/?duration=fullDay"
+  ]
+ },
+ {
+  "key": "water-activities|2|0",
+  "title": "PlayNorth Watersports",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://playnorthwatersports.com\">https://playnorthwatersports.com</a> <br/>Phone: (231) 357-3790<br/>Location: Based in Lake Leelanau, MI — delivery-based; Torch Lake, Elk Lake and Skegemog Lake are in their delivery area (location-based delivery fee)</p> <p>Want a boat or paddleboard dropped off on Torch Lake? PlayNorth Watersports delivers pontoons, tritoons, jet skis, ski boats and stand-up paddleboards to lakes across northwest Michigan, including Torch Lake. Bookings are by reservation only, and the delivery fee depends on your location.</p> <p>Perfect for groups or families who want a hassle-free day on the water without hauling gear.</p> <p>FAQs:</p> <ul> <li>Do I have to pick it up? No — they deliver to your launch spot or property on the lakes they serve.</li> <li>Is there a delivery fee? Yes, it varies by location and is shown when you reserve.</li> <li>Do they deliver to Lake Bellaire or the upper Chain of Lakes? Not listed on their site—ask when booking.</li> <li>How do I book? Online through their website or by phone; reservations required.</li> </ul>",
+  "photo_ok": "unsure",
+  "photo_note": "PlayNorth Watersports logo — correct business, but a logo rather than a photo.",
+  "changes": [
+   "PlayNorth is based in Lake Leelanau (Leelanau County), not Bellaire; Torch Lake is listed among 'other Michigan lakes' they deliver boats/jet skis/SUPs to; Bellaire/Lake Bellaire not mentioned.",
+   "Removed unverified claims (LED night boards, kayak delivery, multi-day rentals, gear included).",
+   "Map pin in downtown Bellaire is misleading for a delivery-only business based ~1 hr away; consider removing the pin (no better Bellaire-area location exists)."
+  ],
+  "sources": [
+   "https://playnorthwatersports.com",
+   "https://playnorthwatersports.com/delivery-service/"
+  ]
+ },
+ {
+  "key": "water-activities|2|1",
+  "title": "Paddles & Pedals",
+  "verdict": "closed",
+  "photo_ok": "unsure",
+  "photo_note": "Paddles & Pedals logo — business no longer offers rentals.",
+  "changes": [
+   "Paddles & Pedals has rebranded as Outdoor Adventures Travel (private tours, wine/brew tours, shuttles, group travel) — Bellaire Chamber listing: 'Paddles & Pedals is now Outdoor Adventures!' No kayak/SUP/bike rentals are offered on the new site.",
+   "bellairepaddlesandpedals.com now redirects to outdooradventuresmi.com; the www. version of the link no longer resolves (dead).",
+   "Recommend removing this entry. (If kept as a tour company: Outdoor Adventures Travel, 231-495-1211, outdooradventuresmi.com.)",
+   "Note: other entries (Chain O' Lakes Campground, Grass River) refer guests to Paddles & Pedals — fix those too."
+  ],
+  "sources": [
+   "https://www.bellairechamber.org/connections/36926-paddles-pedals/",
+   "https://www.outdooradventuresmi.com/",
+   "https://secure.webreserv.com/paddlesandpedalsmi"
+  ]
+ },
+ {
+  "key": "water-activities|2|2",
+  "title": "Butch's Tackle & Marine",
+  "verdict": "updated",
+  "new_title": "Butch's Torch Lake (Tackle & Marine)",
+  "new_html": "<p>Website: <a href=\"https://butchstorchlake.com\">https://butchstorchlake.com</a> </p> <p>Phone: (231) 377-6787</p> <p>Location: 6235 Crystal Springs Rd, Bellaire, MI 49615 — on the east shore of Torch Lake, approximately 7 miles from downtown Bellaire</p> <p>Hours: Summer, Sun–Fri 9 a.m.–8 p.m., Sat 9 a.m.–9 p.m.; call ahead for off-season hours</p> <p>Your launch point to Torch Lake adventure! Butch's is a one-stop shop for everything water — single and tandem kayaks, paddleboards, waverunners, speedboats and tritoons, plus boat fuel, a deli famous for broasted chicken, cold drinks and Up North gifts. Located right on the lake, it's easy to rent and launch in one smooth step.</p> <p>Whether you're a laid-back paddler or looking to turn up the fun, Butch's puts you right where you want to be — on the iconic, crystal-clear waters of Torch Lake.</p> <p>FAQs:</p> <ul> <li>Do I need a reservation? Highly recommended for waverunners and tritoons, especially June–August. Book online or call.</li> <li>Do they provide life jackets? Yes — life vests are included with waverunner rentals; ask about other rentals.</li> <li>Can I rent for a full day? Yes — tritoons rent by the day; waverunners by 2 hours, half day or full day.</li> <li>Is parking available? Yes, free parking on site.</li> <li>Do they have waverunners too? Yes! Great for thrill-seekers.</li> </ul>",
+  "photo_ok": true,
+  "photo_note": "Lakeside tackle shop building with dock and launch — plausibly Butch's.",
+  "changes": [
+   "Business now brands as 'Butch's Torch Lake'; still operating (site updated 2026, phone confirmed).",
+   "Added address 6235 Crystal Springs Rd and summer hours from official contact page.",
+   "Added deli/fuel/speedboats; replaced unverified 'multi-day rentals' with official durations.",
+   "Map pin matches OSM location of Butch's."
+  ],
+  "sources": [
+   "https://butchstorchlake.com",
+   "https://butchstorchlake.com/contact",
+   "https://butchstorchlake.com/rentals"
+  ]
+ },
+ {
+  "key": "water-activities|2|3",
+  "title": "Riverside Marina — Paddle Through Bellaire’s Peaceful Riverways",
+  "verdict": "unsure",
+  "new_html": "<p>Website: <a href=\"https://riverside-marina.com\">https://riverside-marina.com</a> <br/>Phone: (231) 533-8559<br/>Location: 115 W Cayuga St, Bellaire, MI 49615 — walking distance from downtown</p> <p>Located in the heart of Bellaire, Riverside Marina offers effortless access to the Intermediate River and the Chain of Lakes. With kayak and canoe rentals (and pontoons and fishing boats), you can cruise at your own pace and soak in the natural beauty around every bend. It's peaceful, relaxing, and just steps from downtown.</p> <p>Perfect for couples, families, or solo explorers, this local gem brings you closer to nature without even leaving town.</p> <p>FAQs:</p> <ul> <li>Do I need to reserve in advance? Calling ahead is a good idea, especially on weekends.</li> <li>Can I bring the kids? Yes! It's family-friendly with supervision.</li> <li>Is gear included? Life vests are provided—confirm details when you call.</li> <li>Are group outings possible? Definitely — just call to coordinate.</li> <li>Where do I launch? Right from the marina on the Intermediate River.</li> </ul>",
+  "photo_ok": false,
+  "photo_note": "Aerial of a large harbor with sailboats — appears to be a different 'Riverside Marina' (marinas.com mixes this listing with Port Austin, MI coordinates); does not look like the small Bellaire river marina.",
+  "changes": [
+   "Official site blocks automated access (429/robots), so current rental offerings and season could not be verified.",
+   "Added address 115 W Cayuga St (Shanty Creek area guide, Docklyne, marinas.com all agree); phone confirmed by multiple listings.",
+   "Shanty Creek area guide lists canoe and kayak rentals and pontoon/fishing boat rentals; SUP rentals and 'short lesson' not confirmed — softened.",
+   "Map pin near W Cayuga St is plausible."
+  ],
+  "sources": [
+   "https://www.shantycreek.com/area-activites-shops/",
+   "https://docklyne.com/bellaire-mi/boat-rentals/riverside-marina",
+   "https://marinas.com/view/marina/16c1nm_Riverside_Marina_Bellaire_MI_United_States"
+  ]
+ },
+ {
+  "key": "water-activities|2|4",
+  "title": "Grass River Natural Area — Kayaking & Nature Escape",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://www.grassriver.org/\">https://www.grassriver.org/</a> <br/>Phone: (231) 533-8576 (Grass River Center)<br/>Location Guide: 6500 Alden Hwy, Bellaire, MI 49615 - About 10 minutes' drive from downtown Bellaire<br/>Hours: Trails open daily, dawn to dusk; Grass River Center open daily 10 a.m.–4 p.m. May–October (weekends Nov–Apr)</p> <p>Immerse yourself in nature at Grass River Natural Area, a 1,500-acre preserve perfect for kayaking and wildlife viewing. Paddle the calm Grass River framed by forests and wetlands and spot local wildlife in their natural habitat. Kayak rentals are available seasonally, letting you explore on your own, or join a guided kayak tour to learn about the area's rich ecology.</p> <p>Guest Tips:</p> <ul> <li>Kayak rentals are available June through September and must be reserved in advance by phone.</li> <li>Rentals run during Center hours (10 AM–4 PM) and leave from the Grass River Overlook; kayaks must be back by 4 PM. About $30 for 2–3 hours or $50 for 4–6 hours.</li> <li>Only six single kayaks (no tandems), for adults and teens only.</li> <li>Wear comfortable, water-friendly footwear and bring insect repellent.</li> <li>Don't miss the boardwalk trails—dogs are allowed on-leash only on the Rail and Algonquin trails, not the boardwalks.</li> </ul>",
+  "photo_ok": true,
+  "photo_note": "Grass River boardwalk/overlook with the GRNA logo — correct.",
+  "changes": [
+   "Clarified rental rules from official site: adults/teens only, 6 single kayaks, depart Grass River Overlook, reserve by phone, $30 (2–3 hr)/$50 (4–6 hr), back by 4 PM.",
+   "Added official hours (trails dawn–dusk; Center 10–4 daily May–Oct).",
+   "Added pet rule note.",
+   "Address and phone confirmed."
+  ],
+  "sources": [
+   "https://www.grassriver.org/",
+   "https://www.grassriver.org/local-equipment-rentals.html",
+   "https://www.grassriver.org/river-tours.html"
+  ]
+ },
+ {
+  "key": "water-activities|2|5",
+  "title": "Chain O’ Lakes Campground — A Natural Launchpad for Water Fun",
+  "verdict": "updated",
+  "new_title": "Chain O' Lakes Campground & Cabins",
+  "new_html": "<p>Website: <a href=\"https://www.chainolakescamp.com\">https://www.chainolakescamp.com</a> <br/>Phone: (231) 533-8432<br/>Location: 7231 S M-88, Bellaire, MI 49615 — about 8 minutes south of downtown Bellaire</p> <p>Chain O' Lakes Campground is a family-owned campground with RV sites, tent sites, cabins, a pool and a play area for kids, close to the Chain of Lakes. The campground itself is not on the water, but it's a convenient base for boaters and paddlers: the first boat/trailer parks free, and public launches on Lake Bellaire, Clam Lake and Torch Lake are a short drive away.</p> <p>FAQs:</p> <ul> <li>Can I launch a kayak here? No—the campground has no lake frontage. Use a nearby public launch such as Bellaire's Ohio Street or River Street launches.</li> <li>Are rentals available? Not onsite—see the kayak and boat rental listings in this guide.</li> <li>Is there boat parking? Yes—first boat/trailer free, each additional trailer $25/day.</li> <li>Are restrooms available? Yes, as part of the campground amenities.</li> </ul>",
+  "new_loc": [
+   44.9261,
+   -85.1856
+  ],
+  "photo_ok": true,
+  "photo_note": "Chain-O-Lakes Campground & Cabins logo — correct business (logo, not a photo).",
+  "changes": [
+   "The campground (7231 S M-88) has a pool, wooded RV/tent sites and cabins but no lake frontage or public kayak launch on its site; the 'natural launchpad / public access / free launching' claims are not supported. Rewrote as a campground with boat parking; consider removing it from the paddling list.",
+   "Removed reference to Paddles & Pedals (now Outdoor Adventures Travel; no longer rents gear).",
+   "Added address; map pin moved from near Lake Bellaire to the campground on M-88 (OSM).",
+   "Bellaire launches per Village of Bellaire Parks page."
+  ],
+  "sources": [
+   "https://www.chainolakescamp.com/",
+   "https://www.chainolakescamp.com/campground",
+   "https://www.chainolakescamp.com/rates-rules",
+   "https://bellairemichigan.com/parks/"
+  ]
+ },
+ {
+  "key": "water-activities|2|6",
+  "title": "Alden Outfitters — Kayak & Paddleboard Rentals for Torch Lake Adventures",
+  "verdict": "unsure",
+  "new_html": "<p>Location: 10520 Coy St, Alden, MI 49612 — on Torch Lake in downtown Alden, about 15 minutes' drive from Bellaire<br/>Phone: (231) 331-6979</p> <p>Set off on an adventure with Alden Outfitters, a small shop in Alden offering kayak and paddleboard rentals for exploring the pristine waters of Torch Lake. Whether you're paddling solo or sharing the fun with friends, glide across the crystal-clear lake and take in breathtaking views just a short drive from Bellaire.</p> <p>Guest Tips:</p> <ul> <li>Call ahead to confirm rentals and hours—the shop keeps limited, seasonal hours.</li> <li>No boating license needed for kayaks or paddleboards.</li> <li>Be sure to bring sunscreen, water, and a hat for sunny days on the lake.</li> </ul>",
+  "photo_ok": true,
+  "photo_note": "Storefront with 'Alden Outfitters – Kayak Sales & Rentals' sign by Torch Lake — correct.",
+  "changes": [
+   "Website aldenoutfitter.com no longer resolves (domain not found) — removed the link.",
+   "Business appears on review sites (Birdeye/Google: 10520 Coy St, Alden; listed hours Sat 10–5, Sun 11–4 only) with reviews from 1–2 years ago, but no current official site or 2026 confirmation found — operating status unconfirmed; host should call before keeping.",
+   "Removed unverified tips (hourly/full-day pricing, 18+ rule, gear included).",
+   "Map pin in Alden is fine."
+  ],
+  "sources": [
+   "https://reviews.birdeye.com/alden-outfitters-167622187061063",
+   "https://dns.google/resolve?name=aldenoutfitter.com&type=A"
+  ]
+ },
+ {
+  "key": "water-activities|3|0",
+  "title": "DeWitt Marine — Boat Rentals on Torch Lake",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://www.dewittmarine.com\">https://www.dewittmarine.com</a> <br/>Phone: (231) 377-6611<br/>Location: 6509 Crystal Springs Rd, Bellaire, MI 49615 - about 15 minutes from Bellaire<br/>Hours: Mon–Sat 9 a.m.–4:30 p.m.; Sun by appointment</p> <p>DeWitt Marine, a family-owned full-service marina since 1949, offers boat rentals for an unforgettable day on Torch Lake! Located on the Clam River just above Torch Lake, it's the perfect spot to launch your boating adventure. Grab snacks at the Clam Shack on the gas dock, fuel up, and cruise out to the famous Torch Lake Sandbar.</p> <p>FAQs:</p> <ul> <li>Do boats come with a captain? No, but staff offer clear instructions before you go.</li> <li>Is alcohol allowed onboard? Ask when booking—rental rules vary.</li> <li>Do I need a boating license? Michigan requires a boater safety certificate for anyone born on or after July 1, 1996 to operate a motorboat.</li> <li>Do I need to reserve in advance? Yes, especially in summer!</li> <li>Where do I return the boat? Back to DeWitt Marine's docks.</li> </ul>",
+  "photo_ok": "unsure",
+  "photo_note": "DeWitt Marine Inc. logo — correct business, not a photo.",
+  "changes": [
+   "Official site blocks automated checks; Bellaire Chamber listing confirms address, phone, boat rental, fuel dock and Clam Shack store, family-owned since 1949; hours Mon–Sat 9–4:30, Sun by appt.",
+   "Drive time corrected from '5 minutes' to ~15 minutes.",
+   "Boater-certificate FAQ corrected to Michigan rule (born on/after July 1, 1996), replacing 'under 26'.",
+   "Alcohol FAQ softened (Docklyne rental rules list alcohol as 'No').",
+   "Pin matches OSM (DeWitt Marine, 6509 Crystal Springs Rd)."
+  ],
+  "sources": [
+   "https://www.bellairechamber.org/connections/36873-dewitt-marine/",
+   "https://docklyne.com/bellaire-mi/boat-rentals/dewitt-marine"
+  ]
+ },
+ {
+  "key": "water-activities|3|1",
+  "title": "Sun Life Marina (Torch River Marina) — Premier Pontoon & Tritoon Rentals",
+  "verdict": "updated",
+  "new_title": "Sun Life Torch River Marina — Tritoon & Ski Boat Rentals",
+  "new_html": "<p>Website: <a href=\"https://www.sunlifetorchriver.com\">https://www.sunlifetorchriver.com</a> <br/>Phone: (231) 322-4495<br/>Location Guide: 12906 Cherry Ave, Rapid City, MI 49676 — on the Torch River, right by the Torch Lake sandbar - about 25 minutes' drive from Bellaire<br/>Season: April 15–October 31, open daily 9 a.m.–5 p.m. (closed November–April)</p> <p>Nestled on the Torch River with direct access to the famous Torch Lake sandbar, Sun Life Torch River Marina offers tritoon and ski boat rentals in a stunning setting. With well-maintained boats, slips, a ship's store and full marina services, they cater to both casual cruisers and watersports fans. Launch your adventure right to the iconic turquoise waters and sandbar—the perfect backdrop for a memorable lake day!</p> <p>FAQs:</p> <ul> <li>Do boats come with a captain?<br/>Rentals are self-drive; staff provide an orientation before launch.</li> <li>Do I need a boating license?<br/>Michigan requires a boater safety certificate for anyone born on or after July 1, 1996 to operate a motorboat.</li> <li>Is a reservation recommended?<br/>Absolutely—especially during the summer, when popular boats book quickly.</li> <li>Where do I return the boat?<br/>Back to the marina's docks, where staff can help with docking.</li> </ul>",
+  "photo_ok": false,
+  "photo_note": "Sun Life Marinas logo reading 'Elm Hill' — that's a different Sun Life location, not Torch River.",
+  "changes": [
+   "Official name is Sun Life Torch River Marina (formerly Torch River Marine); site confirms address, phone, tritoon and ski boat rentals (no pontoons named).",
+   "Added season/hours from official site: Apr 15–Oct 31, daily 9–5; closed Nov–Apr.",
+   "Location wording fixed: on the Torch River with direct access to the sandbar (not 'south of the sandbar where the river meets the lake'); drive time corrected from 12 to ~25 minutes (15 mi).",
+   "Boater-certificate FAQ corrected; removed unverified BYOB claim.",
+   "Pin (44.8499,-85.3298) is correct."
+  ],
+  "sources": [
+   "https://www.sunlifetorchriver.com",
+   "https://www.shantycreek.com/area-activites-shops/"
+  ]
+ },
+ {
+  "key": "water-activities|3|2",
+  "title": "Bellaire Pontoon Boat Rental",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://bellairepontoonrental.com/\">https://bellairepontoonrental.com/</a> <br/>Phone: (231) 377-7764<br/>Location: 204 W Cayuga St, Bellaire, MI (right across the Intermediate River from downtown)</p> <p>Cruise the beautiful Torch, Clam, and Lake Bellaire aboard a pontoon or tritoon boat. Bellaire Pontoon Boat Rental shares its phone and fleet with Northaire Resort &amp; Pontoon Rentals, with private docks in Bellaire, on Clam Lake and on Torch Lake, and a safety boat on call for peace of mind. Want someone else to drive? Book the captained 2-hour sunset cruise on Torch Lake. Enjoy a stress-free day on the water, perfect for families, friends, or special occasions.</p> <p>FAQs</p> <ul> <li>Are captains provided for rentals?<br/>Rentals are self-drive; a licensed captain is included on the sunset cruise.</li> <li>What are the rental hours?<br/>Boat pick-up from 9 a.m., return by 7 p.m.</li> <li>Where do I pick up the boat?<br/>At the Bellaire dock (or the Clam Lake/Torch Lake docks)—your location is confirmed before your trip.</li> <li>Is there a safety boat on standby?<br/>Yes, a safety boat is on call.</li> <li>Can the rental accommodate special occasions like parties?<br/>Absolutely! Perfect for family outings and celebrations.</li> </ul>",
+  "photo_ok": "unsure",
+  "photo_note": "Manufacturer-style stock photo of an Avalon pontoon on open water — generic, not this business.",
+  "changes": [
+   "Site loads; confirms 204 W Cayuga St and phone 231-377-7764, with locations in Bellaire, Torch Lake and Clam Lake.",
+   "Same phone, fleet and dock setup as Northaire Resort (entries 'Northaire Resort & Pontoon Rentals' x2) — effectively a duplicate listing; consider merging.",
+   "Captain availability for rentals not stated on either site — softened; added Northaire's 9 a.m.–7 p.m. rental hours.",
+   "Pin is plausible for W Cayuga St."
+  ],
+  "sources": [
+   "https://bellairepontoonrental.com/",
+   "https://www.northaireresort.com/pontoon-rentals",
+   "https://www.northaireresort.com/sunset-cruises"
+  ]
+ },
+ {
+  "key": "water-activities|3|3",
+  "title": "Dockside Water Sports",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://www.dockside-watersports.com/\">https://www.dockside-watersports.com/</a> <br/>Phone: 231-377-7777 ext. 2<br/>Location: 6326 Old Torch Lake Dr, Bellaire, MI 49615 — right on Torch Lake next to Dockside Restaurant<br/>Season: Late May to mid-September, daily 9:30 a.m.–7:30 p.m., weather permitting (2026 dates: May 23–Sept 13)</p> <p>Ready for high-performance fun on Northern Michigan's clearest waters? Dockside Water Sports offers luxury pontoon/tritoon rentals and thrilling jet skis, perfect for both laid-back lake cruising and adrenaline-pumping rides. As the only rental company right on Torch Lake's open shoreline, you can head straight out—and come back anytime for restrooms, snacks, lunch at Dockside Restaurant, or a rest at the beach. Whether you're seeking family-friendly fun or fast-paced adventure, this is your launchpad to unforgettable lake memories.</p> <p>FAQs</p> <ul> <li>Are captains available for boat rentals?<br/>Rentals are self-operated; staff give a full tutorial and can take you out for a hands-on demo if needed.</li> <li>Is beach access included?<br/>Yes, you can return to the Dockside home base and beach during your rental.</li> <li>What amenities are available on-site?<br/>Valet docking, restrooms, the Dockside Restaurant, and staff who carry your gear and fill your cooler with ice.</li> <li>Can we bring food and drinks onboard?<br/>Yes! Coolers and snacks are welcome—just pack responsibly.</li> <li>Is training provided for first-time jet ski or boat users?<br/>Absolutely. Staff provide safety and operating instructions before departure.</li> </ul>",
+  "photo_ok": true,
+  "photo_note": "Torch Lake Dockside Water Sports logo — correct business (logo).",
+  "changes": [
+   "Added address 6326 Old Torch Lake Dr and 2026 season/hours from official Contact page.",
+   "Description aligned with official site (on Torch Lake's open shoreline, full-service valet, demo for first-timers).",
+   "Phone confirmed; pin matches Dockside location."
+  ],
+  "sources": [
+   "https://www.dockside-watersports.com/",
+   "https://www.dockside-watersports.com/contact-us",
+   "https://www.dockside-watersports.com/about-us"
+  ]
+ },
+ {
+  "key": "water-activities|3|4",
+  "title": "Foxy’s Custom Cruises (“Ahoy Matey!”)",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://www.foxyscustomcruises.com\">https://www.foxyscustomcruises.com</a></p> <p>Phone: (231) 944-6823 (text Capt. Foxy for dates, times and payment)<br/>Dock: Clam River Marina, 6349 Old Torch Lake Dr, Bellaire, MI 49615 — dock #22 (follow signs to Dockside Restaurant, turn through the 'Clam River Marina' gate; don't park in Dockside's lot)</p> <p>Hop aboard with Foxy's Custom Cruises, captained by Capt. Foxy—a Coast Guard–certified captain with 20+ years on Torch Lake—and Capt. Rob, a retired Air Force veteran and self-described 'sandbar guy.' Foxy's offers the perfect mix of adventure, celebration, and lake-life fun on Torch Lake. Choose from the Sandbar Splash Day, Sunday Funday, Torch Lake Tour, Fun in the Sun, or a Bachelorette Party cruise, or ask about a custom cruise.</p> <p>FAQs</p> <ul> <li>How many people can come?<br/>Up to 6 passengers per cruise, with up to 4 more at an extra per-person fee (10 max).</li> <li>Are the cruises family-friendly?<br/>Yes—bring your own life jackets for children 3 and under.</li> <li>Can we bring drinks or food onboard?<br/>Yes, coolers and snacks are welcome. Tips are appreciated!</li> <li>What kind of events are best for Foxy's?<br/>Bachelorette parties, birthdays, family outings, or just relaxing with friends at the sandbar.</li> <li>Do we need boating experience?<br/>Not at all—your captain handles everything so you can kick back and enjoy the ride.</li> </ul>",
+  "photo_ok": true,
+  "photo_note": "Group aboard a pontoon with a Foxy's Custom Cruises Torch Lake sign — correct (same photo as the Boat Tours entry).",
+  "changes": [
+   "Duplicate of the Foxy's entry under Boat Tours — consider keeping only one.",
+   "'The Refugee' boat name and 'Thirsty Thursday'/'Sandbar Saturday' themes are not on the current site; replaced with current packages.",
+   "Dock directions from official 'Meet at the dock' page (6349 Old Torch Lake Dr, dock #22).",
+   "Group size and kids' life jacket rule added from package pages; removed half-day/full-day claim and multi-lake coverage claim (site describes Torch Lake cruises)."
+  ],
+  "sources": [
+   "https://www.foxyscustomcruises.com/",
+   "https://www.foxyscustomcruises.com/meet-at-the-dock.html",
+   "https://www.foxyscustomcruises.com/meet-the-captains-and-boat-tour.html"
+  ]
+ },
+ {
+  "key": "water-activities|3|5",
+  "title": "M‑88 Boat & Dock Rentals",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://www.m88boatrentals.com/\">https://www.m88boatrentals.com/</a></p> <p>Phone: (231) 320-0190<br/>Location: 100 Ohio St, Bellaire, MI 49615 — Right on the Intermediate River, downtown Bellaire<br/>Hours: Mon–Fri 9 a.m.–5 p.m.; Sat–Sun 10 a.m.–4 p.m.</p> <p><strong>Note: No boat rentals in 2026 — dock rentals only. Pontoon rentals are expected to return in summer 2027.</strong></p> <p>M-88 Boat &amp; Dock Rentals offers daily, weekly and seasonal dock slips in downtown Bellaire on the Intermediate River, with easy access to Lake Bellaire, the Grass River, Clam Lake and Torch Lake. When pontoon rentals return, boats are docked in the water—just park in the public lot by the village boat launch, meet them at the shed at 100 Ohio Street, and step aboard. No trailers or ramps needed!</p> <p>Guest Tips:</p> <ul> <li>Bringing your own boat? Reserve a daily or weekly dock online.</li> <li>Pontoon rentals (when offered) run daily or multi-day; boats must be returned with a full tank.</li> <li>They keep a limited supply of comfortable infant, child and youth life jackets on request—Michigan law requires children under 6 to wear one while underway.</li> <li>Full refund for boat-rental cancellations made 48 hours in advance.</li> </ul>",
+  "photo_ok": "unsure",
+  "photo_note": "Low-res pontoon at a dock at sunset — generic stock-style image; plausible but not verifiably M-88.",
+  "changes": [
+   "Official site: 'NO BOAT RENTALS in 2026 — Boat Rentals Returning Summer of 2027 — Dock Rental Only Summer of 2026.' Added prominent note; consider hiding this entry from the Boat Rentals list until 2027.",
+   "Added official hours.",
+   "Removed 'no boating license required for most rentals' (unverified).",
+   "Address/phone confirmed; pin at Ohio St is right."
+  ],
+  "sources": [
+   "https://www.m88boatrentals.com/"
+  ]
+ },
+ {
+  "key": "water-activities|3|6",
+  "title": "Northaire Resort & Pontoon Rentals",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://www.northaireresort.com/\">https://www.northaireresort.com/</a> <br/>Phone: (231) 377-7764<br/>Location Guide: 7067 Crystal Springs Rd, Bellaire, MI 49615 — on the south shore of Clam Lake, about 15 minutes' drive from downtown Bellaire (additional docks on Torch Lake and in Bellaire)</p> <p>Set sail from a classic Up North destination with the largest fleet of pontoons on Torch Lake, Clam Lake and Lake Bellaire! Northaire Resort has been making lake dreams come true since 1948. With private docks at the resort on Clam Lake, on Torch Lake, and in Bellaire, it's the ideal launch point for everything from tranquil morning cruises to tubing afternoons and golden-hour sunset rides.</p> <p>Their boats come with Bluetooth stereo, GPS depth finder, bimini top, ladder, changing room and a tow bar for tubing. Tubes, lily pads and porta-potties are available to add on, and jet skis rent from the Torch Lake location. Whether you're celebrating something big or just living your best lake life, Northaire makes it seamless and stress-free.</p> <p>FAQs</p> <ul> <li>Are captains available?<br/>Yes, on the captained 2-hour Torch Lake sunset cruise; ask about other options when booking.</li> <li>Where do we pick up the boat?<br/>At one of Northaire's three private docks (resort, Torch Lake, or Bellaire)—not public ramps. Confirm your dock before heading out.</li> <li>Can we bring our own food and drinks?<br/>Absolutely—coolers, snacks, and beverages are welcome on board.</li> <li>What are the rental hours?<br/>Pick-up begins at 9 AM and boats are due back by 7 PM; early pick-up is available for an hourly fee.</li> <li>How far is it to the Torch Lake Sandbar?<br/>The sandbar is at the south end of Torch Lake; from Clam Lake you'll head out the Clam River into Torch Lake and cruise south.</li> </ul>",
+  "photo_ok": true,
+  "photo_note": "Northaire Resort & Pontoon Rentals logo — correct business (logo).",
+  "changes": [
+   "Duplicate of 'Northaire Resort & Pontoon Rentals (Captained Options Available)' under Boat Tours (and Bellaire Pontoon Boat Rental shares its phone/docks) — consider merging.",
+   "Pick-up: Northaire uses its own private Bellaire dock, not 'Bellaire's public riverfront'.",
+   "Removed '5–10 minutes by boat to the sandbar' — the sandbar is at the far south end of Torch Lake, well beyond that from Clam Lake.",
+   "'Largest fleet in the region'/'captain-optional rentals' adjusted to official wording; hours and amenities taken from official Pontoon Rentals page.",
+   "Address/pin confirmed."
+  ],
+  "sources": [
+   "https://www.northaireresort.com/",
+   "https://www.northaireresort.com/pontoon-rentals",
+   "https://www.northaireresort.com/the-pontoon-rental-experience",
+   "https://www.northaireresort.com/sunset-cruises"
+  ]
+ },
+ {
+  "key": "water-activities|3|7",
+  "title": "Torch Lake Sunset Cruises",
+  "verdict": "updated",
+  "new_html": "<div> <p>Website: <a href=\"https://www.northaireresort.com/sunset-cruises\">https://www.northaireresort.com/sunset-cruises</a> <br/>Phone: (231) 377-7764<br/>Location: Departs from the Clam River right by Dockside Restaurant, Old Torch Lake Dr, Bellaire, MI<br/>Tour Duration: 2 hours<br/>Price: $75 per person (2-person minimum)<br/>Captain Provided: Yes – licensed captain included</p> <hr/> <p>Treat yourself to a magical evening on Torch Lake with a <strong>2-hour, captained sunset cruise</strong> run by Northaire Resort. Your captain will take you from the Clam River out to Torch Lake's stunning blue expanse as the sun dips into the horizon. Bring your own beverages and snacks—a cooler full of ice is provided.</p> <p>Perfect for couples, families, or small groups, this stress-free experience is all about unwinding and soaking in one of the most beautiful sunsets in the Midwest. No boating experience needed—just show up and enjoy!</p> <p>FAQs</p> <ul> <li>Do we need boating experience?<br/>Not at all! A licensed captain does all the driving—just relax and enjoy.</li> <li>Can we bring drinks and snacks?<br/>Yes! Bring your favorites—a cooler full of ice is provided.</li> <li>How long is the cruise?<br/>About 2 hours; the start time depends on sunset and is set when you book.</li> <li>Where do we board the boat?<br/>On the Clam River right by Dockside Restaurant, near Torch Lake.</li> <li>Is this good for groups?<br/>Yes! It's ideal for couples, families, or small parties looking to unwind together.</li> </ul> </div>",
+  "new_loc": [
+   44.9427,
+   -85.2837
+  ],
+  "photo_ok": true,
+  "photo_note": "Sunset over a lake with a long dock — fits a sunset cruise (generic).",
+  "changes": [
+   "Duplicate of 'Torch Lake Sunset Cruises' under Boat Tours — consider keeping one.",
+   "Map pin was east of Bellaire near Shanty Creek (44.9285,-85.1711), nowhere near the departure point; moved to Dockside on the Clam River.",
+   "Added $75/person (min. 2) and sunset-based timing from official page; removed street number 6326 (that's Dockside Water Sports; restaurant is 6340)."
+  ],
+  "sources": [
+   "https://www.northaireresort.com/sunset-cruises",
+   "https://nominatim.openstreetmap.org/search?format=json&q=Dockside%20Torch%20Lake"
+  ]
+ },
+ {
+  "key": "water-activities|3|8",
+  "title": "Vacation Water Sports",
+  "verdict": "updated",
+  "new_html": "<p>Website: <a href=\"https://www.vacationwatersports.com/\">https://www.vacationwatersports.com/</a> <br/>Phone: (231) 350-8745</p> <p><em>Delivery-based — serving Torch Lake (Alden), Clam Lake, Lake Bellaire, Intermediate Lake (Central Lake) &amp; Elk Lake (Elk Rapids)</em><br/>Season: Mid-May through late September (2026: May 15–Sept 27)</p> <p>Experience lake freedom with Vacation Water Sports—a rental outfitter that delivers jet skis and pontoons to drop-off locations around the Chain of Lakes, so you can start your adventure without towing a thing. Whether you're chasing thrills on a jet ski or cruising Lake Bellaire and Torch Lake in comfort, their daily and multi-day rentals make boat days effortless and fun.</p> <p>FAQs</p> <ul> <li>Will they deliver near our rental?<br/>They deliver to set drop-off locations on the lakes they serve; other locations may be available on request (extra charge may apply)—call to arrange.</li> <li>Can we rent for multiple days?<br/>Yes—1 to 10 day rentals; a 3-day minimum applies July 3–Aug 16 (holiday rates; no refunds for 4th of July week).</li> <li>What lakes do they service?<br/>Torch Lake, Clam Lake, Lake Bellaire, Intermediate Lake &amp; Elk Lake.</li> <li>How long is a one-day rental?<br/>8 hours. Tubes for pontoons are free; fuel is charged at marina rates.</li> <li>Any rules to know?<br/>No pets, and boat capacity limits are strictly enforced. Waivers are completed online for each driver/rider.</li> </ul>",
+  "photo_ok": true,
+  "photo_note": "Vacation Water Sports logo — correct business (low-res logo).",
+  "changes": [
+   "Removed address '4572 Ritt Rd' — not on official site and could not be verified; map pin based on it should be treated as approximate (consider removing the pin).",
+   "Delivery is to drop-off locations (not guaranteed to a private dock) — reworded.",
+   "Added season (May 15–Sept 27) and rental rules from official FAQs; rentals are 1–10 days rather than 'weekly'.",
+   "Phone confirmed."
+  ],
+  "sources": [
+   "https://www.vacationwatersports.com/",
+   "https://www.vacationwatersports.com/faqs.html",
+   "https://www.vacationwatersports.com/contact.html"
+  ]
+ }
+]
