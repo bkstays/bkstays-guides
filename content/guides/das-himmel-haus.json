@@ -481,6 +481,10 @@
        "html": "<p>This home is pet-friendly, so you can bring your furry friend from home! <strong>Max 2 dogs allowed</strong> per stay, with approval. Hypoallergenic breeds are preferred.</p><p>All pets must be on your reservation. Please let us know beforehand so we can take the proper cleaning measures. A <strong>$150 pet fee</strong> will be added to your reservation for any approved pet before arrival.</p><p>If you bring a pet without notifying your hosts, you will be charged <strong>double</strong> for any unapproved pet.</p>"
       },
       {
+       "title": "Quiet Hours",
+       "html": "<p>Quiet hours are <strong>10:00 PM to 7:00 AM</strong>. During this time, please keep outdoor music, loud conversations and any other disruptive noise to a minimum out of respect for our neighbors and HOA rules.</p>"
+      },
+      {
        "title": "Reservation Adjustments",
        "html": "<p>If you need to make any change in your stay, for example, regarding the number of guests, bringing a service animal or anything at all, please let us know ahead of time so we can accommodate you. However, if you do not disclose any changes, like an animal or extra guests (above max occupancy) you could be subject to a reservation cancellation without refund. </p>"
       },
