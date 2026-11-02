@@ -1,0 +1,470 @@
+[
+ {
+  "key": "beer-wine|0|0",
+  "title": "Funky Buddha Brewery",
+  "verdict": "updated",
+  "new_html": "<p>Offering tours on weekends, this large craft brewery features a no-frills taproom with games.</p> <p>Address: 1201 NE 38th St, Oakland Park, FL 33334</p> <p>Phone: 954-440-0046</p> <p>Hours: Mon–Wed 11:30am–10pm, Thu 11:30am–11pm, Fri–Sat 11:30am–midnight, Sun 11am–9pm (no kids after 8pm)</p> <p><a href=\"https://funkybuddha.com/\">https://funkybuddha.com/</a></p>",
+  "photo_ok": true,
+  "photo_note": "Funky Buddha beer cans - fits.",
+  "changes": [
+   "Link updated to current official domain funkybuddha.com (old funkybuddhabrewery.com fails TLS handshake in direct checks)",
+   "Added address, phone and taproom hours from official site",
+   "Public tours still offered on Saturdays (schedule varies; book via site)"
+  ],
+  "sources": [
+   "https://funkybuddha.com/location/tap-room",
+   "https://funkybuddha.com/brewery-tours/"
+  ]
+ },
+ {
+  "key": "beer-wine|0|1",
+  "title": "Holy Mackerel Beers",
+  "verdict": "updated",
+  "new_html": "<p>Not just a brewery. Craft beer, craft cocktails, full bar and restaurant.</p> <p>Address: 1414 NE 26th St, Wilton Manors, FL 33305</p> <p>Phone: 954-306-3458</p> <p>Hours: Wed–Sun 11am–midnight</p> <p><a href=\"https://www.holymackerelbeers.com/\">https://www.holymackerelbeers.com/</a></p>",
+  "photo_ok": true,
+  "photo_note": "Generic beer glass with tropical mural; plausible taproom shot.",
+  "changes": [
+   "Confirmed open via official site",
+   "Added address, phone and hours (site lists Wed–Sun only)",
+   "Removed shouty title-case tagline styling"
+  ],
+  "sources": [
+   "https://www.holymackerelbeers.com/"
+  ]
+ },
+ {
+  "key": "dining|0|0",
+  "title": "Angelo Elia - The Bakery Bar",
+  "verdict": "updated",
+  "new_html": "<p>A true Italian feel - Angelo Elia's Bakery Bar is a wonderful and quaint pastry shop that is walkable from the home. Take a stroll through the neighborhood (only a couple blocks south) and come back with a delicious cappuccino and chocolate croissant.</p> <p>Phone: 954-566-6100</p> <p>Address: 2104 E Oakland Park Blvd, Fort Lauderdale, FL 33306</p> <p>Hours: Mon–Thu and Sun 7am–6pm, Fri–Sat 7am–7pm</p> <p>Website: <a href=\"https://angeloeliabakery.com/\">https://angeloeliabakery.com/</a></p>",
+  "photo_ok": true,
+  "photo_note": "Storefront with Angelo Elia The Bakery Bar signage.",
+  "changes": [
+   "Phone and address confirmed on official contact page",
+   "Added hours",
+   "Link switched to https (http redirects)",
+   "Note: the Angelo Elia Group still owns the Bakery Bar (it sold the pizza brand in 2024)"
+  ],
+  "sources": [
+   "https://angeloeliabakery.com/contact",
+   "https://www.coralspringsflnews.com/lifestyle-entertainment/restaurants/article313899150.html"
+  ]
+ },
+ {
+  "key": "dining|0|1",
+  "title": "Cafe Brie",
+  "verdict": "unsure",
+  "photo_ok": true,
+  "photo_note": "Cafe Brie storefront - fits.",
+  "changes": [
+   "Conflicting status: Wanderlog (Google-derived) lists Cafe Brie as permanently closed, while Broward restaurant inspections continued through Nov 5, 2025 and other directories list Tue–Sun 8am–2pm",
+   "Phone 954-532-7800 and address 2765 E Atlantic Blvd match directories",
+   "No official website found",
+   "Recommend the host call or check Google Maps before keeping; remove if closed"
+  ],
+  "sources": [
+   "https://wanderlog.com/place/details/2212149",
+   "https://forkgrade.com/florida/cafe-brie-pompano-beach/",
+   "https://atmosfy.io/listing/718836/florida/pompano-beach/cafe-brie"
+  ]
+ },
+ {
+  "key": "dining|0|2",
+  "title": "Rendez-Vous Bakery and Bistro",
+  "verdict": "updated",
+  "new_html": "<p>From France to South Florida...literally; it's right around the corner. This amazing French Bakery has wonderful outdoor seating and a delicious menu from top to bottom.</p> <p>Phone: 954-563-2228</p> <p>Address: 1576 E Oakland Park Blvd, Oakland Park, FL 33334</p> <p>Hours: Breakfast 8–11:30am, lunch 11:30am–5pm, dinner from 5pm</p> <p>Website: <a href=\"https://www.rdvbakery.com/\">https://www.rdvbakery.com</a></p>",
+  "photo_ok": true,
+  "photo_note": "Rendez-Vous logo - fits.",
+  "changes": [
+   "Phone, address and website confirmed",
+   "Added hours from official site",
+   "Removed stray div wrapper and ALL CAPS 'BLVD'"
+  ],
+  "sources": [
+   "https://www.rdvbakery.com/"
+  ]
+ },
+ {
+  "key": "dining|0|3",
+  "title": "Tinta",
+  "verdict": "updated",
+  "new_html": "<p>This wonderful place is oceanside, covered, outdoors, and one of our absolute favorites! Tinta is a Mexican breakfast down on Fort Lauderdale central beach (inside the Westin Fort Lauderdale Beach Resort). It's a bit of a drive from our home, but the breakfast quesadilla or machaca skillet is totally worth it!</p> <p>Phone: 954-245-3063</p> <p>Address: 321 N Fort Lauderdale Beach Blvd, Fort Lauderdale, FL 33304</p> <p>Hours: Daily 7am–11am (breakfast only)</p> <p>Website: <a href=\"https://www.lonarestaurant.com/waterfront-restaurants-fort-lauderdale/tinta-breakfast\">https://www.lonarestaurant.com/waterfront-restaurants-fort-lauderdale/tinta-breakfast</a></p>",
+  "photo_ok": true,
+  "photo_note": "Oceanfront open-air dining room; consistent with Tinta/Lona at the Westin.",
+  "changes": [
+   "Still operating per Westin/Marriott dining page and OpenTable",
+   "Phone and address confirmed",
+   "Added hours (daily 7–11am)",
+   "Website link sits behind Cloudflare bot check and could not be content-verified; the Westin dining page is a fallback: https://www.marriott.com/en-us/hotels/flllw-the-westin-fort-lauderdale-beach-resort/dining/"
+  ],
+  "sources": [
+   "https://www.marriott.com/en-us/hotels/flllw-the-westin-fort-lauderdale-beach-resort/dining/",
+   "https://www.opentable.com/r/tinta-westin-fort-lauderdale-beach-fort-lauderdale"
+  ]
+ },
+ {
+  "key": "dining|1|0",
+  "title": "Angelo Elia Pizza & Tapas Bar",
+  "verdict": "closed",
+  "photo_ok": true,
+  "photo_note": "Angelo Elia branded pizza graphic - matches brand, but location appears closed.",
+  "changes": [
+   "The Oakland Park location (4215 N Federal Hwy, phone 954-561-7300) is listed as permanently closed on OpenTable; last county health inspection on record is Oct 28, 2024",
+   "The Angelo Elia Group sold the pizza brand in 2024; the Weston (2025) and Coral Springs (Dec 18, 2025) locations have also closed",
+   "angeloeliapizza.com blocks automated checks so could not confirm remaining locations",
+   "Recommend removing this entry (the Bakery Bar is a separate, still-open business)"
+  ],
+  "sources": [
+   "https://www.opentable.com/dangelo-pizza-wine-bar-and-tapas-oakland-park",
+   "https://forkgrade.com/florida/angelo-elia-pizza-bar-tapas-oakland-park/",
+   "https://www.coralspringsflnews.com/lifestyle-entertainment/restaurants/article313899150.html",
+   "https://www.aol.com/articles/see-10-south-florida-restaurants-165700492.html"
+  ]
+ },
+ {
+  "key": "dining|1|1",
+  "title": "Casablanca Cafe",
+  "verdict": "updated",
+  "new_html": "<p>Designed in Mediterranean Revival architecture, the house is an eclectic blend of architectural elements of Spanish and Middle Eastern origins. Casablanca Cafe offers chef-inspired Mediterranean cuisine set to a charming and welcoming feel, created in part by the restaurant building itself - a nostalgic residential home built in the 1920s. Casablanca Cafe has been serving the community with unrivaled service and an unmatched dinner experience.</p> <p>Phone: 954-764-3500</p> <p>Address: 3049 Alhambra St, Fort Lauderdale, FL 33304</p> <p>Hours: Mon–Thu and Sun 8:30am–10pm, Fri–Sat 8:30am–11pm</p> <p><a href=\"https://casablancacafeonline.com/\">https://casablancacafeonline.com/</a></p>",
+  "photo_ok": true,
+  "photo_note": "Casablanca Cafe building with signage.",
+  "changes": [
+   "Confirmed open via official site",
+   "Added phone, address and hours"
+  ],
+  "sources": [
+   "https://casablancacafeonline.com/"
+  ]
+ },
+ {
+  "key": "dining|1|2",
+  "title": "Only Thai",
+  "verdict": "updated",
+  "new_html": "<p>Location, authenticity, service, and quality. Only Thai is just down the street and an absolute must-get. Whether you're looking to dine in or grab something to go - this place leaves us satisfied every single time.</p> <p>Phone: 954-908-5578</p> <p>Address: 2100 E Oakland Park Blvd, Fort Lauderdale, FL 33306</p> <p>Hours: Open daily from 11:30am (lunch specials Mon–Fri until 3pm); call to confirm afternoon/evening hours</p> <p>Website: <a href=\"https://otthai.com/\">https://otthai.com/</a></p>",
+  "photo_ok": true,
+  "photo_note": "Only Thai storefront mural - fits.",
+  "changes": [
+   "Phone, address and website confirmed",
+   "Added hours (site shows two versions: 11:30am–10pm, or split 11:30–3 and 4–10pm)"
+  ],
+  "sources": [
+   "https://otthai.com/"
+  ]
+ },
+ {
+  "key": "dining|1|3",
+  "title": "Tacocraft Taqueria & Tequila Bar",
+  "verdict": "updated",
+  "new_html": "<p>Modern Mexican restaurant with lots of energy and good vibes. The chips and salsa are a classic delicious starter with tons of amazing taco choices. It can get a little pricey since it is located in Lauderdale By The Sea so we recommend going during Happy Hour (daily 3–6pm and 10pm–close)!</p> <p>Phone: 954-530-3763</p> <p>Address: 4400 N Ocean Dr, Lauderdale-By-The-Sea, FL 33308</p> <p>Hours: Mon, Wed, Thu 11:30am–11pm; Tue and Fri 11:30am–midnight; Sat 11am–midnight; Sun 11am–11pm</p> <p><a href=\"https://tacocraft.com/lauderdale-by-the-sea/\">https://tacocraft.com/lauderdale-by-the-sea/</a></p>",
+  "photo_ok": true,
+  "photo_note": "Tacocraft storefront - fits.",
+  "changes": [
+   "Link updated to https and the Lauderdale-By-The-Sea location page (chain has 3 locations)",
+   "Added address, phone, hours and happy hour times"
+  ],
+  "sources": [
+   "https://tacocraft.com/lauderdale-by-the-sea/",
+   "https://tacocraft.com/"
+  ]
+ },
+ {
+  "key": "dining|2|0",
+  "title": "Craft Food Tours - Fort Lauderdale",
+  "verdict": "updated",
+  "new_html": "<p>Escape the South Florida tourist traps as your local guides take you through Fort Lauderdale, Florida for an afternoon of food and drinks. Adults receive 8+ tastings and 2 alcoholic beverages, with vendor demonstrations and much more! The downtown tour runs about 3 hours (11am–2pm); beach and dinner &amp; drinks tours are also offered.</p> <p>Phone: 954-352-2336</p> <p>Website: <a href=\"https://www.craftfoodtours.com/fort-lauderdale/\">https://www.craftfoodtours.com/fort-lauderdale/</a></p>",
+  "photo_ok": "unsure",
+  "photo_note": "Generic quesadilla food photo; plausible tour tasting but not identifiable.",
+  "changes": [
+   "Business confirmed operating (official site lists 3 Fort Lauderdale tours)",
+   "Corrected drinks: official page now says 2 alcoholic beverages, not 3",
+   "Added website link, phone and tour time"
+  ],
+  "sources": [
+   "https://www.craftfoodtours.com/fort-lauderdale/",
+   "https://www.craftfoodtours.com/tours/fort-lauderdale-food-tour/"
+  ]
+ },
+ {
+  "key": "emergency|0|0",
+  "title": "After Hours Pediatrics Urgent Care",
+  "verdict": "updated",
+  "new_html": "<p>If there is an Emergency, please dial 911!</p> <p>Pediatric urgent care for children.</p> <p>Phone: 954-267-1621</p> <p>Address: 5067 N Dixie Hwy, Oakland Park, FL 33334</p> <p>Hours: Daily 1pm–11pm</p> <p><a href=\"https://www.afterhourspediatrics.com/locations/oaklandpark/\">https://www.afterhourspediatrics.com/locations/oaklandpark/</a></p>",
+  "photo_ok": true,
+  "photo_note": "No photo.",
+  "changes": [
+   "Phone and link confirmed on official location page",
+   "Added address and hours (daily 1–11pm)",
+   "Clarified it is for children"
+  ],
+  "sources": [
+   "https://www.afterhourspediatrics.com/locations/oaklandpark/"
+  ]
+ },
+ {
+  "key": "emergency|0|1",
+  "title": "Broward County Sheriff Department",
+  "verdict": "updated",
+  "new_title": "Broward Sheriff's Office - Oakland Park District",
+  "new_html": "<p>If there is an Emergency, please dial 911!</p> <p>Non-emergency: 954-764-4357 (HELP)</p> <p>District office: 954-202-3131</p> <p>Address: 5399 N Dixie Hwy, Suite 1, Oakland Park, FL 33334</p> <p>Office hours: Mon–Fri 8:30am–5pm</p> <p><a href=\"https://www.sheriff.org/oakland-park/\">https://www.sheriff.org/oakland-park/</a></p>",
+  "photo_ok": true,
+  "photo_note": "No photo.",
+  "changes": [
+   "954-202-3131 confirmed as the BSO Oakland Park district/administration line",
+   "Added the BSO non-emergency number 954-764-HELP",
+   "Added district office address and hours",
+   "Link updated from the old sheriff.org/Pages/Home.aspx to the Oakland Park district page",
+   "Title clarified (Oakland Park contracts police service from BSO)"
+  ],
+  "sources": [
+   "https://www.sheriff.org/oakland-park/",
+   "https://oaklandparkfl.gov/Directory.aspx?DID=26"
+  ]
+ },
+ {
+  "key": "emergency|0|2",
+  "title": "Oakland Park Fire Station #9",
+  "verdict": "updated",
+  "new_html": "<p>If there is an Emergency, please dial 911!</p> <p>Fire Administration (non-emergency): 954-630-4550</p> <p>Address: 599 NE 38th St, Oakland Park, FL 33334</p> <p><a href=\"https://oaklandparkfl.gov/184\">https://oaklandparkfl.gov/184</a></p>",
+  "photo_ok": true,
+  "photo_note": "No photo.",
+  "changes": [
+   "954-630-4550 confirmed as Oakland Park Fire Rescue administration line",
+   "Added Station 9 address",
+   "Link changed from the city homepage to the Fire Rescue page"
+  ],
+  "sources": [
+   "https://oaklandparkfl.gov/184",
+   "https://oaklandparkfl.gov/Directory.aspx?did=12",
+   "https://neris.fsri.org/departments/FD12011003/stations"
+  ]
+ },
+ {
+  "key": "emergency|0|3",
+  "title": "Holy Cross Health",
+  "verdict": "updated",
+  "new_title": "Holy Cross Hospital (Holy Cross Health)",
+  "new_html": "<p>If there is an Emergency, please dial 911!</p> <p>Full-service hospital with a 24/7 emergency department.</p> <p>Phone: 954-771-8000</p> <p>Address: 4725 N Federal Hwy, Fort Lauderdale, FL 33308</p> <p><a href=\"https://www.holy-cross.com/\">https://www.holy-cross.com/</a></p>",
+  "photo_ok": true,
+  "photo_note": "No photo.",
+  "changes": [
+   "Phone and website confirmed",
+   "Added hospital address (4725 N Federal Hwy)",
+   "Noted 24/7 emergency department"
+  ],
+  "sources": [
+   "https://www.holy-cross.com/",
+   "https://startpage.mapquest.com/us/florida/holy-cross-hospital-emergency-department-452331462"
+  ]
+ },
+ {
+  "key": "emergency|0|4",
+  "title": "Pronto Urgent Care",
+  "verdict": "updated",
+  "new_html": "<p>If there is an Emergency, please dial 911!</p> <p>Phone: 954-909-5708</p> <p>Address: 2500 E Commercial Blvd, Fort Lauderdale, FL 33308</p> <p>Hours: Mon–Fri 8am–8pm, Sat 10am–6pm, Sun closed (call ahead to confirm)</p> <p><a href=\"https://prontouc.com/\">https://prontouc.com/</a></p>",
+  "photo_ok": true,
+  "photo_note": "No photo.",
+  "changes": [
+   "Phone and website confirmed",
+   "Added address",
+   "Added hours from the clinic hours table; the same site also says 'open 365 days, 8am–8pm', so guests should call ahead on weekends"
+  ],
+  "sources": [
+   "https://prontouc.com/",
+   "https://www.solvhealth.com/pronto-urgent-care-fort-lauderdale-fl-0EBrGj"
+  ]
+ },
+ {
+  "key": "golf|0|0",
+  "title": "Plantation Preserve",
+  "verdict": "updated",
+  "new_title": "Plantation Preserve Golf Course & Club",
+  "new_html": "<p>South Florida&rsquo;s finest public golf facility, which opened in February 2006, is unlike any other in the South Florida area. You will find a very challenging 18-hole championship golf course, a beautiful clubhouse with stunning panoramic views, and state of the art practice facilities.</p> <p>Tee times: 954-585-5020</p> <p>Address: 7050 W Broward Blvd, Plantation, FL 33317</p> <p><a href=\"https://plantation.org/government/departments/parks-recreation/plantation-preserve-golf-course-club\">Plantation Preserve website</a></p>",
+  "photo_ok": true,
+  "photo_note": "No photo.",
+  "changes": [
+   "Replaced raw, unlinked WebTrac booking URL (Cloudflare-blocked) with the official city golf page link",
+   "Added address and tee-time phone",
+   "About 30 minutes' drive west of the home"
+  ],
+  "sources": [
+   "https://plantation.org/government/departments/parks-recreation/plantation-preserve-golf-course-club",
+   "https://plantation.org/government/departments/parks-recreation/plantation-preserve-golf-course-club/about-the-preserve/directions"
+  ]
+ },
+ {
+  "key": "golf|0|1",
+  "title": "Pompano Beach Golf Club",
+  "verdict": "updated",
+  "new_html": "<p><a href=\"https://parks.pompanobeachfl.gov/golf\">https://parks.pompanobeachfl.gov/golf</a></p> <p>The recently renovated and redesigned Pines Championship Golf Course is an 18-hole course featuring over 7,100 yards and a par of 72. The adjacent Palms Course is a traditional Florida course challenging golfers of all skill levels. It is 18 holes, par 71, and over 6,280 yards. The Palms golf course caters to a loyal following of golfers who have enjoyed the layout for over a half a century.</p> <p>Pro shop: 954-781-0426</p> <p>Address: 1101 N Federal Hwy, Pompano Beach, FL 33062</p> <p>Hours: Daily 6:30am–6pm</p>",
+  "photo_ok": true,
+  "photo_note": "No photo.",
+  "changes": [
+   "Link and course details confirmed on city site",
+   "Added pro shop phone, address and hours"
+  ],
+  "sources": [
+   "https://parks.pompanobeachfl.gov/golf",
+   "https://sg.trip.com/travel-guide/attraction/pompano-beach/pompano-beach-golf-shop-58269429/"
+  ]
+ },
+ {
+  "key": "golf|0|2",
+  "title": "Palm Aire",
+  "verdict": "updated",
+  "new_title": "Palm Aire Country Club",
+  "new_html": "<p><a href=\"https://palmaire.clublink.com/\">https://palmaire.clublink.com/</a></p> <p>Palm Aire Country Club in Pompano Beach, Florida, has a rich history dating back to its opening in 1959. Originally a country club featuring golf, it quickly grew into a master-planned community. Legendary golfer Sam Snead set a course record of 65 here in 1962. Today the club has three 18-hole courses (The Palms, The Oaks and The Cypress) and welcomes public golfers.</p> <p>Phone: 954-978-1737</p> <p>Address: 3701 Oaks Clubhouse Dr, Pompano Beach, FL 33069</p>",
+  "photo_ok": true,
+  "photo_note": "No photo.",
+  "changes": [
+   "Corrected Sam Snead record year to 1962 per the club's own history page (was 1961)",
+   "Removed 'five golf courses' claim; the club now has three courses",
+   "Added public play note, phone and address",
+   "Removed empty div"
+  ],
+  "sources": [
+   "https://palmaire.clublink.com/",
+   "https://palmaire.clublink.com/about/"
+  ]
+ },
+ {
+  "key": "grocery|0|0",
+  "title": "Groceries",
+  "verdict": "updated",
+  "new_html": "<p>Publix Supermarket at Coral Ridge Shopping Center</p> <p>Address: 3400 N Federal Hwy, Fort Lauderdale, FL 33306</p> <p>Phone: 954-564-9612 (pharmacy 954-561-8771)</p> <p>Hours: Daily 7am–10pm. Pharmacy: Mon–Fri 9am–9pm, Sat 9am–7pm, Sun 11am–6pm</p> <p><a href=\"https://www.publix.com/locations/70-coral-ridge-shopping-center\">Store page</a></p>",
+  "photo_ok": "unsure",
+  "photo_note": "Generic neon 'grocery' sign, not Publix; acceptable as a stock image but not this store.",
+  "changes": [
+   "Added address, phones, store and pharmacy hours from Publix store #70 page",
+   "Added store link"
+  ],
+  "sources": [
+   "https://www.publix.com/locations/70-coral-ridge-shopping-center"
+  ]
+ },
+ {
+  "key": "grocery|0|1",
+  "title": "CVS Pharmacy",
+  "verdict": "updated",
+  "new_title": "CVS Pharmacy (inside Target)",
+  "new_html": "<p>CVS Pharmacy inside Target, near Coral Ridge.</p> <p>Phone: 954-390-7056</p> <p>Address: 3200 N Federal Hwy, Fort Lauderdale, FL 33306</p> <p>Pharmacy hours: Mon–Fri 9am–6pm, Sat 10am–6pm, Sun 11am–5pm (may close briefly for lunch; check the store page for holiday hours)</p> <p><a href=\"https://www.cvs.com/store-locator/fort-lauderdale-fl-pharmacies/3200-n-federal-hwy-fort-lauderdale-fl-33306/storeid=16524\">Store page</a></p>",
+  "photo_ok": "unsure",
+  "photo_note": "Generic vintage 'Pharmacy' sign, not CVS; acceptable stock image only.",
+  "changes": [
+   "Phone confirmed; it belongs to the CVS inside Target at 3200 N Federal Hwy (store #16524)",
+   "Added address, pharmacy hours (from CVS structured data; an older cached copy showed weekday close at 7pm and a 1:30–2pm lunch closure) and store link",
+   "Note: limited hours, not a 24-hour pharmacy; the Publix pharmacy next door is open later on weekdays"
+  ],
+  "sources": [
+   "https://www.cvs.com/store-locator/fort-lauderdale-fl-pharmacies/3200-n-federal-hwy-fort-lauderdale-fl-33306/storeid=16524"
+  ]
+ },
+ {
+  "key": "water-activities|0|0",
+  "title": "Las Olas Beach",
+  "verdict": "ok",
+  "photo_ok": true,
+  "photo_note": "Fort Lauderdale Beach wave wall and palms at Las Olas - correct.",
+  "changes": [
+   "No text to verify; location and photo correct"
+  ],
+  "sources": []
+ },
+ {
+  "key": "water-activities|0|1",
+  "title": "Lauderdale By The Sea Beach",
+  "verdict": "ok",
+  "photo_ok": true,
+  "photo_note": "LBTS beach entrance at Commercial Blvd with signage - correct.",
+  "changes": [
+   "No text to verify; location and photo correct"
+  ],
+  "sources": []
+ },
+ {
+  "key": "water-activities|0|2",
+  "title": "Pompano Beach",
+  "verdict": "ok",
+  "photo_ok": true,
+  "photo_note": "Pompano Beach Fisher Family Pier entrance arch - correct.",
+  "changes": [
+   "No text to verify; location and photo correct"
+  ],
+  "sources": []
+ },
+ {
+  "key": "water-activities|0|3",
+  "title": "South Beach (Miami)",
+  "verdict": "ok",
+  "photo_ok": true,
+  "photo_note": "Ocean Drive Art Deco skyline at dusk - correct.",
+  "changes": [
+   "No text to verify; location and photo correct (about 45-60 minutes' drive)"
+  ],
+  "sources": []
+ },
+ {
+  "key": "water-activities|1|0",
+  "title": "BlueFoot Pirate Adventures",
+  "verdict": "updated",
+  "new_html": "<p>An interactive pirate cruise that offers a family-friendly sail on the Intracoastal Waterway. The crew shares tips on how to talk and dress like a pirate, find hidden treasure, and fend off rival pirate attacks. Face painting, temporary tattoos, and onboard water cannons add to the fun, and kids receive a bag of loot and a pirate certificate to take home. A 21+ sunset cruise is also offered.</p> <p>Departs: Dania Beach Marina, Dock G28, 151 N Beach Rd, Dania Beach, FL 33004</p> <p>Phone: 954-530-8302</p> <p><a href=\"https://www.bluefootpirates.com/\">https://www.bluefootpirates.com/</a></p>",
+  "new_loc": [
+   26.0527,
+   -80.1135
+  ],
+  "photo_ok": true,
+  "photo_note": "BlueFoot pirate ship - correct.",
+  "changes": [
+   "Operator now departs from Dania Beach Marina (about 25 minutes south), not Fort Lauderdale beach; map pin moved (approximate coordinates for the marina)",
+   "Added departure address, phone and website (none listed before)",
+   "Sail times vary daily; reservations recommended"
+  ],
+  "sources": [
+   "https://www.bluefootpirates.com/",
+   "https://app.advcollective.com/local-experts/water-activities-bluefoot-pirate-adventure-dania-beach"
+  ]
+ },
+ {
+  "key": "water-activities|1|1",
+  "title": "Carrie B - Venice of America Fort Lauderdale Sightseeing Tours",
+  "verdict": "updated",
+  "new_html": "<p>See celebrity homes, the Fort Lauderdale skyline, and other top sights.</p> <p>Departs: Riverwalk / New River docks, 440 N New River Dr E, Fort Lauderdale, FL 33301</p> <p>Phone: 954-768-9920</p> <p>Tours: Daily at 11am, 1pm and 3pm</p> <p><a href=\"https://www.carriebcruises.com/\">https://www.carriebcruises.com/</a></p>",
+  "photo_ok": true,
+  "photo_note": "Carrie B riverboat - correct.",
+  "changes": [
+   "Confirmed operating; added departure address, phone, daily tour times and website"
+  ],
+  "sources": [
+   "https://www.carriebcruises.com/",
+   "https://phoenix.aws.mapquest.com/us/florida/carrie-b-cruises-276194432"
+  ]
+ },
+ {
+  "key": "water-activities|1|2",
+  "title": "Florida Everglades Airboat Adventure and Wildlife Encounter",
+  "verdict": "updated",
+  "new_html": "<p>Escape to the Florida Everglades for this airboat adventure and wildlife encounter at Sawgrass Recreation Park. This exciting airboat ride is a great way to experience the unique subtropical ecosystem of the Everglades as you skim across the grassy water.</p> <p>Address: 1006 N US Highway 27, Weston, FL 33327</p> <p>Phone: 954-389-0202</p> <p>Hours: Airboats run every 20–30 minutes until 3:30pm, with a final ride at 5pm (weather permitting; call ahead)</p> <p><a href=\"https://www.evergladestours.com/\">https://www.evergladestours.com/</a></p>",
+  "photo_ok": false,
+  "photo_note": "Airboat is branded 'Wild Florida', a different operator in Central Florida (Kenansville), not Sawgrass Recreation Park.",
+  "changes": [
+   "Confirmed Sawgrass Recreation Park operating; added address, phone, hours and official website",
+   "Removed '40 mph' claim, which the official site does not state",
+   "Replace photo with one of Sawgrass Recreation Park"
+  ],
+  "sources": [
+   "https://www.evergladestours.com/"
+  ]
+ },
+ {
+  "key": "weather|0|0",
+  "title": "Fort Lauderdale",
+  "verdict": "ok",
+  "photo_ok": true,
+  "photo_note": "Generic weather icons (includes a snowflake, a little odd for Florida but harmless).",
+  "changes": [
+   "Weather.com link works and redirects to the Lauderdale-by-the-Sea 33308 forecast, which matches the home's ZIP"
+  ],
+  "sources": [
+   "https://weather.com/us/florida/lauderdale-by-the-sea/postcode/33308/today"
+  ]
+ }
+]
