@@ -137,7 +137,7 @@
       },
       {
        "title": "4:00 PM Check-in",
-       "html": "<p>If you would like an early check-in, please see our <a href=\"#/info/check-in-arrival/early-check-in-half-day-stay-option\">Early Check In (Half Day Stay Option)</a> section</p><p>Otherwise - 4:00 PM is a strict check-in time. If you are arriving early, take a look at the Local Recommendation section. We've listed a few things to do around the area while we prepare the home!</p>",
+       "html": "<p>If you would like an early check-in, please see our <a href=\"#/info/check-in-arrival/early-check-in-half-day-stay-option\">Early Check In (Half Day Stay Option)</a> section</p><p>Otherwise - 4:00 PM is a strict check-in time. If you are arriving early, take a look at the Explore the Area section. We've listed a few things to do around the area while we prepare the home!</p>",
        "photo": "11e339c716ed8af07a28c05e286c2caa.jpg"
       },
       {
@@ -174,7 +174,7 @@
       },
       {
        "title": "Check-out Process",
-       "html": "<p>Standard check-out is at 10:00 AM on your departure date (Unless you've paid for a late check-out).&nbsp;</p> <p>When you've finished your stay, technically, you can just leave no questions asked lol :) But, if you really wanted to give our cleaning team some love, we would appreciate it if you would take care of a few simple things:</p> <ul> <li>Dishwasher - Load and start the dishwasher</li> <li>Jacuzzi - Close and lock the lid&nbsp;</li> <li>Sauna - Close and lock the door</li> <li>Towels - Place all used towels in the shower</li> <li>Trash - Bag/secure all loose trash and place in 2 GFL bins (Black Bin with Green Lid)&nbsp;</li> <li>Lock Up - Lock all doors</li> </ul> <p>We hope you guys had an amazing stay! Thank you again and safe travels back home.</p>"
+       "html": "<p>Standard check-out is at 10:00 AM on your departure date (Unless you've paid for a late check-out).&nbsp;</p> <p>When you've finished your stay, technically, you can just leave no questions asked lol :) But, if you really wanted to give our cleaning team some love, we would appreciate it if you would take care of a few simple things:</p> <ul> <li>Dishwasher - Load and start the dishwasher</li> <li>Jacuzzi - Close and lock the lid&nbsp;</li> <li>Sauna - Close and lock the door</li> <li>Towels - Place all used towels in the shower</li> <li>Trash - Bag/secure all loose trash and place in 2 GFL bins (Black Bin with Green Lid)&nbsp;</li> <li>Pool Pass - Return the pool pass and towel basket to where you found them.</li><li>Lock Up - Lock all doors</li> </ul> <p>We hope you guys had an amazing stay! Thank you again and safe travels back home.</p>"
       },
       {
        "title": "Lost and Found",
@@ -260,7 +260,7 @@
      "items": [
       {
        "title": "Barrel Sauna",
-       "html": "<p><strong>Please Read Before Use - See Photos Below.</strong></p> <p>The LEFT dial is the temperature - Min to Max etc. Leave the dial just slightly under MAX- don't crank it to full MAX.</p> <p>The RIGHT dial is the timer. Each number is for 1 hour, 2 hours, 3 hours, 4 hours etc.</p> <p><strong>Do Not Turn Past The \"First\" 1</strong></p> <ul> <li>If you go straight to the \"second 1\", 2, or 3 or more) or the heater WILL NOT start until 2/3 hours).</li> <li>That is a Delayed Start Setting ie. 1-2-3 hours later etc.&nbsp;</li> </ul> <p>Simply turn the dial to the first (1) and the heater will run on MAX for (1) Hour.</p> <p>Put the Left Dial Just Under Max, and Select 1 Hour on the Right Dial.</p> <p>Keep it Simple :)</p><p><img src=\"../img/9fa13818dfec6364b2badf43ae34e16b.jpg\" alt=\"\"></p><p><img src=\"../img/0f4fb600698b3e46cd8da801e9f424c9.jpg\" alt=\"\"></p>",
+       "html": "<p><strong>Please Read Before Use - See Photos Below.</strong></p> <p>The left dial is the temperature - Min to Max etc. Leave the dial just slightly under max - don't crank it to full max.</p> <p>The right dial is the timer. Each number is for 1 hour, 2 hours, 3 hours, 4 hours etc.</p> <p><strong>Do Not Turn Past The \"First\" 1</strong></p> <ul> <li>If you go straight to the \"second 1\", 2, or 3 or more) or the heater will not start until 2/3 hours).</li> <li>That is a Delayed Start Setting ie. 1-2-3 hours later etc.&nbsp;</li> </ul> <p>Simply turn the dial to the first (1) and the heater will run on max for (1) Hour.</p> <p>Put the Left Dial just under max, and Select 1 Hour on the Right Dial.</p> <p>Keep it Simple :)</p><p><img src=\"../img/9fa13818dfec6364b2badf43ae34e16b.jpg\" alt=\"\"></p><p><img src=\"../img/0f4fb600698b3e46cd8da801e9f424c9.jpg\" alt=\"\"></p>",
        "photo": "beb7c2d8f28d12e5afadd5126fd57bc3.jpg"
       }
      ]
@@ -277,13 +277,8 @@
      "items": [
       {
        "title": "Propane Grill",
-       "html": "<p>There is a propane grill for your personal use on the back patio. Please follow the grill instructions carefully when using propane. Do not forget to close the valve when you're done!</p> <p>We always try to keep a full tank on site - but sometimes they run out before we can get a replacement there. If you run out and need a replacement, we can try and get you a replacement delivered - but - depending on timing - it may be faster for you to run and exchange the empty.</p> <p>Of course we will reimburse you for the tank and your time!</p>",
+       "html": "<p>There is a propane grill for your use on the back patio. Please follow the grill instructions carefully, and close the propane valve when you're done.</p><p><strong>Propane tanks:</strong> We try to keep a full propane tank (and an extra) at the home. Most of the time we swap them out before check-in, but that's not always possible. If you run low, we can try to have a new tank delivered, though it may not be immediate. If you need one quickly, feel free to exchange the empty tank at a local store and we'll happily reimburse you for the tank and your trouble. Just let us know!</p>",
        "photo": "1609408967b3070ae23244e1804b4df2.jpg"
-      },
-      {
-       "title": "Propane Tank(s)",
-       "html": "<p>We TRY to keep a full propane tank (and an extra one) at the home. Most of the time we can get them swapped out before check in. Unfortunately, that's not always possible. We apologize if you did not find a full propane tank upon arrival!</p><p>We can try and coordinate another person to deliver you a new tank, but their availability might not be immediate. If you need something quick, we recommend running to the store and exchanging the empty one(s) or a new one - and yes of course we would be happy to reimburse you for the tank and your trouble! Just let us know. Thank You.</p>",
-       "photo": "05f49508259ad5443ec6e6d70501e8b4.jpg"
       }
      ]
     }
@@ -304,7 +299,7 @@
       },
       {
        "title": "Fireplace",
-       "html": "<p><a href=\"https://www.loom.com/share/778890ea45be4c4e82a3a95988e27d7e\">FIREPLACE HELP VIDEO</a></p> <p>If you’d like to use the fireplace and need a little assistance, please check out the troubleshooting video below. It walks you through everything you need:</p> <p>• How to turn on the fireplace with a simple press of a button<br/>• How to relight the pilot light, step by step, if needed</p> <p>If the pilot light is already lit, all you need to do is press the <strong>on/off switch located on the left side of the gas log set</strong>. The video will show you exactly where this switch is and how to operate it.</p> <p>Let us know if you need anything at all!</p>",
+       "html": "<p><a href=\"https://www.loom.com/share/778890ea45be4c4e82a3a95988e27d7e\">Fireplace help video</a></p> <p>If you’d like to use the fireplace and need a little assistance, please check out the troubleshooting video below. It walks you through everything you need:</p> <p>• How to turn on the fireplace with a simple press of a button<br/>• How to relight the pilot light, step by step, if needed</p> <p>If the pilot light is already lit, all you need to do is press the <strong>on/off switch located on the left side of the gas log set</strong>. The video will show you exactly where this switch is and how to operate it.</p> <p>Let us know if you need anything at all!</p>",
        "video": "https://www.loom.com/embed/778890ea45be4c4e82a3a95988e27d7e",
        "photo": "c9a333e4bf3853c7a4b1a7d63595e324.jpg"
       }
@@ -326,7 +321,7 @@
       },
       {
        "title": "Trash",
-       "html": "<p>BLACK GFL BINS WITH GREEN LID</p> <p>2 Trash bins are located outside at the end of the driveway.</p> <p>Trash pick-up is on Monday mornings.&nbsp;</p> <p>PLEASE BAG ALL OF YOUR TRASH!</p> <p>NO LOOSE TRASH THROWN STRAIGHT IN THE CAN!</p> <p>Thank You!</p>"
+       "html": "<p>Black GFL bins with green lids</p> <p>2 Trash bins are located outside at the end of the driveway.</p> <p>Trash pick-up is on Monday mornings.&nbsp;</p> <p>Please bag all of your trash.</p> <p>No loose trash thrown straight in the can.</p> <p>Thank you!</p>"
       }
      ]
     }
@@ -342,7 +337,7 @@
      "items": [
       {
        "title": "Hot Tub / Jacuzzi",
-       "html": "<p><strong>PLEASE READ BEFORE USING!&nbsp;</strong></p> <p><strong>Jacuzzi Quick Start Guide</strong></p> <p><strong>Jets (Pump 1)</strong><br>&bull; Press 1x for low. 2x for high.&nbsp;3x to turn off</p> <p><strong>Light</strong><br>&bull; Press Light to turn On or Off<br><strong>&bull; Do Not Hold the Light Button (enters programming mode)</strong></p> <p><strong>Temperature</strong><br>&bull; Press ▲ or ▼ to adjust temperature<br>&bull; Setting saves automatically after a moment</p> <p><strong>Air Bubbles</strong><br>&bull; Turn air knobs on the tub rim to adjust bubbles<br>&bull; Open = more bubbles<br>&bull; Closed = fewer bubbles</p> <p><strong>Important Notes</strong><br>&bull; Do not hold the Light button or attempt to access programming menus<br>&bull; Do not press buttons repeatedly or rapidly<br>&bull; Do not lean, sit, or push on the control panel<br>&bull; Do not force air knobs or diverters past their stopping point</p>",
+       "html": "<p><strong>Please read before using.&nbsp;</strong></p> <p><strong>Jacuzzi Quick Start Guide</strong></p> <p><strong>Jets (Pump 1)</strong><br>&bull; Press 1x for low. 2x for high.&nbsp;3x to turn off</p> <p><strong>Light</strong><br>&bull; Press Light to turn On or Off<br><strong>&bull; Do Not Hold the Light Button (enters programming mode)</strong></p> <p><strong>Temperature</strong><br>&bull; Press ▲ or ▼ to adjust temperature<br>&bull; Setting saves automatically after a moment</p> <p><strong>Air Bubbles</strong><br>&bull; Turn air knobs on the tub rim to adjust bubbles<br>&bull; Open = more bubbles<br>&bull; Closed = fewer bubbles</p> <p><strong>Important Notes</strong><br>&bull; Do not hold the Light button or attempt to access programming menus<br>&bull; Do not press buttons repeatedly or rapidly<br>&bull; Do not lean, sit, or push on the control panel<br>&bull; Do not force air knobs or diverters past their stopping point</p>",
        "photo": "1db70dd982d56343eea3c3429e1f35da.jpg"
       }
      ]
@@ -364,7 +359,7 @@
       },
       {
        "title": "Game Room Fun!",
-       "html": "<p>This house is packed with indoor fun, including Shuffleboard, Foosball, Air Hockey, and a full set of poker chips with a playing table. Don't forget about the Arcade Games, including Ms. Pac-Man, NBA Jam, and Golf. If anything is missing or broken, PLEASE LET US KNOW IMMEDIATELY so we can order any replacements.&nbsp;</p>",
+       "html": "<p>This house is packed with indoor fun, including Shuffleboard, Foosball, Air Hockey, and a full set of poker chips with a playing table. Don't forget about the Arcade Games, including Ms. Pac-Man, NBA Jam, and Golf. If anything is missing or broken, please let us know right away so we can order any replacements.&nbsp;</p>",
        "photo": "64f30dba2838c63a6607e0eb61a72896.jpg"
       }
      ]
@@ -381,7 +376,7 @@
      "items": [
       {
        "title": "Kitchen + Supplies + Appliances",
-       "html": "<p>We have a fully stocked kitchen with a stainless steel appliance package. We try to provide everything you may need, but we're not perfect. If you have ANY suggestions for small appliances, dishware, flatware, glassware, or even dry goods that would be beneficial - let us know! We would be happy to see if it's possible to place an Amazon/Walmart/Grocery delivery order for you during your stay :)</p>"
+       "html": "<p>We have a fully stocked kitchen with a stainless steel appliance package. We try to provide everything you may need, but we're not perfect. If you have any suggestions for small appliances, dishware, flatware, glassware, or even dry goods that would be beneficial - let us know! We would be happy to see if it's possible to place an Amazon/Walmart/Grocery delivery order for you during your stay :)</p>"
       }
      ]
     }
@@ -414,7 +409,7 @@
      "items": [
       {
        "title": "Indoor Pool - at The Lakeview Hotel",
-       "html": "<p>Located inside The Lakeview Hotel (Summit Village).<br>Open daily, year-round: 9:00 AM - 11:00 PM</p> <p><strong>*Pool Pass Required*</strong></p> <p>The Pool Pass is connected to a towel basket, and towels are provided by your host(s). You'll need to bring this pool pass and your own towels to the indoor pool. There are no towels provided by the resort.&nbsp;</p> <p><strong>Please return the pool pass, or you will be charged the $1,000 replacement charge.</strong></p>",
+       "html": "<p>Located inside The Lakeview Hotel (Summit Village).<br>Open daily, year-round: 9:00 AM - 11:00 PM</p> <p><strong>Pool pass required.</strong> The pool pass comes with a basket of towels from us. Towels are not provided by the resort, so please bring the towels from the basket to the indoor pool.</p><p>When you're done, return all towels and the pool pass to where you found them. <strong>A lost or unreturned pool pass carries a $1,000 replacement charge.</strong></p>",
        "photo": "2cce4a84eac076d0d4f6425e73d7c174.jpg",
        "loc": [
         44.948575,
@@ -424,7 +419,7 @@
       },
       {
        "title": "Outdoor Pool - at The Lakeview Hotel",
-       "html": "<p>Located outside The Lakeview Hotel (Summit Village).<br>Open daily during the summer season: 10:00 AM - 10:00 PM</p><p>The outdoor pool closes for the off-season. If you are visiting in spring or fall, please check with the Lakeview Hotel front desk to see if it is open.</p> <p><strong>*Pool Pass Required*</strong></p> <p>The Pool Pass is connected to a towel basket, and towels are provided by your host(s). You'll need to bring this pool pass and your own towels to the outdoor pool. There are no towels provided by the resort.&nbsp;</p> <p><strong>Please return the pool pass, or you will be charged the $1,000 replacement charge.</strong></p>",
+       "html": "<p>Located outside The Lakeview Hotel (Summit Village).<br>Open daily during the summer season: 10:00 AM - 10:00 PM</p><p>The outdoor pool closes for the off-season. If you are visiting in spring or fall, please check with the Lakeview Hotel front desk to see if it is open.</p> <p><strong>Pool pass required.</strong> The pool pass comes with a basket of towels from us. Towels are not provided by the resort, so please bring the towels from the basket to the outdoor pool.</p><p>When you're done, return all towels and the pool pass to where you found them. <strong>A lost or unreturned pool pass carries a $1,000 replacement charge.</strong></p>",
        "photo": "6bf533891c3e89434a70168190bf8bf2.jpg",
        "loc": [
         44.948622,
@@ -438,7 +433,7 @@
       },
       {
        "title": "Pool Rules",
-       "html": "<p><strong>Pool Rules</strong></p> <ul> <li>No lifeguard on duty. Use at your own risk.</li> <li>The Owner/Host does not assume responsibility for any accidents or injuries.</li> <li>Absolutely no glass containers allowed.</li> <li>No food allowed</li> <li>No animals allowed</li> <li>No diving allowed</li> <li>No running, pushing, or other dangerous horseplay</li> <li>Please be considerate of other guests</li> <li>POOL TOWELS ARE NOT PROVIDED BY THE RESORT</li> </ul> <p>The resort management and/or owner/host reserves the right to deny use of the pool to anyone at any time. Please be considerate of others and help us maintain a safe and enjoyable environment.&nbsp;</p>"
+       "html": "<p><strong>Pool Rules</strong></p> <ul> <li>No lifeguard on duty. Use at your own risk.</li> <li>The Owner/Host does not assume responsibility for any accidents or injuries.</li> <li>Absolutely no glass containers allowed.</li> <li>No food allowed</li> <li>No animals allowed</li> <li>No diving allowed</li> <li>No running, pushing, or other dangerous horseplay</li> <li>Please be considerate of other guests</li> <li>Pool towels are not provided by the resort</li> </ul> <p>The resort management and/or owner/host reserves the right to deny use of the pool to anyone at any time. Please be considerate of others and help us maintain a safe and enjoyable environment.&nbsp;</p>"
       }
      ]
     }
@@ -483,11 +478,11 @@
       },
       {
        "title": "Pet Policy - Max 2 Dogs (with approval)",
-       "html": "<p>This home is pet-friendly, so you can bring your furry friend from home! <strong>MAX 2 DOGS ALLOWED</strong> per stay, with approval. Hypoallergenic breeds are preferred.</p><p>All pets must be on your reservation. Please let us know beforehand so we can take the proper cleaning measures. A <strong>$150 pet fee</strong> will be added to your reservation for any approved pet before arrival.</p><p>If you bring a pet without notifying your hosts, you will be charged <strong>double</strong> for any unapproved pet.</p>"
+       "html": "<p>This home is pet-friendly, so you can bring your furry friend from home! <strong>Max 2 dogs allowed</strong> per stay, with approval. Hypoallergenic breeds are preferred.</p><p>All pets must be on your reservation. Please let us know beforehand so we can take the proper cleaning measures. A <strong>$150 pet fee</strong> will be added to your reservation for any approved pet before arrival.</p><p>If you bring a pet without notifying your hosts, you will be charged <strong>double</strong> for any unapproved pet.</p>"
       },
       {
        "title": "Reservation Adjustments",
-       "html": "<p>If you need to make any change in your stay, for example, regarding the number of guests, bringing a service animal or anything at all, please let us know ahead of time so we can accommodate you. However, if you do not disclose any changes, like an animal or extra guests (above max occupancy) you could be subject to a reservtion cancellation without refund. </p>"
+       "html": "<p>If you need to make any change in your stay, for example, regarding the number of guests, bringing a service animal or anything at all, please let us know ahead of time so we can accommodate you. However, if you do not disclose any changes, like an animal or extra guests (above max occupancy) you could be subject to a reservation cancellation without refund. </p>"
       },
       {
        "title": "Security Camera",
@@ -495,7 +490,7 @@
       },
       {
        "title": "Septic and Plumbing",
-       "html": "<p>Please ONLY PUT TOILET PAPER in the toilet and throw the remaining in the trash!</p><p>Tampons, baby wipes, paper towels, or anything other than toilet paper in the toilet will clog the drain/tank. This can result in clogged toilets, and septic damage and will result in damage fees.</p>"
+       "html": "<p>Please only put toilet paper in the toilet and throw the remaining in the trash!</p><p>Tampons, baby wipes, paper towels, or anything other than toilet paper in the toilet will clog the drain/tank. This can result in clogged toilets, and septic damage and will result in damage fees.</p>"
       },
       {
        "title": "Smoking",
@@ -503,7 +498,7 @@
       },
       {
        "title": "Trash",
-       "html": "<p>BLACK GFL BINS WITH GREEN LID</p> <p>2 Trash bins are located outside at the end of the driveway.</p> <p>Trash pick-up is on Monday mornings.&nbsp;</p> <p>PLEASE BAG ALL OF YOUR TRASH!</p> <p>NO LOOSE TRASH THROWN STRAIGHT IN THE CAN!</p> <p>Thank You!</p>"
+       "html": "<p>Black GFL bins with green lids</p> <p>2 Trash bins are located outside at the end of the driveway.</p> <p>Trash pick-up is on Monday mornings.&nbsp;</p> <p>Please bag all of your trash.</p> <p>No loose trash thrown straight in the can.</p> <p>Thank you!</p>"
       }
      ]
     }

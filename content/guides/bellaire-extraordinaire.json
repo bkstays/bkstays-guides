@@ -135,12 +135,12 @@
       },
       {
        "title": "Access Codes / Instructions",
-       "html": "<p>IMPORTANT! - Sometimes you need to pull the front door tighter/closed more for the door lock to slide open to unlock smoothly. </p> <p>The Access Code for the front door is</p> <p>1552</p> <p>To lock the door, simply press the lock button. Please make sure all external doors are locked whenever you leave.</p> <p>* If for some reason the code doesn't work please call me at <a href=\"tel:404-358-1552\">404-358-1552</a>. I will get you the lockbox code for the spare key!</p>",
+       "html": "<p>Important: Sometimes you need to pull the front door tighter/closed more for the door lock to slide open to unlock smoothly. </p> <p>The Access Code for the front door is</p> <p>1552</p> <p>To lock the door, simply press the lock button. Please make sure all external doors are locked whenever you leave.</p> <p>* If for some reason the code doesn't work please call me at <a href=\"tel:404-358-1552\">404-358-1552</a>. I will get you the lockbox code for the spare key!</p>",
        "photo": "730742e2babb8d2cedbe0a30eac61d46.jpg"
       },
       {
        "title": "4:00 PM Check-in",
-       "html": "<p>If you would like an early check-in, please see our <a href=\"#/info/check-in-arrival/early-check-in-half-day-stay-option\">Early Check In (Half Day Stay Option)</a> section</p><p>Otherwise - 4:00 PM is a strict check-in time. If you are arriving early, take a look at the Local Recommendation section. We've listed a few things to do around the area while we prepare the home!</p>",
+       "html": "<p>If you would like an early check-in, please see our <a href=\"#/info/check-in-arrival/early-check-in-half-day-stay-option\">Early Check In (Half Day Stay Option)</a> section</p><p>Otherwise - 4:00 PM is a strict check-in time. If you are arriving early, take a look at the Explore the Area section. We've listed a few things to do around the area while we prepare the home!</p>",
        "photo": "11e339c716ed8af07a28c05e286c2caa.jpg"
       },
       {
@@ -177,7 +177,7 @@
       },
       {
        "title": "Check-out Process",
-       "html": "<p>Standard check-out is at 10:00 AM on your departure date (Unless you've paid for a late check-out). </p> <p>When you've finished your stay, technically, you can just leave no questions asked lol :) But, if you really wanted to give our cleaning team some love, we would appreciate it if you would take care of a few simple things:</p> <ul> <li>Dishwasher - Load and start the dishwasher</li> <li>Grill - Please Properly Clean It After Use (<a href=\"#/info/bbq-grill\">Grill Safety</a>)</li> <li>Jacuzzi - Close and lock the lid </li> <li>Sauna - Close the door.</li> <li>Towels - Place all used towels in the shower.</li> <li>Trash - Bag and secure any loose trash and place in the blue bins next to the garage.</li> <li>Lock Up - Lock all doors</li> </ul> <p>We hope you guys had an amazing stay! Thank you again and safe travels back home.</p>"
+       "html": "<p>Standard check-out is at 10:00 AM on your departure date (Unless you've paid for a late check-out). </p> <p>When you've finished your stay, technically, you can just leave no questions asked lol :) But, if you really wanted to give our cleaning team some love, we would appreciate it if you would take care of a few simple things:</p> <ul> <li>Dishwasher - Load and start the dishwasher</li> <li>Grill - Please Properly Clean It After Use (<a href=\"#/info/bbq-grill\">Grill Safety</a>)</li> <li>Jacuzzi - Close and lock the lid </li> <li>Sauna - Close the door.</li> <li>Towels - Place all used towels in the shower.</li> <li>Trash - Bag and secure any loose trash and place in the blue bins next to the garage.</li> <li>Pool Pass - Return the pool pass and towel basket to the coat hooks.</li><li>Beach Club Pass - Return it to the coat hooks next to the pool pass.</li><li>Lock Up - Lock all doors</li> </ul> <p>We hope you guys had an amazing stay! Thank you again and safe travels back home.</p>"
       },
       {
        "title": "Lost and Found",
@@ -263,7 +263,7 @@
      "items": [
       {
        "title": "Barrel Sauna",
-       "html": "<p><strong>Please Read Before Use - See Photos Below.</strong></p> <p>The LEFT dial is the temperature - Min to Max etc. Leave the dial just slightly under MAX- don't crank it to full MAX.</p> <p>The RIGHT dial is the timer. Each number is for 1 hour, 2 hours, 3 hours, 4 hours etc.</p> <p><strong>Do Not Turn Past The \"First\" 1</strong></p> <ul> <li>If you go straight to the \"second 1\", 2, or 3 or more) or the heater WILL NOT start until 2/3 hours).</li> <li>That is a Delayed Start Setting ie. 1-2-3 hours later etc.&nbsp;</li> </ul> <p>Simply turn the dial to the first (1) and the heater will run on MAX for (1) Hour.</p> <p>Put the Left Dial Just Under Max, and Select 1 Hour on the Right Dial.</p> <p>Keep it Simple :)</p><p><img src=\"../img/0f4fb600698b3e46cd8da801e9f424c9.jpg\" alt=\"\"></p><p><img src=\"../img/9fa13818dfec6364b2badf43ae34e16b.jpg\" alt=\"\"></p>",
+       "html": "<p><strong>Please Read Before Use - See Photos Below.</strong></p> <p>The left dial is the temperature - Min to Max etc. Leave the dial just slightly under max - don't crank it to full max.</p> <p>The right dial is the timer. Each number is for 1 hour, 2 hours, 3 hours, 4 hours etc.</p> <p><strong>Do Not Turn Past The \"First\" 1</strong></p> <ul> <li>If you go straight to the \"second 1\", 2, or 3 or more) or the heater will not start until 2/3 hours).</li> <li>That is a Delayed Start Setting ie. 1-2-3 hours later etc.&nbsp;</li> </ul> <p>Simply turn the dial to the first (1) and the heater will run on max for (1) Hour.</p> <p>Put the Left Dial just under max, and Select 1 Hour on the Right Dial.</p> <p>Keep it Simple :)</p><p><img src=\"../img/0f4fb600698b3e46cd8da801e9f424c9.jpg\" alt=\"\"></p><p><img src=\"../img/9fa13818dfec6364b2badf43ae34e16b.jpg\" alt=\"\"></p>",
        "photo": "c5f4b10fff862a8a88552180e5737222.jpg"
       }
      ]
@@ -272,21 +272,16 @@
   },
   "bbq-grill": {
    "id": "bbq-grill",
-   "title": "BBQ Grill + Propane",
+   "title": "Blackstone Griddle + Propane",
    "icon": "flame",
    "groups": [
     {
      "title": "",
      "items": [
       {
-       "title": "Propane Grill",
-       "html": "<p>* Please Review - Blackstone Grills Require Proper Clean Up. </p> <p>If you use the Blackstone - you are required to clean up after yourselves. A Blackstone requires more care than a usual grill, so I have posted a YouTube video below on how to properly clean the Blackstone After Each Use. Please refer to it for assistance. </p> <p><a href=\"https://youtube.com/shorts/01xbSZUQimw?feature=shared\">https://youtube.com/shorts/01xbSZUQimw?feature=shared</a></p> <p>Please Dump All Grease In a Sealed/Tied Trash Bag &amp; Dispose of it Properly. Do Not Pour Grease Down the Drain or Anywhere On The Property.</p> <p>Extra Cleaning Measure Fines Could Be Assessed if Blackstone is Not Properly Maintained.</p>",
+       "title": "Blackstone Griddle (Propane)",
+       "html": "<p>The Blackstone is the grill at this home, and it runs on propane.</p><p><strong>Please clean up after each use.</strong> A Blackstone needs more care than a regular grill. Here's a short video on how to clean it properly: <a href=\"https://youtube.com/shorts/01xbSZUQimw?feature=shared\">How to clean a Blackstone</a>.</p><p>Dump all grease into a sealed, tied trash bag and throw it away. Never pour grease down the drain or anywhere on the property. Extra cleaning fees may apply if the Blackstone isn't cleaned.</p><p><strong>Propane tanks:</strong> We try to keep a full propane tank (and an extra) at the home. Most of the time we swap them out before check-in, but that's not always possible. If you run low, we can try to have a new tank delivered, though it may not be immediate. If you need one quickly, feel free to exchange the empty tank at a local store and we'll happily reimburse you for the tank and your trouble. Just let us know!</p>",
        "photo": "ac61be1f65ab53ff42e1974266b710a9.jpg"
-      },
-      {
-       "title": "Propane Tank(s)",
-       "html": "<p>We TRY to keep a full propane tank (and an extra one) at the home. Most of the time we can get them swapped out before check in. Unfortunately, that's not always possible. We apologize if you did not find a full propane tank upon arrival!</p><p>We can try and coordinate another person to deliver you a new tank, but their availability might not be immediate. If you need something quick, we recommend running to the store and exchanging the empty one(s) or a new one - and yes of course we would be happy to reimburse you for the tank and your trouble! Just let us know. Thank You.</p>",
-       "photo": "05f49508259ad5443ec6e6d70501e8b4.jpg"
       }
      ]
     }
@@ -324,7 +319,7 @@
      "items": [
       {
        "title": "Hot Tub / Jacuzzi",
-       "html": "<p><strong>PLEASE READ BEFORE USING!&nbsp;</strong></p> <p><strong>Jacuzzi Quick Start Guide</strong></p> <p><strong>Jets (Pump 1)</strong><br>&bull; Press 1x for low. 2x for high.&nbsp;3x to turn off</p> <p><strong>Light</strong><br>&bull; Press Light to turn On or Off<br><strong>&bull; Do Not Hold the Light Button (enters programming mode)</strong></p> <p><strong>Temperature</strong><br>&bull; Press ▲ or ▼ to adjust temperature<br>&bull; Setting saves automatically after a moment</p> <p><strong>Air Bubbles</strong><br>&bull; Turn air knobs on the tub rim to adjust bubbles<br>&bull; Open = more bubbles<br>&bull; Closed = fewer bubbles</p> <p><strong>Important Notes</strong><br>&bull; Do not hold the Light button or attempt to access programming menus<br>&bull; Do not press buttons repeatedly or rapidly<br>&bull; Do not lean, sit, or push on the control panel<br>&bull; Do not force air knobs or diverters past their stopping point</p>",
+       "html": "<p><strong>Please read before using.&nbsp;</strong></p> <p><strong>Jacuzzi Quick Start Guide</strong></p> <p><strong>Jets (Pump 1)</strong><br>&bull; Press 1x for low. 2x for high.&nbsp;3x to turn off</p> <p><strong>Light</strong><br>&bull; Press Light to turn On or Off<br><strong>&bull; Do Not Hold the Light Button (enters programming mode)</strong></p> <p><strong>Temperature</strong><br>&bull; Press ▲ or ▼ to adjust temperature<br>&bull; Setting saves automatically after a moment</p> <p><strong>Air Bubbles</strong><br>&bull; Turn air knobs on the tub rim to adjust bubbles<br>&bull; Open = more bubbles<br>&bull; Closed = fewer bubbles</p> <p><strong>Important Notes</strong><br>&bull; Do not hold the Light button or attempt to access programming menus<br>&bull; Do not press buttons repeatedly or rapidly<br>&bull; Do not lean, sit, or push on the control panel<br>&bull; Do not force air knobs or diverters past their stopping point</p>",
        "photo": "48bb72faa971ea5dfe16fe828d5fc5ee.jpg"
       }
      ]
@@ -346,7 +341,7 @@
       },
       {
        "title": "Game Room Fun!",
-       "html": "<p>This house is packed with indoor fun, including Shuffleboard, Foosball, Air Hockey, Darts, and a full set of poker chips with a playing table. Don't forget about the Arcade Games including Ms. Pacman, NBA Jam, Mortal Kombat, Golf, and Big Game Buck Hunter. If anything is missing or broken, PLEASE LET US KNOW IMMEDIATELY so we can order any replacements.&nbsp;</p>",
+       "html": "<p>This house is packed with indoor fun, including Shuffleboard, Foosball, Air Hockey, Darts, and a full set of poker chips with a playing table. Don't forget about the Arcade Games including Ms. Pacman, NBA Jam, Mortal Kombat, Golf, and Big Game Buck Hunter. If anything is missing or broken, please let us know right away so we can order any replacements.&nbsp;</p>",
        "photo": "64f30dba2838c63a6607e0eb61a72896.jpg"
       }
      ]
@@ -363,7 +358,7 @@
      "items": [
       {
        "title": "Kitchen + Supplies + Appliances",
-       "html": "<p>We have a fully stocked kitchen with a stainless steel appliance package. We try to provide everything you may need, but we're not perfect. If you have ANY suggestions for small appliances, dishware, flatware, glassware, or even dry goods that would be beneficial - let us know! We would be happy to see if it's possible to place an Amazon/Walmart/Grocery delivery order for you during your stay :)</p>"
+       "html": "<p>We have a fully stocked kitchen with a stainless steel appliance package. We try to provide everything you may need, but we're not perfect. If you have any suggestions for small appliances, dishware, flatware, glassware, or even dry goods that would be beneficial - let us know! We would be happy to see if it's possible to place an Amazon/Walmart/Grocery delivery order for you during your stay :)</p>"
       }
      ]
     }
@@ -440,7 +435,7 @@
      "items": [
       {
        "title": "Indoor Pool - at The Lakeview Hotel",
-       "html": "<p>Located inside The Lakeview Hotel (Summit Village).<br>Open daily, year-round: 9:00 AM - 11:00 PM</p> <p><strong>*Pool Pass Required*</strong></p> <p>The Pool Pass is connected to a towel basket, and towels are provided by your host(s). You'll need to bring this pool pass and your own towels to the indoor pool. There are no towels provided by the resort.&nbsp;</p> <p><strong>Please return the pool pass, or you will be charged the $1,000 replacement charge.</strong></p>",
+       "html": "<p>Located inside The Lakeview Hotel (Summit Village).<br>Open daily, year-round: 9:00 AM - 11:00 PM</p> <p><strong>Pool pass required.</strong> The pool pass and a basket of towels hang on the <strong>coat hooks</strong> (next to the Beach Club pass). Towels are not provided by the resort, so please bring the towels from the basket to the indoor pool.</p><p>When you're done, return all towels and the pool pass to the coat hooks. <strong>A lost or unreturned pool pass carries a $1,000 replacement charge.</strong></p>",
        "photo": "2cce4a84eac076d0d4f6425e73d7c174.jpg",
        "loc": [
         44.948575,
@@ -450,7 +445,7 @@
       },
       {
        "title": "Outdoor Pool - at The Lakeview Hotel",
-       "html": "<p>Located outside The Lakeview Hotel (Summit Village).<br>Open daily during the summer season: 10:00 AM - 10:00 PM</p><p>The outdoor pool closes for the off-season. If you are visiting in spring or fall, please check with the Lakeview Hotel front desk to see if it is open.</p> <p><strong>*Pool Pass Required*</strong></p> <p>The Pool Pass is connected to a towel basket, and towels are provided by your host(s). You'll need to bring this pool pass and your own towels to the outdoor pool. There are no towels provided by the resort.&nbsp;</p> <p><strong>Please return the pool pass, or you will be charged the $1,000 replacement charge.</strong></p>",
+       "html": "<p>Located outside The Lakeview Hotel (Summit Village).<br>Open daily during the summer season: 10:00 AM - 10:00 PM</p><p>The outdoor pool closes for the off-season. If you are visiting in spring or fall, please check with the Lakeview Hotel front desk to see if it is open.</p> <p><strong>Pool pass required.</strong> The pool pass and a basket of towels hang on the <strong>coat hooks</strong> (next to the Beach Club pass). Towels are not provided by the resort, so please bring the towels from the basket to the outdoor pool.</p><p>When you're done, return all towels and the pool pass to the coat hooks. <strong>A lost or unreturned pool pass carries a $1,000 replacement charge.</strong></p>",
        "photo": "6bf533891c3e89434a70168190bf8bf2.jpg",
        "loc": [
         44.948622,
@@ -464,7 +459,7 @@
       },
       {
        "title": "Pool Rules",
-       "html": "<p><strong>Pool Rules</strong></p> <ul> <li>No lifeguard on duty. Use at your own risk.</li> <li>The Owner/Host does not assume responsibility for any accidents or injuries.</li> <li>Absolutely no glass containers allowed.</li> <li>No food allowed</li> <li>No animals allowed</li> <li>No diving allowed</li> <li>No running, pushing, or other dangerous horseplay</li> <li>Please be considerate of other guests</li> <li>POOL TOWELS ARE NOT PROVIDED BY THE RESORT</li> </ul> <p>The resort management and/or owner/host reserves the right to deny use of the pool to anyone at any time. Please be considerate of others and help us maintain a safe and enjoyable environment.&nbsp;</p>"
+       "html": "<p><strong>Pool Rules</strong></p> <ul> <li>No lifeguard on duty. Use at your own risk.</li> <li>The Owner/Host does not assume responsibility for any accidents or injuries.</li> <li>Absolutely no glass containers allowed.</li> <li>No food allowed</li> <li>No animals allowed</li> <li>No diving allowed</li> <li>No running, pushing, or other dangerous horseplay</li> <li>Please be considerate of other guests</li> <li>Pool towels are not provided by the resort</li> </ul> <p>The resort management and/or owner/host reserves the right to deny use of the pool to anyone at any time. Please be considerate of others and help us maintain a safe and enjoyable environment.&nbsp;</p>"
       }
      ]
     }
@@ -513,15 +508,19 @@
       },
       {
        "title": "Parking Rules - HOA Regulated",
-       "html": ""
+       "html": "<p>Parking at the home is limited to passenger vehicles such as cars, SUVs and pickup trucks. RVs, boats and trailers may not be parked on the property at any time.</p><p>The designated parking spot for RVs, boats or trailers is at the corner of Shanty Creek Road and Batcheler Road. Please contact us before arrival for the exact address.</p><p>Overnight parking on any Summit Village Association road is strictly prohibited. All vehicles must be parked in the driveway without blocking neighbors, mailboxes or roadways.</p>"
       },
       {
        "title": "Pet Policy - Max 2 Dogs (with approval)",
-       "html": "<p>This home is pet-friendly, so you can bring your furry friend from home! <strong>MAX 2 DOGS ALLOWED</strong> per stay, with approval. Hypoallergenic breeds are preferred.</p><p>All pets must be on your reservation. Please let us know beforehand so we can take the proper cleaning measures. A <strong>$150 pet fee</strong> will be added to your reservation for any approved pet before arrival.</p><p>If you bring a pet without notifying your hosts, you will be charged <strong>double</strong> for any unapproved pet.</p>"
+       "html": "<p>This home is pet-friendly, so you can bring your furry friend from home! <strong>Max 2 dogs allowed</strong> per stay, with approval. Hypoallergenic breeds are preferred.</p><p>All pets must be on your reservation. Please let us know beforehand so we can take the proper cleaning measures. A <strong>$150 pet fee</strong> will be added to your reservation for any approved pet before arrival.</p><p>If you bring a pet without notifying your hosts, you will be charged <strong>double</strong> for any unapproved pet.</p>"
+      },
+      {
+       "title": "Quiet Hours",
+       "html": "<p>Quiet hours are <strong>10:00 PM to 7:00 AM</strong>. During this time, please keep outdoor music, loud conversations and any other disruptive noise to a minimum out of respect for our neighbors and HOA rules.</p>"
       },
       {
        "title": "Reservation Adjustments",
-       "html": "<p>If you need to make any change in your stay, for example, regarding the number of guests, bringing a service animal or anything at all, please let us know ahead of time so we can accommodate you. However, if you do not disclose any changes, like an animal or extra guests (above max occupancy) you could be subject to a reservtion cancellation without refund. </p>"
+       "html": "<p>If you need to make any change in your stay, for example, regarding the number of guests, bringing a service animal or anything at all, please let us know ahead of time so we can accommodate you. However, if you do not disclose any changes, like an animal or extra guests (above max occupancy) you could be subject to a reservation cancellation without refund. </p>"
       },
       {
        "title": "Security Camera",
@@ -529,7 +528,7 @@
       },
       {
        "title": "Septic and Plumbing",
-       "html": "<p>Please ONLY PUT TOILET PAPER in the toilet and throw the remaining in the trash!</p><p>Tampons, baby wipes, paper towels, or anything other than toilet paper in the toilet will clog the drain/tank. This can result in clogged toilets, and septic damage and will result in damage fees.</p>"
+       "html": "<p>Please only put toilet paper in the toilet and throw the remaining in the trash!</p><p>Tampons, baby wipes, paper towels, or anything other than toilet paper in the toilet will clog the drain/tank. This can result in clogged toilets, and septic damage and will result in damage fees.</p>"
       },
       {
        "title": "Smoking",
@@ -537,7 +536,7 @@
       },
       {
        "title": "Trash",
-       "html": "<p>Trash bins are located outside on the (south) side of the garage. Trash pick-up is on Tuesday mornings. Revolution Waste will come up to the house and empty the cans.&nbsp;</p> <p>PLEASE BAG ALL OF YOUR TRASH!</p> <p>NO LOOSE TRASH THROWN STRAIGHT IN THE CAN!</p> <p>Thank You!</p>"
+       "html": "<p>Trash bins are located outside on the (south) side of the garage. Trash pick-up is on Tuesday mornings. Revolution Waste will come up to the house and empty the cans.&nbsp;</p> <p>Please bag all of your trash.</p> <p>No loose trash thrown straight in the can.</p> <p>Thank you!</p>"
       }
      ]
     }
@@ -553,7 +552,7 @@
      "items": [
       {
        "title": "Trash",
-       "html": "<p>Trash bins are located outside on the (south) side of the garage. Trash pick-up is on Tuesday mornings. Revolution Waste will come up to the house and empty the cans.&nbsp;</p> <p>PLEASE BAG ALL OF YOUR TRASH!</p> <p>NO LOOSE TRASH THROWN STRAIGHT IN THE CAN!</p> <p>Thank You!</p>"
+       "html": "<p>Trash bins are located outside on the (south) side of the garage. Trash pick-up is on Tuesday mornings. Revolution Waste will come up to the house and empty the cans.&nbsp;</p> <p>Please bag all of your trash.</p> <p>No loose trash thrown straight in the can.</p> <p>Thank you!</p>"
       }
      ]
     }
@@ -586,7 +585,7 @@
      "items": [
       {
        "title": "Heating / Cooling",
-       "html": "<p>There are (2) Ecobee Thermostats on the wall. The first is next to the main level bathroom and the other in the living/game room.&nbsp;</p> <p>If you're running the air conditioning or heating - PLEASE keep all windows and outside doors closed to ensure they operate at maximum efficiency. We recommend a setting of about 72*F which we find keeps the place at a comfortable temperature.</p>",
+       "html": "<p>There are (2) Ecobee Thermostats on the wall. The first is next to the main level bathroom and the other in the living/game room.&nbsp;</p> <p>If you're running the air conditioning or heating - please keep all windows and outside doors closed to ensure they operate at maximum efficiency. We recommend a setting of about 72*F which we find keeps the place at a comfortable temperature.</p>",
        "photo": "0e0d8f67a1daad47f9505a1e6b070b6d.jpg"
       }
      ]
@@ -604,7 +603,7 @@
      -85.203743
     ],
     "pin": "beaches",
-    "html": "<p><strong>Your stay includes access to the Summit Village Association Beach Club</strong>, a private beach on Lake Bellaire for Summit Village homeowners and their guests. It's one of the best spots to spend a summer day.</p><p><strong>Season and hours:</strong> Summer season, 9:30 AM – 9:00 PM daily.</p><p><strong>Beach Club pass:</strong> Bring the Beach Club pass we provide and sign in each time you visit. Can't find the pass? Call or text us before you head over.</p><p><strong>What's there:</strong></p><ul><li>Sandy beach and a designated swimming area</li><li>Grills for a lakeside cookout</li><li>A playground for the kids</li><li>Restrooms and picnic space</li></ul><p><strong>Beach Club rules:</strong></p><ul><li>Swim at your own risk. There is no lifeguard on duty, so please watch kids closely.</li><li>Swim only in the designated swimming area. No boating in the swimming area.</li><li>Jet skis and other motorized personal watercraft are not allowed in the Beach Club area.</li><li>No smoking, and no pets.</li><li>Cook only on the grills provided, and please clean up your area before you leave.</li><li>Park only in the designated lots. Overflow parking is in the vacant lot behind the main parking area.</li><li>The Association is not responsible for lost or damaged personal property or boats.</li><li>Breaking the Beach Club rules can lead to loss of access for your group.</li></ul><p><strong>Tips:</strong> Bring towels, sunscreen, chairs and a cooler. Arrive early on hot summer weekends for the best spot.</p>"
+    "html": "<p><strong>Your stay includes access to the Summit Village Association Beach Club</strong>, a private beach on Lake Bellaire for Summit Village homeowners and their guests. It's one of the best spots to spend a summer day.</p><p><strong>Season and hours:</strong> Summer season, 9:30 AM – 9:00 PM daily.</p><p><strong>Beach Club pass:</strong> The Beach Club pass hangs on the <strong>coat hooks</strong> next to the pool pass. Bring it with you and sign in each time you visit, then return it to the coat hooks. Can't find the pass? Call or text us before you head over.</p><p><strong>What's there:</strong></p><ul><li>Sandy beach and a designated swimming area</li><li>Grills for a lakeside cookout</li><li>A playground for the kids</li><li>Restrooms and picnic space</li></ul><p><strong>Beach Club rules:</strong></p><ul><li>Swim at your own risk. There is no lifeguard on duty, so please watch kids closely.</li><li>Swim only in the designated swimming area. No boating in the swimming area.</li><li>Jet skis and other motorized personal watercraft are not allowed in the Beach Club area.</li><li>No smoking, and no pets.</li><li>Cook only on the grills provided, and please clean up your area before you leave.</li><li>Park only in the designated lots. Overflow parking is in the vacant lot behind the main parking area.</li><li>The Association is not responsible for lost or damaged personal property or boats.</li><li>Breaking the Beach Club rules can lead to loss of access for your group.</li></ul><p><strong>Tips:</strong> Bring towels, sunscreen, chairs and a cooler. Arrive early on hot summer weekends for the best spot.</p>"
    }
   ],
   "shanty-creek": [
@@ -616,7 +615,7 @@
      -85.203743
     ],
     "pin": "beaches",
-    "html": "<p><strong>Your stay includes access to the Summit Village Association Beach Club</strong>, a private beach on Lake Bellaire for Summit Village homeowners and their guests. It's one of the best spots to spend a summer day.</p><p><strong>Season and hours:</strong> Summer season, 9:30 AM – 9:00 PM daily.</p><p><strong>Beach Club pass:</strong> Bring the Beach Club pass we provide and sign in each time you visit. Can't find the pass? Call or text us before you head over.</p><p><strong>What's there:</strong></p><ul><li>Sandy beach and a designated swimming area</li><li>Grills for a lakeside cookout</li><li>A playground for the kids</li><li>Restrooms and picnic space</li></ul><p><strong>Beach Club rules:</strong></p><ul><li>Swim at your own risk. There is no lifeguard on duty, so please watch kids closely.</li><li>Swim only in the designated swimming area. No boating in the swimming area.</li><li>Jet skis and other motorized personal watercraft are not allowed in the Beach Club area.</li><li>No smoking, and no pets.</li><li>Cook only on the grills provided, and please clean up your area before you leave.</li><li>Park only in the designated lots. Overflow parking is in the vacant lot behind the main parking area.</li><li>The Association is not responsible for lost or damaged personal property or boats.</li><li>Breaking the Beach Club rules can lead to loss of access for your group.</li></ul><p><strong>Tips:</strong> Bring towels, sunscreen, chairs and a cooler. Arrive early on hot summer weekends for the best spot.</p>"
+    "html": "<p><strong>Your stay includes access to the Summit Village Association Beach Club</strong>, a private beach on Lake Bellaire for Summit Village homeowners and their guests. It's one of the best spots to spend a summer day.</p><p><strong>Season and hours:</strong> Summer season, 9:30 AM – 9:00 PM daily.</p><p><strong>Beach Club pass:</strong> The Beach Club pass hangs on the <strong>coat hooks</strong> next to the pool pass. Bring it with you and sign in each time you visit, then return it to the coat hooks. Can't find the pass? Call or text us before you head over.</p><p><strong>What's there:</strong></p><ul><li>Sandy beach and a designated swimming area</li><li>Grills for a lakeside cookout</li><li>A playground for the kids</li><li>Restrooms and picnic space</li></ul><p><strong>Beach Club rules:</strong></p><ul><li>Swim at your own risk. There is no lifeguard on duty, so please watch kids closely.</li><li>Swim only in the designated swimming area. No boating in the swimming area.</li><li>Jet skis and other motorized personal watercraft are not allowed in the Beach Club area.</li><li>No smoking, and no pets.</li><li>Cook only on the grills provided, and please clean up your area before you leave.</li><li>Park only in the designated lots. Overflow parking is in the vacant lot behind the main parking area.</li><li>The Association is not responsible for lost or damaged personal property or boats.</li><li>Breaking the Beach Club rules can lead to loss of access for your group.</li></ul><p><strong>Tips:</strong> Bring towels, sunscreen, chairs and a cooler. Arrive early on hot summer weekends for the best spot.</p>"
    }
   ]
  }
