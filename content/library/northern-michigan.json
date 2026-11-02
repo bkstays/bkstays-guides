@@ -200,7 +200,7 @@
         -85.21019
        ],
        "pin": "restaurants",
-       "photoHidden": "20401bf4d2adfb6bc2cd204ef14d8d8f.jpg"
+       "photo": "chloes-tavern.jpg"
       },
       {
        "title": "Corner Bistro",
@@ -532,7 +532,7 @@
       {
        "title": "Richardi Park (Intermediate River)",
        "html": "<p>Website: <a href=\"https://bellairemichigan.com/richardi/\">https://bellairemichigan.com/richardi/</a> <br/>Phone: Village of Bellaire offices, 231-533-8213<br/>Location: On the Intermediate River just north of downtown; parking off E. Antrim St., Bellaire, MI 49615</p> <p>Description: Features a swimming beach, carry-in access for kayaks and canoes, a large pavilion and gazebo (rentable), new playground equipment, tennis and basketball courts, and picnic space—all within walking distance of downtown Bellaire. In winter, the village builds ice rinks when conditions permit.</p> <p>Why Guests Will Love It: Ideal for a fun family day—swim, paddle, picnic, or enjoy the playground. Great access to town amenities if guests want a snack or cold drink.</p>",
-       "photo": "ee2ae70400fe14a23e835a7a2dcdfd0e.jpg",
+       "photo": "richardi-park-bellaire.jpg",
        "loc": [
         44.9792,
         -85.2096
@@ -589,7 +589,7 @@
       {
        "title": "Nordic Trail Map",
        "html": "<p>Explore the snow-covered beauty of Shanty Creek Resort through its scenic <strong>Nordic ski and snowshoe trails</strong>—about 9.5 km of groomed, track-set trails. Whether you're a beginner or an experienced skier, these trails offer a peaceful and invigorating way to enjoy winter.</p> <p><strong>Trail Overview (2026 trail map)</strong><br/>Pine Cone – 4.5 km (Schuss Mountain Village)<br/>Winter Brook – 1.5 km (Schuss Mountain Village)<br/>Arnie’s Way – 1 km (Summit Village)<br/>Summit Loop – 1 km (Summit Village)<br/>Plus a 3 km groomed multi-purpose trail at Schuss Village for snowshoeing and fat tire biking.</p> <p>Each trail is marked with difficulty symbols and trailhead signage. You’ll pass landmarks like <strong>Riverview</strong>, <strong>Red Lift Corner</strong>, and <strong>#3 Tee</strong>.</p> <p><strong>Nordic Center Hours</strong></p> <ul> <li><strong>Mon, Thu, Fri:</strong> 9am – 4pm</li> <li><strong>Sat–Sun:</strong> 9am – 5pm</li> <li><strong>Closed:</strong> Tue &amp; Wed</li> <li><em>Additional hours on holiday dates</em></li> </ul> <p><strong>Ready to explore the trails?</strong><br/>View the full trail map here: <a href=\"https://www.shantycreek.com/wp-content/uploads/2026/01/NORDIC-TRAILS-Cross-Country-2026-11x17-1-scaled.jpg\">Nordic Trail Map (2026)</a></p> <p>More info: <a href=\"https://www.shantycreek.com/ski/nordic-trails/\">shantycreek.com/ski/nordic-trails</a></p>",
-       "photoHidden": "962a7f82255b70903a5737f2f8746089.jpg"
+       "photo": "shanty-creek-nordic-trails-2026.jpg"
       },
       {
        "title": "Fat Tire Biking",
@@ -1014,7 +1014,7 @@
         -85.2096
        ],
        "pin": "beaches",
-       "photoHidden": "bef12c543bbb9a65ba8202ee1fe80efe.jpg"
+       "photo": "richardi-park-bellaire.jpg"
       }
      ]
     },
@@ -1084,7 +1084,7 @@
         -85.212915
        ],
        "pin": "kayaking",
-       "photoHidden": "ccc129c5fb2fef43a93b42b222a5ad37.jpg"
+       "photo": "riverside-marina-bellaire.jpg"
       },
       {
        "title": "Grass River Natural Area — Kayaking & Nature Escape",
@@ -1273,7 +1273,7 @@
       {
        "title": "Nordic Trail Map",
        "html": "<p>Explore the snow-covered beauty of Shanty Creek Resort on its scenic <strong>Nordic ski and snowshoe trails</strong>. Whether you're a beginner or an experienced skier, these trails offer a peaceful and invigorating way to enjoy winter.</p><p><strong>Trail overview (2026 map)</strong></p><ul><li><strong>Pine Cone</strong> – 4.5 km, Schuss Village</li><li><strong>Winter Brook</strong> – 1.5 km, Schuss Village</li><li><strong>Arnie’s Way</strong> – 1 km, Summit Village</li><li><strong>Summit Loop</strong> – 1 km, Summit Village</li><li><strong>Multi-purpose trail</strong> – 3 km groomed trail at Schuss Village for snowshoeing and fat tire biking</li></ul><p>Trails are marked by difficulty (easiest, moderate, difficult) with trailhead signs. Landmarks along the way include <strong>Red Lift Corner</strong>, <strong>Riverview</strong>, and <strong>#3 Tee</strong>.</p><p><strong>Nordic Center hours (2026–27 season, projected Dec 26 – Mar 13):</strong></p><ul><li><strong>Thu &amp; Mon:</strong> 9am – 4pm</li><li><strong>Fri:</strong> 10am – 4pm</li><li><strong>Sat, Sun &amp; holidays:</strong> 9am – 5pm</li><li><strong>Closed:</strong> Tue &amp; Wed</li></ul><p><strong>View the trail map:</strong> <a href=\"https://www.shantycreek.com/wp-content/uploads/2026/01/NORDIC-TRAILS-Cross-Country-2026-11x17-1-scaled.jpg\">2026 Nordic Trail Map</a></p><p><strong>More info:</strong> <a href=\"https://www.shantycreek.com/ski/nordic-trails/\">https://www.shantycreek.com/ski/nordic-trails/</a></p>",
-       "photoHidden": "962a7f82255b70903a5737f2f8746089.jpg"
+       "photo": "shanty-creek-nordic-trails-2026.jpg"
       },
       {
        "title": "Skiing & Snowboarding",
