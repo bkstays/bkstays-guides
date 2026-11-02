@@ -174,7 +174,7 @@
       },
       {
        "title": "Check-out Process",
-       "html": "<p>Standard check-out is at 10:00 AM on your departure date (Unless you've paid for a late check-out).&nbsp;</p> <p>When you've finished your stay, technically, you can just leave no questions asked lol :) But, if you really wanted to give our cleaning team some love, we would appreciate it if you would take care of a few simple things:</p> <ul> <li>Dishwasher - Load and start the dishwasher</li> <li>Jacuzzi - Close and lock the lid&nbsp;</li> <li>Sauna - Close and lock the door</li> <li>Towels - Place all used towels in the shower</li> <li>Trash - Bag/secure all loose trash and place in 2 GFL bins (Black Bin with Green Lid)&nbsp;</li> <li>Pool Pass - Return the pool pass and towel basket to where you found them.</li><li>Lock Up - Lock all doors</li> </ul> <p>We hope you guys had an amazing stay! Thank you again and safe travels back home.</p>"
+       "html": "<p>Standard check-out is at 10:00 AM on your departure date (Unless you've paid for a late check-out).&nbsp;</p> <p>When you've finished your stay, technically, you can just leave no questions asked lol :) But, if you really wanted to give our cleaning team some love, we would appreciate it if you would take care of a few simple things:</p> <ul> <li>Dishwasher - Load and start the dishwasher</li> <li>Jacuzzi - Close and lock the lid&nbsp;</li> <li>Sauna - Close and lock the door</li> <li>Towels - Place all used towels in the shower</li> <li>Trash - Bag/secure all loose trash and place in 2 GFL bins (Black Bin with Green Lid)&nbsp;</li> <li>Pool Pass - Return the pool pass and towel basket to the coat hooks.</li><li>Lock Up - Lock all doors</li> </ul> <p>We hope you guys had an amazing stay! Thank you again and safe travels back home.</p>"
       },
       {
        "title": "Lost and Found",
@@ -409,7 +409,7 @@
      "items": [
       {
        "title": "Indoor Pool - at The Lakeview Hotel",
-       "html": "<p>Located inside The Lakeview Hotel (Summit Village).<br>Open daily, year-round: 9:00 AM - 11:00 PM</p> <p><strong>Pool pass required.</strong> The pool pass comes with a basket of towels from us. Towels are not provided by the resort, so please bring the towels from the basket to the indoor pool.</p><p>When you're done, return all towels and the pool pass to where you found them. <strong>A lost or unreturned pool pass carries a $1,000 replacement charge.</strong></p>",
+       "html": "<p>Located inside The Lakeview Hotel (Summit Village).<br>Open daily, year-round: 9:00 AM - 11:00 PM</p> <p><strong>Pool pass required.</strong> The pool pass and a basket of towels hang on the <strong>coat hooks</strong>. Towels are not provided by the resort, so please bring the towels from the basket to the indoor pool.</p><p>When you're done, return all towels and the pool pass to the coat hooks. <strong>A lost or unreturned pool pass carries a $1,000 replacement charge.</strong></p>",
        "photo": "2cce4a84eac076d0d4f6425e73d7c174.jpg",
        "loc": [
         44.948575,
@@ -419,7 +419,7 @@
       },
       {
        "title": "Outdoor Pool - at The Lakeview Hotel",
-       "html": "<p>Located outside The Lakeview Hotel (Summit Village).<br>Open daily during the summer season: 10:00 AM - 10:00 PM</p><p>The outdoor pool closes for the off-season. If you are visiting in spring or fall, please check with the Lakeview Hotel front desk to see if it is open.</p> <p><strong>Pool pass required.</strong> The pool pass comes with a basket of towels from us. Towels are not provided by the resort, so please bring the towels from the basket to the outdoor pool.</p><p>When you're done, return all towels and the pool pass to where you found them. <strong>A lost or unreturned pool pass carries a $1,000 replacement charge.</strong></p>",
+       "html": "<p>Located outside The Lakeview Hotel (Summit Village).<br>Open daily during the summer season: 10:00 AM - 10:00 PM</p><p>The outdoor pool closes for the off-season. If you are visiting in spring or fall, please check with the Lakeview Hotel front desk to see if it is open.</p> <p><strong>Pool pass required.</strong> The pool pass and a basket of towels hang on the <strong>coat hooks</strong>. Towels are not provided by the resort, so please bring the towels from the basket to the outdoor pool.</p><p>When you're done, return all towels and the pool pass to the coat hooks. <strong>A lost or unreturned pool pass carries a $1,000 replacement charge.</strong></p>",
        "photo": "6bf533891c3e89434a70168190bf8bf2.jpg",
        "loc": [
         44.948622,
@@ -473,8 +473,8 @@
        "photoHidden": "1db70dd982d56343eea3c3429e1f35da.jpg"
       },
       {
-       "title": "Occupancy - Max 12 Persons (Age 2+)",
-       "html": "<p>We try not to overcrowd our home. The maximum guest limit is 12 (persons age 2+), unless otherwise approved. Please reach out prior to arrival if you have any additional capacity requests. Any unapproved guests over capacity will be charged 100$/night per person.&nbsp;</p>"
+       "title": "Occupancy - Max 12 Person(s)",
+       "html": "<p>This home has a maximum occupancy of <strong>12 person(s)</strong>, and no more than 12 people may be on the property at any time. Occupancy is set by square footage, bedroom count and septic capacity under Michigan Department of Health regulations.</p><p>Please contact us before arrival if you'd like to request additional guests. Unapproved guests or exceeding the occupancy limit <strong>will result in the loss of your security deposit</strong> and may lead to immediate eviction without refund.</p>"
       },
       {
        "title": "Pet Policy - Max 2 Dogs (with approval)",
@@ -494,7 +494,7 @@
       },
       {
        "title": "Smoking",
-       "html": "<p>We have a strict No Smoking Policy. Smoking is not allowed on the property in any form. This includes, but is not limited to marijuana, pipes, cigars, cigarettes, vaping, e-cigs, etc. If our cleaners or cameras report evidence of smoking you will be charged a 500$ smoke remediation fine. </p>"
+       "html": "<p>Smoking of any kind (cigarettes, cigars, pipes, vaping, e-cigarettes, marijuana or other drugs) is not allowed anywhere on the property, indoors or outdoors, unless you have our written permission in advance.</p><p>Evidence of smoking, including smoke odor, ash, butts, paraphernalia or related trash left inside or outside the home, <strong>will result in the loss of your security deposit</strong>, plus the cost of odor removal and cleaning, and may result in eviction without refund.</p>"
       },
       {
        "title": "Trash",
