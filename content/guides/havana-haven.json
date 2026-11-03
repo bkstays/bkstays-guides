@@ -49,7 +49,8 @@
     "pool",
     "trash",
     "tv-streaming",
-    "thermostat"
+    "thermostat",
+    "beach-gear"
    ]
   },
   {
@@ -468,6 +469,24 @@
        "title": "Heating / Cooling",
        "html": "<p>Please Do Not Lower The Thermostat Below 72*. Florida gets hot in the summer. But lowering the temp too much will damage the HVAC units and freeze the components. We learned that lesson the hard way :(</p> <p>When you arrive, the thermostat should be set somewhere between 72-74*F - but you can adjust somewhat if you need. If you're running the air conditioning or heating - please keep all windows and outside doors closed to ensure it operates at maximum efficiency.&nbsp;</p>",
        "photo": "c34864ef1cb2e390faa1de0a2397ad3b.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  "beach-gear": {
+   "id": "beach-gear",
+   "title": "Beach Gear + Family Items",
+   "icon": "umbrella",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Beach Gear + Family Items",
+       "photo": "havana-beach-family-gear.jpg",
+       "photoFit": "full",
+       "html": "<p>Heading to the beach? Fort Lauderdale Beach and Lauderdale-By-The-Sea are just a short drive away, and we've got you covered. Everything is in the <strong>storage closet next to the game room</strong>, so help yourself!</p><p><strong>Beach gear:</strong></p><ul><li>4 beach chairs</li><li>A large beach tent for shade</li><li>A big beach blanket</li><li>Beach coolers</li><li>Beach towels</li></ul><p><strong>Traveling with little ones?</strong> We also have:</p><ul><li>A Pack 'n Play</li><li>A high chair</li><li>Kid-friendly utensils, plates, cups and bowls</li></ul><p>Please shake off the sand, let everything dry, and put the gear back in the closet before check-out. If anything is broken or missing, just let us know so we can replace it.</p>"
       }
      ]
     }
