@@ -9,7 +9,8 @@ Sources:
 All links are relative, so the site works at a sub-path (preview) and at the domain root.
 Usage: python3 tools/build_web.py
 """
-import json, os, re, shutil, html as H, sys
+import json
+import web_polish, os, re, shutil, html as H, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = os.path.join(os.path.dirname(ROOT), 'site-src')
@@ -253,10 +254,11 @@ def build_property(h):
     gal = ''.join(f'<button type="button" data-i="{n}"><img src="{p}img/{h["slug"]}/{i:02d}{"" if n == 0 else "-sm"}.jpg" alt="{esc(c[:120]) or esc(h["name"])}" {"" if n == 0 else "loading=lazy"}></button>' for n, (i, c) in enumerate(first5))
     data = json.dumps([[f'{p}img/{h["slug"]}/{i:02d}.jpg', c] for i, c in imgs])
     secs = ''
-    for head, paras, items in h['overview']:
+    for head, paras, items, tail in web_polish.polish(h['slug'], h['overview']):
         secs += (f'<h3>{esc(head)}</h3>' if head else '') + ''.join(f'<p>{esc(x)}</p>' for x in paras)
         if items:
             secs += ('<ul class="two">' if 'highlight' in head.lower() else '<ul>') + ''.join(f'<li>{esc(x)}</li>' for x in items) + '</ul>'
+        secs += ''.join(f'<p class="after">{esc(x)}</p>' for x in tail)
     summary = ''.join(f'<p>{esc(clean(x))}</p>' for x in re.split(r'\n\s*\n', h['summary']) if x.strip() and not re.match(r'^-?\s*Hosted By|^Find the Best Rates|^Hosted by', x.strip(), re.I))
     if h.get('noWidget'):
         book = f'<div class="fallback"><p>Online booking for this home is coming soon. Message us and we\'ll check your dates.</p><a class="btn" href="{p}contact/">Check availability</a></div>'
