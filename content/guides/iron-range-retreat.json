@@ -316,7 +316,7 @@
      "items": [
       {
        "title": "Hot Tub / Jacuzzi",
-       "html": "<p>Please Watch the Jacuzzi Video Below for Directions</p> <p>Shower Before Entering</p> <p>No Lotions, Soaps, Oils, Bubble Products (they cause damage)</p> <p>If a Foreign Substance is Found, a Damage Fee Will Be Assessed</p> <p>Do Not Add Any Outside Chemicals to the Spa</p> <p>No Glass In/Around the Jacuzzi (Plastic Only)</p> <p>Children Under 16 Require Adult Supervision At All Times</p> <p>Pregnant Individuals Should Consult a Physician Before Use</p> <p>Always Cover the Jacuzzi When Not in Use</p> <p>Unclip All Four Safety Clips Before Opening the Lid</p> <p>Connect All Four Safety Clips When Covering</p> <p>Turn Off All Jets When Not in Use</p> <p>Do Not Press the &ldquo;Menu&rdquo; Button</p> <p>Use Only Temp Up, Down, Jets 1/2, and Light</p> ",
+       "html": "<p>Please watch the video below before your first soak.</p><p><strong>Before you get in</strong></p><ul><li>Shower first.</li><li>No lotions, oils, soaps or bubble products. They damage the hot tub.</li><li>Plastic cups only. No glass in or around the hot tub.</li><li>Unclip all four safety clips before opening the lid.</li></ul><p><strong>While you're in</strong></p><ul><li>Keep the temperature at 102°F or below.</li><li>Only use Temp Up, Temp Down, Jets 1/2 and Light. Please don't press the \"Menu\" button.</li><li>Children under 16 must have an adult with them at all times.</li><li>If you're pregnant, check with your doctor before using the hot tub.</li></ul><p><strong>When you're done</strong></p><ul><li>Turn off all the jets.</li><li>Put the cover back on and connect all four safety clips.</li></ul><p>Never add chemicals to the water. If we find soap or anything else in the hot tub after your stay, a damage fee will apply.</p>",
        "video": "https://www.loom.com/embed/869ce97a675a4131b1d26d88691f3c89",
        "photo": "864611f47f3e9d662b42f905bc72800a.jpg"
       }
@@ -439,7 +439,7 @@
       },
       {
        "title": "Jacuzzi",
-       "html": "<p>Never Add Any Foreign Substance To The Jacuzzi (No Bubbles or Soaps)!</p> <p>Always Put The Cover Back On When Not In Use!</p> <p>Do Not Raise The Temp Above 102°F</p> <p>The jacuzzi is thoroughly inspected after each guest. Failure to adhere will cause additional maintenance and cleaning measures, or worse, damage to the unit. Fines will be imposed if evidence of foreign substance or damage is found during inspection.&nbsp;<br><br><strong>Please refer to the &ldquo;Hot Tub/Jacuzzi&rdquo; section in the guide for full details and usage instructions.<br><iframe src=\"https://www.loom.com/embed/869ce97a675a4131b1d26d88691f3c89?sid=27a0c5a0-7ead-4947-8d57-641364f2c877\"></iframe></strong></p>",
+       "html": "<p>Please follow the hot tub rules in the <a href=\"#/info/hot-tub\">Hot Tub / Jacuzzi</a> section. Never add soaps, bubbles or other substances, keep the temperature at 102°F or below, and always put the cover back on.</p><p>The hot tub is inspected after every stay, and fines apply if we find damage or foreign substances.</p><p><iframe src=\"https://www.loom.com/embed/869ce97a675a4131b1d26d88691f3c89?sid=27a0c5a0-7ead-4947-8d57-641364f2c877\"></iframe></p>",
        "photoHidden": "864611f47f3e9d662b42f905bc72800a.jpg"
       },
       {
