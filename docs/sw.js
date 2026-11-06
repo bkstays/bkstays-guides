@@ -1,5 +1,5 @@
-const V = '20261106133501';
-const SHELL = ['./assets/app.css?v=20261106133501', './assets/app.js?v=20261106133501', './assets/icons.js?v=20261106133501', './assets/vendor/leaflet.css?v=20261106133501', './assets/vendor/leaflet.js?v=20261106133501', './assets/logo-dark.png', './assets/logo-light.png'];
+const V = '20261106141759';
+const SHELL = ['./assets/app.css?v=20261106141759', './assets/app.js?v=20261106141759', './assets/icons.js?v=20261106141759', './assets/vendor/leaflet.css?v=20261106141759', './assets/vendor/leaflet.js?v=20261106141759', './assets/logo-dark.png', './assets/logo-light.png'];
 self.addEventListener('install', (e) => { e.waitUntil(caches.open('shell-' + V).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting())); });
 self.addEventListener('activate', (e) => {
   e.waitUntil(caches.keys().then((ks) => Promise.all(ks.filter((k) => k.startsWith('shell-') && k !== 'shell-' + V).map((k) => caches.delete(k)))).then(() => self.clients.claim()));

@@ -506,7 +506,7 @@
   "grocery": [
    {
     "title": "Mountainside Market",
-    "html": "<p><strong>Phone</strong>: +1 - 706 - 946 - 5505</p><p><a href=\"https://mountainsidemarket.net/\">https://mountainsidemarket.net/</a></p><p>Just Down the Street! </p><p>Truly a unique - back country Blue Ridge Experience ;)</p>",
+    "html": "<p>Just down the street! A friendly country store and deli with groceries and deli items, plus smash burgers from the grill on weekends. Truly a unique back-country Blue Ridge experience.</p><p><strong>Address:</strong> 5995 Highway 2, Epworth, GA 30541<br><strong>Phone:</strong> 706-946-5505</p><p>Closed some weekdays, and hours change by season, so check <a href=\"https://mountainsidemarket.net/\">their website</a> before you go.</p>",
     "photo": "8327cdf511e6a77de93216f8106d1f3f.jpg",
     "loc": [
      34.8968496,
