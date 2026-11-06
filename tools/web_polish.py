@@ -35,7 +35,7 @@ SUBS = [
     (r'\bhgih\b', 'high'),
     (r'\bwildlifes\b', 'wildlife'),
     (r'\+and\b', 'and'),
-    (r',(?=\S)', ', '),
+    (r',(?=[A-Za-z])', ', '),
     (r'\s{2,}', ' '),
 ]
 
