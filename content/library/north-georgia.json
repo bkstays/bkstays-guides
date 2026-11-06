@@ -31,11 +31,6 @@
        "pin": "outdoors"
       },
       {
-       "title": "Country Corner Kitchen",
-       "html": "<p>Phone: (706) 276-7077<br>Address: 2020 Old Hwy 5 S, Ellijay, GA 30540</p><p>Known for its Southern hospitality, Country Corner Kitchen is an early-opening country diner serving home-cooked breakfasts. Guests love the biscuits, hearty omelets and made-to-order plates. Call ahead for current hours.</p>",
-       "photo": "544f70500904470b28c374fda53f3f3d.jpg"
-      },
-      {
        "title": "Das Kaffee Haus",
        "html": "<p>Our #1 Choice - Katharina is German after all!</p><p>Facebook: <a href=\"https://www.facebook.com/kaffeehausblueridge/\">Das Kaffee Haus on Facebook</a><br>Phone: (706) 946-1111<br>Address: 612 East Main St., Blue Ridge, GA 30513</p><p>Das Kaffee Haus is a traditional European-style coffee shop run by a Bavarian owner, serving espresso, cappuccino, lattes and frappes alongside German, Italian and French treats. Soy, coconut and almond milk are available, and gluten-free options can be had if you call ahead. The outdoor seating overlooks the Blue Ridge Scenic Railway and downtown, and dogs are welcome outside. Check their Facebook page for current hours.</p>",
        "photo": "4502cbaca3d626e51487905f965728f9.jpg",
@@ -207,7 +202,7 @@
      "items": [
       {
        "title": "Boat Dock Bar & Grill",
-       "html": "<p>Website: <a href=\"https://lakeblueridgemarina.com/boat-dock-bar-grill/\">Boat Dock Bar &amp; Grill at Lake Blue Ridge Marina</a><br>Phone: (706) 632-2618<br>Address: 335 Marina Dr., Blue Ridge, GA 30513</p><p>Boat Dock Bar &amp; Grill sits right on the shores of Lake Blue Ridge at the Lake Blue Ridge Marina, with one of the best views in Blue Ridge. The kitchen is small but mighty and the full bar serves specialty cocktails. Takeout is available, and it is first come, first served, so arrive early.</p><p><strong>Seasonal:</strong> the restaurant closes for the off-season; the marina's site says it is closed until April 2027. Check their website before you go.</p>",
+       "html": "<p>Website: <a href=\"https://lakeblueridgemarina.com/boat-dock-bar-grill/\">Boat Dock Bar &amp; Grill at Lake Blue Ridge Marina</a><br>Phone: (706) 632-2618<br>Address: 335 Marina Dr., Blue Ridge, GA 30513</p><p>Boat Dock Bar &amp; Grill sits right on the shores of Lake Blue Ridge at the Lake Blue Ridge Marina, with one of the best views in Blue Ridge. The kitchen is small but mighty and the full bar serves specialty cocktails. Takeout is available, and it is first come, first served, so arrive early.</p><p><strong>Seasonal:</strong> Open seasonally, so check their website for current hours.</p>",
        "photo": "0ffab574a0ffb7ca06adf2f96a90e03c.jpg",
        "loc": [
         34.870521,
@@ -274,16 +269,6 @@
         -84.48224
        ],
        "pin": "outdoors"
-      },
-      {
-       "title": "Sue's Burgers",
-       "html": "<p>Facebook: <a href=\"https://www.facebook.com/Sues-Burgers-Best-Burgers-in-Town-157525214284690/\">Sue's Burgers on Facebook</a><br>Phone: (706) 632-2960<br>Address: 3855 E 1st St, Blue Ridge, GA 30513</p><p>A local favorite and family-owned burger stand that bills itself as having \"the best burgers in town.\" Expect classic burgers, crinkle fries or tots, and thick milkshakes. Hours can be seasonal, so call or check their Facebook page before you go.</p>",
-       "photo": "053871452186eb29e0c91f734f3838de.jpg",
-       "loc": [
-        34.872085,
-        -84.316681
-       ],
-       "pin": "restaurants"
       },
       {
        "title": "Back Porch Bistro",
@@ -558,7 +543,7 @@
       },
       {
        "title": "Bear Creek Trail (Mountain Biking & Hiking)",
-       "html": "<p><strong>Temporarily closed:</strong> As of November 5, 2026 the Forest Service has closed Forest Service Road 241 (Bear Creek Road), the access road to the trailhead, due to a washout and downed trees. Check the <a href=\"https://www.fs.usda.gov/r08/chattahoochee-oconee/alerts\">Chattahoochee-Oconee alerts page</a> before you go.</p><p>Trailhead: end of Forest Service Road 241 off Gates Chapel Rd, west of Ellijay<br>Phone: (706) 695-6736 (Conasauga Ranger District, Chattahoochee-Oconee National Forest)<br>Info: <a href=\"https://www.fs.usda.gov/r08/chattahoochee-oconee/recreation/trails/bear-creek-trail\">USFS Bear Creek Trail page</a></p><p>A favorite with mountain bikers and hikers. The Outer Loop is about 6.7 miles and the Lower Loop about 3 miles, with stream crossings, narrow tread and some steep sections (moderate). Both pass the Gennett Poplar, a giant old-growth tulip poplar right beside the trail. Free; no water at the trailhead.</p>",
+       "html": "<p>Trailhead: end of Forest Service Road 241 off Gates Chapel Rd, west of Ellijay<br>Phone: (706) 695-6736 (Conasauga Ranger District, Chattahoochee-Oconee National Forest)<br>Info: <a href=\"https://www.fs.usda.gov/r08/chattahoochee-oconee/recreation/trails/bear-creek-trail\">USFS Bear Creek Trail page</a></p><p>A favorite with mountain bikers and hikers. The Outer Loop is about 6.7 miles and the Lower Loop about 3 miles, with stream crossings, narrow tread and some steep sections (moderate). Both pass the Gennett Poplar, a giant old-growth tulip poplar right beside the trail. Free; no water at the trailhead.</p>",
        "loc": [
         34.819973,
         -84.565002
@@ -608,7 +593,7 @@
       },
       {
        "title": "Jacks River Trail",
-       "html": "<p><strong>(Most Difficult)</strong></p><p>The Jacks River Trail runs about 16.5 miles through the rugged, remote Cohutta Wilderness, following its namesake river through a lush, waterfall-filled valley with dozens of river crossings (some can be waist-deep; avoid after heavy rain). The highlight is Jacks River Falls, where the river tumbles over a huge rock outcrop into deep pools. The eastern end starts at Dally Gap (Forest Service Road 22); the shortest route to the falls is the Beech Bottom Trail from the Tennessee side.</p><p>Good to know: the Beech Bottom / Jacks River Falls area is day-use only from April 1 to October 31, and campfires and alcohol are banned there year-round. Some Cohutta trailhead lots are gated from January 1 to early March.</p><p>Info: <a href=\"https://www.fs.usda.gov/r08/chattahoochee-oconee/recreation/cohutta-wilderness-trailheads\">Cohutta Wilderness trailheads (USFS)</a> | Read more on <a href=\"https://www.atlantatrails.com/hiking-trails/hiking-jacks-river-falls-trail-splashing-through-the-cohutta-wilderness/\">Atlanta Trails</a></p>",
+       "html": "<p><strong>(Most Difficult)</strong></p><p>The Jacks River Trail runs about 16.5 miles through the rugged, remote Cohutta Wilderness, following its namesake river through a lush, waterfall-filled valley with dozens of river crossings (some can be waist-deep; avoid after heavy rain). The highlight is Jacks River Falls, where the river tumbles over a huge rock outcrop into deep pools. The eastern end starts at Dally Gap (Forest Service Road 22); the shortest route to the falls is the Beech Bottom Trail from the Tennessee side.</p><p>Good to know: the Beech Bottom / Jacks River Falls area is day-use only from April 1 to October 31, and campfires and alcohol are banned there year-round.</p><p>Info: <a href=\"https://www.fs.usda.gov/r08/chattahoochee-oconee/recreation/cohutta-wilderness-trailheads\">Cohutta Wilderness trailheads (USFS)</a> | Read more on <a href=\"https://www.atlantatrails.com/hiking-trails/hiking-jacks-river-falls-trail-splashing-through-the-cohutta-wilderness/\">Atlanta Trails</a></p>",
        "loc": [
         34.988387,
         -84.633324
@@ -655,7 +640,7 @@
      "items": [
       {
        "title": "Amicalola Falls",
-       "html": "<p>One of Georgia's most popular hikes, and for good reason: it's full of scenic beauty and a great workout too. Follow a loop to the top of Georgia's tallest waterfall (729 feet) at Amicalola Falls State Park near Dawsonville, and catch views of the distant, rolling Blue Ridge Mountains. From the crest of the falls, the route descends a long series of stairs and platforms with an up-close view of the falls and their tumbling mist. An accessible pathway also leads to a falls viewpoint.</p><p>A daily ParkPass ($10 per vehicle) is required. Some trails may close temporarily for improvement work, so check <a href=\"https://gastateparks.org/AmicalolaFalls\">the park's website</a> before you go.</p>",
+       "html": "<p>One of Georgia's most popular hikes, and for good reason: it's full of scenic beauty and a great workout too. Follow a loop to the top of Georgia's tallest waterfall (729 feet) at Amicalola Falls State Park near Dawsonville, and catch views of the distant, rolling Blue Ridge Mountains. From the crest of the falls, the route descends a long series of stairs and platforms with an up-close view of the falls and their tumbling mist. An accessible pathway also leads to a falls viewpoint.</p><p>A daily ParkPass ($10 per vehicle) is required.</p>",
        "loc": [
         34.567131,
         -84.244541
@@ -665,7 +650,7 @@
       },
       {
        "title": "Emery Creek Falls",
-       "html": "<p>Near Chatsworth in the Chattahoochee National Forest, the Emery Creek Trail follows lushly forested creek banks to a pair of beautiful, remote waterfalls. It's about 6 miles round trip with roughly 20 creek crossings (wet feet guaranteed), which makes it especially fun in summer. The trailhead is at the end of Holly Creek Road (Forest Service Road 18).</p><p><strong>Heads up:</strong> the Forest Service is expanding the trailhead parking area, with intermittent closures through the end of December 2026. Check the <a href=\"https://www.fs.usda.gov/r08/chattahoochee-oconee/alerts\">Chattahoochee-Oconee alerts page</a> before you go.</p>",
+       "html": "<p>Near Chatsworth in the Chattahoochee National Forest, the Emery Creek Trail follows lushly forested creek banks to a pair of beautiful, remote waterfalls. It's about 6 miles round trip with roughly 20 creek crossings (wet feet guaranteed), which makes it especially fun in summer. The trailhead is at the end of Holly Creek Road (Forest Service Road 18).</p>",
        "loc": [
         34.81214,
         -84.651977
@@ -727,7 +712,7 @@
      "items": [
       {
        "title": "Amicalola Falls State Park",
-       "html": "<p>Website: <a href=\"https://gastateparks.org/AmicalolaFalls\">Georgia State Parks</a> | <a href=\"https://amicalolafallslodge.com/\">Lodge at Amicalola Falls</a><br>Phone: (706) 344-1500<br>Location: 418 Amicalola Falls State Park Rd, Dawsonville, GA 30534</p><p>Home to Georgia's tallest waterfall (729 feet), this park has several scenic trails, from an accessible path to a falls viewpoint to a long staircase up the falls. The Len Foote Hike Inn, a backcountry lodge, is about a 5-mile hike away, and the Appalachian Trail Approach Trail starts here (about 8.5 miles to Springer Mountain). Waterfalls and mountain views make it a show-stopper.</p><p>Good to know:</p><ul><li>Parking: a $10 daily Georgia State Parks ParkPass per vehicle (annual pass accepted). The Hike Inn has separate fees and reservations.</li><li>Trails: short accessible and staircase routes to the falls; some trails may close temporarily for improvement work, so check the park website.</li><li>Pets: leashed pets are welcome on park trails.</li></ul>",
+       "html": "<p>Website: <a href=\"https://gastateparks.org/AmicalolaFalls\">Georgia State Parks</a> | <a href=\"https://amicalolafallslodge.com/\">Lodge at Amicalola Falls</a><br>Phone: (706) 344-1500<br>Location: 418 Amicalola Falls State Park Rd, Dawsonville, GA 30534</p><p>Home to Georgia's tallest waterfall (729 feet), this park has several scenic trails, from an accessible path to a falls viewpoint to a long staircase up the falls. The Len Foote Hike Inn, a backcountry lodge, is about a 5-mile hike away, and the Appalachian Trail Approach Trail starts here (about 8.5 miles to Springer Mountain). Waterfalls and mountain views make it a show-stopper.</p><p>Good to know:</p><ul><li>Parking: a $10 daily Georgia State Parks ParkPass per vehicle (annual pass accepted). The Hike Inn has separate fees and reservations.</li><li>Trails: short accessible and staircase routes to the falls</li><li>Pets: leashed pets are welcome on park trails.</li></ul>",
        "photo": "c5f4e16d3f9fcc8c0964ee5915f97248.jpg",
        "loc": [
         34.576034,
@@ -834,7 +819,7 @@
      "items": [
       {
        "title": "Lake Blue Ridge Marina",
-       "html": "<p>335 Marina Dr, Blue Ridge, GA 30513 | (706) 632-2618</p><p>Full-service marina on Lake Blue Ridge with boat sales, fuel and lake-day supplies. Rentals include pontoon boats, kayaks, canoes and paddleboards (summer is peak season, so reserve early). Fishing guide service is also offered. The on-site Boat Dock Bar &amp; Grill is closed until April 2027.</p><p>Off-season office hours are limited (currently Tuesday-Friday), so call ahead or check <a href=\"https://lakeblueridgemarina.com/\">lakeblueridgemarina.com</a>.</p>",
+       "html": "<p>335 Marina Dr, Blue Ridge, GA 30513 | (706) 632-2618</p><p>Full-service marina on Lake Blue Ridge with boat sales, fuel and lake-day supplies. Rentals include pontoon boats, kayaks, canoes and paddleboards (summer is peak season, so reserve early). Fishing guide service is also offered. The on-site Boat Dock Bar &amp; Grill is open seasonally.</p><p>Off-season office hours are limited, so call ahead or check <a href=\"https://lakeblueridgemarina.com/\">lakeblueridgemarina.com</a>.</p>",
        "photo": "527d940eb0a6c2ff226591cedcb35b5a.jpg",
        "loc": [
         34.870569,
@@ -1156,16 +1141,6 @@
        "loc": [
         34.695303,
         -84.482537
-       ],
-       "pin": "retail_therapy"
-      },
-      {
-       "title": "Belle’s Boutique",
-       "html": "<p>A women's clothing boutique with jeans, tops, shoes, handbags and accessories. Stylish shopping in town.</p><p><strong>Phone:</strong> 706-276-6699</p><p><a href=\"https://www.facebook.com/profile.php?id=100036165743591\">Belle's Boutique on Facebook</a></p>",
-       "photo": "04ad69135cd89906e0ff8aaab636b239.jpg",
-       "loc": [
-        34.68726,
-        -84.484661
        ],
        "pin": "retail_therapy"
       }
