@@ -4,7 +4,7 @@
  "shortName": "Mountain Clarity",
  "welcome": "Welcome!",
  "hostedBy": "Hosted By Brandon & Katharina",
- "address": "420 Dear Crest Heights Drive, Blue Ridge, GA 30513",
+ "address": "420 Deer Crest Heights Drive, Blue Ridge, GA 30513",
  "location": [
   34.836627,
   -84.319125
@@ -253,13 +253,8 @@
      "items": [
       {
        "title": "Propane Grill",
-       "html": "<p><strong>To light the grill:</strong></p><p>*Open the valve on the gas line by turning it parallel with the line</p><p>* Set the timer above to the desired amount (for safety so we don't forget to turn it off)</p><p>* Turn the specific knob(s) to the ignition symbol</p><p>* Press the starter button</p><p>Don't forget to turn off all the burners, turn off the timer, and close the valve (perpendicular). </p><p>Please try and clean up a bit after yourself on there for the next guests ;)</p>",
+       "html": "<p><strong>To light the grill:</strong></p><p>*Open the valve on the gas line by turning it parallel with the line</p><p>* Set the timer above to the desired amount (for safety so we don't forget to turn it off)</p><p>* Turn the specific knob(s) to the ignition symbol</p><p>* Press the starter button</p><p>Don't forget to turn off all the burners, turn off the timer, and close the valve (perpendicular). </p><p>Please try and clean up a bit after yourself on there for the next guests ;)</p><p><strong>Propane tanks:</strong> We try to keep a full propane tank (and an extra) at the home. Most of the time we swap them out before check-in, but that's not always possible. If you run low, we can try to have a new tank delivered, though it may not be immediate. If you need one quickly, feel free to exchange the empty tank at a local store and we'll happily reimburse you for the tank and your trouble. Just let us know!</p>",
        "photo": "9851631bdb494b7e2dfba4dd16189419.jpg"
-      },
-      {
-       "title": "Propane Tank(s)",
-       "html": "<p>We try to keep a full propane tank (and an extra one) at the home. Most of the time we can get them swapped out before check in. Unfortunately, that's not always possible. We apologize if you did not find a full propane tank upon arrival!</p><p>We can try and coordinate another person to deliver you a new tank, but their availability might not be immediate. If you need something quick, we recommend running to the store and exchanging the empty one(s) or a new one - and yes of course we would be happy to reimburse you for the tank and your trouble! Just let us know. Thank You.</p>",
-       "photo": "05f49508259ad5443ec6e6d70501e8b4.jpg"
       }
      ]
     }
@@ -275,7 +270,7 @@
      "items": [
       {
        "title": "Fireplace(s)",
-       "html": "<p>Seasonal (Labor Day - Memorial Day)</p><p>All 3 (Indoor and Outdoor) Fireplaces are gas operated and have a black remote. Simply press the ON button and the off Button. Please Do Not Lose The Remote. Place Remotes Back On Fireplace Mantels After Each Use. </p><p>If you are having any issues, check out these: Troubleshooting videos below!</p><p><a href=\"https://www.loom.com/share/0fc35edcf43f4e97a11afa2de835c63e\">Main Level Fireplace</a></p><p><a href=\"https://www.loom.com/share/5dee141e06aa4fddb98074f2aed34658\">Downstairs Fireplace</a></p><p><a href=\"https://www.loom.com/share/ec9d2545382843a2a9b086bae99dda88\">Outdoor Fireplace</a></p>",
+       "html": "<p><strong>Available seasonally, Labor Day to Memorial Day.</strong></p><p>All 3 fireplaces (main level, downstairs and outdoor) are gas fireplaces with a black remote. Press <strong>On</strong> to start the fire and <strong>Off</strong> to turn it off.</p><p>Please don't lose the remotes, and put them back on the fireplace mantels after each use.</p><p>Having trouble? Watch the troubleshooting video for your fireplace:</p><ul><li><a href=\"https://www.loom.com/share/0fc35edcf43f4e97a11afa2de835c63e\">Main Level Fireplace</a></li><li><a href=\"https://www.loom.com/share/5dee141e06aa4fddb98074f2aed34658\">Downstairs Fireplace</a></li><li><a href=\"https://www.loom.com/share/ec9d2545382843a2a9b086bae99dda88\">Outdoor Fireplace</a></li></ul>",
        "photo": "5cb545ea3e37b675284f4ae9eea02ce6.jpg"
       }
      ]
