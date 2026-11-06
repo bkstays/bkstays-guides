@@ -240,3 +240,13 @@ footer .fine { border-top: 1px solid #2a2a2a; margin-top: 36px; padding-top: 18p
   body.has-mb { padding-bottom: 76px; }
 }
 .amen p.after { margin-top: 14px; }
+
+/* About page */
+.about-hero { padding: 56px 0 64px; }
+.about-hero .wrap { display: grid; grid-template-columns: 1fr 1.25fr; gap: 48px; align-items: center; }
+.about-hero h1 { font-size: clamp(2rem, 4vw, 3.1rem); line-height: 1.08; margin: .3em 0 .4em; }
+.about-hero .lead { font-size: 1.15rem; color: var(--muted, #555); }
+.ah-photo img { width: 100%; aspect-ratio: 3 / 2; object-fit: cover; object-position: center 35%; border-radius: 22px; display: block; box-shadow: 0 18px 40px rgba(0,0,0,.12); }
+mark.todo { background: #fff2a8; padding: 0 .2em; border-radius: 4px; }
+.photo-todo { aspect-ratio: 4 / 3; border: 2px dashed #ff66c4; border-radius: 18px; display: grid; place-items: center; background: #fff5fb; color: #c2187a; font-weight: 600; text-align: center; padding: 20px; }
+@media (max-width: 860px) { .about-hero .wrap { grid-template-columns: 1fr; gap: 26px; } .about-hero { padding: 30px 0 40px; } }
