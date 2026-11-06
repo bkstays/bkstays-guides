@@ -7,7 +7,8 @@
   const $$ = (s, el = document) => Array.from(el.querySelectorAll(s));
   const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const icon = (n, cls = '') => `<svg class="i ${cls}" viewBox="0 0 24 24" aria-hidden="true">${ICONS[n] || ICONS['circle'] || ''}</svg>`;
-  const IMG = (f) => `../img/${f}`;
+  const BASE = (document.querySelector('meta[name="bk-base"]') || {}).content || '../';
+  const IMG = (f) => `${BASE}img/${f}`;
   const store = {
     get(k) { try { return JSON.parse(localStorage.getItem(k)); } catch (e) { return null; } },
     set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) { /* storage blocked */ } },
@@ -101,7 +102,7 @@
     views.home.innerHTML = `
       <div class="cover" data-cover></div>
       <div class="home-inner">
-        <div class="logo-card"><img src="../assets/logo-dark.png" alt="BK Stays"></div>
+        <div class="logo-card"><img src="${BASE}assets/logo-dark.png" alt="BK Stays"></div>
         <p class="welcome">${esc(G.welcome || 'Welcome!')}</p>
         <h1>${esc(G.name)}</h1>
         <p class="host">${esc(G.hostedBy || '')}</p>
@@ -119,7 +120,7 @@
   // ---------------- header ----------------
   function head(title, back) {
     return `<div class="head">
-      ${back ? `<a class="iconbtn" href="${back}" aria-label="Back">${icon('arrow-left')}</a>` : `<img class="logo" src="../assets/logo-light.png" alt="BK Stays">`}
+      ${back ? `<a class="iconbtn" href="${back}" aria-label="Back">${icon('arrow-left')}</a>` : `<img class="logo" src="${BASE}assets/logo-light.png" alt="BK Stays">`}
       ${title ? `<div class="title">${esc(title)}</div>` : '<div class="spacer"></div>'}
       <button class="iconbtn" data-share aria-label="Share this guide">${icon('share-2')}</button>
       <button class="iconbtn" data-print aria-label="Print or save as PDF">${icon('printer')}</button>
@@ -352,7 +353,7 @@
     el.className = 'gate';
     el.innerHTML = `<div class="cover" data-cover></div>
       <form class="gate-card" novalidate>
-        <div class="logo-card"><img src="../assets/logo-dark.png" alt="BK Stays"></div>
+        <div class="logo-card"><img src="${BASE}assets/logo-dark.png" alt="BK Stays"></div>
         <h2>Welcome to ${esc(G.name)}</h2>
         <p class="sub">Enter your details to open your digital guidebook.</p>
         <div class="two">
@@ -394,5 +395,5 @@
   window.addEventListener('resize', setCovers);
   route();
   gate();
-  if ('serviceWorker' in navigator) window.addEventListener('load', () => navigator.serviceWorker.register('../sw.js').catch(() => {}));
+  if ('serviceWorker' in navigator) window.addEventListener('load', () => navigator.serviceWorker.register(BASE + 'sw.js').catch(() => {}));
 })();

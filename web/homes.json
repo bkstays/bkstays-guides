@@ -1,16 +1,128 @@
 [
- {"slug":"bellaire-extraordinaire","name":"Bellaire Extraordinaire","uuid":"93792608-3357-45eb-91bf-d53008ed113b","hid":"1597234","state":"michigan","old":"/bellaire-extraordinaire"},
- {"slug":"best-of-blue-ridge","name":"Best of Blue Ridge","uuid":"37316ac2-6c4a-4832-8629-aaf9f9a861d0","hid":"1103400","state":"georgia","old":"/best-of-blue-ridge"},
- {"slug":"birdie-blue","name":"Birdie Blue Cabin","uuid":"8cb4aa74-1671-4ab0-b53a-86186662748d","hid":"1799056","state":"georgia","old":"/birdieblue"},
- {"slug":"cherry-log-summit","name":"Cherry Log Summit","uuid":"88c6a810-7980-46e1-a594-646387cdfa9a","hid":"755370","state":"georgia","old":"/cherry-log-summit"},
- {"slug":"das-himmel-haus","name":"Das Himmel Haus","uuid":"e8b135d1-01c1-48cb-a0ae-0da6fb1d7ac2","hid":"2040984","state":"michigan","old":"/das-himmel-haus"},
- {"slug":"grace-and-ember","name":"Grace & Ember","uuid":"dd293517-efc2-4529-8365-bf26bf88e4b5","hid":"2347678","state":"georgia","old":"/grace-and-ember"},
- {"slug":"havana-haven","name":"Havana Haven","uuid":"0e2fbdf3-52a0-4a52-bb3e-1f731afef7d9","hid":"942524","state":"florida","old":"/havana-haven"},
- {"slug":"iron-range-retreat","name":"Iron Range Retreat","uuid":"2d2e00d3-8833-48b1-bcc5-e31d9e590790","hid":"1884116","state":"minnesota","old":"/iron-range"},
- {"slug":"mcstay-in-mccay","name":"McStay in McCay","uuid":"0abaceb0-1d73-4995-9541-d538a22e6b1a","hid":"1505568","state":"georgia","old":"/mcstayinmccay"},
- {"slug":"mountain-clarity","name":"Mountain Clarity","uuid":"6de45fd2-ca53-41e1-a0f4-b8202a00f92a","hid":"1963414","state":"georgia","old":"/mountainclarity"},
- {"slug":"ripshin-heights","name":"Ripshin Heights","uuid":"88c1130a-c4b7-4086-bd2f-483b1472c5bd","hid":"2189054","state":"georgia","old":"/ripshin-heights"},
- {"slug":"sky-high-lodge","name":"Sky High Lodge","uuid":"d78381a1-81cb-45df-bf75-44c81354345c","hid":"1009650","state":"georgia","old":"/sky-high-drive"},
- {"slug":"tails-and-trails-hideaway","name":"Tails & Trails Hideaway","uuid":"6383dcfd-f90f-465e-b0cd-7e5d0ac69975","hid":"1840352","state":"georgia","old":"/tails-trails-hideaway"},
- {"slug":"tidewater-2601","name":"Tidewater 2601","uuid":"cd12b2cc-d4fe-4404-bc4e-61a014127e7a","hid":"1395602","state":"florida","old":"/tidewater-2601"}
+ {
+  "slug": "bellaire-extraordinaire",
+  "name": "Bellaire Extraordinaire",
+  "uuid": "93792608-3357-45eb-91bf-d53008ed113b",
+  "hid": "1597234",
+  "state": "michigan",
+  "old": "/bellaire-extraordinaire",
+  "guide": "bellaire-extraordinaire"
+ },
+ {
+  "slug": "best-of-blue-ridge",
+  "name": "Best of Blue Ridge",
+  "uuid": "37316ac2-6c4a-4832-8629-aaf9f9a861d0",
+  "hid": "1103400",
+  "state": "georgia",
+  "old": "/best-of-blue-ridge",
+  "guide": "best-of-blue-ridge"
+ },
+ {
+  "slug": "birdie-blue",
+  "name": "Birdie Blue Cabin",
+  "uuid": "8cb4aa74-1671-4ab0-b53a-86186662748d",
+  "hid": "1799056",
+  "state": "georgia",
+  "old": "/birdieblue",
+  "guide": "birdie-blue"
+ },
+ {
+  "slug": "cherry-log-summit",
+  "name": "Cherry Log Summit",
+  "uuid": "88c6a810-7980-46e1-a594-646387cdfa9a",
+  "hid": "755370",
+  "state": "georgia",
+  "old": "/cherry-log-summit",
+  "guide": "cherry-log-summit"
+ },
+ {
+  "slug": "das-himmel-haus",
+  "name": "Das Himmel Haus",
+  "uuid": "e8b135d1-01c1-48cb-a0ae-0da6fb1d7ac2",
+  "hid": "2040984",
+  "state": "michigan",
+  "old": "/das-himmel-haus",
+  "guide": "das-himmel-haus"
+ },
+ {
+  "slug": "grace-and-ember",
+  "name": "Grace & Ember",
+  "uuid": "dd293517-efc2-4529-8365-bf26bf88e4b5",
+  "hid": "2347678",
+  "state": "georgia",
+  "old": "/grace-and-ember",
+  "guide": "grace-and-ember"
+ },
+ {
+  "slug": "havana-haven",
+  "name": "Havana Haven",
+  "uuid": "0e2fbdf3-52a0-4a52-bb3e-1f731afef7d9",
+  "hid": "942524",
+  "state": "florida",
+  "old": "/havana-haven",
+  "guide": "havana-haven"
+ },
+ {
+  "slug": "iron-range",
+  "name": "Iron Range Retreat",
+  "uuid": "2d2e00d3-8833-48b1-bcc5-e31d9e590790",
+  "hid": "1884116",
+  "state": "minnesota",
+  "old": "/iron-range",
+  "guide": "iron-range-retreat"
+ },
+ {
+  "slug": "mcstay-in-mccay",
+  "name": "McStay in McCay",
+  "uuid": "0abaceb0-1d73-4995-9541-d538a22e6b1a",
+  "hid": "1505568",
+  "state": "georgia",
+  "old": "/mcstayinmccay",
+  "guide": "mcstay-in-mccay"
+ },
+ {
+  "slug": "mountain-clarity",
+  "name": "Mountain Clarity",
+  "uuid": "6de45fd2-ca53-41e1-a0f4-b8202a00f92a",
+  "hid": "1963414",
+  "state": "georgia",
+  "old": "/mountainclarity",
+  "guide": "mountain-clarity"
+ },
+ {
+  "slug": "ripshin-heights",
+  "name": "Ripshin Heights",
+  "uuid": "88c1130a-c4b7-4086-bd2f-483b1472c5bd",
+  "hid": "2189054",
+  "state": "georgia",
+  "old": "/ripshin-heights",
+  "guide": "ripshin-heights"
+ },
+ {
+  "slug": "sky-high-drive",
+  "name": "Sky High Lodge",
+  "uuid": "d78381a1-81cb-45df-bf75-44c81354345c",
+  "hid": "1009650",
+  "state": "georgia",
+  "old": "/sky-high-drive",
+  "guide": "sky-high-lodge"
+ },
+ {
+  "slug": "tails-trails-hideaway",
+  "name": "Tails & Trails Hideaway",
+  "uuid": "6383dcfd-f90f-465e-b0cd-7e5d0ac69975",
+  "hid": "1840352",
+  "state": "georgia",
+  "old": "/tails-trails-hideaway",
+  "guide": "tails-and-trails-hideaway"
+ },
+ {
+  "slug": "tidewater-2601",
+  "name": "Tidewater 2601",
+  "uuid": "cd12b2cc-d4fe-4404-bc4e-61a014127e7a",
+  "hid": "1395602",
+  "state": "florida",
+  "old": "/tidewater-2601",
+  "guide": "tidewater-2601"
+ }
 ]

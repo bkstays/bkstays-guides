@@ -32,7 +32,7 @@ PHONE, PHONE_TEL, EMAIL = '(404) 358-1552', '+14043581552', 'brandon@bkstays.com
 SOCIAL = {'Instagram': 'https://www.instagram.com/bk_stays/', 'Facebook': 'https://www.facebook.com/profile.php?id=61551815370553',
           'LinkedIn': 'https://www.linkedin.com/company/bk-stays/'}
 SKIP_CAPTION = 'right in the center of downtown'
-SKIP_IMG = {'tails-and-trails-hideaway': {8}}  # guest review screenshot
+SKIP_IMG = {'tails-trails-hideaway': {8}}  # guest review screenshot
 FIXES = [('Barrell', 'Barrel'), ("Giant's Ridge", 'Giants Ridge'), ('Wifi', 'Wi-Fi'), ('WiFi', 'Wi-Fi'), ('Smart Tv\'s', 'Smart TVs'), ("TV's", 'TVs'), ("Tv's", 'TVs')]
 WL = {'TV', 'TVS', 'HOA', 'BBQ', 'AC', 'GA', 'FL', 'MI', 'MN', 'USA', 'HDR', 'EV', 'US', 'PCB', 'BR', 'DIY', 'LED', 'HVAC', 'NBA', 'ATV'}
 
@@ -364,11 +364,41 @@ def build_search():
     write('search/index.html', page(p, 'Search | BK Stays', 'Available BK Stays homes.', body))
 
 
+def add_guides():
+    """Each home's guidebook at /<home>/guidebook/ (shares /assets, /img and /sw.js with the website)."""
+    G = os.path.join(ROOT, 'site')
+    fix = lambda t: re.sub(r'(?<![.\w])\.\./(img/|assets/|sw\.js)', r'../../\1', t).replace('<meta name="bk-base" content="../">', '<meta name="bk-base" content="../../">')
+    for h in HOMES:
+        src, dst = os.path.join(G, h['guide']), os.path.join(OUT, h['slug'], 'guidebook')
+        os.makedirs(dst, exist_ok=True)
+        for f in ['index.html', 'manifest.webmanifest']:
+            open(os.path.join(dst, f), 'w').write(fix(open(os.path.join(src, f)).read()))
+    for d in ['assets']:
+        for root, _, files in os.walk(os.path.join(G, d)):
+            for f in files:
+                rel = os.path.relpath(os.path.join(root, f), G)
+                os.makedirs(os.path.dirname(os.path.join(OUT, rel)), exist_ok=True)
+                shutil.copy(os.path.join(root, f), os.path.join(OUT, rel))
+    for f in os.listdir(os.path.join(G, 'img')):
+        sp = os.path.join(G, 'img', f)
+        if os.path.isfile(sp) and not os.path.exists(os.path.join(OUT, 'img', f)):
+            shutil.copy(sp, os.path.join(OUT, 'img', f))
+    shutil.copy(os.path.join(G, 'sw.js'), os.path.join(OUT, 'sw.js'))
+    shutil.copy(os.path.join(G, '_headers'), os.path.join(OUT, '_headers'))
+
+
 def build_redirects():
     lines = ['/home / 301', '/flortida /florida/ 301', '/new-dropdown /minnesota/ 301', '/services /property-management/ 301',
              '/social-media /follow-us/ 301', '/bkstays-properties /search/ 301', '/about-us /about-us/ 301',
              '/property-management /property-management/ 301', '/contact /contact/ 301', '/georgia /georgia/ 301', '/michigan /michigan/ 301']
     lines += [f'{h["old"]} /{h["slug"]}/ 301' for h in HOMES if h['old'] != '/' + h['slug']]
+    lines += [f'{h["old"]}/guidebook /{h["slug"]}/guidebook/ 301' for h in HOMES if h['old'] != '/' + h['slug']]
+    # old TouchStay guide links (guide.bkstays.com/guest/<id>/ is forwarded here by a Cloudflare rule)
+    for h in HOMES:
+        g = json.load(open(os.path.join(ROOT, 'content', 'guides', h['guide'] + '.json')))
+        for old in g.get('oldLinks', []):
+            lines.append(f'{old.rstrip("/")}/* /{h["slug"]}/guidebook/ 301')
+            lines.append(f'{old.rstrip("/")} /{h["slug"]}/guidebook/ 301')
     open(os.path.join(OUT, '_redirects'), 'w').write('\n'.join(lines) + '\n')
 
 
@@ -407,7 +437,12 @@ def main():
     build_home(); build_homes_index(); build_states(); build_about(); build_pm(); build_contact(); build_follow(); build_search()
     for h in HOMES:
         build_property(h)
+    add_guides()
     build_redirects()
+    live = {h['slug'] for h in HOMES}
+    for d in os.listdir(os.path.join(OUT, 'img')):
+        if os.path.isdir(os.path.join(OUT, 'img', d)) and d not in live:
+            shutil.rmtree(os.path.join(OUT, 'img', d))
     print('built website ->', OUT, len(HOMES), 'homes')
 
 

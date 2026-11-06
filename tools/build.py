@@ -114,6 +114,7 @@ PAGE = """<!doctype html>
 <meta name="apple-mobile-web-app-title" content="{short}">
 <meta property="og:title" content="{name} Guidebook">
 <meta property="og:image" content="../img/{cover}">
+<meta name="bk-base" content="../">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" type="image/png" href="../assets/favicon.png">
 <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
