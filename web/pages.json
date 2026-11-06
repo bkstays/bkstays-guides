@@ -50,26 +50,28 @@
    {
     "eyebrow": "Leo's top recommendation",
     "title": "Cherry Log Summit",
-    "img": null,
+    "img": "about-leo-brandon.jpg",
     "photoNote": "Photo needed: Brandon with Leo",
     "home": "cherry-log-summit",
     "homeName": "Cherry Log Summit",
-    "text": "Leo would spend every weekend at the cabin if he could, and his dad is usually right there with him. With a fully fenced-in yard, jacuzzi, outdoor playground and game room, Cherry Log Summit is our top pick for families traveling with kids."
+    "text": "Leo would spend every weekend at the cabin if he could, and his dad is usually right there with him. With a fully fenced-in yard, jacuzzi, outdoor playground and game room, Cherry Log Summit is our top pick for families traveling with kids.",
+    "alt": "Brandon and Leo"
    },
    {
     "eyebrow": "Emmy's favorite place",
     "title": "Havana Haven",
-    "img": null,
+    "img": "about-emmy-kat.jpg",
     "photoNote": "Photo needed: Katharina with Emmy",
     "home": "havana-haven",
     "homeName": "Havana Haven",
-    "text": "Emmy never passes up a beach trip, and a girls' getaway with mom to Fort Lauderdale is her favorite kind. With its large heated pool and the beach only a mile away, Havana Haven has a special place in her heart."
+    "text": "Emmy never passes up a beach trip, and a girls' getaway with mom to Fort Lauderdale is her favorite kind. With its large heated pool and the beach only a mile away, Havana Haven has a special place in her heart.",
+    "alt": "Katharina and Emmy"
    }
   ],
   "join": "Join Brandon and Katharina in their pursuit of adventure, family and embracing all that life has to offer.",
   "heroTitle": "Meet Brandon, Katharina, Emmy & Leo",
   "heroLead": "We're the family behind BK Stays. We host every home the way we'd want to be hosted: spotless, thoughtfully stocked and with a real person a message away.",
-  "heroImg": "about-1.jpg"
+  "heroImg": "about-family-2026.jpg"
  },
  "pm": {
   "title": "Short-term rental management that earns more",

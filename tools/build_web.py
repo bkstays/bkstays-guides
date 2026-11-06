@@ -213,7 +213,7 @@ def build_home():
 <p class="muted">Mountain cabins, lake houses and beach homes, each one hosted by our family.</p></div><div class="dests">{dests}</div></div></section>
 <section class="block white" id="homes"><div class="wrap"><div class="section-head"><div><span class="eyebrow">Come stay with us</span><h2>Our homes</h2></div></div>
 <div class="filters">{chips}</div><div class="homes">{cards}</div></div></section>
-<section class="block"><div class="wrap split"><img src="img/about-1.jpg" alt="Brandon and Katharina" loading="lazy">
+<section class="block"><div class="wrap split"><img class="portrait" src="img/about-family-2026.jpg" alt="Brandon, Katharina, Emmy and Leo" loading="lazy">
 <div><span class="eyebrow">Meet your hosts</span><h2>{esc(P["hostsTitle"])}</h2><p>{esc(P["hostsText"])}</p><a class="btn" href="about-us/">Our story</a></div></div></section>
 <section class="block white"><div class="wrap"><div class="section-head"><div><span class="eyebrow">Why book direct</span><h2>Book with us directly</h2></div></div>
 <div class="features">{"".join(f'<div class="feature"><div class="ic">{i+1}</div><h3>{esc(t)}</h3><p>{esc(d)}</p></div>' for i, (t, d) in enumerate(P["direct"]))}</div></div></section>
@@ -296,7 +296,7 @@ def build_about():
         return re.sub(r'\[([^\]]+)\]', r'<mark class="todo">\1</mark>', esc(t))
     def pic(f):
         if f.get('img'):
-            return f'<img src="{p}img/{f["img"]}" alt="{esc(f["title"])}" loading="lazy">'
+            return f'<img class="portrait" src="{p}img/{f["img"]}" alt="{esc(f.get("alt") or f["title"])}" loading="lazy">'
         return f'<div class="photo-todo"><span>{esc(f.get("photoNote", "Photo needed"))}</span></div>'
     favs = ''
     for k, f in enumerate(A['favorites']):
