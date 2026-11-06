@@ -256,7 +256,7 @@ def build_property(h):
     for head, paras, items in h['overview']:
         secs += (f'<h3>{esc(head)}</h3>' if head else '') + ''.join(f'<p>{esc(x)}</p>' for x in paras)
         if items:
-            secs += '<ul>' + ''.join(f'<li>{esc(x)}</li>' for x in items) + '</ul>'
+            secs += ('<ul class="two">' if 'highlight' in head.lower() else '<ul>') + ''.join(f'<li>{esc(x)}</li>' for x in items) + '</ul>'
     summary = ''.join(f'<p>{esc(clean(x))}</p>' for x in re.split(r'\n\s*\n', h['summary']) if x.strip() and not re.match(r'^-?\s*Hosted By|^Find the Best Rates|^Hosted by', x.strip(), re.I))
     if h.get('noWidget'):
         book = f'<div class="fallback"><p>Online booking for this home is coming soon. Message us and we\'ll check your dates.</p><a class="btn" href="{p}contact/">Check availability</a></div>'

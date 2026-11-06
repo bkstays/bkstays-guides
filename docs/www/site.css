@@ -149,7 +149,8 @@ section.dark .feature p { color: #bdbdb8; }
 .prop-body { display: grid; grid-template-columns: minmax(0, 1fr) 400px; gap: 44px; padding: 36px 0 60px; align-items: start; }
 .prop-body .desc { font-size: 1.05rem; }
 .amen h3 { margin-top: 1.6em; }
-.amen ul { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 8px 22px; }
+.amen ul { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr; gap: 9px; }
+.amen ul.two { grid-template-columns: 1fr 1fr; gap: 8px 22px; }
 .amen li { padding-left: 22px; position: relative; }
 .amen li::before { content: ""; position: absolute; left: 0; top: .55em; width: 8px; height: 8px; border-radius: 50%; background: var(--pink); }
 .book-box { position: sticky; top: 88px; background: #fff; border: 1px solid var(--line); border-radius: 20px; padding: 18px; box-shadow: 0 18px 44px rgba(0,0,0,.08); }
@@ -228,7 +229,7 @@ footer .fine { border-top: 1px solid #2a2a2a; margin-top: 36px; padding-top: 18p
   .prop-head .btn { display: none; }
   .hero p.lead { font-size: 1rem; }
   .hero h1 { font-size: 2.3rem; }
-  .amen ul { grid-template-columns: 1fr; }
+  .amen ul, .amen ul.two { grid-template-columns: 1fr; }
   section.block { padding: 52px 0; }
   .hero { min-height: 92vh; }
   .hero .wrap { padding-bottom: 32px; }
