@@ -47,7 +47,6 @@
     "laundry",
     "pool",
     "tv-streaming",
-    "tidewater-tv",
     "thermostat"
    ]
   },
@@ -224,7 +223,7 @@
   },
   "wifi": {
    "id": "wifi",
-   "title": "WiFi / Internet Details",
+   "title": "Wi-Fi / Internet Details",
    "icon": "wifi",
    "groups": [
     {
@@ -388,7 +387,7 @@
       },
       {
        "title": "Smoking",
-       "html": "<p>We have a strict No Smoking Policy. Smoking is not allowed on the property in any form. This includes, but is not limited to marijuana, pipes, cigars, cigarettes, vaping, e-cigs, etc. If our cleaners or cameras report evidence of smoking you will be charged a $500 smoke remediation fine. </p>"
+       "html": "<p>Smoking of any kind (cigarettes, cigars, pipes, vaping, e-cigarettes, marijuana or other drugs) is not allowed anywhere on the property, indoors or outdoors, unless you have our written permission in advance.</p><p>Evidence of smoking, including smoke odor, ash, butts, paraphernalia or related trash left inside or outside the unit, <strong>will result in the loss of your security deposit</strong>, plus the cost of odor removal and cleaning, and may result in eviction without refund.</p><p>Tidewater Beach Resort also enforces its own $300 smoking fine.</p>"
       },
       {
        "title": "Wristbands + Resort Access",
@@ -410,42 +409,20 @@
        "title": "TVs + Streaming",
        "html": "<p>We have high-speed Wi-Fi for all of your streaming needs!</p>\n<p>There are Smart TVs throughout the entire home.</p>\n<p>Go to the TV Home Screen</p>\n<p>Search For (or Download) The Channel App You Want To Watch &amp; Login to your TV Provider.</p>\n<p>Please don't hesitate to reach out if you need provider login assistance!</p>",
        "photo": "729ecb38918b0e99bc0a0ec5fa74c6d2.jpg"
-      }
-     ]
-    }
-   ]
-  },
-  "tidewater-tv": {
-   "id": "tidewater-tv",
-   "title": "Tidewater TV + WiFi",
-   "icon": "tv",
-   "groups": [
-    {
-     "title": "WiFi & QR Code",
-     "items": [
+      },
       {
-       "title": "WiFi & Quick Access",
-       "html": "<p><strong>Welcome to Tidewater Beach Resort!</strong></p>\n<p>For quick and easy access to WiFi, TV, and other important information, please use the QR code below.</p>\n<p><strong>Scan the QR code</strong> to connect to WiFi and view TV details instantly.</p>\n<p>If you have trouble connecting, try turning WiFi off and back on, then reconnect.</p>\n<p></p>",
+       "title": "Wi-Fi + TV QR Code",
+       "html": "<p><strong>Welcome to Tidewater Beach Resort!</strong></p>\n<p>For quick and easy access to Wi-Fi, TV, and other important information, please use the QR code below.</p>\n<p><strong>Scan the QR code</strong> to connect to Wi-Fi and view TV details instantly.</p>\n<p>If you have trouble connecting, try turning Wi-Fi off and back on, then reconnect.</p>\n",
        "photo": "64914f9dc4e5824e02acaebd334d3f18.jpg"
-      }
-     ]
-    },
-    {
-     "title": "TV Instructions",
-     "items": [
+      },
       {
        "title": "TV Instructions",
-       "html": "<p><strong>How to Use the TV</strong></p>\n<ol>\n<li>Turn on the TV using the <strong>remote control</strong></li>\n<li>Make sure the input/source is set to <strong>Cable / HDMI</strong> (depending on setup)</li>\n<li>Use the remote to:\n<ul>\n<li>Change channels</li>\n<li>Adjust volume</li>\n<li>Open smart apps (if available)</li>\n</ul>\n</li>\n</ol>\n<p><em>Tip: If the TV is not working, check that the correct input is selected.</em></p>\n<p><em></em></p>",
+       "html": "<p><strong>How to Use the TV</strong></p>\n<ol>\n<li>Turn on the TV using the <strong>remote control</strong></li>\n<li>Make sure the input/source is set to <strong>Cable / HDMI</strong> (depending on setup)</li>\n<li>Use the remote to:\n<ul>\n<li>Change channels</li>\n<li>Adjust volume</li>\n<li>Open smart apps (if available)</li>\n</ul>\n</li>\n</ol>\n<p><em>Tip: If the TV is not working, check that the correct input is selected.</em></p>\n",
        "photo": "24ccecbd139187e22757fd45b9938af8.jpg"
-      }
-     ]
-    },
-    {
-     "title": "Channel Guide / Remote Info",
-     "items": [
+      },
       {
        "title": "Channel Guide & Remote Info",
-       "html": "<h2><span><strong>Channel Guide &amp; Remote</strong></span></h2>\n<p><strong>Channel Guide</strong></p>\n<ul>\n<li>Please refer to the <strong>channel guide image</strong> below for available channels</li>\n<li>You may also access this via the QR code</li>\n</ul>\n<p><strong>Remote Control</strong></p>\n<ul>\n<li>Use the provided remote to control power, volume, and channels</li>\n<li>See the image below for button reference</li>\n</ul>\n<p></p>",
+       "html": "<p><strong>Channel Guide &amp; Remote</strong></p>\n<p><strong>Channel Guide</strong></p>\n<ul>\n<li>Please refer to the <strong>channel guide image</strong> below for available channels</li>\n<li>You may also access this via the QR code</li>\n</ul>\n<p><strong>Remote Control</strong></p>\n<ul>\n<li>Use the provided remote to control power, volume, and channels</li>\n<li>See the image below for button reference</li>\n</ul>\n",
        "photo": "06bc9331a4b36d8415eaf6cd911df015.jpg"
       }
      ]
