@@ -238,8 +238,8 @@
      "title": "",
      "items": [
       {
-       "title": "WIFI / Internet Details",
-       "html": "<p>There is free Wi-Fi for your use. The details are: <br><br>WIFI Name: bk stays</p> <p>Do not use \"Havana Haven BnB\" - this network is only for the Smart TV's<br><br>The service is provided for your enjoyment but you are responsible for safe and appropriate use and complying with all laws. If there is any loss of service please contact us.</p>",
+       "title": "Wi-Fi / Internet Details",
+       "html": "<p>There is free Wi-Fi for your use. The details are: <br><br>Wi-Fi Name: bk stays</p> <p>Do not use \"Havana Haven BnB\" - this network is only for the Smart TVs<br><br>The service is provided for your enjoyment but you are responsible for safe and appropriate use and complying with all laws. If there is any loss of service please contact us.</p>",
        "photo": "5ed7c444a9811d008c50a348f27c69d5.jpg"
       }
      ]
@@ -345,7 +345,7 @@
      "items": [
       {
        "title": "Pool / Rules",
-       "html": "<p>The pool is professionally serviced twice a week, on <strong>Wednesdays and Saturdays</strong>, so you may see the pool tech in the backyard on those days. Conditions can vary with weather and timing, and some leaves or natural debris between visits is normal.</p><p>The pool can be heated for an additional $50/day fee for the duration of your stay. Please let us know ahead of time if you would like to heat the pool to a comfortable 85*F for your stay! We will have it warm upon your arrival as long as your balance is up to date. The pool takes about a full day to go from cold to the \"desired temp' so please don't wait until you arrive to decide :)</p> <p><strong>Pool Rules</strong></p> <p><strong>Do Not Touch the Pool Equipment!</strong></p> <p>If you would like directions on how to turn on the waterfall please just ask.<strong> </strong>Never adjust the heater or pump equipment without consulting your hosts first. We do not want to cause any damage that requires a pool technician to come to the home for a service fee at the guest's expense.</p> <p>Additional Rules:</p> <ul> <li>No Lifeguard On Duty. Use at Your Own Risk.</li> <li>The Owner/Host Does Not Assume Responsibility For Any Accidents Or Injuries.</li> <li>No Glass Containers Allowed In The Back Yard</li> <li>No Animals Allowed</li> <li>No Diving Allowed</li> <li>No Running, Pushing, or&nbsp; Dangerous Horseplay</li> <li>Please Be Considerate of Neighbors and Posted Noise Ordinance(s)</li> </ul> <p>The owner/host reserves the right to deny use of the pool to anyone at any time. Please be considerate of others and help us maintain a safe and enjoyable environment.&nbsp;</p>",
+       "html": "<p>The pool is professionally serviced twice a week, on <strong>Wednesdays and Saturdays</strong>, so you may see the pool tech in the backyard on those days. Conditions can vary with weather and timing, and some leaves or natural debris between visits is normal.</p><p>The pool can be heated for an additional $50/day fee for the duration of your stay. Please let us know ahead of time if you would like to heat the pool to a comfortable 85°F for your stay! We will have it warm upon your arrival as long as your balance is up to date. The pool takes about a full day to go from cold to the \"desired temp' so please don't wait until you arrive to decide :)</p> <p><strong>Pool Rules</strong></p> <p><strong>Do Not Touch the Pool Equipment!</strong></p> <p>If you would like directions on how to turn on the waterfall please just ask.<strong> </strong>Never adjust the heater or pump equipment without consulting your hosts first. We do not want to cause any damage that requires a pool technician to come to the home for a service fee at the guest's expense.</p> <p>Additional Rules:</p> <ul> <li>No Lifeguard On Duty. Use at Your Own Risk.</li> <li>The Owner/Host Does Not Assume Responsibility For Any Accidents Or Injuries.</li> <li>No Glass Containers Allowed In The Back Yard</li> <li>No Animals Allowed</li> <li>No Diving Allowed</li> <li>No Running, Pushing, or&nbsp; Dangerous Horseplay</li> <li>Please Be Considerate of Neighbors and Posted Noise Ordinance(s)</li> </ul> <p>The owner/host reserves the right to deny use of the pool to anyone at any time. Please be considerate of others and help us maintain a safe and enjoyable environment.&nbsp;</p>",
        "photo": "feeed3944d93444f332d37e2def745c0.jpg"
       },
       {
@@ -446,15 +446,15 @@
   },
   "tv-streaming": {
    "id": "tv-streaming",
-   "title": "TV's + Streaming",
+   "title": "TVs + Streaming",
    "icon": "tv",
    "groups": [
     {
      "title": "",
      "items": [
       {
-       "title": "TV's + Streaming",
-       "html": "<p>We have Hi-Speed WIFI for all of your streaming needs!</p><p>There are Smart TV's throughout the entire home.</p><p>Go to the TV Home Screen</p><p>Search For (or Download) The Channel App You Want To Watch &amp; Login to your TV Provider.</p><p>Please don't hesitate to reach out if you need provider login assistance!</p>",
+       "title": "TVs + Streaming",
+       "html": "<p>We have high-speed Wi-Fi for all of your streaming needs!</p><p>There are Smart TVs throughout the entire home.</p><p>Go to the TV Home Screen</p><p>Search For (or Download) The Channel App You Want To Watch &amp; Login to your TV Provider.</p><p>Please don't hesitate to reach out if you need provider login assistance!</p>",
        "photo": "729ecb38918b0e99bc0a0ec5fa74c6d2.jpg"
       }
      ]
@@ -471,7 +471,7 @@
      "items": [
       {
        "title": "Heating / Cooling",
-       "html": "<p>Please Do Not Lower The Thermostat Below 72*. Florida gets hot in the summer. But lowering the temp too much will damage the HVAC units and freeze the components. We learned that lesson the hard way :(</p> <p>When you arrive, the thermostat should be set somewhere between 72-74*F - but you can adjust somewhat if you need. If you're running the air conditioning or heating - please keep all windows and outside doors closed to ensure it operates at maximum efficiency.&nbsp;</p>",
+       "html": "<p>Please Do Not Lower The Thermostat Below 72*. Florida gets hot in the summer. But lowering the temp too much will damage the HVAC units and freeze the components. We learned that lesson the hard way :(</p> <p>When you arrive, the thermostat should be set somewhere between 72-74°F - but you can adjust somewhat if you need. If you're running the air conditioning or heating - please keep all windows and outside doors closed to ensure it operates at maximum efficiency.&nbsp;</p>",
        "photo": "c34864ef1cb2e390faa1de0a2397ad3b.jpg"
       }
      ]

@@ -245,8 +245,8 @@
      "title": "",
      "items": [
       {
-       "title": "WIFI / Internet Details",
-       "html": "<p>There is free Wi-Fi for your use. The details are: <br><br>WIFI Name: bk stays</p> <p>Do Not Use \"4872 Valley View Road\" - this network is only for the Smart TV's<br><br>The service is provided for your enjoyment but you are responsible for safe and appropriate use and complying with all laws. If there is any loss of service please contact us.</p>",
+       "title": "Wi-Fi / Internet Details",
+       "html": "<p>There is free Wi-Fi for your use. The details are: <br><br>Wi-Fi Name: bk stays</p> <p>Do Not Use \"4872 Valley View Road\" - this network is only for the Smart TVs<br><br>The service is provided for your enjoyment but you are responsible for safe and appropriate use and complying with all laws. If there is any loss of service please contact us.</p>",
        "photo": "5ed7c444a9811d008c50a348f27c69d5.jpg"
       }
      ]
@@ -495,7 +495,7 @@
       },
       {
        "title": "Jacuzzi",
-       "html": "<p>Never Add Any Foreign Substance To The Jacuzzi (No Bubbles or Soaps)!</p><p>Always Put The Cover Back On When Not In Use!</p><p>Do Not Raise The Temp Above 102*F</p><p>The jacuzzi is thoroughly inspected after each guest. Failure to adhere will cause additional maintenance and cleaning measures, or worse, damage to the unit. Fines will be imposed if evidence of foreign substance or damage is found during inspection. </p>",
+       "html": "<p>Never Add Any Foreign Substance To The Jacuzzi (No Bubbles or Soaps)!</p><p>Always Put The Cover Back On When Not In Use!</p><p>Do Not Raise The Temp Above 102°F</p><p>The jacuzzi is thoroughly inspected after each guest. Failure to adhere will cause additional maintenance and cleaning measures, or worse, damage to the unit. Fines will be imposed if evidence of foreign substance or damage is found during inspection. </p>",
        "photoHidden": "48bb72faa971ea5dfe16fe828d5fc5ee.jpg"
       },
       {
@@ -564,15 +564,15 @@
   },
   "tv-streaming": {
    "id": "tv-streaming",
-   "title": "TV's + Streaming",
+   "title": "TVs + Streaming",
    "icon": "tv",
    "groups": [
     {
      "title": "",
      "items": [
       {
-       "title": "TV's + Streaming",
-       "html": "<p>We have Hi-Speed WIFI for all of your streaming needs!</p><p>There are Smart TV's throughout the entire home.</p><p>Go to the TV Home Screen</p><p>Search For (or Download) The Channel App You Want To Watch &amp; Login to your TV Provider.</p><p>Please don't hesitate to reach out if you need provider login assistance!</p>",
+       "title": "TVs + Streaming",
+       "html": "<p>We have high-speed Wi-Fi for all of your streaming needs!</p><p>There are Smart TVs throughout the entire home.</p><p>Go to the TV Home Screen</p><p>Search For (or Download) The Channel App You Want To Watch &amp; Login to your TV Provider.</p><p>Please don't hesitate to reach out if you need provider login assistance!</p>",
        "photo": "729ecb38918b0e99bc0a0ec5fa74c6d2.jpg"
       }
      ]
@@ -589,7 +589,7 @@
      "items": [
       {
        "title": "Heating / Cooling",
-       "html": "<p>There are (2) Ecobee Thermostats on the wall. The first is next to the main level bathroom and the other in the living/game room.&nbsp;</p> <p>If you're running the air conditioning or heating - please keep all windows and outside doors closed to ensure they operate at maximum efficiency. We recommend a setting of about 72*F which we find keeps the place at a comfortable temperature.</p>",
+       "html": "<p>There are (2) Ecobee Thermostats on the wall. The first is next to the main level bathroom and the other in the living/game room.&nbsp;</p> <p>If you're running the air conditioning or heating - please keep all windows and outside doors closed to ensure they operate at maximum efficiency. We recommend a setting of about 72°F which we find keeps the place at a comfortable temperature.</p>",
        "photo": "0e0d8f67a1daad47f9505a1e6b070b6d.jpg"
       }
      ]

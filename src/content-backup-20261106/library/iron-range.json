@@ -1,0 +1,438 @@
+{
+ "id": "iron-range",
+ "name": "Minnesota's Iron Range (Biwabik / Giants Ridge)",
+ "sections": {
+  "dining": {
+   "id": "dining",
+   "title": "Dining Out",
+   "icon": "utensils",
+   "groups": [
+    {
+     "title": "Breakfast, Brunch, + Coffee Recommendations",
+     "items": [
+      {
+       "title": "Megan’s Family Restaurant",
+       "html": "<p>Facebook: <a href=\"https://www.facebook.com/p/Megans-Family-Restaurant-100056595738782\">Megan’s Family Restaurant</a></p> <p>Phone: (218) 229-3418<br/>Address: 114 N Main Street, Aurora, MN 55705</p> <p>A cozy, hometown diner in downtown Aurora serving American comfort classics in a low-key, family-style setting. Perfect for an early breakfast (try the Hungry Man platter or biscuits &amp; gravy) or a casual lunch: burgers, sandwiches, homemade soups and classic entrees. Friendly staff, affordable prices, and a true Iron Range atmosphere. Opens at 7 AM; closed Mondays; open later on Fridays for the fish fry. Check Facebook or call for current hours. Ideal for fueling up before exploring the parks!</p>",
+       "photo": "013926368d099d9ebf3edfc8bd1687d1.jpg",
+       "loc": [
+        47.528751,
+        -92.236544
+       ],
+       "pin": "restaurants"
+      },
+      {
+       "title": "Wacootah Grille",
+       "html": "<p>Website: <a href=\"https://www.giantsridge.com/wacootah-grille/\">giantsridge.com/wacootah-grille</a></p> <p>Phone: (218) 865-8045<br/>Address: 5893 Giants Ridge Road, Biwabik (at The Quarry golf course)</p> <p>A cozy clubhouse restaurant with breathtaking views of the Quarry golf course and cliff-edged lakes. Open daily from sunrise to sunset during the golf season (roughly late spring through mid-fall), it serves full-service breakfast, lunch, dinner, and a full bar. Ideal for a scenic morning pancake/brunch, afternoon bite, or relaxed evening meal after your outdoor adventures. Closed in winter; check the website for opening dates.</p>",
+       "photo": "064510bc126e9a1f86a027eec7abac8c.jpg",
+       "loc": [
+        47.53832,
+        -92.30727
+       ],
+       "pin": "restaurants",
+       "photoHidden": true
+      }
+     ]
+    },
+    {
+     "title": "Lunch + Snack Recommendations",
+     "items": [
+      {
+       "title": "Dining Specials: Rotating Chophouse Menu",
+       "html": "<p>The Chophouse Menu is a monthly rotating dinner menu served at <strong>Burnt Onion Kitchen &amp; Brews</strong> in the Giants Ridge Chalet, starting at 4 PM on days the restaurant is open. Enjoy succulent steaks, grilled chops, savory sides, and decadent desserts, all designed to deliver a memorable gourmet experience.</p> <p>Pair your meal with a curated selection of brews and wines for the perfect evening at Giants Ridge.</p> <p>Burnt Onion closes between seasons in late fall and reopens for ski season (scheduled for Nov. 28); check current hours before you go.</p> <p>Current menu and details: <a href=\"https://www.giantsridge.com/fb-specials/\">giantsridge.com/fb-specials</a></p>",
+       "photo": "0b092f0fe09ec251e8074d62df8a8edb.jpg"
+      },
+      {
+       "title": "Burnt Onion Kitchen & Brews",
+       "html": "<p>Website: <a href=\"https://www.giantsridge.com/burnt-onion/\">giantsridge.com/burnt-onion</a></p> <p>Phone: (218) 865-8061<br/>Location: 2nd floor of the Main Chalet at Giants Ridge, 6329 Wynne Creek Drive, Biwabik</p> <p>This lodge-style eatery offers creative American cuisine with local flair. Try the signature Burnt Onion Burger, enjoy fresh walleye, or savor vegetarian/gluten-free choices. After a day of skiing, biking, or hiking, unwind on the deck overlooking the slopes with a craft beer, cocktail or mocktail in hand. Wheelchair accessible via the first-floor elevator.</p> <p>Hours are seasonal: summer 2026 was Thursday-Sunday from 11 AM; the restaurant closes between seasons in fall and reopens for ski season (scheduled for Nov. 28). Check the website for current hours.</p>",
+       "photo": "07a0b8859ccf9312acbf25f28f37f373.jpg",
+       "loc": [
+        47.578054,
+        -92.304204
+       ],
+       "pin": "restaurants"
+      },
+      {
+       "title": "Vi’s Pizza & TNT Bar",
+       "html": "<p>🌐 <a href=\"https://www.facebook.com/p/TNT-Bar-and-Vis-Pizza-100063793202936\">https://www.facebook.com/p/TNT-Bar-and-Vis-Pizza-100063793202936</a></p> <p>📞 (218) 865‑4164</p> <p>A beloved local hangout offering huge specialty pizzas, a full bar, and a warm, laid-back atmosphere. Try unique flavors like the Hotsy Potsy or Northern Exposure pizza, or explore burgers, wings, and wraps. Great for a casual group dinner or family night out. Open evenings from ~4 PM; check FB for daily specials and events.</p>",
+       "photo": "7862b9fddddf27ba58390c38c4f4da29.jpg",
+       "loc": [
+        47.533176,
+        -92.344959
+       ],
+       "pin": "restaurants"
+      },
+      {
+       "title": "Biwabik Pizza Co",
+       "html": "<p>🌐<a href=\"https://biwabikpizza.com/\">https://biwabikpizza.com/</a></p> <p>📞(218) 750‑7040</p> <p>Your go‑to spot for local, inventive pizza with a wide range of specialty pies, hearty wings, burgers, and comfort‑food snacks. Casual dine‑in at the Biwabik Pub or enjoy delivery on weekends within a 15‑mile radius—perfect for a relaxed night in after a day of outdoor adventures. Open most days by 11 AM, with later evening hours on Fridays &amp; Saturdays.</p>",
+       "photo": "1b2ceafc713e31dc614cd797dcf79956.jpg",
+       "loc": [
+        47.533204,
+        -92.345609
+       ],
+       "pin": "take_out"
+      },
+      {
+       "title": "Local Dining: Neighbor’s BBQ",
+       "html": "<p><strong>Neighbor’s BBQ</strong> (The Lodge at Giants Ridge)<br/>Located inside the Lodge at Giants Ridge, 6373 Wynne Creek Drive, Biwabik, Neighbor’s BBQ is renowned for Minnesota-style barbecue, offering rich flavors in a warm, family-friendly atmosphere. Enjoy great food and a full-service bar, making it a must-visit spot for barbecue lovers.</p> <p>Phone: (218) 865-1005<br/>Hours: Wednesday-Sunday, 12-8 PM; closed Monday and Tuesday (per the restaurant’s website; confirm before visiting).</p> <p>Website: <a href=\"https://www.neighborsbbq218.com/\">neighborsbbq218.com</a><br/>More info: <a href=\"https://www.giantsridge.com/local-dining/\">giantsridge.com/local-dining</a></p>",
+       "photo": "004664960e57a37e7b1d0f72b8e77ced.jpg"
+      }
+     ]
+    },
+    {
+     "title": "Dinner + Drinks Recommendations",
+     "items": [
+      {
+       "title": "Rudy’s Bar & Grill",
+       "html": "<p>Website: <a href=\"https://www.rudysmn.com/\">rudysmn.com</a></p> <p>Phone: (218) 229-3983<br/>Address: 116 Main Street N, Aurora, MN 55705</p> <p>A classic Iron Range <strong>bar &amp; grill</strong> in Aurora serving fresh, comforting dishes and a full bar in a cozy, sports-themed atmosphere. Try the famous Shroom Burger, broasted chicken, and rotating dinner specials. Open daily 11 AM-9 PM; bar closing time varies. Ideal for after-day adventures or a casual night out.</p>",
+       "photo": "674c3e2b2ed9200268fc28cc741a870a.jpg",
+       "loc": [
+        47.528879,
+        -92.236538
+       ],
+       "pin": "bars_and_nightlife"
+      },
+      {
+       "title": "Copper Nickel Public House – Aurora",
+       "html": "<p>Facebook: <a href=\"https://www.facebook.com/CopperNickelAuroraMN\">Copper Nickel Public House</a></p> <p>Phone: (218) 306-6149<br/>Address: 111 Main Street N, Aurora, MN 55705</p> <p>A stylish yet comfy bar &amp; pub in Aurora serving classic American food, from appetizers and burgers to pasta, sandwiches, and salads, with a solid selection of beers, wine, and cocktails. Accessible and family-friendly, it also hosts events like karaoke, live music, and seasonal specials. Opens at 11 AM and stays open late on weekends; hours vary, so check Facebook before visiting. Perfect for date nights, group dinners, or a cozy evening out.</p>",
+       "photo": "2314b23d2c014718a42a8738683002a5.jpg",
+       "loc": [
+        47.528625,
+        -92.237065
+       ],
+       "pin": "restaurants"
+      },
+      {
+       "title": "The Alibi Bar – Gilbert",
+       "html": "<p>Facebook: <a href=\"https://www.facebook.com/gilbertalibi\">The Alibi Bar</a></p> <p>Phone: (218) 741-9633<br/>Address: 115 Broadway, Gilbert, MN</p> <p>A cozy, friendly neighborhood pub in Gilbert serving a full bar, light snacks, and casual games like pool or darts. It’s a laid-back evening spot with TVs, local patrons, and a warm vibe. Check Facebook for current hours. A great local experience after hiking, skiing, or biking.</p>",
+       "photo": "be5215479693ba855ac5ebe29e55e049.jpg",
+       "loc": [
+        47.488458,
+        -92.46505
+       ],
+       "pin": "bars_and_nightlife"
+      },
+      {
+       "title": "The Downtown Bar – Gilbert",
+       "html": "<p>Facebook: <a href=\"https://www.facebook.com/p/The-Downtown-Bar-100063675302458/\">The Downtown Bar</a></p> <p>Phone: (218) 741-2831<br/>Address: 209 S Broadway, Gilbert, MN</p> <p>A clean, cozy, and welcoming local pub offering a full bar, classic bar snacks, <strong>pool and darts</strong>, and TVs for game nights. Check their Facebook for live music and events. It’s a top choice for a relaxed evening outing with friends or fellow travelers; check Facebook for current hours.</p>",
+       "photo": "166efdc958cf67a1dd037be88e4c11d6.jpg",
+       "loc": [
+        47.485433,
+        -92.467956
+       ],
+       "pin": "bars_and_nightlife"
+      },
+      {
+       "title": "Luke’s Tavern",
+       "html": "<p>Facebook: <a href=\"https://www.facebook.com/lukesbiwabik\">Luke’s Tavern</a></p> <p>Phone: (218) 306-6009<br/>Address: 126 Main Street, Biwabik</p> <p>A cozy, family-owned tavern in downtown Biwabik, perfect for post-hike or ski evenings. Enjoy a full bar, bar snacks, TVs, darts/pool, and rotating live music and jam nights. Open from mid-afternoon into the evening; check Facebook for current hours and events. Great for guests seeking a fun local vibe!</p>",
+       "photo": "e9e7d03f8b36e182a1c34e0ff75efde3.jpg",
+       "loc": [
+        47.532699,
+        -92.346832
+       ],
+       "pin": "bars_and_nightlife"
+      }
+     ]
+    }
+   ]
+  },
+  "emergency": {
+   "id": "emergency",
+   "title": "Emergency and Urgent Care",
+   "icon": "siren",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Biwabik Fire & Ambulance",
+       "html": "<p><strong>In case of emergency, dial 911.</strong></p> <p>Biwabik Fire &amp; Ambulance Department<br/>Address: 105 3rd Avenue North, Biwabik, MN 55708<br/>Non-emergency phone: (218) 865-4332<br/>City of Biwabik (City Hall): (218) 865-4183</p> <p>Website: <a href=\"https://www.cityofbiwabik.com/public-safety\">City of Biwabik Fire &amp; Ambulance</a></p> <p>Services: Fire suppression, rescue, and ambulance/EMS for Biwabik, with mutual aid from neighboring communities.</p>",
+       "photo": "62dd358af6ed4c89ba0792850b337253.jpg",
+       "photoHidden": true
+      },
+      {
+       "title": "Hospitals Near Biwabik",
+       "html": "<p><strong>In case of emergency, dial 911.</strong></p> <p><strong>Essentia Health-Northern Pines (Aurora)</strong> (closest)<br/>Address: 5211 Highway 110, Aurora, MN 55705<br/>Phone: (218) 229-2211<br/>24-hour emergency department. Enter the parking lot off Highway 110 and follow the emergency signs to the back of the building.<br/>About 12 minutes (6.6 miles) from downtown Biwabik; allow a few extra minutes from the house.<br/><a href=\"https://www.essentiahealth.org/find-facility/emergency-medicine-essentia-health-northern-pines-aurora\">Essentia Health-Northern Pines Emergency</a></p> <p><strong>Essentia Health-Virginia</strong><br/>Address: 901 9th Street North, Virginia, MN 55792<br/>Emergency phone: (218) 741-3340<br/>24-hour emergency room; larger regional hospital. The ER is across the lot from the Essentia Health-Virginia Clinic; look for the Hospital Entrance sign.<br/>About 22 minutes (14 miles) from downtown Biwabik.<br/><a href=\"https://www.essentiahealth.org/find-facility/emergency-medicine-essentia-health-virginia\">Essentia Health-Virginia Emergency</a></p>",
+       "photo": "28d91d347754e47d1881b7507792dd1f.jpg"
+      },
+      {
+       "title": "Biwabik Police Service",
+       "html": "<p><strong>In case of emergency, dial 911.</strong></p> <p>Biwabik receives 24-hour police coverage from the Gilbert Police Department, which operates a substation in town.</p> <p>Biwabik Substation: 105 3rd Avenue North, Biwabik, MN 55708<br/>Substation phone (non-emergency): (218) 865-4186<br/>Gilbert Police main office: 16 South Broadway, Gilbert; (218) 748-2225</p> <p>More info: <a href=\"https://gilbertmn.org/services/police-department/\">Gilbert Police Department</a></p>",
+       "photo": "a2d55f5ad8b2f25b9074e8485e3c4429.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  "golf": {
+   "id": "golf",
+   "title": "Golf",
+   "icon": "flag",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "The Legend",
+       "html": "<p><a href=\"https://www.giantsridge.com/the-legend/\">giantsridge.com/the-legend</a></p><p>Golf Shop: (218) 865-8030 &middot; Resort toll-free: (800) 688-7669</p><p>A premium 18-hole, par-72 public course set in the heart of mature red-pine forest. Designed by Jeff Brauer and Lanny Wadkins, it challenges golfers of all levels with dynamic terrain, pristine bent-grass greens, and stunning natural beauty.</p><p>Rated as one of Minnesota&rsquo;s best public courses, it offers full-service amenities&mdash;driving range, pro shop, club rental, lessons, and clubhouse dining. Book your tee time online via Giants Ridge or GolfNow, and browse hole maps and scorecards to prepare. Perfect for a memorable &ldquo;nine-and-dine&rdquo; or full round experience during your stay.</p><p><strong>Season:</strong> The 2026 golf season ended Oct. 11, 2026. The 2027 opening date has not been announced yet; check the course page in spring.</p><p><a href=\"https://www.golfnow.com/courses/1050466-giants-ridge-golf-ski-resort-legend-course-details\">The Legend Tee Times (GolfNow)</a><br/><a href=\"https://mnpga.bluegolf.com/bluegolf/mnpga/course/giantsridgelegend/overview.htm\">The Legend Scorecards</a><br/><a href=\"https://www.provisualizer.com/courses/giantsridgelegend.php\">The Legend Course Map</a><br/><a href=\"https://course.bluegolf.com/bluegolf/course/course/giantsridgelegend/printpick.htm\">The Legend Printable Scorecards &amp; Hole Layouts</a></p><p>On-Site Amenities</p><ul><li>Driving range, putting/chipping greens, and practice bunker</li><li>Full pro shop, club rentals, fittings, and lessons</li><li>Clubhouse dining, lounge area, locker rooms, carts and pull carts</li></ul>",
+       "photo": "d2b34f2813c663d43e4ba2e9fee3d7a9.jpg"
+      },
+      {
+       "title": "The Quarry",
+       "html": "<p><a href=\"https://www.giantsridge.com/the-quarry/\">giantsridge.com/the-quarry</a></p><p>Golf Shop: (218) 865-8030 &middot; Main line: (218) 865-8000 &middot; Resort toll-free: (800) 688-7669</p><p>A premier 18-hole, par-72 public course carved from historic mine terrain, offering rugged beauty and strategic play. Designed by Jeff Brauer, it&rsquo;s challenging (7,201 yards, slope up to 146) with elevation, rock formations, and standout holes like the drivable 13th. Golf Digest (2025) ranks it the top Minnesota course on its list of America&rsquo;s 100 Greatest Public Courses (No. 58 nationally)&mdash;a must for enthusiastic golfers.</p><p><strong>Season:</strong> The 2026 golf season ended Oct. 11, 2026. The 2027 opening date has not been announced yet.</p><p><a href=\"https://www.giantsridge.com/the-quarry/\">The Quarry Tee Times</a><br/><a href=\"https://course.bluegolf.com/bluegolf/course/course/giantsridgequarry/detailedscorecard.htm\">The Quarry Scorecards</a><br/><a href=\"https://www.provisualizer.com/courses/giantsridgequarry.php\">The Quarry Course Map</a></p><p>Amenities:<br/>Carts, pull carts, club rentals, practice range, chipping and putting greens (<a href=\"https://www.golfpass.com/travel-advisor/courses/28836-giants-ridge-golf-ski-resort-quarry-course\">golfpass.com</a>)<br/>Pro shop offering apparel, gear, lessons, and club fittings<br/>Lounge and dining at the Wacootah Grille clubhouse restaurant&mdash;great for a post-round meal</p>",
+       "photo": "ffe8e7144ad43944356d369a004d9b39.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  "grocery": {
+   "id": "grocery",
+   "title": "Grocery and Pharmacy",
+   "icon": "shopping-cart",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Super One Foods — Biwabik",
+       "html": "<p>Website: <a href=\"https://www.superonefoods.com/store-details/biwabik-super-one-foods\">superonefoods.com (Biwabik store)</a><br/>Phone: (218) 865-6702<br/>Address: 317 Main Street, Biwabik, MN 55708<br/>Hours: 7 AM-9 PM</p> <p>Super One Foods is the go-to local grocery store in town. Guests can find everything from fresh bakery items, deli selections, produce, meat, and ready-made trays to gift cards, floral arrangements, and propane exchange, making it a superb one-stop shop for all needs. The store also provides Wi-Fi, handicap accessibility, and modern payment options like Apple Pay and EBT.</p>",
+       "photo": "d6f9981220caa925ad716042078f3e35.jpg",
+       "loc": [
+        47.53313,
+        -92.34431
+       ],
+       "pin": "grocery_shopping"
+      },
+      {
+       "title": "CVS Pharmacy at Target — Virginia, MN",
+       "html": "<p>Website: <a href=\"https://www.cvs.com/store-locator/virginia-mn-pharmacies/1001-13th-st-s-virginia-mn-55792/storeid=16290\">CVS Pharmacy at Target, Virginia</a><br/>Phone: (218) 741-6603<br/>Address: 1001 13th St S, Virginia, MN 55792 (inside Target)</p> <p>Pharmacy hours: Monday-Friday 9 AM-6 PM; Saturday 10 AM-6 PM; Sunday 11 AM-5 PM (closed 1:30-2 PM for lunch). Hours can change on holidays; check the CVS page or call before you go.</p> <p>Distance: About 20 minutes (13 miles) west of downtown Biwabik.</p>",
+       "photo": "63822b350d6a29d9a6c6308a41c433e7.jpg",
+       "loc": [
+        47.51112,
+        -92.54907
+       ],
+       "pin": "pharmacy",
+       "photoHidden": true
+      }
+     ]
+    }
+   ]
+  },
+  "shopping": {
+   "id": "shopping",
+   "title": "Shopping",
+   "icon": "shopping-bag",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Giants Ridge Mountain Sports / Pro Shop & Gift Shop",
+       "html": "<p>Website: <a href=\"https://www.giantsridge.com/onsite-shopping/\">giantsridge.com/onsite-shopping</a><br/>Phone: (218) 865-8000 (Giants Ridge main line)</p> <p>A one-stop spot for those planning outdoor fun (skiing, biking, or hiking) or looking for attire that embodies the resort’s adventurous spirit. The Mountain Sports Shop is on the first floor of the Giants Ridge Chalet, and each golf course has its own pro shop. Expect outdoor gear, ski apparel, and equipment for all ages, plus souvenirs and resort essentials. Shop hours follow the resort’s seasons; the golf shops are closed in winter.</p>",
+       "photo": "bc28b811aed7f0d067f390c5acdf6e2b.jpg",
+       "loc": [
+        47.57652,
+        -92.303169
+       ],
+       "pin": "retail_therapy"
+      }
+     ]
+    }
+   ]
+  },
+  "weather": {
+   "id": "weather",
+   "title": "Weather",
+   "icon": "cloud-sun-rain",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Biwabik",
+       "html": "<p>For the most up-to-date weather forecast check <a href=\"https://weather.com/weather/today/l/8ce536ee4729bd157465dd5a7ee281640970a654891551ca18c7aa7c9b671ec9\">here</a>!</p> <p>Remember, the weather person is the only one who can be wrong and still keep their job. We like to say \"There is no such thing as bad weather, just inappropriate clothing\".</p>",
+       "photo": "e0f4f48658886913f7c2ce99deedbad1.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  "giants-ridge": {
+   "id": "giants-ridge",
+   "title": "Giants Ridge Recreation Area",
+   "icon": "mountain-snow",
+   "groups": [
+    {
+     "title": "Plan Your Visit",
+     "items": [
+      {
+       "title": "Events Calendar",
+       "html": "<p><strong>Adventure. Music. Family Fun. It All Happens Here.</strong><br/>From adrenaline-pumping races to family festivals, classic car shows, and seasonal celebrations, <strong>Giants Ridge</strong> is your year-round destination for unforgettable events. Whether you're into biking, beer, or just good times in the great outdoors — there’s always something exciting on the calendar.</p> <p><strong>View Full Events List → <a href=\"https://www.giantsridge.com/events/list/\">https://www.giantsridge.com/events/list/</a> </strong></p>",
+       "photo": "63b96545dbee3833f3765ebd11fae0c2.jpg"
+      },
+      {
+       "title": "Private & Corporate Events",
+       "html": "<p><strong>Host Your Event in the Northwoods</strong><br/>Whether you're planning a company retreat, conference, family gathering, or celebration, Giants Ridge offers the perfect mix of comfort and adventure.</p><ul><li>About 5,000 sq ft of flexible indoor meeting space in the Chalet, plus outdoor areas</li><li>Full-service catering for groups up to 300, from box lunches to formal dinners</li><li>Ideal setting for corporate retreats, private parties, or reunions</li><li>Access to year-round recreation including golf, skiing, biking, and more</li></ul><p><strong>The Chalet at Giants Ridge</strong><br/>A peaceful getaway with everything you need to relax or collaborate in the heart of Northern Minnesota.</p><p><em>Make your next event unforgettable.</em></p><p>Learn more: <a href=\"https://www.giantsridge.com/private-events/\">giantsridge.com/private-events</a></p>",
+       "photo": "dc3a165f168fedd1ee3788a556e399bf.jpg"
+      },
+      {
+       "title": "Weddings & Banquets",
+       "html": "<p><strong>Plan Your Dream Wedding or Special Event at Giants Ridge</strong><br/>Celebrate your special day surrounded by the natural beauty of Northern Minnesota. Giants Ridge offers stunning indoor and outdoor venues, expert coordination, and full-service banquet options to ensure your event is seamless and unforgettable.</p><p><strong>Ceremony Locations:</strong></p><ul><li><strong>Quarry Overlook</strong> &ndash; on the 18th hole of The Quarry, overlooking the Embarrass Mine Pit | Seats up to 300</li><li><strong>Alpine Base</strong> &ndash; central courtyard location with access to the Gold Room and cocktail bar | Seats up to 300</li><li><strong>Placid Hillside</strong> &ndash; overlooks the Superior National Forest; ideal for small ceremonies | Seats up to 50</li><li><strong>Brascugli Point</strong> &ndash; intimate and surrounded by nature | Seats up to 100</li><li><strong>The Chalet</strong> &ndash; all-in-one indoor ceremony and reception | Seats up to 300</li></ul><p><strong>Why Choose Giants Ridge?</strong></p><ul><li>Versatile venue options for any celebration style</li><li>Professional event coordination from start to finish</li><li>Catering and banquet services</li><li>Recreation for your guests: golf, skiing, hiking, biking, and more</li><li>Photo backdrops in the Superior National Forest</li></ul><p>Weddings: (218) 865-8012<br/>Start planning: <a href=\"https://www.giantsridge.com/weddings/\">giantsridge.com/weddings</a></p>",
+       "photo": "b856a3e44b27bd4614def3b8daa278bb.jpg"
+      },
+      {
+       "title": "Shopping",
+       "html": "<p><strong>Gear Up or Grab a Gift</strong><br/>Whether you're hitting the slopes, the trails, or the greens &mdash; or just want a great souvenir &mdash; Giants Ridge has you covered.</p><p><strong>Mountain Sports Shop</strong></p><p>Located on the first floor of the Chalet, this shop features top outdoor brands like Burton, Fox, Helly Hansen, and more. Hours follow the daily chairlift schedule; the shop typically opens one hour before the lifts.</p><ul><li>Outdoor apparel &amp; equipment for all ages</li><li>Helmets, goggles, gloves, socks, sunglasses, and accessories</li><li>Snacks, hydration, wax, and Northern Minnesota souvenirs</li></ul><p><strong>Golf Pro Shops</strong></p><p>Each course has its own shop stocked with top golf brands (open during golf season):</p><ul><li>Nike, Adidas, Under Armour, FootJoy, Greg Norman, Travis Mathew, and more</li><li>Golf apparel, accessories, GR-branded items, and equipment</li><li>Cleveland club rentals available and refreshed each season</li><li>Special orders welcome</li></ul><p>Shop more: <a href=\"https://www.giantsridge.com/onsite-shopping/\">giantsridge.com/onsite-shopping</a></p>",
+       "photo": "587687acadd5c6dd632ca170bc592625.jpg"
+      },
+      {
+       "title": "Pool & Sauna Haus",
+       "html": "<p>Check out the <strong>Pool &amp; Sauna Haus at Giants Ridge!</strong></p><p><strong>Open to the public and just 5 minutes from our home,</strong> it offers a heated indoor pool, an expansive hot tub, and two dry saunas (add steam with the provided buckets and ladles) for year-round relaxation.</p><p>Conveniently located across from the main entrance, the Pool &amp; Sauna Haus offers forest views, a cozy lobby fireplace, and a warm, inviting atmosphere&mdash;an ideal spot to relax after a day of adventure. Resort guests, day visitors, and community members are welcome; anyone under 18 must be supervised by an adult.</p><p><strong>Hours:</strong> Open swim daily, 6:00 AM &ndash; 8:00 PM. Morning relaxation &amp; lap swim 6:00 &ndash; 10:00 AM.</p><p><strong>Rates</strong></p><ul><li>Daily passes: see the current pricing sheet on the Pool Haus page (not listed on the main page)</li><li>Monthly pass: $75</li><li>Winter alpine season pass holders: 25% off daily passes</li><li>Locals&rsquo; Day: 25% off admission Mondays from 10:00 AM (sold in person only)</li></ul><p><strong>Party Room Rental</strong></p><ul><li>$175 for 3 hours, includes up to 10 swim passes for the same block</li><li>Catering menu available; no outside food or drink except cake or cupcakes</li></ul><p>Phone: (218) 865-8002<br/>More info: <a href=\"https://www.giantsridge.com/pool-haus/\">giantsridge.com/pool-haus</a></p>",
+       "photo": "17f00c2c2b4276780280f37610fe2742.jpg"
+      }
+     ]
+    },
+    {
+     "title": "Dining",
+     "items": [
+      {
+       "title": "The Wacootah Grille",
+       "html": "<p>Open daily from sunrise to sunset during golf season, The Wacootah Grille is the perfect spot for breakfast, lunch, or dinner with a view. Located at The Quarry golf course clubhouse, it overlooks the 18th green and the beautiful Lake Mine, famous for trout fishing.</p><p>Enjoy a full menu of clubhouse favorites and a full-service bar, with indoor and outdoor seating offering stunning panoramic views of cliffs and crystal-clear lake waters.</p><p><strong>Season:</strong> Closed for the season as of fall 2026; reopens in spring 2027 with the golf season (date not yet announced).</p><p>Phone: (800) 688-7669<br/>Menus (2026): <a href=\"https://www.giantsridge.com/wp-content/uploads/2026/05/Wacootah-Breakfast-Single-26-png.png\">Breakfast</a> &middot; <a href=\"https://www.giantsridge.com/wp-content/uploads/2026/05/2026-Wacootah-Lunch-Dinner-Menu-png_Page_1-scaled.png\">Lunch</a> &middot; <a href=\"https://www.giantsridge.com/wp-content/uploads/2026/05/2026-Wacootah-Lunch-Dinner-Menu-png_Page_2-scaled.png\">Dinner</a><br/>More info: <a href=\"https://www.giantsridge.com/wacootah-grille/\">giantsridge.com/wacootah-grille</a></p>",
+       "photo": "a8f684c6ca992b2b19dafb47579a2b28.jpg"
+      },
+      {
+       "title": "Burnt Onion Kitchen & Brews",
+       "html": "<p>Located on the second floor of the Main Chalet, Burnt Onion Kitchen &amp; Brews offers a unique dining experience with creative twists on classic American dishes. Enjoy seasonal lunch and dinner menus featuring handhelds, steaks, vegetarian, and gluten-free options.</p><p>Don&rsquo;t miss the chef-curated Chophouse Menu, which rotates monthly, and a full mocktail selection. The restaurant is wheelchair accessible via the first-floor elevator.</p><p><strong>Hours:</strong> Summer 2026 hours (May 22 &ndash; Oct. 18) were Thu &amp; Sun 11 AM &ndash; 9 PM, Fri &amp; Sat 11 AM &ndash; 10 PM. Winter 2026&ndash;27 hours have not been posted yet; check the website before you go.</p><p>More info: <a href=\"https://www.giantsridge.com/burnt-onion/\">giantsridge.com/burnt-onion</a></p>",
+       "photo": "2e1cdea14f201f6e310d9fee2094709a.jpg"
+      },
+      {
+       "title": "Dining Specials: Rotating Chophouse Menu",
+       "html": "<p>Served from 4 PM to close at Burnt Onion Kitchen &amp; Brews, the Chophouse Menu is a chef-curated selection that changes monthly. Expect premium cuts, grilled chops, inventive sides, and decadent desserts.</p><p>Pair your meal with a curated selection of brews and wines for the perfect evening at Giants Ridge.</p><p>Current menu and details: <a href=\"https://www.giantsridge.com/fb-specials/\">giantsridge.com/fb-specials</a></p>",
+       "photo": "0b092f0fe09ec251e8074d62df8a8edb.jpg"
+      },
+      {
+       "title": "Local Dining: Neighbor’s BBQ",
+       "html": "<p>The East Range offers dining options for every taste&mdash;from cozy cafes to full-service restaurants.</p><p><strong>Neighbor&rsquo;s BBQ</strong> (On-Site)<br/>Located inside the Lodge at Giants Ridge (6373 Wynne Creek Dr., Biwabik), Neighbor&rsquo;s BBQ serves Minnesota-style barbecue in a warm, family-friendly atmosphere, with a full-service bar.</p><p><strong>Hours:</strong> Wed&ndash;Sun 12&ndash;8 PM; closed Mon &amp; Tue.<br/>Phone: (218) 865-1005</p><p>More info: <a href=\"https://www.giantsridge.com/local-dining/\">giantsridge.com/local-dining</a><br/>Neighbor&rsquo;s BBQ website: <a href=\"https://www.neighborsbbq218.com/\">neighborsbbq218.com</a></p>",
+       "photo": "004664960e57a37e7b1d0f72b8e77ced.jpg"
+      }
+     ]
+    },
+    {
+     "title": "Golf",
+     "items": [
+      {
+       "title": "The Legend Golf Course",
+       "html": "<p><strong>Scenic. Challenging. Legendary.</strong><br/>Opened in 1997, <em>The Legend</em> has become one of Minnesota&rsquo;s most celebrated public golf courses. Recognized by Golf Digest as one of the &ldquo;Top 10 Best New Upscale Public Courses in the Nation,&rdquo; this award-winning course offers a serene, unforgettable experience with unmatched value. More recently, Golfweek ranked it among the Best Resort Courses in the U.S. (No. 105, 2026).</p><p>Nestled in the scenic Iron Range, <em>The Legend</em> helped establish Northern Minnesota as a global golf destination.</p><p><strong>2026 Green Fees</strong> (last season; 2027 rates not yet posted; include cart &amp; range balls, plus tax/fees)</p><ul><li><strong>Early (opening &ndash; May 28):</strong> $100</li><li><strong>Prime (May 29 &ndash; Aug 23):</strong> $130 | Twilight $100 after 3 PM | Same-day replay $75</li><li><strong>Fall (Aug 24 &ndash; Sept 27):</strong> $130 | Twilight $100 after 2 PM</li><li><strong>Late (Sept 28 &ndash; Oct 11):</strong> $100 | Same-day replay $75</li><li><strong>Junior (17 &amp; under):</strong> $45 all season</li><li><strong>36 Holes with Lunch (prime season):</strong> $210 weekday | $230 weekend</li></ul><p><strong>Special Deal: 36-Hole Experience</strong><br/>Play both <strong>The Legend</strong> and <strong>The Quarry</strong> on the same day with lunch in between. Available during prime season only (May 29 &ndash; Aug 23 in 2026). <em>Call ahead to book both tee times.</em></p><p><strong>Season:</strong> The 2026 season ended Oct. 11; 2027 dates TBA.</p><p>Learn more or book your tee time: <a href=\"https://www.giantsridge.com/the-legend/\">giantsridge.com/the-legend</a></p>",
+       "photo": "01d9098b5bbd5a2ede4f86a1926e4289.jpg"
+      },
+      {
+       "title": "The Quarry Golf Course",
+       "html": "<p><strong>Minnesota&rsquo;s No. 1 Public Golf Course</strong></p><p>Built on the site of a former sand, gravel, and iron ore mine, <em>The Quarry</em> offers a rugged, dramatic, and unforgettable golfing experience. Golf Digest (2025) ranks it the top Minnesota course on its list of America&rsquo;s 100 Greatest Public Courses (No. 58 nationally), and Golfweek has rated it No. 1 among Minnesota public courses. A perfect complement to the more traditional <em>Legend</em> course.</p><p><strong>2026 Green Fees</strong> (last season; 2027 rates not yet posted; include cart &amp; range balls, plus tax/fees)</p><ul><li><strong>Early (opening &ndash; May 28):</strong> $100</li><li><strong>Prime (May 29 &ndash; Aug 23):</strong> $130 | Twilight $100 after 3 PM | Same-day replay $75</li><li><strong>Fall (Aug 24 &ndash; Sept 27):</strong> $130 | Twilight $100 after 2 PM</li><li><strong>Late (Sept 28 &ndash; Oct 11):</strong> $100 | Same-day replay $75</li><li><strong>Junior (17 &amp; under):</strong> $45 all season</li><li><strong>36 Holes with Lunch (prime season):</strong> $210 weekday | $230 weekend</li></ul><p><em>Juniors must be with an adult. Taxes/fees not included.</em></p><p><strong>Special Offer: 36-Hole Experience</strong><br/>Play both <em>The Quarry</em> and <em>The Legend</em> in one day, with lunch in between (prime season only). <em>Call in advance for both tee times.</em></p><p><strong>Season:</strong> The 2026 season ended Oct. 11; 2027 dates TBA.</p><p>Learn more or book: <a href=\"https://www.giantsridge.com/the-quarry/\">giantsridge.com/the-quarry</a></p>",
+       "photo": "71cbcc951940dda82955b156d980d5c7.jpg"
+      },
+      {
+       "title": "Golf Lessons",
+       "html": "<p><strong>Sharpen your game at Giants Ridge!</strong><br/>Whether you&rsquo;re a beginner or seasoned player, Giants Ridge offers private lessons and group programs during the golf season (roughly May through mid-October).</p><p><strong>Private Lessons</strong></p><p>One-on-one instruction tailored to your goals, based on availability.<br/><em>Pre-registration required &mdash; call the Golf Shop at (218) 865-8030</em></p><p><strong>Group Programs (2026 season)</strong></p><ul><li>Junior Clinics (ages 10+): three-day sessions at The Legend, $110 per session</li><li>Ladies League: Thursdays at The Legend, lesson plus 9 holes</li></ul><p>More info &amp; registration: <a href=\"https://www.giantsridge.com/golf-lessons/\">giantsridge.com/golf-lessons</a></p>",
+       "photo": "face5d0444807a45f3ed9e8728f098c3.jpg"
+      },
+      {
+       "title": "Golf Groups",
+       "html": "<p><strong>Tournaments, Corporate Outings &amp; Group Play</strong></p><p>Planning a golf event? From casual group outings to full-scale tournaments, <em>Giants Ridge</em> offers the perfect setting with The Legend and The Quarry&mdash;two of the most celebrated courses in the country.</p><p>Why host your group here?</p><ul><li>Accommodates groups from 8 to 400</li><li>Custom tournament packages available</li><li>Indoor/outdoor meeting &amp; celebration spaces</li><li>Group meals, lodging &amp; entertainment options</li><li>Personalized merchandise (shirts, logo balls &amp; more)</li></ul><p>Whether it&rsquo;s for fun, fundraising, or team-building, Giants Ridge makes your golf event effortless and unforgettable.</p><p><em>Ready to plan your outing?</em> Call (218) 865-8030<br/>Learn more or inquire: <a href=\"https://www.giantsridge.com/golf-groups/\">giantsridge.com/golf-groups</a></p>",
+       "photo": "5c886d98e584e601c09e03419d6afb5e.jpg"
+      },
+      {
+       "title": "Virtual Tours",
+       "html": "<p>Watch these videos from Giants Ridge to see the Legend and Quarry golf courses&mdash;and the mountain in winter&mdash;for yourself.</p><p><iframe src=\"https://www.youtube.com/embed/8FIZ6L4VL6U?rel=0\"></iframe></p><p><iframe src=\"https://www.youtube.com/embed/pqtb-WZHeMI?rel=0\"></iframe></p><p><iframe src=\"https://www.youtube.com/embed/JPwtcDfIxlw?rel=0\"></iframe></p><p>More from Giants Ridge: <a href=\"https://www.youtube.com/@GiantsRidgeResort\">Giants Ridge on YouTube</a></p>",
+       "photo": "715f16940724154984ab85a2aa299ab0.jpg"
+      }
+     ]
+    },
+    {
+     "title": "Summer & Sun",
+     "items": [
+      {
+       "title": "Climbing Wall",
+       "html": "<p>Experience climbing on the A.R.T.Wall&trade;, a unique 32-foot-tall, four-sided concrete wall modeled from real rock for an incredibly realistic climb. Its solid, cool-to-the-touch surface offers an authentic and safe climbing experience, with auto-belays on most routes.</p><p>Climbers must be at least 5 years old, 40 lbs, and 42 inches tall. All climbers sign a waiver; minors (17 and under) need a parent or guardian to sign. Children under 14 must be supervised by an adult.</p><p><strong>Hours:</strong> Fridays through Sundays during the summer season.<br/><strong>Rates (last posted):</strong> Day pass $14; shoe rental $4; chalk bag $4. Passes are sold at the Main Chalet gift shop (first floor).</p><p>More info: <a href=\"https://www.giantsridge.com/climbing-wall/\">giantsridge.com/climbing-wall</a></p>",
+       "photo": "13e9fa2042bc3a978f75ac1b4b584804.jpg"
+      },
+      {
+       "title": "Disc Golf",
+       "html": "<p>Play one of Minnesota’s most scenic and longest disc golf courses, spanning 80+ acres and up to 10,000 feet in fairway distance. The 18-hole mountain course features dual concrete tees, multiple pin placements, and challenging terrain with grassy hills, woods, and rocks.</p> <p>Average playtime: 2.5 hours.<br/>Wear sturdy footwear suitable for hiking-style terrain.</p> <p>More info: <a href=\"https://www.giantsridge.com/disc-golf/\">https://www.giantsridge.com/disc-golf/</a></p>",
+       "photo": "1c8d61eb7ef4d5e12cd480f2f49e7c9b.jpg"
+      },
+      {
+       "title": "Hiking Trails",
+       "html": "<p>Explore a variety of trails for all skill levels:</p><ul><li><strong>Ridgeview Overlook Trail</strong>: Easy, 0.3-mile loop</li><li><strong>Wynne Lake Vista Trail</strong>: Moderate, 0.8-mile loop</li><li><strong>Northface Trail</strong>: Difficult, 1.1 miles one way</li><li><strong>Birches Trail</strong>: Moderate, 2.2-mile loop</li><li><strong>Sleeping Giant Trail</strong>: Difficult, 1.3 miles one way</li><li><strong>Narrows Trail</strong>: Easy, 0.8-mile loop</li><li><strong>Mesabi Trail</strong>: Paved multi-use trail for hiking, biking, and walking, accessible just outside the ski chalet (spring through fall)</li></ul><p>Whether you want a short stroll or a challenging hike, Giants Ridge has a trail for you.</p><p>Hiking map: <a href=\"https://www.giantsridge.com/wp-content/uploads/2025/05/Giants-Ridge-HIKING-map-68209-L-scaled.jpg\">Giants Ridge Hiking Trail Map</a><br/>More info: <a href=\"https://www.giantsridge.com/hiking/\">giantsridge.com/hiking</a></p>",
+       "photo": "4283519679566f0f95cc5999f9422cc8.jpg"
+      },
+      {
+       "title": "Mountain Biking",
+       "html": "<p><strong>Mountain Biking at Giants Ridge</strong></p><p>Giants Ridge offers over 9 miles of purpose-built cross-country trails through the Superior National Forest, ideal for all levels of riders. For more thrill, ride the Sarajevo Express chairlift to 12 gravity trails featuring berms, jumps, and rugged terrain&mdash;from beginner-friendly green to double black diamond.</p><p>A valid pass is required. Full-face helmets are highly recommended on all gravity trails.</p><p><strong>Season:</strong> Lift-served biking runs late May through mid-October; the 2026 bike park season is over and 2027 dates have not been announced.<br/><strong>Last posted day tickets (gravity):</strong> Adult (13+) $42 online / $47 in person; Child (7&ndash;12) $32 online / $35 in person. XC-only day pass $6.</p><p>More info and trail map: <a href=\"https://www.giantsridge.com/mountain-biking/\">giantsridge.com/mountain-biking</a></p>",
+       "photo": "54d4d73834cd101128f300d83328ba6f.jpg"
+      },
+      {
+       "title": "Scenic Chairlift Rides",
+       "html": "<p>Take in stunning views of the Superior National Forest with a relaxing ride on the <em>Sarajevo Express</em>, Giants Ridge&rsquo;s high-speed quad chairlift. At the top, enjoy breathtaking vistas of the Iron Range&mdash;an unforgettable way to experience the beauty of the mountain, especially during fall colors.</p><p><strong>Season:</strong> Summer and fall weekends (2026 fall rides ran Fri&ndash;Sun in September and Sat&ndash;Sun in October, 10 AM &ndash; 5/6 PM; last ride up one hour before close). Closed for the 2026 season.<br/><strong>Last posted rates:</strong> Adult $10, Child $5.</p><p>More info: <a href=\"https://www.giantsridge.com/scenic-chairlift-rides/\">giantsridge.com/scenic-chairlift-rides</a></p>",
+       "photo": "98f7d2eda98452f5ca11e24e6cf94398.jpg"
+      },
+      {
+       "title": "Children's Play Area",
+       "html": "<p><strong>Location:</strong> Tucked between the Main Chalet and The Lodge at Giants Ridge, this play area is conveniently located near the heart of the resort.</p><p>A delightful space where children can burn off energy and enjoy fresh air in the Northwoods. Features include:</p><ul><li>Multiple <strong>slides</strong> with varying routes and heights</li><li>Fun <strong>climbing obstacles</strong> built for kids</li><li>Signage with <strong>regional outdoor adventure info</strong></li></ul><p>Ideal for families&mdash;while the kids play, you can plan your next mountain biking trail, golf round, or lakeside adventure.</p><p><strong>Good to know</strong></p><ul><li><strong>Unsupervised:</strong> The play space is not monitored. Please keep an eye on children at all times.</li><li><strong>Seasonal:</strong> Open as the seasons allow (generally the snow-free months).</li><li>Easy to reach from the Mountain Sports Shop, restaurants, and trailheads.</li></ul><p>More info: <a href=\"https://www.giantsridge.com/explore/\">giantsridge.com/explore</a></p>",
+       "photo": "1c7b62066f11a8f4f6f0a8ec6edb4f93.jpg"
+      },
+      {
+       "title": "Summer Equipment Rentals",
+       "html": "<p>Explore the outdoors with easy gear rentals available right at Giants Ridge during the summer season.</p><p><strong>Hours:</strong> Open seven days a week in season, with two rental periods each day: 10 AM &ndash; 2 PM and 2 PM &ndash; 6 PM.</p><p><strong>Available rentals (prices previously posted; confirm current rates when booking):</strong></p><ul><li>Full-suspension enduro mountain bike (incl. full-face helmet): $75</li><li>Kids&rsquo; mountain bike: $45</li><li>Road bikes: Adult $28 | Kids $20</li><li>Full-face helmet only: $30</li><li>Disc golf discs: $5</li></ul><p>Book and learn more: <a href=\"https://www.giantsridge.com/summer-equipment-rentals/\">giantsridge.com/summer-equipment-rentals</a></p>",
+       "photo": "961a88603c2a81abc9a8d6ba9c24512e.jpg"
+      },
+      {
+       "title": "Giants Ridge Bike Park Trail Map",
+       "html": "<p><strong>Discover Northern Minnesota&rsquo;s Premier Mountain Biking Destination</strong></p><p>Welcome to <strong>Giants Ridge Bike Park</strong>, where rugged terrain, scenic views, and thrilling trails converge to offer one of the most diverse biking experiences in the Midwest. Whether you're a beginner, a gravity-fueled adventurer, or a cross-country explorer, there's a trail waiting for you here. Follow the &ldquo;Pre-Ride, Re-Ride, Free-Ride&rdquo; safety model to get the most out of your day.</p><p>Full Trail Map (PDF): <a href=\"https://www.giantsridge.com/wp-content/uploads/2024/10/2022-Mountain-Bike-Map-FINAL.pdf\">Giants Ridge Bike Park Map</a><br/>Current trail conditions: <a href=\"https://www.trailforks.com/region/giants-ridge/\">Trailforks &ndash; Giants Ridge</a></p><p><em>Trail lengths below are from the printed map; the resort&rsquo;s website lists some updated gravity-trail lengths.</em></p><p><strong>Gravity Freeride</strong> (lift-accessed jumps, berms, and flow)</p><ul><li><strong>Ribbit One, Two, Three</strong> &ndash; about 0.28 mi each | Intro trails with berms and smooth rolls</li><li><strong>Tadpole</strong> &ndash; 1.0 mi | Beginner-friendly flow</li><li><strong>Leapfrog</strong> &ndash; 1.0 mi | Great transitions and moderate features</li><li><strong>Featherlys</strong> &ndash; 0.74 mi | Smooth and flowy, intermediate</li><li><strong>Return to Send&rsquo;er</strong> &ndash; 0.85 mi | Intermediate flow</li><li><strong>Sector 12</strong> &ndash; 0.6 mi | Big features and progressive lines (black)</li><li><strong>Goliath</strong> &ndash; 0.74 mi | Advanced freeride challenge (double black)</li></ul><p><strong>Gravity Technical</strong> (steep, rocky, and rooty)</p><ul><li><strong>Kitty Cat</strong> &ndash; 1.0 mi (green) | Mellow intro to gravity trails</li><li><strong>Techonite</strong> &ndash; 0.45 mi (black) | Rock features and tighter turns</li><li><strong>Granite Gorge</strong> &ndash; 0.41 mi (double black) | Big drops and serious challenge</li></ul><p><strong>Cross-Country: Enchanted Flowest</strong></p><ul><li><strong>Enchanted Flowest Access</strong> &ndash; 0.65 mi | Entry to the XC network</li><li><strong>Turtle Trot</strong> &ndash; 0.81 mi | Ideal for beginners</li><li><strong>Moonshiner</strong> &ndash; 1.6 mi | Flow with a few technical surprises</li><li><strong>Ridge Runner</strong> &ndash; 1.0 mi | Winding through the pines</li><li><strong>Fine Wynne</strong> &ndash; 1.0 mi | Technical XC</li><li><strong>Ore Not</strong> &ndash; 0.64 mi | Most difficult</li></ul><p><strong>Cross-Country: South Trails</strong></p><ul><li><strong>Bootcamp</strong> &ndash; 0.51 mi | Perfect warm-up</li><li><strong>Norway</strong> &ndash; 1.4 mi | Gentle curves, fun pace</li><li><strong>Miners Mile</strong> &ndash; 1.0 mi | Fast-paced intermediate XC</li><li><strong>Boulder Project</strong> &ndash; 0.14 mi | Short, techy section</li></ul><p><strong>Little Giants Skills Park</strong><br/>Practice before hitting the mountain! The Skills Park is perfect for beginners and families, with progressive features designed to build rider confidence and technique.</p><p>Bike patrol (when the chairlift is operating): (218) 865-8019</p>",
+       "photo": "301f62ceb382afaa368952b3175e9ed3.jpg"
+      }
+     ]
+    },
+    {
+     "title": "Winter & Snow",
+     "items": [
+      {
+       "title": "Winter Equipment Rentals",
+       "html": "<p>Rent everything you need for a day on the slopes—from skis and snowboards to snowshoes and fat tire bikes. All downhill packages include a helmet and are fitted by certified rental technicians.</p> <p><strong>Rental Options Include:</strong></p> <ul> <li> <p><strong>Alpine &amp; Snowboard Gear</strong></p> </li> <li> <p><strong>Nordic Ski Equipment</strong></p> </li> <li> <p><strong>Snowshoes</strong></p> </li> <li> <p><strong>Fat Tire Bikes</strong></p> </li> </ul> <p><strong>Ski &amp; Snowboard Rental Pricing:</strong><br/><em>Includes skis/snowboard, boots, poles, and helmet</em></p> <ul> <li> <p><strong>Adult (13+):</strong> $39</p> </li> <li> <p><strong>Youth (7–12):</strong> $29</p> </li> <li> <p><strong>Child (6 &amp; under):</strong> $14</p> </li> <li> <p><em>High-performance package: $53 (Adult)</em></p> </li> </ul> <p><strong>Add-Ons &amp; A La Carte Options:</strong></p> <ul> <li> <p>Skis/Board only: $32 (Adult), $21 (Youth)</p> </li> <li> <p>Boots: $18 (Adult), $14 (Youth), $12 (Child)</p> </li> <li> <p>Poles: $6</p> </li> <li> <p>Helmet: $8</p> </li> <li> <p>High-performance gear available (extra fees apply)</p> </li> </ul> <p><strong>Booking Info:</strong><br/>Please <strong>purchase rentals and lift tickets online</strong> in advance. After checkout, waivers will be sent to your email—complete them before your visit. Pick up lift tickets at the desk before heading to rentals.</p> <p><strong>Other rentals:</strong> Nordic waxless package $18 (Adult) / $12 (Child); snowshoes $14/day; fat tire bikes $40 per session (9 AM&ndash;12 PM or 1&ndash;4 PM).</p> <p>Note: Rentals are first come, first served and subject to availability. Winter opening day is announced as Nov. 27, 2026 (weather permitting).</p> <p>More info: <a href=\"https://www.giantsridge.com/equipment-rentals/\">https://www.giantsridge.com/equipment-rentals/</a><br/>Questions? Call the Rental Shop at <strong>218-865-8024</strong></p>",
+       "photo": "662017ed0eedcc7c850d145e8fdc9a7d.jpg"
+      },
+      {
+       "title": "Giants Ridge Winter Trail Map",
+       "html": "<p>Explore Giants Ridge with ease using the winter trail map. It shows 35 alpine runs served by five chairlifts (Sarajevo Express, Calgary, Helsinki, Chamonix, and Rocky Top) plus conveyor and tow lifts, along with the snow tubing park, Nordic and snowshoe trails, fat-bike routes, and resort buildings including the Pool &amp; Sauna Haus.</p><p>Trail &amp; ski map: <a href=\"https://www.giantsridge.com/wp-content/uploads/2025/03/2024-Alpine-Map-FInal-scaled.jpg\">Giants Ridge Alpine Trail Map</a><br/>Snowshoe map: <a href=\"https://www.giantsridge.com/wp-content/uploads/2025/01/Giants-Ridge-Snowshoe-map-67100.pdf\">Snowshoe Trail Map (PDF)</a></p>",
+       "photo": "719e70cf9b267b7fbe4d5537b0304d26.jpg"
+      },
+      {
+       "title": "Skiing & Snowboarding",
+       "html": "<p>Hit the slopes at Giants Ridge for an unforgettable winter adventure. With 35 well-groomed runs for all skill levels, top-quality ski and snowboard rentals, and affordable daily tickets and season passes, it&rsquo;s the perfect spot for beginners and seasoned pros alike.</p><p>Everything you need for a great day on the mountain is right here.</p><p><strong>Season:</strong> Winter opening day is announced as Nov. 27, 2026 (weather permitting); closing date depends on conditions.</p><p><strong>2026&ndash;27 highlights:</strong></p><ul><li>Kids 12 and under ski and ride free all season (proof of age required; kids get a media card on their first visit)</li><li>Thursday Night Lights: free skiing 4&ndash;8 PM on Thursdays, starting Dec. 31</li></ul><p>Buy lift tickets and rentals online in advance. Daily lift ticket prices are listed on the Giants Ridge online shop.</p><p>More info: <a href=\"https://www.giantsridge.com/skiing-snowboarding/\">giantsridge.com/skiing-snowboarding</a><br/>Lift tickets &amp; season passes: <a href=\"https://www.giantsridge.com/winter-season-passes/\">giantsridge.com/winter-season-passes</a></p>",
+       "photo": "5dd731b69f52bdf75bb768548108ce3e.jpg"
+      },
+      {
+       "title": "Nordic Skiing",
+       "html": "<p>Giants Ridge is a premier Nordic skiing destination with a rich history&mdash;its trail system once served as a training ground for the U.S. Ski Team. Today, skiers of all ages and skill levels can explore miles of scenic trails through the Superior National Forest, with options ranging from green to black, including the lighted Northern Light trail (lights off at 8 PM).</p><p>Whether you're out for a peaceful glide or a serious workout, you&rsquo;ll find the perfect trail here.</p><p><strong>Trail passes (2025&ndash;26 rates; 2026&ndash;27 not yet posted):</strong> Full day $18 adult / $10 child; night $11 adult / $10 child. Waxless rental package $18 adult / $12 child.</p><p>More info: <a href=\"https://www.giantsridge.com/cross-country-skiing/\">giantsridge.com/cross-country-skiing</a></p>",
+       "photo": "f7dab522f43da879db143a8df73adb55.jpg"
+      },
+      {
+       "title": "Snow Tubing",
+       "html": "<p>Snow tubing is a must-try winter activity that's fun for all ages&mdash;no experience needed! Glide down one of three tubing lanes, then ride the handle tow back up for more. It&rsquo;s an easy, exciting way to enjoy the snow with family and friends.</p><p><strong>Hours (2025&ndash;26 schedule):</strong> Saturdays, 10:00 AM &ndash; 4:45 PM. Check the website for the 2026&ndash;27 schedule.<br/>Riders must be at least 5 years old and 42 inches tall. Snow boots required (no ski boots). Tickets must be bought online in advance.</p><p>More info: <a href=\"https://www.giantsridge.com/snow-tubing/\">giantsridge.com/snow-tubing</a></p>",
+       "photo": "cfc29f4f5c02938036cfe3f79558d5f4.jpg"
+      },
+      {
+       "title": "Snowshoeing",
+       "html": "<p>Explore the quiet beauty of winter on about 3.6 miles of scenic snowshoe trails. Wander through peaceful Northwoods landscapes along the Sleeping Giant (1.1 mi), North Face (1.2 mi), and Narrows (1.3 mi) trails&mdash;some even wrapping around Wynne Lake.</p><p>A great way to enjoy the outdoors at a slower pace, surrounded by the natural beauty of the Superior National Forest. Snowshoe rentals are $14 per day at the rental shop.</p><p>Snowshoe map: <a href=\"https://www.giantsridge.com/wp-content/uploads/2025/01/Giants-Ridge-Snowshoe-map-67100.pdf\">Snowshoe Trail Map (PDF)</a><br/>More info: <a href=\"https://www.giantsridge.com/snowshoeing/\">giantsridge.com/snowshoeing</a></p>",
+       "photo": "4a693c14dced01065063a33efee2a032.jpg"
+      },
+      {
+       "title": "Fat Tire Biking",
+       "html": "<p>Giants Ridge is a pioneer in Minnesota&rsquo;s fat tire biking scene. Ride groomed winter trails including the North XC Loop, Norway, Miner&rsquo;s Mile, and designated Nordic trails, or take on lift-served fat biking on gravity trails like Tadpole, Ribbits, Leapfrog, and Kitty Cat.</p><p>With routes winding through the scenic Superior National Forest, this is winter biking at its best. Use purpose-built fat bikes only (tires 3.7&Prime; or wider, 10 psi or less), yield to skiers, and stay out of classic ski tracks.</p><p><strong>Last posted rates:</strong> Lift &amp; trail pass $32 (lift-served passes sold online only); trail pass only $18; fat bike rental $40 per session (9 AM &ndash; 12 PM or 1 &ndash; 4 PM, limited to 8 riders).</p><p>More info: <a href=\"https://www.giantsridge.com/fat-tire-biking/\">giantsridge.com/fat-tire-biking</a></p>",
+       "photo": "66e3ee47de09265e46b132b297799a73.jpg"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

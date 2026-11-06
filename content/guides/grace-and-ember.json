@@ -129,7 +129,7 @@
       },
       {
        "title": "4:00 PM Check-in",
-       "html": "<p>If you would like an early check-in, please see our <a href=\"#/info/check-in-arrival/early-check-in-half-day-stay-option\">Early Check In (Half Day Stay Option)</a> section</p><p>Otherwise - 4:00 PM is a strict check-in time. If you are arriving early, take a look at the Local Recommendation section. We've listed a few things to do around the area while we prepare the home!</p>",
+       "html": "<p>If you would like an early check-in, please see our <a href=\"#/info/check-in-arrival/early-check-in-half-day-stay-option\">Early Check In (Half Day Stay Option)</a> section</p><p>Otherwise - 4:00 PM is a strict check-in time. If you are arriving early, take a look at the Explore the Area section. We've listed a few things to do around the area while we prepare the home!</p>",
        "photo": "11e339c716ed8af07a28c05e286c2caa.jpg"
       },
       {
@@ -234,8 +234,8 @@
      "title": "",
      "items": [
       {
-       "title": "WIFI / Internet Details",
-       "html": "<p>There is free Wi-Fi for your use. The details are: <br><br>WIFI Name: Grace and Ember</p><p>WIFI Password: Graceandember_guest</p><p>The service is provided for your enjoyment but you are responsible for safe and appropriate use and complying with all laws. If there is any loss of service please contact us.</p>",
+       "title": "Wi-Fi / Internet Details",
+       "html": "<p>There is free Wi-Fi for your use. The details are: <br><br>Wi-Fi Name: Grace and Ember</p><p>Wi-Fi Password: Graceandember_guest</p><p>The service is provided for your enjoyment but you are responsible for safe and appropriate use and complying with all laws. If there is any loss of service please contact us.</p>",
        "photo": "5ed7c444a9811d008c50a348f27c69d5.jpg"
       }
      ]
@@ -257,7 +257,7 @@
       },
       {
        "title": "Propane Tank(s)",
-       "html": "<p>We TRY to keep a full propane tank (and an extra one) at the home. Most of the time we can get them swapped out before check in. Unfortunately, that's not always possible. We apologize if you did not find a full propane tank upon arrival!</p><p>We can try and coordinate another person to deliver you a new tank, but their availability might not be immediate. If you need something quick, we recommend running to the store and exchanging the empty one(s) or a new one - and yes of course we would be happy to reimburse you for the tank and your trouble! Just let us know. Thank You.</p>",
+       "html": "<p>We try to keep a full propane tank (and an extra one) at the home. Most of the time we can get them swapped out before check in. Unfortunately, that's not always possible. We apologize if you did not find a full propane tank upon arrival!</p><p>We can try and coordinate another person to deliver you a new tank, but their availability might not be immediate. If you need something quick, we recommend running to the store and exchanging the empty one(s) or a new one - and yes of course we would be happy to reimburse you for the tank and your trouble! Just let us know. Thank You.</p>",
        "photo": "05f49508259ad5443ec6e6d70501e8b4.jpg"
       }
      ]
@@ -274,7 +274,7 @@
      "items": [
       {
        "title": "Hot Tub / Jacuzzi",
-       "html": "<p>Please Be Patient and Conscious When Using Jacuzzi Controls.</p><p>Do not push too many buttons at once or too often - this will put the Jacuzzi into Sleep Mode and It Will Not Heat! </p><p>Upon your arrival, the jacuzzi might* have a slightly lowered temperature and it may take a moment to heat up.</p><p>Simply raise the temperature by using the arrow up buttons until the screen shows a different temperature.</p><p>We recommend an ideal temperature of 102*F. </p><p><a href=\"https://www.loom.com/share/98094537fbe7483bb8cfe80cbe2f1c16\">Jacuzzi Video</a></p>",
+       "html": "<p>Please Be Patient and Conscious When Using Jacuzzi Controls.</p><p>Do not push too many buttons at once or too often - this will put the Jacuzzi into Sleep Mode and It Will Not Heat! </p><p>Upon your arrival, the jacuzzi might* have a slightly lowered temperature and it may take a moment to heat up.</p><p>Simply raise the temperature by using the arrow up buttons until the screen shows a different temperature.</p><p>We recommend an ideal temperature of 102°F. </p><p><a href=\"https://www.loom.com/share/98094537fbe7483bb8cfe80cbe2f1c16\">Jacuzzi Video</a></p>",
        "video": "https://www.loom.com/embed/98094537fbe7483bb8cfe80cbe2f1c16",
        "photo": "4a5a606b0a26a751851c155ee1cb1ab8.jpg"
       }
@@ -309,7 +309,7 @@
      "items": [
       {
        "title": "Kitchen + Supplies + Appliances",
-       "html": "<p>We have a fully stocked kitchen with a stainless steel appliance package. We try to provide everything you may need, but we're not perfect. If you have ANY suggestions for small appliances, dishware, flatware, glassware, or even dry goods that would be beneficial - let us know! We would be happy to see if it's possible to place an Amazon/Walmart/Grocery delivery order for you during your stay :)</p>"
+       "html": "<p>We have a fully stocked kitchen with a stainless steel appliance package. We try to provide everything you may need, but we're not perfect. If you have any suggestions for small appliances, dishware, flatware, glassware, or even dry goods that would be beneficial - let us know! We would be happy to see if it's possible to place an Amazon/Walmart/Grocery delivery order for you during your stay :)</p>"
       }
      ]
     }
@@ -366,11 +366,11 @@
       },
       {
        "title": "Pet Policy - Max 2 Dogs (with approval)",
-       "html": "<p>This home is pet-friendly, so you can bring your furry friend from home! <strong>MAX 2 DOGS ALLOWED</strong> per stay, with approval.</p><p>All pets must be on your reservation. Please let us know beforehand so we can take the proper cleaning measures. A <strong>$150 pet fee</strong> will be added to your reservation for any approved pet before arrival.</p><p>If you bring a pet without notifying your hosts, you will be charged <strong>double</strong> for any unapproved pet.</p>"
+       "html": "<p>This home is pet-friendly, so you can bring your furry friend from home! <strong>Max 2 dogs allowed</strong> per stay, with approval.</p><p>All pets must be on your reservation. Please let us know beforehand so we can take the proper cleaning measures. A <strong>$150 pet fee</strong> will be added to your reservation for any approved pet before arrival.</p><p>If you bring a pet without notifying your hosts, you will be charged <strong>double</strong> for any unapproved pet.</p>"
       },
       {
        "title": "Reservation Adjustments",
-       "html": "<p>If you need to make any change in your stay, for example, regarding the number of guests, bringing a service animal or anything at all, please let us know ahead of time so we can accommodate you. However, if you do not disclose any changes, like an animal or extra guests (above max occupancy) you could be subject to a reservtion cancellation without refund. </p>"
+       "html": "<p>If you need to make any change in your stay, for example, regarding the number of guests, bringing a service animal or anything at all, please let us know ahead of time so we can accommodate you. However, if you do not disclose any changes, like an animal or extra guests (above max occupancy) you could be subject to a reservation cancellation without refund. </p>"
       },
       {
        "title": "Security Camera",
@@ -378,11 +378,11 @@
       },
       {
        "title": "Septic and Plumbing",
-       "html": "<p>Please ONLY PUT TOILET PAPER in the toilet and throw the remaining in the trash!</p><p>Tampons, baby wipes, paper towels, or anything other than toilet paper in the toilet will clog the drain/tank. This can result in clogged toilets, and septic damage and will result in damage fees.</p>"
+       "html": "<p>Please <strong>only put toilet paper</strong> in the toilet and throw the remaining in the trash!</p><p>Tampons, baby wipes, paper towels, or anything other than toilet paper in the toilet will clog the drain/tank. This can result in clogged toilets, and septic damage and will result in damage fees.</p>"
       },
       {
        "title": "Smoking",
-       "html": "<p>We have a strict No Smoking Policy. Smoking is not allowed on the property in any form. This includes, but is not limited to marijuana, pipes, cigars, cigarettes, vaping, e-cigs, etc. If our cleaners or cameras report evidence of smoking you will be charged a 500$ smoke remediation fine. </p>"
+       "html": "<p>We have a strict No Smoking Policy. Smoking is not allowed on the property in any form. This includes, but is not limited to marijuana, pipes, cigars, cigarettes, vaping, e-cigs, etc. If our cleaners or cameras report evidence of smoking you will be charged a $500 smoke remediation fine. </p>"
       }
      ]
     }
@@ -390,15 +390,15 @@
   },
   "tv-streaming": {
    "id": "tv-streaming",
-   "title": "TV's + Streaming",
+   "title": "TVs + Streaming",
    "icon": "tv",
    "groups": [
     {
      "title": "",
      "items": [
       {
-       "title": "TV's + Streaming",
-       "html": "<p>We have Hi-Speed WIFI for all of your streaming needs!</p><p>There are Smart TV's throughout the entire home.</p><p>Go to the TV Home Screen</p><p>Search For (or Download) The Channel App You Want To Watch &amp; Login to your TV Provider.</p><p>Please don't hesitate to reach out if you need provider login assistance!</p>",
+       "title": "TVs + Streaming",
+       "html": "<p>We have high-speed Wi-Fi for all of your streaming needs!</p><p>There are Smart TVs throughout the entire home.</p><p>Go to the TV Home Screen</p><p>Search For (or Download) The Channel App You Want To Watch &amp; Login to your TV Provider.</p><p>Please don't hesitate to reach out if you need provider login assistance!</p>",
        "photo": "729ecb38918b0e99bc0a0ec5fa74c6d2.jpg"
       }
      ]
@@ -415,7 +415,7 @@
      "items": [
       {
        "title": "Heating / Cooling",
-       "html": "<p>There is a smart thermostat on the wall that allows you to control the temperature of the home. When you arrive, the thermostat should be set to keep the temperature between 70-74*F - but you can adjust if you need. If you're running the air conditioning or heating - PLEASE keep all windows and outside doors closed to ensure it operates at maximum efficiency. We recommend a setting of about 72*F which we find keeps the place at a comfortable temperature.</p>",
+       "html": "<p>There is a smart thermostat on the wall that allows you to control the temperature of the home. When you arrive, the thermostat should be set to keep the temperature between 70-74°F - but you can adjust if you need. If you're running the air conditioning or heating - Please keep all windows and outside doors closed to ensure it operates at maximum efficiency. We recommend a setting of about 72°F which we find keeps the place at a comfortable temperature.</p>",
        "photo": "6dcf0c01138989074a4f45f1ba6e2775.jpg"
       }
      ]
@@ -433,7 +433,7 @@
       {
        "title": "Fireplace",
        "photo": "grace-ember-fireplace-controls.jpg",
-       "html": "<p>Available <strong>September 1st through May 1st</strong>. This is a propane, vent-free gas fireplace. No wood or matches needed.</p><h3>Turn It On With The Remote (Easiest)</h3><ol><li>Find the fireplace remote. It's usually on the <strong>mantel</strong> or the <strong>coffee table</strong>.</li><li>Press <strong>ON</strong>. The flames come on within a few seconds.</li><li>Press <strong>OFF</strong> when you're done.</li></ol><p>The small pilot flame stays lit after you turn it off. That's normal. Please put the remote back on the mantel or coffee table when you're done.</p><h3>Turn It On Without The Remote</h3><p>Open the small black panel below the fireplace screen. You'll see three controls (see photo): <strong>1 Ignitor</strong> (left), <strong>2 Knob</strong> (middle) and <strong>3 Slide Switch</strong> (right).</p><ol><li>Make sure the <strong>Knob</strong> points to <strong>ON</strong> and the small pilot flame is lit.</li><li>Move the <strong>Slide Switch</strong> to <strong>ON</strong> (left). The fireplace lights.</li><li>To turn it off, move the Slide Switch to <strong>OFF</strong> (right).</li><li>When you're done, put the Slide Switch back in the <strong>middle (REMOTE)</strong> so the remote works for the next guest.</li></ol><h3>It Won't Turn On?</h3><p>Check these, in order:</p><ol><li><strong>Slide Switch</strong> is in the <strong>middle (REMOTE)</strong>. The remote won't work if it's on OFF.</li><li><strong>Knob</strong> points to <strong>ON</strong> (not PILOT or OFF).</li><li><strong>Pilot is lit.</strong> Look for a small flame near the burner under the logs. No flame? Follow <strong>Relighting The Pilot</strong> below.</li><li><strong>Remote batteries.</strong> The remote takes 2 AAA batteries.</li></ol><h3>Relighting The Pilot</h3><p>Only needed if the small pilot flame is out. You'll use the <strong>Knob</strong> and the <strong>Ignitor</strong> button behind the black panel.</p><ol><li>Push the Knob in slightly and turn it <strong>clockwise to OFF</strong>. Wait <strong>5 minutes</strong>.</li><li>If you smell gas around the fireplace, <strong>stop</strong> and call or text us. Don't try to light it.</li><li>Push the Knob in and turn it <strong>counterclockwise to PILOT</strong>. <strong>Keep it pressed in.</strong></li><li>While still holding the Knob in, press the <strong>Ignitor</strong> button again and again until the small pilot flame lights.</li><li><strong>Keep holding the Knob in for 30 more seconds</strong>, then let go. The pilot should stay lit. If it goes out, wait 5 minutes and start again from step 1.</li><li>Turn the Knob <strong>counterclockwise to ON</strong>.</li><li>Put the Slide Switch in the <strong>middle (REMOTE)</strong> and use the remote.</li></ol><p>If the Ignitor clicks but won't light the pilot, or the pilot won't stay lit after two tries, please call or text us. Please don't use matches or a lighter.</p><h3>If It Turns Off By Itself</h3><p>The fireplace has a built-in safety sensor and can shut itself off if the room needs fresh air. Open a window or door for a few minutes, wait 5 minutes, then try the remote again. If the pilot is out, follow Relighting The Pilot above. If it keeps shutting off, turn it off and let us know.</p><h3>Fireplace Safety</h3><ul><li>Keep the screen closed whenever the fireplace is on.</li><li>The screen, glass and metal get <strong>very hot</strong>. Keep kids and pets away.</li><li>Keep blankets, clothing and furniture well away from the front.</li><li>Turn it off before bed and whenever you leave the house.</li><li>Please don't move or touch the logs, and never put anything inside the fireplace.</li></ul>"
+       "html": "<p>Available <strong>September 1st through May 1st</strong>. This is a propane, vent-free gas fireplace. No wood or matches needed.</p><h3>Turn It On With The Remote (Easiest)</h3><ol><li>Find the fireplace remote. It's usually on the <strong>mantel</strong> or the <strong>coffee table</strong>.</li><li>Press <strong>ON</strong>. The flames come on within a few seconds.</li><li>Press <strong>Off</strong> when you're done.</li></ol><p>The small pilot flame stays lit after you turn it off. That's normal. Please put the remote back on the mantel or coffee table when you're done.</p><h3>Turn It On Without The Remote</h3><p>Open the small black panel below the fireplace screen. You'll see three controls (see photo): <strong>1 Ignitor</strong> (left), <strong>2 Knob</strong> (middle) and <strong>3 Slide Switch</strong> (right).</p><ol><li>Make sure the <strong>Knob</strong> points to <strong>ON</strong> and the small pilot flame is lit.</li><li>Move the <strong>Slide Switch</strong> to <strong>ON</strong> (left). The fireplace lights.</li><li>To turn it off, move the Slide Switch to <strong>Off</strong> (right).</li><li>When you're done, put the Slide Switch back in the <strong>middle (remote)</strong> so the remote works for the next guest.</li></ol><h3>It Won't Turn On?</h3><p>Check these, in order:</p><ol><li><strong>Slide Switch</strong> is in the <strong>middle (remote)</strong>. The remote won't work if it's on Off.</li><li><strong>Knob</strong> points to <strong>ON</strong> (not Pilot or Off).</li><li><strong>Pilot is lit.</strong> Look for a small flame near the burner under the logs. No flame? Follow <strong>Relighting The Pilot</strong> below.</li><li><strong>Remote batteries.</strong> The remote takes 2 AAA batteries.</li></ol><h3>Relighting The Pilot</h3><p>Only needed if the small pilot flame is out. You'll use the <strong>Knob</strong> and the <strong>Ignitor</strong> button behind the black panel.</p><ol><li>Push the Knob in slightly and turn it <strong>clockwise to off</strong>. Wait <strong>5 minutes</strong>.</li><li>If you smell gas around the fireplace, <strong>stop</strong> and call or text us. Don't try to light it.</li><li>Push the Knob in and turn it <strong>counterclockwise to Pilot</strong>. <strong>Keep it pressed in.</strong></li><li>While still holding the Knob in, press the <strong>Ignitor</strong> button again and again until the small pilot flame lights.</li><li><strong>Keep holding the Knob in for 30 more seconds</strong>, then let go. The pilot should stay lit. If it goes out, wait 5 minutes and start again from step 1.</li><li>Turn the Knob <strong>counterclockwise to ON</strong>.</li><li>Put the Slide Switch in the <strong>middle (remote)</strong> and use the remote.</li></ol><p>If the Ignitor clicks but won't light the pilot, or the pilot won't stay lit after two tries, please call or text us. Please don't use matches or a lighter.</p><h3>If It Turns Off By Itself</h3><p>The fireplace has a built-in safety sensor and can shut itself off if the room needs fresh air. Open a window or door for a few minutes, wait 5 minutes, then try the remote again. If the pilot is out, follow Relighting The Pilot above. If it keeps shutting off, turn it off and let us know.</p><h3>Fireplace Safety</h3><ul><li>Keep the screen closed whenever the fireplace is on.</li><li>The screen, glass and metal get <strong>very hot</strong>. Keep kids and pets away.</li><li>Keep blankets, clothing and furniture well away from the front.</li><li>Turn it off before bed and whenever you leave the house.</li><li>Please don't move or touch the logs, and never put anything inside the fireplace.</li></ul>"
       }
      ]
     }

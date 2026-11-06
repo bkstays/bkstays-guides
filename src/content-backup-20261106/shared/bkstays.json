@@ -1,0 +1,22 @@
+{
+ "sections": {
+  "about-us": {
+   "id": "about-us",
+   "title": "About Us",
+   "icon": "users",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "About Your Hosts",
+       "html": "<p>Our first trip to North Georgia was way back in the summer of 2021 and we undeniably fell in love. The mountain vibes left such a good impression, that we decided as a family to find a home away from home. The surrounding area has so much to offer for families, friends, and couples during every season of the year. We have had the chance to experience so much that Blue Ridge, Ellijay, and the North Georgia Mountains have to offer, but we still have a long bucket list waiting for our next adventure. We have a 6-year-old daughter and a 3-year-old son and love traveling and spending time exploring new places as a family.</p>",
+       "photo": "about-us-family-collage.jpg",
+       "photoFit": "full"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

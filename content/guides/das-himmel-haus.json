@@ -242,8 +242,8 @@
      "title": "",
      "items": [
       {
-       "title": "WIFI / Internet Details",
-       "html": "<p>There is free Wi-Fi for your use. The details are: <br><br>WIFI Name: Das Himmel Haus</p> <p>WIFI Password: DasHimmelHaus</p> <p>The service is provided for your enjoyment but you are responsible for safe and appropriate use and complying with all laws. If there is any loss of service please contact us.</p>",
+       "title": "Wi-Fi / Internet Details",
+       "html": "<p>There is free Wi-Fi for your use. The details are: <br><br>Wi-Fi Name: Das Himmel Haus</p> <p>Wi-Fi Password: DasHimmelHaus</p> <p>The service is provided for your enjoyment but you are responsible for safe and appropriate use and complying with all laws. If there is any loss of service please contact us.</p>",
        "photo": "5ed7c444a9811d008c50a348f27c69d5.jpg"
       }
      ]
@@ -469,7 +469,7 @@
       },
       {
        "title": "Jacuzzi",
-       "html": "<p>Never Add Any Foreign Substance To The Jacuzzi (No Bubbles or Soaps)!</p><p>Always Put The Cover Back On When Not In Use!</p><p>Do Not Raise The Temp Above 102*F</p><p>The jacuzzi is thoroughly inspected after each guest. Failure to adhere will cause additional maintenance and cleaning measures, or worse, damage to the unit. Fines will be imposed if evidence of foreign substance or damage is found during inspection. </p>",
+       "html": "<p>Never Add Any Foreign Substance To The Jacuzzi (No Bubbles or Soaps)!</p><p>Always Put The Cover Back On When Not In Use!</p><p>Do Not Raise The Temp Above 102°F</p><p>The jacuzzi is thoroughly inspected after each guest. Failure to adhere will cause additional maintenance and cleaning measures, or worse, damage to the unit. Fines will be imposed if evidence of foreign substance or damage is found during inspection. </p>",
        "photoHidden": "1db70dd982d56343eea3c3429e1f35da.jpg"
       },
       {
@@ -514,15 +514,15 @@
   },
   "tv-streaming": {
    "id": "tv-streaming",
-   "title": "TV's + Streaming",
+   "title": "TVs + Streaming",
    "icon": "tv",
    "groups": [
     {
      "title": "",
      "items": [
       {
-       "title": "TV's + Streaming",
-       "html": "<p>We have Hi-Speed WIFI for all of your streaming needs!</p><p>There are Smart TV's throughout the entire home.</p><p>Go to the TV Home Screen</p><p>Search For (or Download) The Channel App You Want To Watch &amp; Login to your TV Provider.</p><p>Please don't hesitate to reach out if you need provider login assistance!</p>",
+       "title": "TVs + Streaming",
+       "html": "<p>We have high-speed Wi-Fi for all of your streaming needs!</p><p>There are Smart TVs throughout the entire home.</p><p>Go to the TV Home Screen</p><p>Search For (or Download) The Channel App You Want To Watch &amp; Login to your TV Provider.</p><p>Please don't hesitate to reach out if you need provider login assistance!</p>",
        "photo": "729ecb38918b0e99bc0a0ec5fa74c6d2.jpg"
       }
      ]
