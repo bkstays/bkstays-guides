@@ -1,0 +1,55 @@
+{
+ "home": {
+  "hero": "region-georgia.jpg",
+  "headline": "Modern Comfort. Scenic Retreats. Hosts Who Care.",
+  "lead": "Brandon and Katharina believe in making your vacation truly exceptional. Whether you're searching for a secluded mountain-top cabin, a modern downtown condo or a beach villa, our homes are made for every kind of trip in the most sought-after destinations.",
+  "stats": [["14", "Vacation homes"], ["4", "States"], ["4.95", "Average guest rating"], ["100%", "Response rate"]],
+  "hostsTitle": "A family business, hosting families",
+  "hostsText": "We're Brandon and Katharina, an Atlanta family of four with three rescue dogs. We host every home the way we'd want to be hosted: spotless, thoughtfully stocked and with a real person a message away.",
+  "direct": [
+   ["Better rates", "Booking here skips the extra platform service fees, so you get our best price."],
+   ["Talk to your hosts", "Message Brandon and Katharina directly before and during your stay."],
+   ["Everything in one place", "Your digital guidebook covers check-in, the home and our favorite local spots."]
+  ]
+ },
+ "about": {
+  "title": "Modern Comfort. Scenic Retreats. Hosts Who Care.",
+  "story": [
+   "Brandon and Katharina met in Atlanta over 10 years ago. After a destination wedding in Mexico, they had their daughter, Emmy. A few short years later, their family grew with the addition of their son, Leo. As an active family of four, they're always on the go, whether it's swimming lessons, gymnastics, soccer, softball, visiting local playgrounds and the library, or simply out in the neighborhood with their three rescue dogs!",
+   "Brandon, originally from Iowa and a former football player, has spent his career in sports. He has worked in college athletics since his arrival in Atlanta over a decade ago.",
+   "Being a dual citizen, Katharina was born and raised in Germany before moving to the States. She currently serves as the Director of the German Desk for an international recruiting and consulting firm."
+  ],
+  "favorites": [
+   {"eyebrow": "Leo's top recommendation", "title": "Cherry Log Summit", "img": "about-leo.jpg", "home": "cherry-log-summit", "homeName": "Cherry Log Summit",
+    "text": "Check out Leo with his best friend Chewy at Cherry Log Summit. This little man would spend every weekend at the cabin if he could. With a fully fenced-in yard, jacuzzi, outdoor playground and game room, this home is our top choice for families traveling with kids."},
+   {"eyebrow": "Emmy's favorite place", "title": "Havana Haven", "img": "about-emmy.jpg", "home": "havana-haven", "homeName": "Havana Haven",
+    "text": "Emmy won't ever pass up an opportunity for a beach vacation. Here she is being silly down in Fort Lauderdale, Florida. Naturally, her favorite home is Havana Haven. With its large heated pool, and located only a mile from the beach, this home has a special place in her heart."}
+  ],
+  "join": "Join Brandon and Katharina in their pursuit of adventure, family and embracing all that life has to offer."
+ },
+ "pm": {
+  "title": "Short-term rental management that earns more",
+  "lead": "Wondering where your property could be improved? Send us your details and we'll get back to you with a free property analysis.",
+  "stats": [["+26%", "Revenue vs. market across our portfolio"], ["+14%", "RevPAR vs. market"], ["4.95", "Portfolio star rating"], ["100%", "Response rate across all platforms"]],
+  "whatLead": "We take care of everything so you can focus on the more important things: more revenue, better home care and a premier guest experience.",
+  "what": ["Listing creation and optimization", "Professional photography", "Property design consultation", "Social media marketing", "Inventory management", "Ongoing home maintenance", "Amenity installation and protection", "Monthly and yearly financial reporting", "Guest communication", "Professional cleaning services", "Guidebook creation", "Revenue and price optimization"],
+  "services": [
+   ["24/7 support", "Your guests always have support from our team. Whether it's maintenance or questions about the property, we're on call 24/7."],
+   ["Spotless housekeeping", "Every home is cared for by professional cleaners dedicated to handing over a flawless property to every guest."],
+   ["Unlimited owner use", "It's your home. We never limit your own stays, so you have full, unlimited access."],
+   ["100% owner satisfaction", "Mistakes happen, but you have our commitment that we'll do everything in our power to make it right."],
+   ["Transparent updates", "Stay connected with text notifications for every reservation as it comes in."],
+   ["5-star service", "Everything begins and ends with guests. We go out of our way to make every stay a 5-star experience."]
+  ],
+  "quotes": [
+   ["Working with BK Stays has been nothing short of transformational for our short term rental property. From the very beginning, they provided invaluable feedback that directly contributed to an increase in bookings and overall 5-star customer satisfaction rating.", "Jessi"],
+   ["What sets BK Stays apart is their unwavering commitment to a customer-backed approach. Every decision they make centers on ensuring that guests are not only satisfied but genuinely delighted.", "Laura"],
+   ["BK Stays is also unmatched in their responsiveness and professionalism. Any question, concern, or request we've had has been met with prompt and thorough responses.", "Nathan"]
+  ],
+  "formLead": "Tell us about your property and share your listing link. We'll send back a free analysis of where it could earn more.",
+  "meet": [
+   "Brandon and Katharina's journey began over 10 years ago in Atlanta, where they met and quickly became partners in life and business. After a destination wedding in Mexico, their family grew with their daughter, Emmy, and son, Leo, plus three rescue dogs.",
+   "Brandon, originally from Iowa, has a deep background in sports and has worked in college athletics since moving to Atlanta. Katharina, a dual citizen born and raised in Germany, is the Director of the German Desk for an international recruiting and consulting firm. Together, they've built a property management business grounded in family values and exceptional service."
+  ]
+ }
+}
