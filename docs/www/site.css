@@ -265,3 +265,6 @@ section.block.fav { padding: 56px 0; }
 .fav-home span { position: absolute; left: 12px; bottom: 12px; background: rgba(0,0,0,.6); color: #fff; font-size: .85rem; font-weight: 600; padding: 6px 12px; border-radius: 999px; }
 .fav-side .facts-row { margin: 4px 0 20px; }
 @media (max-width: 860px) { .fav-grid, .fav-grid.flip { grid-template-columns: 1fr; gap: 24px; } .fav-grid.flip .fav-person { order: 0; } }
+.fav-side { text-align: center; }
+.fav-side .facts-row { justify-content: center; }
+.fav-home span { left: 50%; transform: translateX(-50%); white-space: nowrap; }
