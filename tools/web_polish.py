@@ -61,6 +61,9 @@ HOME = {
     'cherry-log-summit': {
         'Pet Friendly! Fenced-in Yard!': None,
         'Extra beds: 1 Queen Sleeper Sofas': 'Extra Bed: 1 Queen Sleeper Sofa',
+        'Main Level: Queen, Shared Bath, 24” TV, Desk – Sleeps 2': 'Main Level: King, Shared Bath, 24” TV, Desk – Sleeps 2',
+        'Lower Level: Queen + Twin Trundle, Shared Bath, 30” TV – Sleeps 4': 'Lower Level: 2 Queens, Shared Bath, 30” TV – Sleeps 4',
+        'Bonus: Queen Pullout Sofa – Sleeps 2': 'Bonus (Lower Level): Queen Pullout Sofa – Sleeps 2',
         'Easy access to North GA spots': 'Easy Access to North Georgia Favorites',
         'Central Location between Blue Ridge & Ellijay': 'Central Location Between Blue Ridge & Ellijay',
         '”Very peaceful and enjoyable trip for all ages!”': '“Very peaceful and enjoyable trip for all ages!”',
