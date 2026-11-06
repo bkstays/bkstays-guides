@@ -252,3 +252,16 @@ mark.todo { background: #fff2a8; padding: 0 .2em; border-radius: 4px; }
 @media (max-width: 860px) { .about-hero .wrap { grid-template-columns: 1fr; gap: 26px; } .about-hero { padding: 30px 0 40px; } }
 
 .split img.portrait { aspect-ratio: 4 / 5; max-width: 460px; justify-self: center; }
+
+/* About: favorites = person photo + home photo + copy */
+section.block.fav { padding: 56px 0; }
+.fav-grid { display: grid; grid-template-columns: 0.85fr 1fr; gap: 44px; align-items: center; }
+.fav-grid.flip { grid-template-columns: 1fr 0.85fr; }
+.fav-grid.flip .fav-person { order: 2; }
+.fav-person img.portrait { width: 100%; max-width: none; aspect-ratio: 4 / 5; object-fit: cover; border-radius: 22px; display: block; }
+.fav-home { display: block; position: relative; margin-bottom: 22px; border-radius: 18px; overflow: hidden; }
+.fav-home img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; display: block; transition: transform .4s; }
+.fav-home:hover img { transform: scale(1.03); }
+.fav-home span { position: absolute; left: 12px; bottom: 12px; background: rgba(0,0,0,.6); color: #fff; font-size: .85rem; font-weight: 600; padding: 6px 12px; border-radius: 999px; }
+.fav-side .facts-row { margin: 4px 0 20px; }
+@media (max-width: 860px) { .fav-grid, .fav-grid.flip { grid-template-columns: 1fr; gap: 24px; } .fav-grid.flip .fav-person { order: 0; } }

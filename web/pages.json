@@ -55,7 +55,9 @@
     "home": "cherry-log-summit",
     "homeName": "Cherry Log Summit",
     "text": "Leo would spend every weekend at the cabin if he could, and his dad is usually right there with him. With a fully fenced-in yard, jacuzzi, outdoor playground and game room, Cherry Log Summit is our top pick for families traveling with kids.",
-    "alt": "Brandon and Leo"
+    "alt": "Brandon and Leo",
+    "homeImg": "cherry-log-summit/01.jpg",
+    "homeImgPos": "center 15%"
    },
    {
     "eyebrow": "Emmy's favorite place",
@@ -65,7 +67,8 @@
     "home": "havana-haven",
     "homeName": "Havana Haven",
     "text": "Emmy never passes up a beach trip, and a girls' getaway with mom to Fort Lauderdale is her favorite kind. With its large heated pool and the beach only a mile away, Havana Haven has a special place in her heart.",
-    "alt": "Katharina and Emmy"
+    "alt": "Katharina and Emmy",
+    "homeImg": "havana-haven/01.jpg"
    }
   ],
   "join": "Join Brandon and Katharina in their pursuit of adventure, family and embracing all that life has to offer.",

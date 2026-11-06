@@ -300,8 +300,12 @@ def build_about():
         return f'<div class="photo-todo"><span>{esc(f.get("photoNote", "Photo needed"))}</span></div>'
     favs = ''
     for k, f in enumerate(A['favorites']):
-        favs += f'''<section class="block {"white" if k % 2 == 0 else ""}"><div class="wrap split {"flip" if k % 2 else ""}">{pic(f)}
-<div><span class="eyebrow">{esc(f["eyebrow"])}</span><h2>{esc(f["title"])}</h2><p>{mk(f["text"])}</p><a class="btn" href="{p}{f["home"]}/">See {esc(f["homeName"])}</a></div></div></section>'''
+        h = next(x for x in HOMES if x['slug'] == f['home'])
+        fx = ''.join(f'<span class="fact">{x}</span>' for x in facts(h))
+        favs += f'''<section class="block fav {"white" if k % 2 == 0 else ""}"><div class="wrap fav-grid {"flip" if k % 2 else ""}">
+<div class="fav-person">{pic(f)}</div>
+<div class="fav-side"><a class="fav-home" href="{p}{f["home"]}/"><img src="{p}img/{f["homeImg"]}" alt="{esc(f["homeName"])}" loading="lazy" style="object-position:{f.get('homeImgPos', 'center')}"><span>{esc(f["homeName"])} · {esc(h["city"])}, {esc(h["st"])}</span></a>
+<span class="eyebrow">{esc(f["eyebrow"])}</span><h2>{esc(f["title"])}</h2><p>{mk(f["text"])}</p><div class="facts-row">{fx}</div><a class="btn" href="{p}{f["home"]}/">See {esc(f["homeName"])}</a></div></div></section>'''
     body = f'''<section class="about-hero"><div class="wrap"><div class="ah-text"><span class="eyebrow">About us</span><h1>{esc(A["heroTitle"])}</h1><p class="lead">{esc(A["heroLead"])}</p></div>
 <div class="ah-photo"><img src="{p}img/{A["heroImg"]}" alt="Brandon, Katharina, Emmy and Leo"></div></div></section>
 <section class="block white"><div class="wrap" style="max-width:820px"><span class="eyebrow">Our story</span><h2>{esc(A["title"])}</h2>{"".join(f"<p style='font-size:1.1rem'>{mk(x)}</p>" for x in A["story"])}</div></section>
