@@ -1,5 +1,3 @@
 
-## Pending Hospitable agreement edits (need browser) — 2026-11-05
-All 4 templates (Bellaire, DHH, Havana, Iron Range): add section "No Commercial Use" (alphabetical, before Noise Monitoring):
-This rental is for private stays only. Commercial use of any kind is strictly prohibited without the Host(s)' prior written approval and a signed Event Addendum. This includes retreats, workshops, classes, wellness or coaching programs, photo or video shoots, and any paid event. Guests may not charge admission, sell or rent rooms or spots, sublease, or advertise or list the property (including on social media or event sites), and may not use our photos or property name in any promotion. If a violation is discovered, regardless of how the reservation was booked, Host(s) may end the stay immediately without refund, keep any security deposit, charge a Commercial Use Fee of $10,000 or all money collected from others (whichever is greater), and report the guest to the platform used to book, which may result in removal from that platform.
-Iron Range also: Occupancy -> drop "ages 2 and up" and "$500 per additional person", use loss of security deposit; Smoking -> no smoking anywhere (indoors or outdoors), loss of security deposit (match guide).
+## Agreement edits 2026-11-06 (done)
+No Commercial Use added to all 9 Hospitable templates. Iron Range occupancy/smoking updated. Open: Cherry Log (and likely other North Georgia) agreements still say $500 smoking charge.
