@@ -89,6 +89,8 @@ HOME = {
             'Bathroom 2 (Sage Retreat) with Single Vanity and Tub/Shower Combination',
         'Select dogs are welcome with prior approval. Please see below for details.':
             'Select dogs are welcome with prior approval.',
+        'Select dogs are welcome with prior approval. Please see the pet policy below for details.':
+            'Dogs under 50 lbs are welcome with prior approval. A $150 pet fee applies per dog, max 2 dogs.',
     },
     'havana-haven': {
         'Leatherbound Sofa and 2 Bright Accent chairs': 'Leatherbound Sofa and 2 Bright Accent Chairs',
