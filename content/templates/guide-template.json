@@ -14,8 +14,9 @@
  "coverDesktop": "PROPERTY-view.jpg",
  "background": "PROPERTY-view.jpg",
  "contact": {
-  "phone": "404-358-1552",
-  "sms": "404-358-1552",
+  "phone": "775-257-8297",
+  "sms": "775-257-8297",
+  "vanity": "775-BKSTAYS",
   "email": ""
  },
  "gate": true,
@@ -88,7 +89,7 @@
       },
       {
        "title": "Returning Guests",
-       "html": "<p>We would love to have you stay again! In fact, please take advantage of booking directly with us at <a href=\"https://www.bkstays.com/about-us\">bkstays.com </a>- please reach out to us on Instagram, Facebook, or directly to Brandon at 404 - 358 - 1552. </p>",
+       "html": "<p>We would love to have you stay again! In fact, please take advantage of booking directly with us at <a href=\"https://www.bkstays.com/about-us\">bkstays.com </a>- please reach out to us on Instagram, Facebook, or directly at <a href=\"tel:+17752578297\">775-257-8297 (775-BKSTAYS)</a>. </p>",
        "photoHidden": "5e53f078d45d701f01a19dcba10f0cc7.jpg"
       },
       {
@@ -98,7 +99,7 @@
       },
       {
        "title": "How To Contact Us",
-       "html": "<p><strong>Contacting Us</strong><br>We pride ourselves on swiftly meeting guest needs.  We can be reached at the contact info below:</p><ul><li>Message: through Airbnb / VRBO (simple assistance)</li><li>Phone: 1-404-358-1552 (emergencies)</li><li>Instagram or Facebook @ bk_stays</li></ul>",
+       "html": "<p><strong>Contacting Us</strong><br>We pride ourselves on swiftly meeting guest needs.  We can be reached at the contact info below:</p><ul><li>Message: through Airbnb / VRBO (simple assistance)</li><li>Phone: 775-257-8297 / 775-BKSTAYS (emergencies)</li><li>Instagram or Facebook @ bk_stays</li></ul>",
        "photoHidden": "4f717eaaf0303b1fec1a0ee821f299a1.jpg"
       }
      ]

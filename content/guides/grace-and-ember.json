@@ -13,8 +13,9 @@
  "coverDesktop": "grace-and-ember-view.jpg",
  "background": "grace-and-ember-view.jpg",
  "contact": {
-  "phone": "404-358-1552",
-  "sms": "404-358-1552",
+  "phone": "775-257-8297",
+  "sms": "775-257-8297",
+  "vanity": "775-BKSTAYS",
   "email": ""
  },
  "gate": true,
@@ -102,7 +103,7 @@
      "items": [
       {
        "title": "Welcome to Grace and Ember!",
-       "html": "<p><strong>Welcome to Grace and Ember!</strong><br>Here at your fingertips is everything you should need for your stay with us, from planning your time before departure straight through checkout. In this easy-to-navigate link, you will find information about the cabin, ideas of things to do in the area, our Wi-Fi login credentials, and so much more.</p><p>In order to best enjoy your time in our home, we encourage you to add this \"app\" to your phone. All of the content will even be accessible when your phone is offline.</p><p>* It's not really an \"app\", but more a tool for easy access on your home screen </p><ul><li>For iPhone:<ul><li>Tap the square with arrow pointing up at the bottom of your screen</li><li>Select \"Add to Home Screen\"</li></ul></li><li>For Android:<ul><li>Tap \"Add to Home Screen\" where prompted when first accessing the site</li></ul></li></ul><p><strong>Print or Save a PDF</strong><br>If you would like to print certain pages ahead of traveling, or if you'd like to save a PDF to your device, just tap the print button above. It won't print right away, but will create a PDF which you can save or print.</p><p><strong>Contacting Us</strong><br>We pride ourselves on swiftly meeting guest needs.  We can be reached as follows:</p><ul><li>Preferred: Airbnb or VRBO message</li><li>Phone: 404-358-1552 (emergencies)</li><li>Instagram: @<a href=\"https://www.instagram.com/bk_stays/\">Bk_stays</a></li><li>Facebook: <a href=\"https://www.facebook.com/profile.php?id=61551815370553\">BK Stays</a></li></ul><p><strong>What Next?</strong><br>Please relax, unwind, have fun, and enjoy your stay!</p>",
+       "html": "<p><strong>Welcome to Grace and Ember!</strong><br>Here at your fingertips is everything you should need for your stay with us, from planning your time before departure straight through checkout. In this easy-to-navigate link, you will find information about the cabin, ideas of things to do in the area, our Wi-Fi login credentials, and so much more.</p><p>In order to best enjoy your time in our home, we encourage you to add this \"app\" to your phone. All of the content will even be accessible when your phone is offline.</p><p>* It's not really an \"app\", but more a tool for easy access on your home screen </p><ul><li>For iPhone:<ul><li>Tap the square with arrow pointing up at the bottom of your screen</li><li>Select \"Add to Home Screen\"</li></ul></li><li>For Android:<ul><li>Tap \"Add to Home Screen\" where prompted when first accessing the site</li></ul></li></ul><p><strong>Print or Save a PDF</strong><br>If you would like to print certain pages ahead of traveling, or if you'd like to save a PDF to your device, just tap the print button above. It won't print right away, but will create a PDF which you can save or print.</p><p><strong>Contacting Us</strong><br>We pride ourselves on swiftly meeting guest needs.  We can be reached as follows:</p><ul><li>Preferred: Airbnb or VRBO message</li><li>Phone: 775-257-8297 / 775-BKSTAYS (emergencies)</li><li>Instagram: @<a href=\"https://www.instagram.com/bk_stays/\">Bk_stays</a></li><li>Facebook: <a href=\"https://www.facebook.com/profile.php?id=61551815370553\">BK Stays</a></li></ul><p><strong>What Next?</strong><br>Please relax, unwind, have fun, and enjoy your stay!</p>",
        "photo": "6c157a8cd6b99c029cb419013c3275f1.jpg"
       }
      ]
@@ -124,7 +125,7 @@
       },
       {
        "title": "Access Codes / Instructions",
-       "html": "<p>The Access Code for the front door is</p><p>Press the Schlage Button at the Top First. Then - Press</p><p>1552 Checkmark</p><p>To lock the door, simply press the lock button. Please make sure all external doors are locked whenever you leave.</p><p>* If for some reason the code doesn't work please call me at <a href=\"tel:404-358-1552\">404-358-1552</a>. I will get you the lockbox code for the spare key!</p>",
+       "html": "<p>The Access Code for the front door is</p><p>Press the Schlage Button at the Top First. Then - Press</p><p>1552 Checkmark</p><p>To lock the door, simply press the lock button. Please make sure all external doors are locked whenever you leave.</p><p>* If for some reason the code doesn't work please call me at <a href=\"tel:+17752578297\">775-257-8297 (775-BKSTAYS)</a>. I will get you the lockbox code for the spare key!</p>",
        "photo": "730742e2babb8d2cedbe0a30eac61d46.jpg"
       },
       {
@@ -208,7 +209,7 @@
       },
       {
        "title": "Returning Guests",
-       "html": "<p>We would love to have you stay again! In fact, please take advantage of booking directly with us at <a href=\"https://www.bkstays.com/about-us\">bkstays.com </a>- please reach out to us on Instagram, Facebook, or directly to Brandon at 404 - 358 - 1552. </p>",
+       "html": "<p>We would love to have you stay again! In fact, please take advantage of booking directly with us at <a href=\"https://www.bkstays.com/about-us\">bkstays.com </a>- please reach out to us on Instagram, Facebook, or directly at <a href=\"tel:+17752578297\">775-257-8297 (775-BKSTAYS)</a>. </p>",
        "photoHidden": "5e53f078d45d701f01a19dcba10f0cc7.jpg"
       },
       {
@@ -218,7 +219,7 @@
       },
       {
        "title": "How To Contact Us",
-       "html": "<p><strong>Contacting Us</strong><br>We pride ourselves on swiftly meeting guest needs.  We can be reached at the contact info below:</p><ul><li>Message: through Airbnb / VRBO (simple assistance)</li><li>Phone: 1-404-358-1552 (emergencies)</li><li>Instagram or Facebook @ bk_stays</li></ul>",
+       "html": "<p><strong>Contacting Us</strong><br>We pride ourselves on swiftly meeting guest needs.  We can be reached at the contact info below:</p><ul><li>Message: through Airbnb / VRBO (simple assistance)</li><li>Phone: 775-257-8297 / 775-BKSTAYS (emergencies)</li><li>Instagram or Facebook @ bk_stays</li></ul>",
        "photoHidden": "4f717eaaf0303b1fec1a0ee821f299a1.jpg"
       }
      ]

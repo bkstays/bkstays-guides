@@ -19,7 +19,7 @@ RAWN = {x['t'].strip(): norm(x.get('h', '')) for c in imp.RAW for s in c['s'] fo
 def prep(tsid):
     d = json.load(open(os.path.join(ROOT, 'src/ts2', tsid + '.raw.json')))
     desk, mob = COVERS[tsid]
-    d['meta'].update({'mob': mob, 'desk': desk, 'contacts': [{'type': 'phone', 'value': '4043581552'}]})
+    d['meta'].update({'mob': mob, 'desk': desk, 'contacts': [{'type': 'phone', 'value': '7752578297'}]})
     for c in d['cats']:
         for s in c['s']:
             for x in s['x']:

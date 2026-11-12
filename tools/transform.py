@@ -150,7 +150,7 @@ guide = {
     'location': [34.805173, -84.383046],
     'cover': '1c36d71d5e142b9ba70bd517934fae6d.jpg',
     'coverDesktop': 'd4cc1701ec5068a6eac99b5b1229fd2e.jpg',
-    'contact': {'phone': '404-358-1552', 'sms': '404-358-1552', 'email': ''},
+    'contact': {'phone': '775-257-8297', 'sms': '775-257-8297', 'email': ''},
     'gate': True,
     'library': 'north-georgia',
     # The Info grid, in order. Strings starting with "lib:" pull a section from the shared library.

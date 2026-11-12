@@ -29,7 +29,7 @@ STATES = {
     'minnesota': ('Minnesota', "Minnesota's Iron Range", 'A lake and ski retreat next to Giants Ridge.', 'region-minnesota.jpg'),
 }
 STATE_ORDER = ['georgia', 'florida', 'michigan', 'minnesota']
-PHONE, PHONE_TEL, EMAIL = '(404) 358-1552', '+14043581552', 'brandon@bkstays.com'
+PHONE, PHONE_TEL, EMAIL = '(775) 257-8297', '+17752578297', 'brandon@bkstays.com'
 SOCIAL = {'Instagram': 'https://www.instagram.com/bk_stays/', 'Facebook': 'https://www.facebook.com/profile.php?id=61551815370553',
           'LinkedIn': 'https://www.linkedin.com/company/bk-stays/'}
 SKIP_CAPTION = 'right in the center of downtown'
@@ -346,7 +346,7 @@ def build_pm():
 <section class="block white"><div class="wrap"><div class="section-head"><div><span class="eyebrow">Our services</span><h2>Why owners choose BK Stays</h2></div></div><div class="features">{svc}</div></div></section>
 <section class="block"><div class="wrap"><div class="section-head"><div><span class="eyebrow">Owners say</span><h2>Make your property stand out</h2></div></div><div class="quotes">{quotes}</div></div></section>
 <section class="block white" id="analysis"><div class="wrap split"><div><span class="eyebrow">Free property analysis</span><h2>Want your property analyzed for free?</h2><p>{esc(M["formLead"])}</p>
-<p class="muted">Or call Brandon at <a href="tel:{PHONE_TEL}">{PHONE}</a>.</p></div>{form_html("pm", p)}</div></section>
+<p class="muted">Or call us at <a href="tel:{PHONE_TEL}">{PHONE}</a> (775-BKSTAYS).</p></div>{form_html("pm", p)}</div></section>
 <section class="block"><div class="wrap split flip"><img src="{p}img/pm-family.jpg" alt="Brandon and Katharina" loading="lazy"><div><span class="eyebrow">Meet your managers</span><h2>Meet Brandon and Katharina</h2>{"".join(f"<p>{esc(x)}</p>" for x in M["meet"])}</div></div></section>'''
     write('property-management/index.html', page(p, 'Vacation Rental Property Management | BK Stays', M['lead'], body))
 
@@ -354,7 +354,7 @@ def build_pm():
 def build_contact():
     p = '../'
     items = f'''<div class="contact-list">
-<a class="contact-item" href="tel:{PHONE_TEL}"><span class="ic">{ICONS["phone"]}</span><span><b>{PHONE}</b><br><span class="muted">Call or text</span></span></a>
+<a class="contact-item" href="tel:{PHONE_TEL}"><span class="ic">{ICONS["phone"]}</span><span><b>{PHONE}</b><br><span class="muted">775-BKSTAYS · Call or text</span></span></a>
 <a class="contact-item" href="mailto:{EMAIL}"><span class="ic">{ICONS["mail"]}</span><span><b>{EMAIL}</b><br><span class="muted">Email us any time</span></span></a>
 <div class="contact-item"><span class="ic">{ICONS["pin"]}</span><span><b>Atlanta, Georgia</b><br><span class="muted">Homes in GA, FL, MI and MN</span></span></div></div>'''
     body = f'''<section class="block"><div class="wrap split" style="align-items:start"><div><span class="eyebrow">Contact</span><h1>Let's talk</h1>

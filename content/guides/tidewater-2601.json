@@ -13,8 +13,9 @@
  "coverDesktop": "tidewater-2601-view.jpg",
  "background": "tidewater-2601-view.jpg",
  "contact": {
-  "phone": "404-358-1552",
-  "sms": "404-358-1552",
+  "phone": "775-257-8297",
+  "sms": "775-257-8297",
+  "vanity": "775-BKSTAYS",
   "email": ""
  },
  "gate": true,
@@ -98,7 +99,7 @@
      "items": [
       {
        "title": "Welcome to Tidewater!",
-       "html": "<p><strong>Welcome to the Tidewater 2601!</strong><br/>Here at your fingertips is everything you should need for your stay with us. In this easy-to-navigate link you will find information about the condo, ideas and recommendations in the surrounding area, our Wi-Fi login credentials, and so much more.</p>\n<p>In order to best enjoy your time in our home, we encourage you to add this \"app\" to your phone. All of the content will even be accessible when your phone is offline.</p>\n<p>* It's not really an \"app\", but more a tool for easy access on your home screen </p>\n<ul>\n<li>For iPhone:\n<ul>\n<li>Tap the square with arrow pointing up at the bottom of your screen</li>\n<li>Select \"Add to Home Screen\"</li>\n</ul>\n</li>\n<li>For Android:\n<ul>\n<li>Tap \"Add to Home Screen\" where prompted when first accessing the site</li>\n</ul>\n</li>\n</ul>\n<p><strong>Print or Save a PDF</strong><br/>If you would like to print certain pages ahead of traveling, or if you'd like to save a PDF to your device, just tap the print button above. It won't print right away, but will create a PDF which you can save or print.</p>\n<p><strong>Contacting Us</strong><br/>We pride ourselves on swiftly meeting guest needs.  We can be reached as follows:</p>\n<ul>\n<li>Preferred: Airbnb or VRBO message</li>\n<li>Phone: 404-358-1552 (emergencies)</li>\n<li>Instagram: @<a href=\"https://www.instagram.com/bk_stays/\" target=\"_blank\">Bk_stays</a></li>\n<li>Facebook: <a href=\"https://www.facebook.com/profile.php?id=61551815370553\" target=\"_blank\">BK Stays</a></li>\n</ul>\n<p><strong>What Next?</strong><br/>Please relax, unwind, have fun, and enjoy your stay!</p>",
+       "html": "<p><strong>Welcome to the Tidewater 2601!</strong><br/>Here at your fingertips is everything you should need for your stay with us. In this easy-to-navigate link you will find information about the condo, ideas and recommendations in the surrounding area, our Wi-Fi login credentials, and so much more.</p>\n<p>In order to best enjoy your time in our home, we encourage you to add this \"app\" to your phone. All of the content will even be accessible when your phone is offline.</p>\n<p>* It's not really an \"app\", but more a tool for easy access on your home screen </p>\n<ul>\n<li>For iPhone:\n<ul>\n<li>Tap the square with arrow pointing up at the bottom of your screen</li>\n<li>Select \"Add to Home Screen\"</li>\n</ul>\n</li>\n<li>For Android:\n<ul>\n<li>Tap \"Add to Home Screen\" where prompted when first accessing the site</li>\n</ul>\n</li>\n</ul>\n<p><strong>Print or Save a PDF</strong><br/>If you would like to print certain pages ahead of traveling, or if you'd like to save a PDF to your device, just tap the print button above. It won't print right away, but will create a PDF which you can save or print.</p>\n<p><strong>Contacting Us</strong><br/>We pride ourselves on swiftly meeting guest needs.  We can be reached as follows:</p>\n<ul>\n<li>Preferred: Airbnb or VRBO message</li>\n<li>Phone: 775-257-8297 / 775-BKSTAYS (emergencies)</li>\n<li>Instagram: @<a href=\"https://www.instagram.com/bk_stays/\" target=\"_blank\">Bk_stays</a></li>\n<li>Facebook: <a href=\"https://www.facebook.com/profile.php?id=61551815370553\" target=\"_blank\">BK Stays</a></li>\n</ul>\n<p><strong>What Next?</strong><br/>Please relax, unwind, have fun, and enjoy your stay!</p>",
        "photo": "a8775523aaba4c0e07c5fdd0660a36a7.jpg"
       }
      ]
@@ -120,7 +121,7 @@
       },
       {
        "title": "Access Codes / Instructions",
-       "html": "<p>The Access Code for the front door is:</p>\n<p><strong><span style=\"background-color: rgb(191, 237, 210);\">1552</span></strong></p>\n<p>To lock the door, simply press the lock button. Please make sure all external doors are locked whenever you leave.</p>\n<p>* If for some reason the code doesn't work please call me at <a href=\"tel:404-358-1552\">404-358-1552</a>. I will get you the lockbox code for the spare key!</p>",
+       "html": "<p>The Access Code for the front door is:</p>\n<p><strong><span style=\"background-color: rgb(191, 237, 210);\">1552</span></strong></p>\n<p>To lock the door, simply press the lock button. Please make sure all external doors are locked whenever you leave.</p>\n<p>* If for some reason the code doesn't work please call me at <a href=\"tel:+17752578297\">775-257-8297 (775-BKSTAYS)</a>. I will get you the lockbox code for the spare key!</p>",
        "photo": "730742e2babb8d2cedbe0a30eac61d46.jpg"
       },
       {
@@ -204,7 +205,7 @@
       },
       {
        "title": "Returning Guests",
-       "html": "<p>We would love to have you stay again! In fact, please take advantage of booking directly with us at <a href=\"https://www.bkstays.com/about-us\">bkstays.com </a>- please reach out to us on Instagram, Facebook, or directly to Brandon at 404 - 358 - 1552. </p>",
+       "html": "<p>We would love to have you stay again! In fact, please take advantage of booking directly with us at <a href=\"https://www.bkstays.com/about-us\">bkstays.com </a>- please reach out to us on Instagram, Facebook, or directly at <a href=\"tel:+17752578297\">775-257-8297 (775-BKSTAYS)</a>. </p>",
        "photoHidden": "5e53f078d45d701f01a19dcba10f0cc7.jpg"
       },
       {
@@ -214,7 +215,7 @@
       },
       {
        "title": "How To Contact Us",
-       "html": "<p><strong>Contacting Us</strong><br>We pride ourselves on swiftly meeting guest needs.&nbsp; We can be reached at the contact info below:</p>\n<ul>\n<li>Message: through Airbnb / VRBO (simple assistance)</li>\n<li>Phone: 1-404-358-1552 (emergencies)</li>\n<li>Instagram or Facebook @ bk_stays</li>\n</ul>",
+       "html": "<p><strong>Contacting Us</strong><br>We pride ourselves on swiftly meeting guest needs.&nbsp; We can be reached at the contact info below:</p>\n<ul>\n<li>Message: through Airbnb / VRBO (simple assistance)</li>\n<li>Phone: 775-257-8297 / 775-BKSTAYS (emergencies)</li>\n<li>Instagram or Facebook @ bk_stays</li>\n</ul>",
        "photoHidden": "4f717eaaf0303b1fec1a0ee821f299a1.jpg"
       }
      ]

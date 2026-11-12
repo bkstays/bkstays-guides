@@ -281,7 +281,7 @@
     const c = G.contact || {};
     const rows = [
       c.sms && `<a class="row" href="${smsHref(c.sms)}"><span class="ic">${icon('message-square')}</span><span>Text us<small>${esc(c.sms)}</small></span></a>`,
-      c.phone && `<a class="row" href="${telHref(c.phone)}"><span class="ic">${icon('phone')}</span><span>Call us<small>${esc(c.phone)}</small></span></a>`,
+      c.phone && `<a class="row" href="${telHref(c.phone)}"><span class="ic">${icon('phone')}</span><span>Call us<small>${esc(c.phone)}${c.vanity ? ' · ' + esc(c.vanity) : ''}</small></span></a>`,
       c.email && `<a class="row" href="mailto:${esc(c.email)}"><span class="ic">${icon('mail')}</span><span>Email us<small>${esc(c.email)}</small></span></a>`,
     ].filter(Boolean).join('');
     const scrim = document.createElement('div');

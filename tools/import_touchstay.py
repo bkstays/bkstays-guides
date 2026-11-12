@@ -198,7 +198,7 @@ def convert(tsid, notes):
         lib_extra.setdefault(key, []).append(it)
         notes.append(f'Added **{it["title"]}** to this guide\'s {key.title()} tile only (it is specific to this home).')
 
-    phone = fmt_phone(next((c['value'] for c in meta['contacts'] if c['type'] == 'phone'), '404-358-1552'))
+    phone = fmt_phone(next((c['value'] for c in meta['contacts'] if c['type'] == 'phone'), '775-257-8297'))
     addr = ', '.join(p.strip() for p in meta['addr'].split(','))
     addr = re.sub(r',\s*(GA|Georgia),\s*(\d{5})$', r', GA \2', addr)
     addr = re.sub(r'\b([a-z])', lambda m: m.group(1).upper(), addr) if addr.islower() or 'kismet' in addr else addr
