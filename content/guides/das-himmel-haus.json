@@ -50,7 +50,8 @@
     "kitchen",
     "laundry",
     "pool",
-    "tv-streaming"
+    "tv-streaming",
+    "heating-cooling"
    ]
   },
   {
@@ -524,6 +525,22 @@
        "title": "TVs + Streaming",
        "html": "<p>We have high-speed Wi-Fi for all of your streaming needs!</p><p>There are Smart TVs throughout the entire home.</p><p>Go to the TV Home Screen</p><p>Search For (or Download) The Channel App You Want To Watch &amp; Login to your TV Provider.</p><p>Please don't hesitate to reach out if you need provider login assistance!</p>",
        "photo": "729ecb38918b0e99bc0a0ec5fa74c6d2.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  "heating-cooling": {
+   "id": "heating-cooling",
+   "title": "Heating + Cooling",
+   "icon": "thermometer",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Heating + Cooling",
+       "html": "<p>Please keep every wall thermostat between <strong>67°F and 72°F</strong>.</p><h4>Main Floor</h4><ul><li><strong>Living room:</strong> the wall unit (mini split) by the fireplace heats and cools the living, dining and kitchen area. Use its remote.</li><li><strong>Main bedroom:</strong> its own wall unit and remote, for that room only.</li><li><strong>Entryway thermostat:</strong> backup baseboard heat for the whole floor.</li></ul><h4>Upstairs</h4><ul><li><strong>Bedrooms:</strong> each has its own wall unit and remote, for that room only.</li><li><strong>Blue bedroom thermostat:</strong> backup baseboard heat for both bedrooms and the bathroom.</li></ul><h4>Lower Level</h4><ul><li><strong>Heat only:</strong> the thermostat by the game room TV runs the baseboard heat for the whole level.</li><li><strong>Bedrooms:</strong> ceiling fans for cooling.</li></ul><p><strong>Tip:</strong> keep the wall units around 70°F. Very low settings can ice them up.</p>"
       }
      ]
     }
