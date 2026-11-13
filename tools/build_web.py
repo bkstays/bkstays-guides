@@ -96,7 +96,12 @@ def load_home(h):
     cap = d.get('capacity') or {}
     addr = d.get('address_full') or d.get('address') or {}
     imgs = []
-    for i, im in enumerate(d.get('images', [])):
+    ab = os.path.join(SRC, 'abnb', h['slug'] + '.json')
+    if os.path.exists(ab):  # gallery mirrors the Airbnb listing exactly: same photos, order and captions (tools/sync_airbnb.py)
+        photos = json.load(open(ab))['photos']
+        imgs = [(n + 1, cap) for n, (_, cap) in enumerate(photos)]
+        h['img_src'] = {n + 1: os.path.join(SRC, 'abnb', 'img', pid) for n, (pid, _) in enumerate(photos)}
+    for i, im in enumerate([] if imgs else d.get('images', [])):
         if i in SKIP_IMG.get(h['slug'], set()):
             continue
         if SKIP_CAPTION in (im.get('caption') or '') and h['slug'] != 'best-of-blue-ridge':
@@ -446,13 +451,12 @@ def main():
         shutil.copy(os.path.join(SRC, 'sqimg', f), os.path.join(OUT, 'img', f))
     for h in HOMES:
         d = os.path.join(OUT, 'img', h['slug'])
-        os.makedirs(d, exist_ok=True)
+        shutil.rmtree(d, ignore_errors=True)  # rebuild so a reorder never leaves stale photos behind
+        os.makedirs(d)
         for i, _ in h['imgs']:
+            base = h.get('img_src', {}).get(i) or os.path.join(SRC, 'hosp', 'img', h['uuid'], f'{i:02d}')
             for suf in ['', '-sm']:
-                s = os.path.join(SRC, 'hosp', 'img', h['uuid'], f'{i:02d}{suf}.jpg')
-                t = os.path.join(d, f'{i:02d}{suf}.jpg')
-                if not os.path.exists(t):
-                    shutil.copy(s, t)
+                shutil.copy(base + suf + '.jpg', os.path.join(d, f'{i:02d}{suf}.jpg'))
     build_home(); build_homes_index(); build_states(); build_about(); build_pm(); build_contact(); build_follow(); build_search()
     for h in HOMES:
         build_property(h)
