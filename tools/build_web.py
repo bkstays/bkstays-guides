@@ -96,14 +96,14 @@ def load_home(h):
     cap = d.get('capacity') or {}
     addr = d.get('address_full') or d.get('address') or {}
     imgs = []
-    for i, im in enumerate(d.get('images', [])[:24]):
+    for i, im in enumerate(d.get('images', [])):
         if i in SKIP_IMG.get(h['slug'], set()):
             continue
         if SKIP_CAPTION in (im.get('caption') or '') and h['slug'] != 'best-of-blue-ridge':
             continue
-        src = os.path.join(SRC, 'hosp', 'img', h['uuid'], f'{i:02d}.jpg')
+        src = os.path.join(SRC, 'hosp', 'img', h['uuid'], f'{i + 1:02d}.jpg')  # files are 1-based: 01.jpg = first Hospitable photo
         if os.path.exists(src):
-            imgs.append((i, re.sub(r'\s+', ' ', im.get('caption') or '').strip()))
+            imgs.append((i + 1, re.sub(r'\s+', ' ', im.get('caption') or '').strip()))
     h.update({
         'city': addr.get('city', ''), 'st': addr.get('state', ''),
         'guests': cap.get('max'), 'bedrooms': cap.get('bedrooms'), 'beds': cap.get('beds'), 'baths': cap.get('bathrooms'),
