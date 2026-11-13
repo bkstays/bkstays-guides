@@ -423,7 +423,26 @@ def build_redirects():
         for old in g.get('oldLinks', []):
             lines.append(f'{old.rstrip("/")}/* /{h["slug"]}/guidebook/ 301')
             lines.append(f'{old.rstrip("/")} /{h["slug"]}/guidebook/ 301')
+    # personal TouchStay short links already sent to guests (guide.bkstays.com/<code>/) -> that home's new guidebook
+    codes = os.path.join(W, 'legacy_codes.json')
+    if os.path.exists(codes):
+        for code, slug in sorted(json.load(open(codes)).items()):
+            lines.append(f'/{code}/* https://bkstays.com/{slug}/guidebook/ 301')
+            lines.append(f'/{code} https://bkstays.com/{slug}/guidebook/ 301')
     open(os.path.join(OUT, '_redirects'), 'w').write('\n'.join(lines) + '\n')
+
+
+def build_404():
+    """Unknown paths get a real 404. On guide.bkstays.com (old guidebook links) it becomes a 'find your guidebook' picker."""
+    p = '/'
+    links = ''.join(f'<a class="contact-item" href="/{h["slug"]}/guidebook/"><span><b>{esc(h["name"])}</b><br><span class="muted">{esc(h["city"])}, {esc(h["st"])}</span></span></a>'
+                    for h in sorted(HOMES, key=lambda h: h['name']))
+    body = f'''<section class="block"><div class="wrap" style="max-width:640px">
+<div id="gb"><span class="eyebrow">Digital guidebook</span><h1>Find your guidebook</h1>
+<p class="muted">We've moved our guidebooks to a new home. Pick the home you're staying at below, or call or text us at <a href="tel:{PHONE_TEL}">{PHONE}</a> (775-BKSTAYS).</p>
+<div class="contact-list">{links}</div></div></div></section>
+<script>if(location.hostname.indexOf('guide.')!==0){{var g=document.getElementById('gb');g.querySelector('h1').textContent='Page not found';g.querySelector('.eyebrow').textContent='404';g.querySelector('p').innerHTML='That page has moved. Here are our homes\\u2019 guidebooks, or head to the <a href="/">homepage</a>.'}}</script>'''
+    write('404.html', page(p, 'Find your guidebook | BK Stays', 'BK Stays digital guidebooks.', body))
 
 
 VER = ''
@@ -461,7 +480,7 @@ def main():
     for h in HOMES:
         build_property(h)
     add_guides()
-    build_redirects()
+    build_redirects(); build_404()
     live = {h['slug'] for h in HOMES}
     for d in os.listdir(os.path.join(OUT, 'img')):
         if os.path.isdir(os.path.join(OUT, 'img', d)) and d not in live:
