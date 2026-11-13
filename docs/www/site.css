@@ -270,3 +270,10 @@ section.block.fav { padding: 56px 0; }
 .fav-side { text-align: center; }
 .fav-side .facts-row { justify-content: center; }
 .fav-home span { left: 50%; transform: translateX(-50%); white-space: nowrap; }
+
+/* floor plans on property pages */
+.floorplans { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 8px 0 24px; }
+.floorplans .fp { padding: 0; border: 1px solid rgba(0,0,0,.08); border-radius: 14px; overflow: hidden; background: #f3f4f5; cursor: zoom-in; text-align: center; font: inherit; }
+.floorplans .fp img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; }
+.floorplans .fp span { display: block; padding: 8px 6px; font-weight: 600; font-size: .9rem; }
+@media (max-width: 640px) { .floorplans { grid-template-columns: 1fr; } }

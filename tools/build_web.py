@@ -252,7 +252,13 @@ def build_property(h):
     imgs = h['imgs']
     first5 = imgs[:5]
     gal = ''.join(f'<button type="button" data-i="{n}"><img src="{p}img/{h["slug"]}/{i:02d}{"" if n == 0 else "-sm"}.jpg" alt="{esc(c[:120]) or esc(h["name"])}" {"" if n == 0 else "loading=lazy"}></button>' for n, (i, c) in enumerate(first5))
-    data = json.dumps([[f'{p}img/{h["slug"]}/{i:02d}.jpg', c] for i, c in imgs])
+    fps = h.get('floorplans') or []
+    data = json.dumps([[f'{p}img/{h["slug"]}/{i:02d}.jpg', c] for i, c in imgs] + [[f'{p}img/{f}.jpg', f'Floor plan: {c}'] for f, c in fps])
+    fp_html = ''
+    if fps:
+        fp_html = '<h3>Floor plans</h3><div class="floorplans">' + ''.join(
+            f'<button type="button" class="fp" data-i="{len(imgs) + n}"><img src="{p}img/{f}-sm.jpg" alt="{esc(h["name"])} floor plan, {esc(c)}" loading="lazy"><span>{esc(c)}</span></button>'
+            for n, (f, c) in enumerate(fps)) + '</div>'
     secs = ''
     for head, paras, items, tail in web_polish.polish(h['slug'], h['overview']):
         secs += (f'<h3>{esc(head)}</h3>' if head else '') + ''.join(f'<p>{esc(x)}</p>' for x in paras)
@@ -270,7 +276,7 @@ def build_property(h):
 <div class="gallery">{gal}<button type="button" class="all" data-i="0">See all {len(imgs)} photos</button></div>
 <div class="prop-head"><div><span class="eyebrow">{esc(h["city"])}, {esc(h["st"])}</span><h1>{esc(h["name"])}</h1><div class="facts-row">{fact_html}</div></div>
 <a class="btn pink" href="#book">Check availability</a></div>
-<div class="prop-body"><div><div class="desc">{summary}</div><div class="amen">{secs}</div></div>
+<div class="prop-body"><div><div class="desc">{summary}</div><div class="amen">{secs}{fp_html}</div></div>
 <aside class="book-box" id="book"><h3>Book direct</h3><p class="note">Pick your dates to see pricing and availability.</p>{book}
 <div class="perks"><div>Best rate when you book with us directly</div><div>Message your hosts any time</div><div>Digital guidebook sent before check-in</div></div></aside></div>
 </div>
@@ -280,7 +286,7 @@ def build_property(h):
 <div class="stage"><button class="nav-l" type="button" id="lbp" aria-label="Previous">‹</button><img id="lbi" alt=""><button class="nav-r" type="button" id="lbnx" aria-label="Next">›</button></div><div class="cap" id="lbc"></div></div>
 <script>(function(){{var D={data},i=0,lb=document.getElementById('lb'),im=document.getElementById('lbi'),cp=document.getElementById('lbc'),n=document.getElementById('lbn');
 function show(k){{i=(k+D.length)%D.length;im.src=D[i][0];cp.textContent=D[i][1]||'';n.textContent=(i+1)+' / '+D.length;}}
-document.querySelectorAll('.gallery button').forEach(function(b){{b.addEventListener('click',function(){{show(+b.dataset.i);lb.classList.add('open');document.body.style.overflow='hidden';}});}});
+document.querySelectorAll('.gallery button, .floorplans button').forEach(function(b){{b.addEventListener('click',function(){{show(+b.dataset.i);lb.classList.add('open');document.body.style.overflow='hidden';}});}});
 function close(){{lb.classList.remove('open');document.body.style.overflow='';}}
 document.getElementById('lbx').onclick=close;document.getElementById('lbp').onclick=function(){{show(i-1)}};document.getElementById('lbnx').onclick=function(){{show(i+1)}};
 document.addEventListener('keydown',function(e){{if(!lb.classList.contains('open'))return;if(e.key==='Escape')close();if(e.key==='ArrowLeft')show(i-1);if(e.key==='ArrowRight')show(i+1);}});

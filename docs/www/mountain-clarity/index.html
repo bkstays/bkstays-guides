@@ -7,7 +7,7 @@
 <link rel="icon" type="image/png" href="../assets/favicon.png"><link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../site.css?v=20261113000955">
+<link rel="stylesheet" href="../site.css?v=20261113121435">
 </head><body class="has-mb">
 <header class="top"><div class="wrap">
 <a class="logo" href="../" aria-label="BK Stays home"><img src="../assets/logo-dark.png" alt="BK Stays vacation rentals" width="128" height="40"></a>
@@ -40,7 +40,7 @@
 <div class="stage"><button class="nav-l" type="button" id="lbp" aria-label="Previous">‹</button><img id="lbi" alt=""><button class="nav-r" type="button" id="lbnx" aria-label="Next">›</button></div><div class="cap" id="lbc"></div></div>
 <script>(function(){var D=[["../img/mountain-clarity/01.jpg", ""], ["../img/mountain-clarity/02.jpg", ""], ["../img/mountain-clarity/03.jpg", ""], ["../img/mountain-clarity/04.jpg", ""], ["../img/mountain-clarity/05.jpg", ""], ["../img/mountain-clarity/06.jpg", ""], ["../img/mountain-clarity/07.jpg", ""], ["../img/mountain-clarity/08.jpg", ""], ["../img/mountain-clarity/09.jpg", ""], ["../img/mountain-clarity/10.jpg", ""], ["../img/mountain-clarity/11.jpg", ""], ["../img/mountain-clarity/12.jpg", ""], ["../img/mountain-clarity/13.jpg", ""], ["../img/mountain-clarity/14.jpg", ""], ["../img/mountain-clarity/15.jpg", ""], ["../img/mountain-clarity/16.jpg", ""], ["../img/mountain-clarity/17.jpg", ""], ["../img/mountain-clarity/18.jpg", ""], ["../img/mountain-clarity/19.jpg", ""], ["../img/mountain-clarity/20.jpg", ""], ["../img/mountain-clarity/21.jpg", ""], ["../img/mountain-clarity/22.jpg", ""], ["../img/mountain-clarity/23.jpg", ""]],i=0,lb=document.getElementById('lb'),im=document.getElementById('lbi'),cp=document.getElementById('lbc'),n=document.getElementById('lbn');
 function show(k){i=(k+D.length)%D.length;im.src=D[i][0];cp.textContent=D[i][1]||'';n.textContent=(i+1)+' / '+D.length;}
-document.querySelectorAll('.gallery button').forEach(function(b){b.addEventListener('click',function(){show(+b.dataset.i);lb.classList.add('open');document.body.style.overflow='hidden';});});
+document.querySelectorAll('.gallery button, .floorplans button').forEach(function(b){b.addEventListener('click',function(){show(+b.dataset.i);lb.classList.add('open');document.body.style.overflow='hidden';});});
 function close(){lb.classList.remove('open');document.body.style.overflow='';}
 document.getElementById('lbx').onclick=close;document.getElementById('lbp').onclick=function(){show(i-1)};document.getElementById('lbnx').onclick=function(){show(i+1)};
 document.addEventListener('keydown',function(e){if(!lb.classList.contains('open'))return;if(e.key==='Escape')close();if(e.key==='ArrowLeft')show(i-1);if(e.key==='ArrowRight')show(i+1);});
