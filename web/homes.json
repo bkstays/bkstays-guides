@@ -42,21 +42,7 @@
   "hid": "2040984",
   "state": "michigan",
   "old": "/das-himmel-haus",
-  "guide": "das-himmel-haus",
-  "floorplans": [
-   [
-    "himmel-floor-1",
-    "1st floor"
-   ],
-   [
-    "himmel-floor-2",
-    "2nd floor"
-   ],
-   [
-    "himmel-floor-3",
-    "3rd floor"
-   ]
-  ]
+  "guide": "das-himmel-haus"
  },
  {
   "slug": "grace-and-ember",
