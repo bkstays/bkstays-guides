@@ -182,7 +182,7 @@ def page(p, title, desc, body, extra_head='', body_cls='', og_img=''):
 
 
 def card(h, p):
-    img = f'{p}img/{h["slug"]}/{h["imgs"][0][0]:02d}-sm.jpg' if h['imgs'] else ''
+    img = f'{p}img/{h["slug"]}/{h["imgs"][0][0]:02d}-sm.jpg{iv(h, h["imgs"][0][0])}' if h['imgs'] else ''
     return f'''<a class="home" href="{p}{h["slug"]}/" data-state="{h["state"]}">
 <div class="ph"><img src="{img}" alt="{esc(h["name"])}" loading="lazy"><span class="tag">{esc(h["city"])}, {esc(h["st"])}</span></div>
 <div class="bd"><b>{esc(h["name"])}</b><span class="facts">{" · ".join(facts(h))}</span><span class="go">View home →</span></div></a>'''
@@ -252,13 +252,19 @@ def build_states():
         write(f'{st}/index.html', page(p, f'{title} Vacation Rentals | BK Stays', blurb, body))
 
 
+
+def iv(h, i):
+    """Cache-busting version for a gallery photo: changes whenever a different photo lands in slot i (e.g. after an Airbnb reorder)."""
+    src = h.get('img_src', {}).get(i)
+    return f'?v={os.path.basename(src)[:8]}' if src else ''
+
 def build_property(h):
     p = '../'
     imgs = h['imgs']
     first5 = imgs[:5]
-    gal = ''.join(f'<button type="button" data-i="{n}"><img src="{p}img/{h["slug"]}/{i:02d}{"" if n == 0 else "-sm"}.jpg" alt="{esc(c[:120]) or esc(h["name"])}" {"" if n == 0 else "loading=lazy"}></button>' for n, (i, c) in enumerate(first5))
+    gal = ''.join(f'<button type="button" data-i="{n}"><img src="{p}img/{h["slug"]}/{i:02d}{"" if n == 0 else "-sm"}.jpg{iv(h, i)}" alt="{esc(c[:120]) or esc(h["name"])}" {"" if n == 0 else "loading=lazy"}></button>' for n, (i, c) in enumerate(first5))
     fps = h.get('floorplans') or []
-    data = json.dumps([[f'{p}img/{h["slug"]}/{i:02d}.jpg', c] for i, c in imgs] + [[f'{p}img/{f}.jpg', f'Floor plan: {c}'] for f, c in fps])
+    data = json.dumps([[f'{p}img/{h["slug"]}/{i:02d}.jpg{iv(h, i)}', c] for i, c in imgs] + [[f'{p}img/{f}.jpg', f'Floor plan: {c}'] for f, c in fps])
     fp_html = ''
     if fps:
         fp_html = '<h3>Floor plans</h3><div class="floorplans">' + ''.join(
