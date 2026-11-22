@@ -346,8 +346,41 @@
       .then(() => { g.sent = true; store.set(GUEST_KEY, g); })
       .catch(() => { /* retried next visit */ });
   }
+  // Guests who must not see this home's guidebook (e.g. staying at a different home). Matched by email or full name,
+  // stored only as SHA-256 fingerprints ("bkstays:" + lowercase value) so no guest's details appear in the page.
+  async function fp(s) {
+    const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode('bkstays:' + s));
+    return [...new Uint8Array(buf)].map((x) => x.toString(16).padStart(2, '0')).join('');
+  }
+  async function blockedFor(g) {
+    const list = G.blockedGuests || [];
+    if (!g || !list.length || !(window.crypto && crypto.subtle)) return null;
+    const em = String(g.email || '').trim().toLowerCase();
+    const nm = (String(g.first || '') + ' ' + String(g.last || '')).trim().toLowerCase().replace(/\s+/g, ' ');
+    const mine = [em && await fp(em), nm && await fp(nm)].filter(Boolean);
+    return list.find((b) => (b.h || []).some((h) => mine.includes(h))) || null;
+  }
+  function showBlocked(b) {
+    document.querySelectorAll('#app, .nav, #fab').forEach((n) => n.remove());
+    const el = document.createElement('div');
+    el.className = 'gate';
+    el.innerHTML = `<div class="cover" data-cover></div>
+      <div class="gate-card">
+        <div class="logo-card"><img src="${BASE}assets/logo-dark.png" alt="BK Stays"></div>
+        <h2>This guidebook is for another home</h2>
+        <p class="sub">Your stay is at ${esc(b.toName || 'another BK Stays home')}. Tap below to open your guidebook.</p>
+        <a class="btn btn-dark" style="text-transform:none" href="${BASE}${esc(b.to)}/guidebook/">Open my guidebook</a>
+      </div>`;
+    document.body.appendChild(el);
+    setCovers();
+  }
   function gate() {
     const g = store.get(GUEST_KEY);
+    if (g && (G.blockedGuests || []).length) {
+      const a = document.getElementById('app'); if (a) a.style.visibility = 'hidden';  // no flash of content while checking
+      blockedFor(g).then((blk) => { if (blk) showBlocked(blk); else if (a) a.style.visibility = ''; })
+        .catch(() => { if (a) a.style.visibility = ''; });
+    }
     if (!G.gate || (g && g.email)) { if (g && !g.sent) submitGuest(g); return; }
     const el = document.createElement('div');
     el.className = 'gate';
@@ -380,6 +413,7 @@
       store.set(GUEST_KEY, g2);
       submitGuest(g2);
       el.remove();
+      blockedFor(g2).then((blk2) => { if (blk2) showBlocked(blk2); });
     });
   }
 

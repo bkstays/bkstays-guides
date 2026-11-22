@@ -623,5 +623,20 @@
     "html": "<p><strong>Your stay includes access to the Summit Village Association Beach Club</strong>, a private beach on Lake Bellaire for Summit Village homeowners and their guests. It's one of the best spots to spend a summer day.</p><p><strong>Season and hours:</strong> Summer season, 9:30 AM – 9:00 PM daily.</p><p><strong>Beach Club pass:</strong> The Beach Club pass hangs on the <strong>coat hooks</strong> next to the pool pass. Bring it with you and sign in each time you visit, then return it to the coat hooks. Can't find the pass? Call or text us before you head over.</p><p><strong>What's there:</strong></p><ul><li>Sandy beach and a designated swimming area</li><li>Grills for a lakeside cookout</li><li>A playground for the kids</li><li>Restrooms and picnic space</li></ul><p><strong>Beach Club rules:</strong></p><ul><li>Swim at your own risk. There is no lifeguard on duty, so please watch kids closely.</li><li>Swim only in the designated swimming area. No boating in the swimming area.</li><li>Jet skis and other motorized personal watercraft are not allowed in the Beach Club area.</li><li>No smoking, and no pets.</li><li>Cook only on the grills provided, and please clean up your area before you leave.</li><li>Park only in the designated lots. Overflow parking is in the vacant lot behind the main parking area.</li><li>The Association is not responsible for lost or damaged personal property or boats.</li><li>Breaking the Beach Club rules can lead to loss of access for your group.</li></ul><p><strong>Tips:</strong> Bring towels, sunscreen, chairs and a cooler. Arrive early on hot summer weekends for the best spot.</p>"
    }
   ]
- }
+ },
+ "blockedGuests": [
+  {
+   "h": [
+    "282812a4fd950102faefffad3a1e9f6c957007ebd1706efe729b0832dbe7cf8e",
+    "3c4ebb73528af85c6550f8db54a1380003fed52ddaf28122ce324b163fcec081",
+    "86f45f6aa29e4bde81f3920381aeaddd35de778581858cd1ca83cdd451cae58a",
+    "af43fb440799e0e72cf3cf7e906876ba2a2862cb10a7dbf21019c712bbce2b87",
+    "ce0f97bc625eb00b062d307337f15db2a87f3de0ba16b04d3c875a607dc5b1e8",
+    "e1752f8c0124dc6dc77b5c7e412a16b6a261e054778e4e4392ad9a32aede388b",
+    "e841f5227aed2cd2bee38b4179e7dea59546d4ccceb0b69f7041c5e7843ab631"
+   ],
+   "to": "das-himmel-haus",
+   "toName": "Das Himmel Haus"
+  }
+ ]
 }
