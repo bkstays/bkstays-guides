@@ -439,17 +439,15 @@ def build_redirects():
 
 
 def build_404():
-    """Unknown paths get a real 404. On guide.bkstays.com (old guidebook links) it becomes a 'find your guidebook' picker."""
+    """Unknown paths get a real 404. Never list guidebooks here: a guidebook holds door codes, so guests only reach
+    their own home's guidebook through the link we send them (old guide.bkstays.com codes are mapped in _redirects)."""
     p = '/'
-    links = ''.join(f'<a class="contact-item" href="/{h["slug"]}/guidebook/"><span><b>{esc(h["name"])}</b><br><span class="muted">{esc(h["city"])}, {esc(h["st"])}</span></span></a>'
-                    for h in sorted(HOMES, key=lambda h: h['name']))
     body = f'''<section class="block"><div class="wrap" style="max-width:640px">
-<div id="gb"><span class="eyebrow">Digital guidebook</span><h1>Find your guidebook</h1>
-<p class="muted">We've moved our guidebooks to a new home. Pick the home you're staying at below, or call or text us at <a href="tel:{PHONE_TEL}">{PHONE}</a> (775-BKSTAYS).</p>
-<div class="contact-list">{links}</div></div></div></section>
-<script>if(location.hostname.indexOf('guide.')!==0){{var g=document.getElementById('gb');g.querySelector('h1').textContent='Page not found';g.querySelector('.eyebrow').textContent='404';g.querySelector('p').innerHTML='That page has moved. Here are our homes\\u2019 guidebooks, or head to the <a href="/">homepage</a>.'}}</script>'''
-    write('404.html', page(p, 'Find your guidebook | BK Stays', 'BK Stays digital guidebooks.', body))
-
+<div id="gb"><span class="eyebrow">Digital guidebook</span><h1>This link has expired</h1>
+<p class="muted">Please use the guidebook link in your most recent message from us. Can't find it? Call or text us at <a href="tel:{PHONE_TEL}">{PHONE}</a> (775-BKSTAYS) and we'll send it right over.</p>
+<p><a class="btn" href="https://bkstays.com/">Visit BK Stays</a></p></div></div></section>
+<script>if(location.hostname.indexOf('guide.')!==0){{var g=document.getElementById('gb');g.querySelector('h1').textContent='Page not found';g.querySelector('.eyebrow').textContent='404';g.querySelector('p').innerHTML='That page doesn\\u2019t exist. Head to the <a href="/">homepage</a>, or call or text us at <a href="tel:{PHONE_TEL}">{PHONE}</a>.'}}</script>'''
+    write('404.html', page(p, 'Link expired | BK Stays', 'BK Stays.', body))
 
 VER = ''
 
