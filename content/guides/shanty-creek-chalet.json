@@ -594,7 +594,7 @@
   "bedrooms": {
    "id": "bedrooms",
    "title": "Bedrooms + Bathrooms",
-   "icon": "gamepad-2",
+   "icon": "bed-double",
    "groups": [
     {
      "title": "",

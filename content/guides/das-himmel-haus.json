@@ -52,7 +52,8 @@
     "laundry",
     "pool",
     "tv-streaming",
-    "heating-cooling"
+    "heating-cooling",
+    "bedrooms"
    ]
   },
   {
@@ -542,6 +543,33 @@
       {
        "title": "Heating + Cooling",
        "html": "<p>Please keep every wall thermostat between <strong>67°F and 72°F</strong>.</p><h4>Main Floor</h4><ul><li><strong>Living room:</strong> the wall unit (mini split) by the fireplace heats and cools the living, dining and kitchen area. Use its remote.</li><li><strong>Main bedroom:</strong> its own wall unit and remote, for that room only.</li><li><strong>Entryway thermostat:</strong> backup baseboard heat for the whole floor.</li></ul><h4>Upstairs</h4><ul><li><strong>Bedrooms:</strong> each has its own wall unit and remote, for that room only.</li><li><strong>Blue bedroom thermostat:</strong> backup baseboard heat for both bedrooms and the bathroom.</li></ul><h4>Lower Level</h4><ul><li><strong>Heat only:</strong> the thermostat by the game room TV runs the baseboard heat for the whole level.</li><li><strong>Bedrooms:</strong> ceiling fans for cooling.</li></ul><p><strong>Tip:</strong> keep the wall units around 70°F. Very low settings can ice them up.</p>"
+      }
+     ]
+    }
+   ]
+  },
+  "bedrooms": {
+   "id": "bedrooms",
+   "title": "Bedrooms + Bathrooms",
+   "icon": "bed-double",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Bedrooms",
+       "photo": "das-himmel-haus-bedroom.jpg",
+       "html": "<ul><li><strong>Bedroom 1</strong> (Brown) - main level, king bed, shares Bathroom 1</li><li><strong>Bedroom 2</strong> (Blue) - upstairs, king bed, shares Bathroom 2</li><li><strong>Bedroom 3</strong> (Gray) - upstairs, king bed, shares Bathroom 2</li><li><strong>Bedroom 4</strong> (Green) - downstairs, king bed, shares Bathroom 3</li><li><strong>Bedroom 5</strong> (Red) - downstairs, king bed, shares Bathroom 3</li></ul><p>Every bedroom has a smart TV, blackout curtains, extra pillows and blankets, a full closet, and a sitting area or workspace.</p><p><strong>Extra sleeping space:</strong> the lower level has two portable twin cots with extra pillows and blankets, great for kids.</p>"
+      },
+      {
+       "title": "Bathrooms",
+       "photo": "das-himmel-haus-bath.jpg",
+       "html": "<ul><li><strong>Bathroom 1</strong> - main level, walk-in shower, shared</li><li><strong>Bathroom 2</strong> - upstairs, tub/shower combo, shared</li><li><strong>Bathroom 3</strong> - downstairs, walk-in shower, shared</li></ul><p>All three bathrooms were renovated in November 2025, and each has towels, bath mats, soap, shampoo, conditioner, body wash, lotion and a hair dryer.</p>"
+      },
+      {
+       "title": "Floor Plan",
+       "photo": "das-himmel-haus-floor-1.jpg",
+       "html": "<p>1st floor (above), then the 2nd and 3rd floors.</p><p><strong>2nd floor</strong></p><p><img src=\"../img/das-himmel-haus-floor-2.jpg\" alt=\"2nd floor\"></p><p><strong>3rd floor</strong></p><p><img src=\"../img/das-himmel-haus-floor-3.jpg\" alt=\"3rd floor\"></p>"
       }
      ]
     }

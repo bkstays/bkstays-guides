@@ -54,7 +54,8 @@
     "pool",
     "trash",
     "tv-streaming",
-    "thermostat"
+    "thermostat",
+    "bedrooms"
    ]
   },
   {
@@ -592,6 +593,33 @@
        "title": "Heating / Cooling",
        "html": "<p>There are (2) Ecobee Thermostats on the wall. The first is next to the main level bathroom and the other in the living/game room.&nbsp;</p> <p>If you're running the air conditioning or heating - please keep all windows and outside doors closed to ensure they operate at maximum efficiency. We recommend a setting of about 72°F which we find keeps the place at a comfortable temperature.</p>",
        "photo": "0e0d8f67a1daad47f9505a1e6b070b6d.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  "bedrooms": {
+   "id": "bedrooms",
+   "title": "Bedrooms + Bathrooms",
+   "icon": "bed-double",
+   "groups": [
+    {
+     "title": "",
+     "items": [
+      {
+       "title": "Bedrooms",
+       "photo": "bellaire-extraordinaire-bedroom.jpg",
+       "html": "<ul><li><strong>Bedroom 1</strong> (sleeps 2) - main level, king bed, closet, TV, pack 'n play</li><li><strong>Bedroom 2</strong> (sleeps 2) - lower level master, queen bed, private ensuite bathroom, direct backyard/patio access, smart TV</li><li><strong>Bedroom 3</strong> (sleeps 2) - lower level corner suite, king bed, direct backyard/patio access, smart TV</li><li><strong>Bedroom 4</strong> (sleeps 4) - king bed and queen sofa sleeper, desk, electric fireplace, direct patio access, smart TV</li><li><strong>Bedroom 5</strong> (sleeps 4) - bunk room, queen over queen bunk beds, smart TV</li></ul><p>Every bedroom has wireless phone chargers and extra pillows and blankets.</p>"
+      },
+      {
+       "title": "Bathrooms",
+       "photo": "bellaire-extraordinaire-bath.jpg",
+       "html": "<ul><li><strong>Bathroom 1</strong> - main level, shared, renovated tiled shower</li><li><strong>Bathroom 2</strong> - lower level, private ensuite for Bedroom 2</li><li><strong>Bathroom 3</strong> - lower level, shared full bath with shower/tub</li></ul><p>All bathrooms have hair dryers, shampoo, conditioner, body wash and lotion.</p>"
+      },
+      {
+       "title": "Floor Plan",
+       "photo": "bellaire-extraordinaire-floor-main.jpg",
+       "html": "<p>Main level (above) and lower level (below).</p><p><img src=\"../img/bellaire-extraordinaire-floor-lower.jpg\" alt=\"\"></p>"
       }
      ]
     }
