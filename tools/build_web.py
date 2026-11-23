@@ -398,7 +398,9 @@ def add_guides():
     """Each home's guidebook at /<home>/guidebook/ (shares /assets, /img and /sw.js with the website)."""
     G = os.path.join(ROOT, 'site')
     fix = lambda t: re.sub(r'(?<![.\w])\.\./(img/|assets/|sw\.js)', r'../../\1', t).replace('<meta name="bk-base" content="../">', '<meta name="bk-base" content="../../">')
-    for h in HOMES:
+    # homes with a guidebook but no website page yet (web/guides_only.json)
+    extra = os.path.join(W, 'guides_only.json')
+    for h in HOMES + (json.load(open(extra)) if os.path.exists(extra) else []):
         src, dst = os.path.join(G, h['guide']), os.path.join(OUT, h['slug'], 'guidebook')
         os.makedirs(dst, exist_ok=True)
         for f in ['index.html', 'manifest.webmanifest']:
